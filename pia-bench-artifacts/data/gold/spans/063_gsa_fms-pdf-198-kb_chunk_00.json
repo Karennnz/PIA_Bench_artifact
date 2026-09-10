@@ -1,0 +1,63 @@
+{
+  "chunk_id": "063_gsa_fms-pdf-198-kb#chunk#00",
+  "doc_id": "063_gsa_fms-pdf-198-kb",
+  "agency": "gsa",
+  "n_sentences": 179,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        134
+      ],
+      "text": "However, if the GSAFleet.gov database is compromised, then there is potential risk to individuals whose information is stored within the system.",
+      "unit_ids": [
+        "063_gsa_fms-pdf-198-kb#unit#0025"
+      ],
+      "section": "6.1b: What is the authorization process to gain access?",
+      "explanation": "States that compromise of the database could create privacy harm for individuals whose information is stored in the system.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        135
+      ],
+      "text": "Mitigation : User's roles and permissions are reviewed and certified annually.",
+      "unit_ids": [
+        "063_gsa_fms-pdf-198-kb#unit#0025"
+      ],
+      "section": "6.1b: What is the authorization process to gain access?",
+      "explanation": "Explicitly presented as mitigation through annual review and certification of user roles and permissions.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        136
+      ],
+      "text": "GSAFleet.gov are secured with monthly scans of the server and any findings are fixed within the required timeframe.",
+      "unit_ids": [
+        "063_gsa_fms-pdf-198-kb#unit#0025"
+      ],
+      "section": "6.1b: What is the authorization process to gain access?",
+      "explanation": "Continues the explicit mitigation response through monthly server scans and timely remediation of findings.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 1,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

@@ -1,0 +1,762 @@
+{
+  "chunk_id": "485_usda_farm-program-disaster-system-fpds#chunk#00",
+  "doc_id": "485_usda_farm-program-disaster-system-fpds",
+  "agency": "usda",
+  "n_sentences": 250,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        182
+      ],
+      "text": "| Application | Privacy risks and how mitigated. | |---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | ELAP | The privacy risks are moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0058"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that the ELAP application has a moderate level of privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        183
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0058"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Data minimization is presented in direct response to the identified ELAP privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        184,
+        185,
+        186
+      ],
+      "text": "The risks are mitigated using various control mechanisms, these include: o All users must be uniquely identified and authenticated prior to accessing the application. o Access to data is restricted. o Information is encrypted at rest and in transit. | | | o Masking of PII o System audit logs are retained and reviewed weekly. No PII is stored in audit logs.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0058",
+        "485_usda_farm-program-disaster-system-fpds#unit#0059"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly identifies authentication, restricted access, encryption, masking, audit review, and exclusion of PII from logs as controls mitigating ELAP risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        187
+      ],
+      "text": "Additionally, when the user signs off his browser the user's memory should be automatically 'flushed' by the operating system. | |-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | LFP | The privacy risks are moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0059"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that the LFP application has moderate privacy risks; the sentence also contains trailing text from the preceding table entry.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        188
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0059"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Data minimization is presented in direct response to the identified LFP privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        189,
+        190
+      ],
+      "text": "The risks are mitigated using various control mechanisms, these include: o All users must be uniquely identified and authenticated prior to accessing the application. o Access to data is restricted. o Information is encrypted at rest and in transit. o Masking of PII o System audit logs are retained and reviewed weekly. No PII is stored in audit logs.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0059"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly presents access, encryption, masking, authentication, auditing, and log-data controls as mitigating LFP risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        191
+      ],
+      "text": "Additionally, when the user signs off his browser the user's memory should be automatically 'flushed' by the operating system. | | LIP | The privacy risks are moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0059"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that the LIP application has moderate privacy risks; the sentence also contains trailing text from the preceding table entry.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        192
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0059"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Data minimization is presented in direct response to the identified LIP privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        193,
+        194
+      ],
+      "text": "The risks are mitigated using various control mechanisms, these include: o All users must be uniquely identified and authenticated prior to accessing the application. o Access to data is restricted. o Information is encrypted at rest and in transit. o Masking of PII o System audit logs are retained and reviewed weekly. No PII is stored in audit logs.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0059"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly presents technical and access controls as mechanisms mitigating LIP privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "risk",
+      "sentence_ids": [
+        195
+      ],
+      "text": "Additionally, when the user signs off his browser the user's memory should be automatically 'flushed' by the operating system. | | NAP | The privacy risks are moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0059"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that the NAP application has moderate privacy risks; the sentence also contains trailing text from the preceding table entry.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        196
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0059"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Data minimization is presented in direct response to the identified NAP privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        197,
+        198
+      ],
+      "text": "The risks are mitigated using various control mechanisms, these include: o All users must be uniquely identified and authenticated prior to accessing the application. o Access to data is restricted. o Information is encrypted at rest and in transit. o Masking of PII o System audit logs are retained and reviewed weekly. No PII is stored in audit logs.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0059"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly presents authentication, access restrictions, encryption, masking, auditing, and log protections as mitigating NAP risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "risk",
+      "sentence_ids": [
+        199
+      ],
+      "text": "Additionally, when the user signs off his browser the user's memory | | TAP | The privacy risks are moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0059"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that the TAP application has moderate privacy risks, although the sentence begins with truncated material from the NAP entry.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        200
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0059"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Data minimization is presented in direct response to the identified TAP privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        201,
+        202,
+        203
+      ],
+      "text": "The risks are mitigated using various control mechanisms, these include: o All users must be uniquely identified and authenticated prior to accessing the application. o Access to data is restricted. | | | o Information is encrypted at rest and in transit. o Masking of PII o System audit logs are retained and reviewed weekly. No PII is stored in audit logs.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0059",
+        "485_usda_farm-program-disaster-system-fpds#unit#0060"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly presents authentication, restricted access, encryption, masking, auditing, and exclusion of PII from logs as TAP risk controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "risk",
+      "sentence_ids": [
+        204
+      ],
+      "text": "Additionally, when the user signs off his browser the user's memory should be automatically 'flushed' by the operating system. | |----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | CFAP | The privacy risks are moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0060"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that the CFAP application has moderate privacy risks; the sentence also contains trailing material from the TAP entry.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 17,
+      "type": "mitigation",
+      "sentence_ids": [
+        205
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0060"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Data minimization is presented in direct response to the identified CFAP privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "mitigation",
+      "sentence_ids": [
+        206,
+        207
+      ],
+      "text": "The risks are mitigated using various control mechanisms, these include: o All users must be uniquely identified and authenticated prior to accessing the application. o Access to data is restricted. o Information is encrypted at rest and in transit. o Masking of PII o System audit logs are retained and reviewed weekly. No PII is stored in audit logs.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0060"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly presents technical, access, and audit controls as mechanisms mitigating CFAP privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 19,
+      "type": "risk",
+      "sentence_ids": [
+        208
+      ],
+      "text": "Additionally, when the user signs off his browser the user's memory should be automatically 'flushed' by the operating system. | | CFAP 2.0 | The privacy risks are moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0060"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that the CFAP 2.0 application has moderate privacy risks; the sentence also contains trailing material from the preceding entry.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 20,
+      "type": "mitigation",
+      "sentence_ids": [
+        209
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0060"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Data minimization is presented in direct response to the identified CFAP 2.0 privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 21,
+      "type": "mitigation",
+      "sentence_ids": [
+        210,
+        211
+      ],
+      "text": "The risks are mitigated using various control mechanisms, these include: o All users must be uniquely identified and authenticated prior to accessing the application. o Access to data is restricted. o Information is encrypted at rest and in transit. o Masking of PII o System audit logs are retained and reviewed weekly. No PII is stored in audit logs.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0060"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly presents technical, access, and audit controls as mechanisms mitigating CFAP 2.0 privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 22,
+      "type": "risk",
+      "sentence_ids": [
+        212
+      ],
+      "text": "Additionally, when the user signs off his browser the user's memory | | QLA | The privacy risks are moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0060"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that the QLA application has moderate privacy risks, although the sentence begins with truncated material from the preceding entry.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 23,
+      "type": "mitigation",
+      "sentence_ids": [
+        213
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0060"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Data minimization is presented in direct response to the identified QLA privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 24,
+      "type": "mitigation",
+      "sentence_ids": [
+        214,
+        215
+      ],
+      "text": "The risks are mitigated using various control mechanisms, these include: o All users must be uniquely identified and authenticated prior to accessing the application. o Access to data is restricted. o Information is encrypted at rest and in transit. o Masking of PII o System audit logs are retained and reviewed weekly. No PII is stored in audit logs.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0060"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly presents technical, access, masking, audit, and log-data controls as mitigating QLA privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 25,
+      "type": "risk",
+      "sentence_ids": [
+        216
+      ],
+      "text": "Additionally, when the user signs off his browser the user's memory should be automatically 'flushed' by the operating system. | | PARP | The privacy risks are moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0060"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that the PARP application has moderate privacy risks; the sentence also contains trailing material from the preceding entry.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 26,
+      "type": "mitigation",
+      "sentence_ids": [
+        217
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0060"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Data minimization is presented in direct response to the identified PARP privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 27,
+      "type": "mitigation",
+      "sentence_ids": [
+        218,
+        219,
+        220
+      ],
+      "text": "The risks are mitigated using various control mechanisms, these include: | | | o All users must be uniquely identified and authenticated prior to accessing the application. o Access to data is restricted. o Information is encrypted at rest and in transit. o Masking of PII o System audit logs are retained and reviewed weekly. No PII is stored in audit logs.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0060",
+        "485_usda_farm-program-disaster-system-fpds#unit#0061"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly presents authentication, access restrictions, encryption, masking, auditing, and exclusion of PII from logs as PARP risk controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 28,
+      "type": "risk",
+      "sentence_ids": [
+        221
+      ],
+      "text": "Additionally, when the user signs off his browser the user's memory should be automatically 'flushed' by the operating system. | |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | PLIP | The privacy risks are moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0061"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that the PLIP application has moderate privacy risks; the sentence also contains trailing material from the PARP entry.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 29,
+      "type": "mitigation",
+      "sentence_ids": [
+        222
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0061"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Data minimization is presented in direct response to the identified PLIP privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 30,
+      "type": "mitigation",
+      "sentence_ids": [
+        223,
+        224
+      ],
+      "text": "The risks are mitigated using various control mechanisms, these include: o All users must be uniquely identified and authenticated prior to accessing the application. o Access to data is restricted. o Information is encrypted at rest and in transit. o Masking of PII o System audit logs are retained and reviewed weekly. No PII is stored in audit logs.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0061"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly presents technical, access, and audit controls as mechanisms mitigating PLIP privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 31,
+      "type": "risk",
+      "sentence_ids": [
+        225
+      ],
+      "text": "Additionally, when the user signs off his browser the user's memory should be automatically 'flushed' by the operating system. | | PATHH | The privacy risks are moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0061"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that the PATHH application has moderate privacy risks; the sentence also contains trailing material from the PLIP entry.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 32,
+      "type": "mitigation",
+      "sentence_ids": [
+        226
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0061"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Data minimization is presented in direct response to the identified PATHH privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 33,
+      "type": "mitigation",
+      "sentence_ids": [
+        227,
+        228
+      ],
+      "text": "The risks are mitigated using various control mechanisms, these include: o All users must be uniquely identified and authenticated prior to accessing the application. o Access to data is restricted. o Information is encrypted at rest and in transit. o Masking of PII o System audit logs are retained and reviewed weekly. No PII is stored in audit logs.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0061"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly presents technical, access, and audit controls as mechanisms mitigating PATHH privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 34,
+      "type": "risk",
+      "sentence_ids": [
+        229
+      ],
+      "text": "Additionally, when the user signs off his browser the user's memory should be automatically 'flushed' by the operating system. | | OTECP | The privacy risks are moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0061"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that the OTECP application has moderate privacy risks; the sentence also contains trailing material from the PATHH entry.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 35,
+      "type": "mitigation",
+      "sentence_ids": [
+        230
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0061"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Data minimization is presented in direct response to the identified OTECP privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 36,
+      "type": "mitigation",
+      "sentence_ids": [
+        231,
+        232
+      ],
+      "text": "The risks are mitigated using various control mechanisms, these include: o All users must be uniquely identified and authenticated prior to accessing the application. o Access to data is restricted. o Information is encrypted at rest and in transit. o Masking of PII o System audit logs are retained and reviewed weekly. No PII is stored in audit logs.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0061"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly presents technical, access, and audit controls as mechanisms mitigating OTECP privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 37,
+      "type": "risk",
+      "sentence_ids": [
+        233
+      ],
+      "text": "Additionally, when the user signs off his browser the user's memory should be automatically 'flushed' by the operating system. | | SMHPP | The privacy risks are moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0061"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that the SMHPP application has moderate privacy risks; the sentence also contains trailing material from the OTECP entry.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 38,
+      "type": "mitigation",
+      "sentence_ids": [
+        234
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0061"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Data minimization is presented in direct response to the identified SMHPP privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 39,
+      "type": "mitigation",
+      "sentence_ids": [
+        235,
+        236,
+        237
+      ],
+      "text": "The risks are mitigated using various control mechanisms, these include: | | | o All users must be uniquely identified and authenticated prior to accessing the application. o Access to data is restricted. o Information is encrypted at rest and in transit. o Masking of PII o System audit logs are retained and reviewed weekly. No PII is stored in audit logs.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0061",
+        "485_usda_farm-program-disaster-system-fpds#unit#0062"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly presents authentication, access restrictions, encryption, masking, auditing, and exclusion of PII from logs as SMHPP risk controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 40,
+      "type": "risk",
+      "sentence_ids": [
+        238
+      ],
+      "text": "Additionally, when the user signs off his browser the user's memory should be automatically 'flushed' by the operating system. | |------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | ELRP | The privacy risks are moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0062"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that the ELRP application has moderate privacy risks; the sentence also contains trailing material from the SMHPP entry.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 41,
+      "type": "mitigation",
+      "sentence_ids": [
+        239
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0062"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Data minimization is presented in direct response to the identified ELRP privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 42,
+      "type": "mitigation",
+      "sentence_ids": [
+        240,
+        241,
+        242
+      ],
+      "text": "The risks are mitigated using various control mechanisms, these include: o All users must be uniquely identified and authenticated prior to accessing the application. o Access to data is restricted. o Information is encrypted at rest and in transit. o Masking of PII o System audit logs are retained and reviewed weekly. No PII is stored in audit logs. Additionally, when the user signs off his browser the user's memory should be automatically 'flushed' by the operating system. |",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0062"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly presents authentication, access restrictions, encryption, masking, auditing, log protections, and memory clearing as mitigating ELRP privacy risk.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 13,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 13,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 16,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 18,
+      "risk_span_id": 16,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 20,
+      "risk_span_id": 19,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 21,
+      "risk_span_id": 19,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 23,
+      "risk_span_id": 22,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 24,
+      "risk_span_id": 22,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 25,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 27,
+      "risk_span_id": 25,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 29,
+      "risk_span_id": 28,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 30,
+      "risk_span_id": 28,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 32,
+      "risk_span_id": 31,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 33,
+      "risk_span_id": 31,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 35,
+      "risk_span_id": 34,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 36,
+      "risk_span_id": 34,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 38,
+      "risk_span_id": 37,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 39,
+      "risk_span_id": 37,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 41,
+      "risk_span_id": 40,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 42,
+      "risk_span_id": 40,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

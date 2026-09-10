@@ -1,0 +1,50 @@
+{
+  "document_id": "036_cfpb_appendix-a-external-evidence-management-system",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "036_cfpb_appendix-a-external-evidence-management-system#unit#0000",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "036_cfpb_appendix-a-external-evidence-management-system#unit#0001",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "retention",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "036_cfpb_appendix-a-external-evidence-management-system#unit#0002",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "036_cfpb_appendix-a-external-evidence-management-system#unit#0003",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

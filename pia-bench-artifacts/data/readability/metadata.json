@@ -1,0 +1,62 @@
+{
+  "aggregation": "Compute FRE on each document-task list; macro-average documents within each seed; average the three seed means. Invalid API/parse cells are missing, not assigned a readability score.",
+  "formula": "206.835 - 1.015*(words/sentences) - 84.6*(syllables/words)",
+  "implementation": {
+    "cmudict_sha256": "cad209c39eb87677d64e93d97f8eed10b7e6f9bdd42de8e7ca8efc8e17d62e8a",
+    "language": "en_US",
+    "nltk": "3.10.3",
+    "silent_fallback": false,
+    "textstat": "0.7.13"
+  },
+  "inputs": {
+    "mitigation": {
+      "path": "2026-08-31_infpriv_submission/content_analysis_73/inputs/mitigations.jsonl",
+      "sha256": "75e2ea4b3cf84be6cd56c4780211681e7fee0836e45decf83926f18eb2df0a16"
+    },
+    "predictions": {
+      "path": "results/track_b_ranked_deepseek_20260906/all_predictions_five_models.jsonl",
+      "sha256": "79aa7d492ac5030687851e72e09452494f2f7c0ec351263f7672920a2ca23cce"
+    },
+    "risk": {
+      "path": "2026-08-31_infpriv_submission/content_analysis_73/inputs/risks.jsonl",
+      "sha256": "7ab11d42d46c42452577270cd0fff40e1531e555b6ed21904f3d3a87b8de21d5"
+    }
+  },
+  "inventory": {
+    "agencies": {
+      "cfpb": 25,
+      "gsa": 1,
+      "opm": 2,
+      "usda": 45
+    },
+    "detail_status_counts": {
+      "empty_prediction": 3,
+      "empty_reference": 4,
+      "error: BadRequestError": 48,
+      "invalid": 7,
+      "out_of_scope_empty_reference": 120,
+      "scored": 4344
+    },
+    "documents": 73,
+    "gold_counts": {
+      "mitigation": 821,
+      "risk": 444
+    },
+    "prediction_parse_status_counts": {
+      "error: BadRequestError": 24,
+      "invalid": 5,
+      "valid": 2161
+    },
+    "prediction_rows": 2190
+  },
+  "outputs": {
+    "detail": "flesch_per_document.csv",
+    "summary": "flesch_summary.csv"
+  },
+  "preprocessing": "Collapse whitespace; append terminal punctuation only when absent; join all same-task items in a document with a newline.",
+  "purpose": "Descriptive readability diagnostic; not a model-quality metric.",
+  "text_fields": {
+    "agency_reference": "canonical risk/mitigation .topic_input_text (identical to .text)",
+    "model_prediction": ".predicted.risks/mitigations[].description"
+  }
+}

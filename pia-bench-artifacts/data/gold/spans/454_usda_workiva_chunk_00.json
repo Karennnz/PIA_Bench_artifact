@@ -1,0 +1,102 @@
+{
+  "chunk_id": "454_usda_workiva#chunk#00",
+  "doc_id": "454_usda_workiva",
+  "agency": "usda",
+  "n_sentences": 123,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "text": "All access to the data in the system is controlled by formal authorization. Each user prior to be given a system account must be approved for the functional roles that are needed within the Workiva Wdesk instance. All access to the system is controlled by the eAuthentication application. No actions can be performed in the system without first authenticating. Application limits access to relevant information by assigned application functions to roles. This prevents access to unauthorized information.",
+      "unit_ids": [
+        "454_usda_workiva#unit#0014"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Authorization, authentication, and role-based restrictions are presented as preventing unauthorized access to information.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        47
+      ],
+      "text": "Assistant Chief Financial Office - Financial Management System (ACFO-FMS) Security division has determined that the data retention periods and practices are adequate to safeguard PII .",
+      "unit_ids": [
+        "454_usda_workiva#unit#0023"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "The retention practices are presented in the retention-risk analysis as adequate to safeguard PII.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        72
+      ],
+      "text": "All users who access the Workiva Wdesk application are presented with the standard USDA warning banner that must be acknowledged prior to logging into the system.",
+      "unit_ids": [
+        "454_usda_workiva#unit#0038"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "The mandatory warning banner is presented as addressing the risk that users may be unaware of the collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        83,
+        84,
+        85
+      ],
+      "text": "Individuals concerned that their PII data may have been compromised may contact the USDA office designated within the System of Records Notice posted in the U.S. Federal Register. See SORN OCFO-10, Financial Systems. Internal employees may also contact their respective Human Resources and/or Privacy Office representative for further assistance.",
+      "unit_ids": [
+        "454_usda_workiva#unit#0044"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "The agency provides contact and assistance channels for individuals concerned that their PII was compromised.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 5,
+      "type": "null_finding",
+      "sentence_ids": [
+        99,
+        100
+      ],
+      "text": "There are no significant risks associated with the information collected by Workiva Wdesk. There is no data sharing of PII and all personnel accessing the Wdesk system are cleared and trained annually on the proper handling and protection of PII data.",
+      "unit_ids": [
+        "454_usda_workiva#unit#0051"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "The agency explicitly finds no significant privacy risks and explains that PII is not shared and personnel are cleared and trained.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "null_finding",
+      "sentence_ids": [
+        104
+      ],
+      "text": "Wdesk does not use technology that would prompt an increase in concern regarding privacy protection.",
+      "unit_ids": [
+        "454_usda_workiva#unit#0054"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so please discuss their implementation.",
+      "explanation": "The agency explicitly states that the technology does not increase privacy concerns.",
+      "confidence": "high"
+    }
+  ],
+  "links": [],
+  "validation_problems": []
+}

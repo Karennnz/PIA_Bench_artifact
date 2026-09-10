@@ -1,0 +1,269 @@
+{
+  "chunk_id": "047_cfpb_consumerfinance-gov-pia#chunk#00",
+  "doc_id": "047_cfpb_consumerfinance-gov-pia",
+  "agency": "cfpb",
+  "n_sentences": 105,
+  "spans": [
+    {
+      "span_id": 0,
+      "type": "mitigation",
+      "sentence_ids": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "text": "CFPB can take immediate action if a certain page in our Google Analytics account has been found to collect PII. Website owners using the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) can disable tracking on a page without having to remove the Google Analytics JavaScript snippet. The ga.js tracking snippet now includes a window property that, when set to true, disables the tracking snippet from sending data to Google Analytics. When Google Analytics attempts to set a cookie or send data back to the Google Analytics servers, it will check for whether this property is set to true. If it is, it will have the same effect as if the visitor had the Google Analytics Opt-out Browser Plugin installed. This provides CFPB with a quick and effective option to remedying a security breach, and can be implemented without removing any code.",
+      "unit_ids": [
+        "047_cfpb_consumerfinance-gov-pia#unit#0004"
+      ],
+      "section": "Overview",
+      "explanation": "Describes a mechanism for promptly disabling analytics tracking to remedy a breach or unintended PII collection.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        40,
+        41
+      ],
+      "text": "The primary privacy risks associated with data covered by the ConsumerFinance.gov PIA are risks related to: 1 Although pursuant to Section 1017(a)(4)(E) of the Consumer Financial Protection Act, Pub. L. No. 111-203, the CFPB is not required to comply with Office of Management and Budget (OMB)-issued privacy guidance; it voluntarily follows OMB privacy-related guidance as a best practice and to facilitate cooperation and collaboration with other agencies. Limits on uses and sharing of information; Data Quality and Integrity; Security; and Individual Participation.",
+      "unit_ids": [
+        "047_cfpb_consumerfinance-gov-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Identifies the primary privacy-risk categories, including use, sharing, data quality, security, and participation.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        42
+      ],
+      "text": "Use Limitation: The CFPB's website privacy policy describes the information collected from and about visitors to the website and serves as notice about how we plan to use and share the personal information we collect.",
+      "unit_ids": [
+        "047_cfpb_consumerfinance-gov-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Presents privacy-policy notice as a response to risks involving use and sharing.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        43,
+        44
+      ],
+      "text": "The Bureau limits collection of personal information to that which is needed to meet the visitors' requested use of the website. How visitors choose to use (or not use) the site's features will determine how much and what information is collected.",
+      "unit_ids": [
+        "047_cfpb_consumerfinance-gov-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Limits collection to necessary information and allows visitors to control collection through their use choices.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        45,
+        46,
+        47
+      ],
+      "text": "The Bureau's updated website privacy policy also details the use of persistent cookies by Google Analytics. Google Analytics uses persistent cookies for the collection of web metrics and to track visitor interactions; however, the Bureau does not use persistent cookies to collect any PII about visitors to the consumerfinance.gov webpage. Traffic statistics for the website are only reported to the Bureau anonymously and in the aggregate, and no information provided by Google Analytics is traceable to any specific individual.",
+      "unit_ids": [
+        "047_cfpb_consumerfinance-gov-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Addresses cookie and analytics risks through disclosure, exclusion of PII, and anonymous aggregate reporting.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        48,
+        49,
+        50
+      ],
+      "text": "CFPB may share web analytics data with other federal agencies as part of the GSA Digital Analytics Program or the public in aggregate form. For example, the CFPB may want and need to share the number of users that have visited consumerfinance.gov in the past six months or how many users utilize a particular tool. CFPB may share website analytical data with external organizations or the public, but this will only include aggregated data and the CFPB will never share PII.",
+      "unit_ids": [
+        "047_cfpb_consumerfinance-gov-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Restricts external analytics sharing to aggregate data and excludes PII.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "risk",
+      "sentence_ids": [
+        51
+      ],
+      "text": "Data Quality and Integrity: The Bureau does not verify information that visitors provide to ConsumerFinance.gov, so there is a risk that the information submitted may be erroneous, fraudulent, incomplete, or inaccurate.",
+      "unit_ids": [
+        "047_cfpb_consumerfinance-gov-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Explicitly states that unverified submissions may be erroneous, fraudulent, incomplete, or inaccurate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        52
+      ],
+      "text": "Information submitted to the Bureau may be corrected or updated for email lists, blogs, and other contact mediums.",
+      "unit_ids": [
+        "047_cfpb_consumerfinance-gov-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Allows submitted information to be corrected or updated in specified communication channels.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        53
+      ],
+      "text": "Given the low sensitivity of information collected through the site, and that information collected is for the very specific purpose of meeting the visitor's requested use of the site, this risk is acceptable.",
+      "unit_ids": [
+        "047_cfpb_consumerfinance-gov-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Manages the data-quality risk by accepting it based on low sensitivity and narrowly limited collection purposes.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        57
+      ],
+      "text": "However there is a risk that the site could inadvertently disclose some personal information included in comments made by visitors to the site.",
+      "unit_ids": [
+        "047_cfpb_consumerfinance-gov-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Explicitly identifies the possibility of inadvertently disclosing personal information in visitor comments.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        58
+      ],
+      "text": "The CFPB has mitigated this risk by providing a clear and concise moderation policy, which can be found at http://www.consumerfinance.gov/comment-policy, on ConsumerFinance.gov that outlines what is and is not acceptable information to include in comments and a disclaimer that we reserve the right to remove posts if they are deemed inappropriate or a risk to personal privacy.",
+      "unit_ids": [
+        "047_cfpb_consumerfinance-gov-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Explicitly mitigates comment-disclosure risk through a moderation policy and removal of privacy-threatening posts.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        59,
+        60
+      ],
+      "text": "Individual Participation : Since visitors choose how to interact with ConsumerFinance.gov, there are no identifiable risks to individual participation associated with ConsumerFinance.gov. There is, however, a risk that after providing information to ConsumerFinance.gov, the visitor may be limited in ability to add to, delete, or otherwise modify certain information. For instance, comments, once posted, may not be able to be removed or edited.",
+      "unit_ids": [
+        "047_cfpb_consumerfinance-gov-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Identifies a risk that visitors may be unable to add to, delete, edit, or otherwise modify submitted information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        61
+      ],
+      "text": "The Bureau has taken steps to mitigate this risk by providing its moderation policy on ConsumerFinance.gov. The technical, physical, and administrative controls implemented to promote individual participation, minimization, and accountability are appropriate.",
+      "unit_ids": [
+        "047_cfpb_consumerfinance-gov-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Explicitly states that the moderation policy and related controls mitigate the participation risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        86
+      ],
+      "text": "To minimize the risks associated with notice and informed consent, the CFPB promotes transparency by generally announcing third party collaborations, issuing notices on its website, and documenting the program in this PIA.",
+      "unit_ids": [
+        "047_cfpb_consumerfinance-gov-pia#unit#0011"
+      ],
+      "section": "Describe what opportunities, if any, individuals to whom the 4. information pertains have to (a) receive notice regarding the CFPB's use of the information; (b) consent to such use; (c) access the information that pertains to them; or (d) obtain redress.",
+      "explanation": "Explicitly minimizes notice and informed-consent risks through transparency announcements, website notices, and PIA documentation.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 0,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 6,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 6,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

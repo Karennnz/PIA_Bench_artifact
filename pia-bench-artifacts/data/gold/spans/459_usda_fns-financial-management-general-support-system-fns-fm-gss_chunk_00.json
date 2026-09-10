@@ -1,0 +1,239 @@
+{
+  "chunk_id": "459_usda_fns-financial-management-general-support-system-fns-fm-gss#chunk#00",
+  "doc_id": "459_usda_fns-financial-management-general-support-system-fns-fm-gss",
+  "agency": "usda",
+  "n_sentences": 199,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "text": "The recipient mailing address and financial data confidentiality risks are mitigated using logical access controls, physical access controls to GIMS, and personnel security controls. PII data not used for grants processing will be deleted and will not be stored in the GIMS database. PII data used for grant processing will be encrypted when before archiving, before transmission, and in primary storage (i.e., the archive server). A notification will be included in the display when displaying PII. The employer identification number (EIN) or the taxpayer identification number will be not be used in the grant award process after downloading from Grants.gov. The GIMS database will be encrypted. The un-redacted version of the file will be stored in encrypted zip files.",
+      "unit_ids": [
+        "459_usda_fns-financial-management-general-support-system-fns-fm-gss#unit#0016"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that GIMS confidentiality risks are mitigated through access controls, data minimization, encryption, and PII notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77
+      ],
+      "text": "The vendor financial data confidentiality risks are mitigated using logical access controls, physical access controls to FMAT, and personnel security controls. PII data used for collection processing will be encrypted before saving. The FMAT database will be encrypted along with the files received from Treasury. The FMMI files are deleted after they are loaded on to the database. All PII data is being masked in the database and only users with PII privileges will be able to view it. None of the users will have access to modify any PII data.",
+      "unit_ids": [
+        "459_usda_fns-financial-management-general-support-system-fns-fm-gss#unit#0016"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that FMAT vendor-data confidentiality risks are mitigated through access controls, encryption, deletion, masking, and restricted privileges.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        103,
+        104,
+        105
+      ],
+      "text": "Data is retained and archived in GIMS and FMAT for a period of six (6) years and is encrypted in backup storage and primary storage. Any risks associated with the length of time is mitigated via data encryption. Archived data is encrypted in accordance with the FNS policies.",
+      "unit_ids": [
+        "459_usda_fns-financial-management-general-support-system-fns-fm-gss#unit#0025"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Explicitly states that encryption of primary, backup, and archived data mitigates risks arising from the six-year retention period.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        116,
+        117
+      ],
+      "text": "Access to FNS FM-GSS applications is authorized by the application Account Managers, identified by the System Owner. Data will be shared with external audiences per the System Owner's discretion and approval.",
+      "unit_ids": [
+        "459_usda_fns-financial-management-general-support-system-fns-fm-gss#unit#0029"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Presents account-manager authorization and System Owner approval as controls over information sharing.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        128,
+        129,
+        130,
+        131
+      ],
+      "text": "PII data shared with external review panelists will be encrypted. External review panelists will be required to sign a conflict of interest and non-disclosure agreement on an annual basis. Additionally, external review panelists will be required to complete annual PII training. Any GIMS data listed in Section 5.3 will be reviewed and approved by the Grants Director prior to distribution.",
+      "unit_ids": [
+        "459_usda_fns-financial-management-general-support-system-fns-fm-gss#unit#0034"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Presents encryption, nondisclosure agreements, annual training, and director review as responses to external-sharing risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        146
+      ],
+      "text": "The Notice is provided in the REQUEST FOR APPLICATIONS (RFA) under the section ' Safeguarding Personally Identifiable Information ' as follows.",
+      "unit_ids": [
+        "459_usda_fns-financial-management-general-support-system-fns-fm-gss#unit#0040"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "States that notice addressing the risk of individuals being unaware of collection is provided in the Request for Applications.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        152,
+        153
+      ],
+      "text": "By submitting a grant application, applicants agree to take all necessary steps to protect such confidentiality, including the following: (1) ensuring that PII and sensitive data developed, obtained or otherwise associated with UDSA FNS funded grants is securely transmitted. Transmission of applications through Grants.gov is secure; (2) ensuring that PII is not transmitted to unauthorized users, and that PII and other sensitive data is not submitted via email; and (3) Data transmitted via approved file sharing services (WatchDox, ShareFile, etc.), CDs, DVDs, thumb drives, etc., must be encrypted.",
+      "unit_ids": [
+        "459_usda_fns-financial-management-general-support-system-fns-fm-gss#unit#0041"
+      ],
+      "section": "Safeguarding Personally Identifiable Information",
+      "explanation": "Requires applicants to protect confidentiality through secure transmission, avoidance of unauthorized recipients and email, and encryption of portable media.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "null_finding",
+      "sentence_ids": [
+        161
+      ],
+      "text": "None.",
+      "unit_ids": [
+        "459_usda_fns-financial-management-general-support-system-fns-fm-gss#unit#0047"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Answers that there are no identified privacy risks or mitigations concerning available redress.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        170
+      ],
+      "text": "OpenText xECM folder permissions, role-based access control, database encryption, data masking, and audit trail capabilities are implemented to prevent misuse of data.",
+      "unit_ids": [
+        "459_usda_fns-financial-management-general-support-system-fns-fm-gss#unit#0053"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Explicitly identifies permissions, role-based access, encryption, masking, and audit trails as measures preventing data misuse.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "risk",
+      "sentence_ids": [
+        171
+      ],
+      "text": "The privacy risks identified are related to the employer identification number (EIN) or the taxpayer identification number contained in GIMS.",
+      "unit_ids": [
+        "459_usda_fns-financial-management-general-support-system-fns-fm-gss#unit#0054"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly identifies privacy risks associated with EIN or taxpayer identification numbers in GIMS.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        172
+      ],
+      "text": "This PII data will be stored in an encrypted database once grant application files are downloaded from Grants.gov. As referenced in Section 2.3, the other information collected in GIMS is as follows: Application data contained within the standard federal forms including SF-424, SF-424A, Farm to School coversheet, and SF-LLL Financial data related to application budget detail and revisions, award funding, indirect costs and cost sharing/matching Grantee and organization information, such as DUNS number, points of contact, phone numbers, email addresses Application and award information such as eligibility, application/award status, award start/end dates, and property information Notes and comments as recorded in GIMS by FNS users This information is not considered PII.",
+      "unit_ids": [
+        "459_usda_fns-financial-management-general-support-system-fns-fm-gss#unit#0054"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Encrypts the identified EIN/TIN information after grant application files are downloaded.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        173
+      ],
+      "text": "GIMS users will be instructed to notify the Grants Director if they identify additional risk of PII, at which time a procedure for redacting the PII can be determined.",
+      "unit_ids": [
+        "459_usda_fns-financial-management-general-support-system-fns-fm-gss#unit#0054"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Provides a process for reporting newly identified PII risks and determining an appropriate redaction procedure.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        176,
+        177,
+        178,
+        179,
+        180,
+        181
+      ],
+      "text": "The vendor financial data confidentiality risks are mitigated using logical access controls, physical access controls to FMAT, and personnel security controls. PII data used for collection processing will be encrypted before saving. The FMAT database will be encrypted along with the files received from Treasury. The FMMI files are deleted after they are loaded on to the database. All PII data is being masked in the database and only users with PII privileges will be able to view it. None of the users will have access to modify any PII data.",
+      "unit_ids": [
+        "459_usda_fns-financial-management-general-support-system-fns-fm-gss#unit#0054"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly mitigates FMAT vendor financial-data confidentiality risks through access controls, encryption, file deletion, masking, and privilege restrictions.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "null_finding",
+      "sentence_ids": [
+        184
+      ],
+      "text": "No. Section 10.0 Third Party Websites/Applications The following questions are directed at critically analyzing the privacy impact of using third party websites and/or applications.",
+      "unit_ids": [
+        "459_usda_fns-financial-management-general-support-system-fns-fm-gss#unit#0057"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so please discuss their implementation.",
+      "explanation": "Explicitly answers that the project does not employ technology raising privacy concerns.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 10,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

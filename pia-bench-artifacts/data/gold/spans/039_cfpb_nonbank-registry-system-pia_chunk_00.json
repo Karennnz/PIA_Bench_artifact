@@ -1,0 +1,459 @@
+{
+  "chunk_id": "039_cfpb_nonbank-registry-system-pia#chunk#00",
+  "doc_id": "039_cfpb_nonbank-registry-system-pia",
+  "agency": "cfpb",
+  "n_sentences": 236,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        11
+      ],
+      "text": "To prevent the unnecessary disclosure of information maintained in covered orders, covered nonbanks are instructed in the Orders Rule to redact any nonpublic portions of the covered orders before submitting them to the registry.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0001"
+      ],
+      "section": "Overview",
+      "explanation": "Redaction is expressly required to prevent unnecessary disclosure of nonpublic information.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        85
+      ],
+      "text": "Privacy Risk: There is a risk that information collected and maintained in the NBR System may be inaccurate.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0008"
+      ],
+      "section": "Privacy Impact Analysis: Related to Characterization of the Information.",
+      "explanation": "Explicitly identifies the risk that information in the system may be inaccurate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        86,
+        87,
+        88
+      ],
+      "text": "Mitigation: To mitigate this risk, the CFPB collects the information maintained in the system directly from the individuals who are representatives of the nonbank, thereby increasing the likelihood that the information in the NBR System is accurate. As noted above, the Orders Rule requires the nonbank to provide accurate information at the time of collection and periodically update its information maintained within the NBR System to ensure its accuracy and completeness. 15 If the nonbank is unable to update its information due to a technical issue, it may contact the CFPB using the helpdesk feature and CFPB Staff will work with nonbank to resolve the issue.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0008"
+      ],
+      "section": "Privacy Impact Analysis: Related to Characterization of the Information.",
+      "explanation": "Direct collection, update requirements, and helpdesk assistance are presented as measures for maintaining accuracy.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96
+      ],
+      "text": "Additionally, the NBR System includes a disclaimer available via a link at the bottom of every page, which provides a link to the filing guidelines and the CFPB's website for details for details about the Orders Rule. The disclaimer reminds the nonbank that information provided via the Nonbank Registry Portal must be updated and states the following: This is where you will register your company's covered order. If your company has more than one covered order, each covered order will require its own registration. Visit the CFPB's public website for more information, including what is a covered order. You are required to submit revised and final filings of already-registered orders. For an order that is modified and remains in effect, you are required to revise the information below within ninety (90) days of the effective date of such modification. For an order that is fully terminated or abrogated in relevant part and no longer remains in effect, or is no longer a covered order, you are required to submit a final filing. Click here for more information, including instructions on how to submit a revised filing or a final filing.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0008"
+      ],
+      "section": "Privacy Impact Analysis: Related to Characterization of the Information.",
+      "explanation": "The disclaimer and filing instructions remind registrants to revise and finalize records, reducing inaccurate or outdated information.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        99,
+        100
+      ],
+      "text": "Finally, CFPB Staff may routinely review documents submitted through the portal. Any documents identified as inadvertently uploaded to the NBR System or not relevant to the Orders Rule may be removed by CFPB Staff to prevent the unnecessary collection of PII or other sensitive information within the NBR System.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0008"
+      ],
+      "section": "Privacy Impact Analysis: Related to Characterization of the Information.",
+      "explanation": "Staff review and remove irrelevant or inadvertently uploaded documents to prevent unnecessary PII collection.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "risk",
+      "sentence_ids": [
+        126
+      ],
+      "text": "Privacy Risk : There is a risk that information maintained in the NBR System will be retained longer than necessary to accomplish the purpose for which it was originally collected.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0011"
+      ],
+      "section": "Privacy Impact Analysis: Related to Limits on Information Collection and Retention",
+      "explanation": "Explicitly identifies the risk that records will be retained longer than necessary.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        127
+      ],
+      "text": "Mitigation : While the records collected and maintained in the NBR System are unscheduled, the CFPB's Records and Information Management program in coordination with Supervision is currently in the process of drafting a Bureau records schedule for the NBR System to be approved by NARA.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0011"
+      ],
+      "section": "Privacy Impact Analysis: Related to Limits on Information Collection and Retention",
+      "explanation": "Development of a NARA-approved records schedule is expressly presented as the response to excessive retention.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        128
+      ],
+      "text": "The estimated time for completion and publication of the Nonbank Registry records schedule is by September 2025. 16 Privacy Risk : There is a risk that the NBR System collects more information than is necessary for the purpose of the nonbank registration program.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0011"
+      ],
+      "section": "Privacy Impact Analysis: Related to Limits on Information Collection and Retention",
+      "explanation": "Explicitly identifies the risk that the system collects more information than necessary.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "text": "Mitigation : To mitigate this risk, the CFPB has established technical controls and privacy safeguards to collect only a limited amount of information. First, as noted above, the collection of PII is limited to the name and email address for authorized representatives, which is required to create nonbank user accounts and facilitate the nonbank registration process. Similarly, the collection of PII for nonbank executives is limited to their name and title to identify those responsible for and knowledgeable of the nonbank's efforts to comply with covered orders submitted via the Nonbank Registry Portal as part of the nonbank registration program. Second, the NBR System is designed to only collect the information required pursuant to the Orders Rule. For example, the Nonbank Registry Portal uses web forms to limit the collection of PII and other sensitive information ( e.g. , proprietary information) required for the registration and document management processes. The portal and data fields include additional information to guide the nonbank through the registration process, and additional information is provided for certain points in the information collection to ensure the nonbank provides only the information required.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0011"
+      ],
+      "section": "Privacy Impact Analysis: Related to Limits on Information Collection and Retention",
+      "explanation": "Technical controls, limited data fields, and collection guidance are expressly used to minimize information collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        135,
+        136,
+        137,
+        138,
+        139
+      ],
+      "text": "Additionally, the NBR System is designed to prohibit the collection of highly sensitive information and comply with the Orders Rule. As noted in the Orders Rule, a registered entity should not submit any Social Security numbers, individual taxpayer identification numbers, or other similar personally identifying tax information to the nonbank registry, even if the registered entity uses an individual's Social Security Number (SSN) in tax documents filed by or associated with the entity. The system will not allow for entry of a SSN where, for example, an SSN may also be used in lieu of another identification number as in the case of sole proprietors. To prevent the unnecessary collection of SSNs, the system automatically disables the data field that collects the identifier upon the user's selection of SSN as an option from the drop-down list rather than the Federal Tax Identification Number (TIN) or other available employer identifier. Therefore, even if the user attempts to provide the SSN as an employer identifier by selecting it from the dropdown list, they would not be able to enter it into the system to ensure compliance with the Orders Rule and limit the unnecessary collection of PII.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0011"
+      ],
+      "section": "Privacy Impact Analysis: Related to Limits on Information Collection and Retention",
+      "explanation": "The system prohibits and technically blocks submission of SSNs to prevent unnecessary collection of sensitive PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        140,
+        141,
+        142
+      ],
+      "text": "Finally, details on how to register will be provided through filing instructions available on the CFPB's NBR information landing page on the CFPB's external website. The NBR Filing Instructions Guide provides guidance on how to register and an easy-to-use summary of the requirements to assist with implementation of the Nonbank Registry Regulation. This guide is the definitive source of information for submitting information to the Nonbank Registry, as explained in the preamble of the NBR Orders Final Rule.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0011"
+      ],
+      "section": "Privacy Impact Analysis: Related to Limits on Information Collection and Retention",
+      "explanation": "Filing instructions guide users through required submissions and support collection minimization.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "risk",
+      "sentence_ids": [
+        161
+      ],
+      "text": "Privacy Risk : There is a risk that PII collected on nonbanks will be shared with individuals that do not have a need to know and used in a manner that is inconsistent with the original purpose(s) for collection.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0014"
+      ],
+      "section": "Privacy Impact Analysis: Related to Uses of Information",
+      "explanation": "Explicitly identifies unauthorized need-to-know sharing and use inconsistent with the original purposes.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        162
+      ],
+      "text": "Mitigation : To mitigate this risk, the CFPB only shares information maintained in the NBR System in accordance with laws, regulations, policies and CFPB SORNs.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0014"
+      ],
+      "section": "Privacy Impact Analysis: Related to Uses of Information",
+      "explanation": "Sharing is restricted to that permitted by applicable laws, policies, and system notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        163,
+        164,
+        165,
+        166
+      ],
+      "text": "CFPB Staff that require elevated privileges to complete their job functions must sign and electronically submit the Privileged User Access (PUA) Form to obtain elevated access to the NBR System and review and acknowledge the Rules of Behavior for Privileged Users . The rules of behavior define the user's responsibilities, such as confirming that they will protect information from misuse and ensure information is only disclosed to authorized individuals that have a need to know. All CFPB Staff are required to only share information when permitted by the CFPB's rules governing the Disclosure of Records and Information. 18 For example, confidential CFPB information may only be shared with CFPB employees, contractors, or consultants when such disclosure is relevant to the performance of their assigned duties.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0014"
+      ],
+      "section": "Privacy Impact Analysis: Related to Uses of Information",
+      "explanation": "Privileged-access requirements and disclosure rules restrict information to authorized personnel with a need to know.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        167,
+        168,
+        169,
+        170,
+        171
+      ],
+      "text": "18 See 12 CFR Part 1070. Additionally, all CFPB Staff with access to CFPB systems, such as the NBR System, must sign the CFPB 'Acceptable Use of CFPB Information Technology Resources' policy. 19 This policy establishes the user's responsibilities and the requirements to safeguard information technology resources and information. This includes protecting PII and other sensitive or confidential information. Finally, all CFPB Staff are required to comply with privacy policy and complete privacy training when they initially onboard and on an annual basis thereafter. CFPB privacy training stresses the importance of appropriate and authorized use of personal information in government information systems.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0014"
+      ],
+      "section": "Privacy Impact Analysis: Related to Uses of Information",
+      "explanation": "Acceptable-use obligations and recurring privacy training reinforce authorized use and safeguarding of PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "risk",
+      "sentence_ids": [
+        191
+      ],
+      "text": "Privacy Risk : There is a risk that individuals identified or listed in covered orders do not have an opportunity to opt out or participate in the collection of their information maintained within the NBR System.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0018"
+      ],
+      "section": "Privacy Impact Analysis: Related to Individual Notice and Participation",
+      "explanation": "Explicitly identifies the lack of opt-out and participation opportunities for people named in covered orders.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "mitigation",
+      "sentence_ids": [
+        192,
+        193,
+        194
+      ],
+      "text": "Mitigation : As noted above, covered orders submitted by the nonbank may contain the names and certain other PII of individuals identified or listed therein. Individuals identified or listed in covered orders or other public documents uploaded to the registry do not have the opportunity to opt out or participate in the collection of their information as these documents are required pursuant to the Orders Rule. The CFPB has taken steps to mitigate these risks by limiting covered orders to orders (or portions of orders) that are already public, thus limiting the sensitivity of the PII in the system.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0018"
+      ],
+      "section": "Privacy Impact Analysis: Related to Individual Notice and Participation",
+      "explanation": "The CFPB limits submitted orders to material already public, reducing the sensitivity of information collected without individual participation.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "risk",
+      "sentence_ids": [
+        212
+      ],
+      "text": "Privacy Risk : There is a risk that information may be shared in a manner that is inconsistent with the original collection.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0021"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Explicitly identifies the risk of sharing information inconsistently with its original collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 19,
+      "type": "mitigation",
+      "sentence_ids": [
+        213,
+        214,
+        215
+      ],
+      "text": "Mitigation : To mitigate this risk, the CFPB has implemented administrative and technical access controls that help to ensure information maintained within the NBR System is used according to the purposes identified in this PIA and other related notices. Only CFPB Staff have direct access to all the information collected and maintained in the NBR System. As noted above, information is shared with external parties, such as other regulators based on a need to know and in accordance with the NBR SORN, 24 the CFPB's regulations on Disclosure of Records and Information, and information sharing agreements.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0021"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Administrative and technical access controls, need-to-know restrictions, and governing agreements constrain use and sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 20,
+      "type": "mitigation",
+      "sentence_ids": [
+        216,
+        217,
+        218
+      ],
+      "text": "23 NBR SORN, supra note 8. Finally, information disclosed in the public registry will be limited to nonbank identifying information, the name and title of the attesting executive (if applicable), and the covered order. To prevent the unnecessary disclosure of information maintained in covered orders, covered nonbanks are instructed in the Orders Rule to redact any nonpublic portions of the covered orders before submitting them to the registry. In order to avoid accidental publication of nonpublic information, the CFPB will conduct manual reviews prior to publication in order to mitigate any potential privacy risks, in accordance with applicable authorities.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0021"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Publication limits, required redaction, and manual prepublication review prevent disclosure of nonpublic information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 21,
+      "type": "risk",
+      "sentence_ids": [
+        219
+      ],
+      "text": "Privacy Risk : There is a risk of unauthorized access or use by nonbank account users (i.e., authorized representatives).",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0021"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Explicitly identifies the risk of unauthorized access or use by nonbank account users.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 22,
+      "type": "mitigation",
+      "sentence_ids": [
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230
+      ],
+      "text": "Mitigation : To mitigate this risk, the CFPB has implemented security and privacy safeguards to protect CFPB systems and the information maintained within the NBR System. For example, the Nonbank Registry Portal resides within the CFPB network. As a federal database, the NBR system is subject to the Federal Information Security Modernization Act (FISMA), 25 which requires the annual verification that all users who access federal systems have both the business need and the authorization to access the system. To comply with FISMA, government users must annually verify employment and that their role requires continued access to the NBR System. In addition, NBR account users are required to create user accounts via the Nonbank Registray Portal. NBR users can only log into their accounts with a username and password. NBR account users are also required to download and use a multi-factor authentication tool or application when logging into their user account. This tool will validate the NBR account user's identity every time they log into the NBR account. Additionally, nonbank entities are required to maintain at least one 'Point of Contact' user that is responsible for assigning and managing information access within the NBR Portal for other users of the nonbank. The CFPB implements role-based access controls to ensure NBR users only have access to the system and/or information necessary and relevant to their assigned duties. This ensures that authorized nonbank representatives only have access to the system to allow them to upload documents to the NBR System and information pertaining to their organization.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0021"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Account controls, multifactor authentication, access verification, designated administrators, and role-based access restrict unauthorized access.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 23,
+      "type": "mitigation",
+      "sentence_ids": [
+        231,
+        232,
+        233
+      ],
+      "text": "Finally, the CFPB has established oversight controls to identify suspicious and/or authorized activity as discussed below in Section 6 of this PIA. For example, suspicious and/or unauthorized access is monitored and logged. Security administrators are notified of unusual behavior (e.g., disablement of security, login times, number of login attempts, failed login attempts) or misconduct (e.g., unauthorized removal of data) by authorized users.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0021"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Monitoring, logging, and administrator alerts are presented as oversight controls for detecting suspicious or unauthorized activity.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 1,
+      "risk_span_id": 18,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 2,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 6,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 8,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 12,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 12,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 12,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 16,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 19,
+      "risk_span_id": 18,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 20,
+      "risk_span_id": 18,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 21,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 23,
+      "risk_span_id": 21,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

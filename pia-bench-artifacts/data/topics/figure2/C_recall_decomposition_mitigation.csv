@@ -1,0 +1,9 @@
+topic,name,single_topic_units,run_units,recovered,recall,wilson_lo,wilson_hi,attempt_rate,run_units_attempted,recall_when_attempted,run_units_not_attempted,recall_when_not_attempted
+M05,Bounded retention and verified disposition,11,330,253,0.7667,0.718,0.809,0.8,264,0.9356,66,0.0909
+M02,"Identity, authentication, and least-privilege access",55,1650,723,0.4382,0.414,0.462,0.8958,1478,0.4723,172,0.1453
+M04,"Operational security, physical protection, monitoring, and incident handling",17,510,222,0.4353,0.393,0.479,0.8137,415,0.494,95,0.1789
+M03,"Purpose, use, sharing, and recipient controls",16,480,139,0.2896,0.251,0.332,0.5583,268,0.4067,212,0.1415
+M01,Data minimization and identifiability reduction,22,660,186,0.2818,0.249,0.317,0.5727,378,0.4153,282,0.1028
+M08,"Governance, workforce accountability, and formal assurance",26,780,195,0.25,0.221,0.282,0.4692,366,0.3115,414,0.1957
+M06,"Transparency, contextual notice, and meaningful choice",35,1050,152,0.1448,0.125,0.167,0.3086,324,0.4537,726,0.0069
+M07,"Data quality, individual access, correction, and redress",24,720,94,0.1306,0.108,0.157,0.2667,192,0.375,528,0.0417

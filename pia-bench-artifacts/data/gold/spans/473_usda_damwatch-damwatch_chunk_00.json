@@ -1,0 +1,430 @@
+{
+  "chunk_id": "473_usda_damwatch-damwatch#chunk#00",
+  "doc_id": "473_usda_damwatch-damwatch",
+  "agency": "usda",
+  "n_sentences": 184,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        27,
+        28
+      ],
+      "text": "Minimal privacy risks have been identified. Names, physical addresses, and telephone numbers are readily available via open source, therefore, should a compromise of the system occur, the potential impact to individual privacy would be minimal.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Identifies minimal privacy risk and describes the potential privacy impact of a system compromise.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        29
+      ],
+      "text": "Please see Sections 2 and 8 for a further discussion of security controls that are in place to mitigate privacy risks.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly points to security controls used to mitigate the identified privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        37
+      ],
+      "text": "This application is in compliance with the FISMA and the security and privacy controls provided in the U.S. National Institute of Standards and Technology (NIST) Special Publication (SP) 800-53, Revision 4. If any residual risks are identified, they will be managed and reported via the FISMA mandated risk assessment processes.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0018"
+      ],
+      "section": "2.4 Privacy Impact Analysis: Describe any types of controls that may be in place to ensure that information is handled in accordance with the above described uses.",
+      "explanation": "States that residual risks will be managed and reported through mandated risk-assessment processes.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        52
+      ],
+      "text": "The primary privacy risk is that a data breach could result in the release of information on members of the public.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Identifies the possibility that a breach could release information about members of the public.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        53
+      ],
+      "text": "This is mitigated by limited access to the data, nonportability of the data and controlled storage of the data located in controlled facilities.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Explicitly states that access, portability, storage, and facility controls mitigate the breach risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        55
+      ],
+      "text": "The risks associated with retaining application-specific information are mitigated by the controls discussed above.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that controls discussed previously mitigate risks arising from retention.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        64
+      ],
+      "text": "Privacy risks are mitigated by not sharing information with other internal USDA organizations.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Explicitly presents the absence of internal sharing as mitigation for sharing-related privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        65
+      ],
+      "text": "Any residual risks are mitigated by the controls discussed in Section 2.4.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "States that previously discussed controls mitigate residual internal-sharing risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        75
+      ],
+      "text": "There are minimal risks identified with external sharing since sharing is at the discretion of emergency responders, the NRCS, and dam project sponsors.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Identifies privacy risks from external sharing, while characterizing them as minimal.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        76,
+        77,
+        78
+      ],
+      "text": "DamWatch is secured by the USDA Common Computing Environment (CCE) user authentication process and eAuthentication (eAuth) login and password protection. Offices are locked during non-business hours. Any residual risks are mitigated by the controls discussed in Section 2.4.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Presents authentication, physical security, and previously discussed controls as responses to external-sharing risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        91,
+        92
+      ],
+      "text": "The use notice is provided to emergency responders when they provide their PII for inclusion in an EAP. Property owners at risk are not notified, as the PII contained within EAPs is sourced from publicly available records.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0037"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Describes notice to responders and reliance on public records as the response to risks of individuals being unaware of collection.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "null_finding",
+      "sentence_ids": [
+        113
+      ],
+      "text": "No privacy risks have been identified associated with the redress of incorrect information within DamWatch.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0043"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly states that no privacy risks were identified regarding redress for incorrect information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        141
+      ],
+      "text": "Data extracts containing PII are not regularly obtained from the system, therefore, privacy risk from this area is limited and addressed through IT Data Extract processes controls.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that risk associated with PII data extracts is limited and addressed through data-extract process controls.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 14,
+      "type": "risk",
+      "sentence_ids": [
+        144
+      ],
+      "text": "Minimal risks have been identified for the PII data types within DamWatch.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that privacy risks exist for the PII data types, though they are minimal.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        145
+      ],
+      "text": "Mitigation occurs through Separation of Duties (SOD) and access control policies which ensure that system operators, system administrators, emergency responders, and associated personnel have limited, if any, access to PII.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly identifies separation-of-duties and access-control policies as mitigation.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        146
+      ],
+      "text": "Any privacy risks identified in this system are mitigated by the security and privacy safeguards provided in Section 8.5 and by the security controls discussed in Section 2.4. Remediation of privacy risks associated with internal/external sharing are addressed in Sections 4 and 5 respectively.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly states that security and privacy safeguards mitigate identified system risks and address sharing risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "mitigation",
+      "sentence_ids": [
+        147
+      ],
+      "text": "Remediation of privacy risks associated with notice and redress are addressed in Sections 6 and 7 respectively.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Identifies the notice and redress measures in other sections as remediation for those categories of privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "null_finding",
+      "sentence_ids": [
+        150
+      ],
+      "text": "No. DamWatch utilizes Agency-approved technologies and these technology choices do not raise privacy concerns.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0053"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so, please discuss their implementation.",
+      "explanation": "Explicitly states that the selected technologies do not raise privacy concerns.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 19,
+      "type": "risk",
+      "sentence_ids": [
+        174
+      ],
+      "text": "Privacy risks of DamWatch data becoming available via 3 rd party websites are nominal.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0065"
+      ],
+      "section": "10.12 Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd  party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Identifies a nominal risk that DamWatch data could become available through third-party websites.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 20,
+      "type": "mitigation",
+      "sentence_ids": [
+        175
+      ],
+      "text": "In addition, DamWatch does not use web measurement or customization technology.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0065"
+      ],
+      "section": "10.12 Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd  party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Presents the absence of web measurement or customization technology as reducing third-party technology exposure.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 21,
+      "type": "risk",
+      "sentence_ids": [
+        176
+      ],
+      "text": "There is the unlikely event that data which falls within the PII definition may be erroneously released.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0065"
+      ],
+      "section": "10.12 Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd  party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Identifies the possibility that PII could be released erroneously.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 22,
+      "type": "mitigation",
+      "sentence_ids": [
+        177
+      ],
+      "text": "At that point, the security/privacy training administrator/operator would dispose of this rarely encountered PII immediately.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0065"
+      ],
+      "section": "10.12 Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd  party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that erroneously released or encountered PII would be disposed of immediately.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 23,
+      "type": "risk",
+      "sentence_ids": [
+        178
+      ],
+      "text": "Disaster recovery related error may also occur.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0065"
+      ],
+      "section": "10.12 Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd  party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Identifies the possibility of an error related to disaster recovery.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 24,
+      "type": "mitigation",
+      "sentence_ids": [
+        179
+      ],
+      "text": "PII is collected only for inclusion in EAPs.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0065"
+      ],
+      "section": "10.12 Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd  party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Limits collection of PII to its specific emergency-action-plan purpose, reducing exposure associated with release or recovery errors.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 25,
+      "type": "mitigation",
+      "sentence_ids": [
+        180
+      ],
+      "text": "Only NRCS personnel/administrators (with background checks and training), state and local emergency responders, and associated support staff, will have access to the PII contained in the EAPs.",
+      "unit_ids": [
+        "473_usda_damwatch-damwatch#unit#0065"
+      ],
+      "section": "10.12 Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd  party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Limits PII access to specified personnel and responders as a response to potential release or recovery errors.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 14,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 14,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 14,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 20,
+      "risk_span_id": 19,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 21,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 24,
+      "risk_span_id": 21,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 25,
+      "risk_span_id": 21,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 24,
+      "risk_span_id": 23,
+      "confidence": "low"
+    },
+    {
+      "mitigation_span_id": 25,
+      "risk_span_id": 23,
+      "confidence": "low"
+    }
+  ],
+  "validation_problems": []
+}

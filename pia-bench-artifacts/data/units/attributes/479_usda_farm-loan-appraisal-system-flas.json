@@ -1,0 +1,560 @@
+{
+  "document_id": "479_usda_farm-loan-appraisal-system-flas",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0000",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0001",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0002",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0003",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0004",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0005",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0006",
+      "attributes": [
+        "context",
+        "purpose",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0007",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0008",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0009",
+      "attributes": [
+        "context",
+        "purpose",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0010",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0011",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0012",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0013",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0014",
+      "attributes": [
+        "purpose",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0015",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0016",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0017",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0018",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0019",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0020",
+      "attributes": [
+        "purpose"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0021",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0022",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0023",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0024",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0025",
+      "attributes": [
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0026",
+      "attributes": [
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0027",
+      "attributes": [
+        "legal_basis",
+        "operations",
+        "recipients",
+        "retention",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0028",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0029",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0030",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0031",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0032",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0033",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0034",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0035",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0036",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0037",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0038",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0039",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0040",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0041",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0042",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0043",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0044",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0045",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0046",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0047",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0048",
+      "attributes": [
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0049",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0050",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0051",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0052",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0053",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0054",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0055",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0056",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0057",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0058",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0059",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0060",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0061",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0062",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0063",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0064",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0065",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0066",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0067",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0068",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0069",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0070",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0071",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0072",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0073",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "479_usda_farm-loan-appraisal-system-flas#unit#0074",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

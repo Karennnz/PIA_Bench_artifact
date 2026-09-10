@@ -1,0 +1,273 @@
+{
+  "chunk_id": "475_usda_document-management-system-dms#chunk#00",
+  "doc_id": "475_usda_document-management-system-dms",
+  "agency": "usda",
+  "n_sentences": 178,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        30,
+        31
+      ],
+      "text": "Privacy risks are mitigated because access to the information is limited to appropriate NRCS personnel and partners through the use of the eAuth application, which provides user authentication for NRCS. Other access requirements include the need for users to be on the USDA network backbone, using a Common Computing Environment (CCE) computer and via NRCS' role-based authorization (RBAC).",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Access restrictions, authentication, network requirements, and role-based authorization are expressly presented as reducing privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        32
+      ],
+      "text": "Please see Sections 2 and 8 for a further discussion of security controls that are in place to mitigate privacy risks.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "The agency identifies additional security controls as measures used to mitigate privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        37
+      ],
+      "text": "This application is in compliance with the FISMA and the security and privacy controls provided in the U.S. National Institute of Standards and Technology (NIST) Special Publication (SP) 800-53, Revision 4. If any residual risks are identified, they will be managed and reported via the FISMA mandated risk assessment processes.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0018"
+      ],
+      "section": "2.4 Privacy Impact Analysis: Describe any types of controls that may be in place to ensure that information is handled in accordance with the above described uses.",
+      "explanation": "Residual risks are to be managed and reported through mandated risk-assessment processes.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        53
+      ],
+      "text": "The risks associated with retaining application-specific information are mitigated by the controls discussed above.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "The agency states that controls described elsewhere mitigate retention-related risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        63
+      ],
+      "text": "Privacy risks are mitigated by not sharing information with other internal USDA organizations.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Avoiding sharing with other USDA organizations is expressly presented as mitigating internal-sharing risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        64
+      ],
+      "text": "Any residual risks are mitigated by the controls discussed in Section 2.4.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Previously described controls are identified as mitigating residual internal-sharing risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        77
+      ],
+      "text": "The electronic data retrieval system is secured by the USDA CCE user authentication process and eAuth login and password protection.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Authentication and password protections are presented in direct response to external-sharing privacy risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        78
+      ],
+      "text": "Offices are locked during nonbusiness hours.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Physical office security is presented as part of the response to external-sharing privacy risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        79
+      ],
+      "text": "Any residual risks are mitigated by the controls discussed in Section 2.4.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Previously discussed controls are expressly identified as mitigating residual external-sharing risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        93
+      ],
+      "text": "Notice is provided via the NRCS Privacy Policy banner and SORN.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0037"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Privacy-policy banners and the SORN provide notice to reduce the risk that individuals are unaware of collection.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        113,
+        114,
+        115,
+        116,
+        117
+      ],
+      "text": "As published in SORN USDA/NRCS-1: 'Any individual may request information regarding this system of records, or information as to whether the system contains records pertaining to him/her by contacting the respective district conservationist or other designee. If the specific location of the record is not known, the individual should address his/her request to the Director, Management Services Division, USDA-Natural Resources Conservation Service, P. O. Box 2890, Washington, DC 20013, who will refer it to the appropriate field office. A request for information pertaining to an individual should contain: Name, address, and other relevant information (e.g., name or nature of program, name of cooperating body, etc.).' Residual privacy risks associated with the redress process for individuals are mitigated since individuals can use the relevant procedures discussed above to update their original public records.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0043"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "The cited request and correction procedures are expressly said to mitigate residual risks in the redress process.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        143
+      ],
+      "text": "Any privacy risks identified in this system are mitigated by the security and privacy safeguards provided in Section 8.5 and by the security controls discussed in Section 2.4. Remediation of privacy risks associated with internal/external sharing are addressed in Sections 4 and 5 respectively.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Security and privacy safeguards and sharing-related controls are expressly identified as mitigating privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        144
+      ],
+      "text": "Remediation of privacy risks associated with notice and redress are addressed in Sections 6 and 7 respectively.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "The agency identifies its notice and redress measures as remediation for associated privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        145
+      ],
+      "text": "Mitigation occurs through policies that address Separation of Duties (SOD) which ensures that system operators and system administrators have limited, if any, access to PII.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Separation-of-duties policies are expressly presented as mitigation by limiting operator and administrator access to PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        146
+      ],
+      "text": "In addition, NIST 800-53 Audit and Accountability (AU) audit controls are used to prevent data misuses.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Audit and accountability controls are identified as preventing misuse of data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "null_finding",
+      "sentence_ids": [
+        149
+      ],
+      "text": "No. DMS utilizes Agency-approved technologies and these technology choices do not raise privacy concerns.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0053"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so, please discuss their implementation.",
+      "explanation": "The agency explicitly finds that its approved technology choices do not raise privacy concerns.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "risk",
+      "sentence_ids": [
+        173
+      ],
+      "text": "Privacy risks of DMS data becoming available via 3 rd party websites are nominal.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0065"
+      ],
+      "section": "10.12 Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd  party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "The agency acknowledges a privacy risk of DMS data becoming available through third-party websites, while characterizing it as nominal.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "mitigation",
+      "sentence_ids": [
+        174
+      ],
+      "text": "In addition, DMS does not use web measurement or customization technology.",
+      "unit_ids": [
+        "475_usda_document-management-system-dms#unit#0065"
+      ],
+      "section": "10.12 Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd  party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Non-use of web measurement or customization technology limits the identified third-party technology exposure.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 18,
+      "risk_span_id": 17,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

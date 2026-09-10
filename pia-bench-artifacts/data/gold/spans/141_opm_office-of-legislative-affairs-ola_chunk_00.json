@@ -1,0 +1,358 @@
+{
+  "chunk_id": "141_opm_office-of-legislative-affairs-ola#chunk#00",
+  "doc_id": "141_opm_office-of-legislative-affairs-ola",
+  "agency": "opm",
+  "n_sentences": 131,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        45
+      ],
+      "text": "Privacy Risk : There is a risk that more PII than is necessary for the resolution of the congressional inquiry will be collected and maintained in the system.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0009"
+      ],
+      "section": "2.5. Privacy Impact Analysis: Related to Characterization of the Information",
+      "explanation": "Identifies possible collection and retention of more personal information than is necessary.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        46
+      ],
+      "text": "Mitigation : This risk is mitigated through the establishment of procedures to avoid unnecessary collection of PII and to remove unnecessary PII if it is collected inadvertently.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0009"
+      ],
+      "section": "2.5. Privacy Impact Analysis: Related to Characterization of the Information",
+      "explanation": "Explicitly presents minimization and removal procedures as the response to excessive collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        47
+      ],
+      "text": "In addition, PII that is stored and transmitted through the system is done through secure connections and encryption of PII so that exposure is limited.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0009"
+      ],
+      "section": "2.5. Privacy Impact Analysis: Related to Characterization of the Information",
+      "explanation": "Presents secure connections and encryption as additional measures limiting exposure of personal information.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        48
+      ],
+      "text": "Privacy Risk: There is a risk that the information collected or stored in the system is not accurate.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0009"
+      ],
+      "section": "2.5. Privacy Impact Analysis: Related to Characterization of the Information",
+      "explanation": "Identifies the possibility that collected or stored information may be inaccurate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        49
+      ],
+      "text": "Mitigation: This risk is mitigated through the establishment of procedures to verify the accuracy of data, to include verifying the accuracy of data provided by congressional offices and verifying the accuracy of data collected by internal program offices.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0009"
+      ],
+      "section": "2.5. Privacy Impact Analysis: Related to Characterization of the Information",
+      "explanation": "Explicitly responds to the accuracy risk with data-verification procedures.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "risk",
+      "sentence_ids": [
+        57
+      ],
+      "text": "Privacy Risk : The privacy risk includes the inadvertent/unintentional disclosure of PII to sources that do not need that information.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0012"
+      ],
+      "section": "3.4. Privacy Impact Analysis: Related to the Uses of Information",
+      "explanation": "Identifies inadvertent disclosure of personal information to parties without a need for it.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        58
+      ],
+      "text": "There is a risk that an authorized user may access information for an unauthorized purpose or that an unauthorized person may gain access to the system.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0012"
+      ],
+      "section": "3.4. Privacy Impact Analysis: Related to the Uses of Information",
+      "explanation": "Identifies misuse by authorized users and access by unauthorized persons.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        59
+      ],
+      "text": "Mitigation : The risk is mitigated by requiring staffers to log in using a unique identifier, a password, and multifactor authentication.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0012"
+      ],
+      "section": "3.4. Privacy Impact Analysis: Related to the Uses of Information",
+      "explanation": "Explicitly presents unique credentials and multifactor authentication as risk-reduction measures.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        60,
+        61
+      ],
+      "text": "Risk is also mitigated by limiting the individuals with access to the system and by limiting what each user can access within the system. For example, staffers are limited to viewing only cases for constituents of the congressperson district.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0012"
+      ],
+      "section": "3.4. Privacy Impact Analysis: Related to the Uses of Information",
+      "explanation": "Explicitly limits the users who have access and the records each user may view.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        62
+      ],
+      "text": "In addition, OLA CS will release information only to staffers who are registered in the system or otherwise verified by OLA CS staff.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0012"
+      ],
+      "section": "3.4. Privacy Impact Analysis: Related to the Uses of Information",
+      "explanation": "Limits releases to registered or otherwise verified congressional staff.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        73
+      ],
+      "text": "Privacy Risk : The individual may not be aware that the collection of information by the congressperson office is taking place for the purpose of sending it to OPM.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0014"
+      ],
+      "section": "4.3. Privacy Impact Analysis: Related to Notice",
+      "explanation": "Identifies the possibility that individuals may be unaware of the collection and transmission of their information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        74
+      ],
+      "text": "Mitigation : The risk is mitigated through the office the Privacy Release form which contains a Privacy Act Statement.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0014"
+      ],
+      "section": "4.3. Privacy Impact Analysis: Related to Notice",
+      "explanation": "Explicitly uses a release form containing a statutory notice to address the notice risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        75
+      ],
+      "text": "These risks are also mitigated by OPM posting Systems of Records Notices and OPM Policies regarding the collection of information.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0014"
+      ],
+      "section": "4.3. Privacy Impact Analysis: Related to Notice",
+      "explanation": "Explicitly identifies published records notices and collection policies as additional notice-risk mitigations.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "risk",
+      "sentence_ids": [
+        79
+      ],
+      "text": "Privacy Risk : This privacy risk includes the retention of PII which is no longer needed for processing or PII that is past its retention date. : These risks are mitigated through a variety of system security Mitigation controls to include the establishment of a retention policy, establishment, and use of a SORN, and automated retention processes.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0016"
+      ],
+      "section": "5.2 Privacy Impact Analysis: Related to Retention",
+      "explanation": "Identifies retention of information that is no longer needed or has passed its retention date; the sentence also contains mitigation language but cannot receive two labels.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 15,
+      "type": "risk",
+      "sentence_ids": [
+        94
+      ],
+      "text": "Privacy Risk : The potential risk associated with external information sharing includes unauthorized access to PII.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0021"
+      ],
+      "section": "6.5. Privacy Impact Analysis: Related to Information Sharing",
+      "explanation": "Identifies unauthorized access to personal information as a risk of external sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        95
+      ],
+      "text": "Mitigation : When OPM becomes aware that staffers inadvertently received paper or electronic PII that is not related to their constituent, we report to Office of Legislative Affairs (OLA) Tracking & Constituent Services Portal the OPM cybersecurity team and ask the relevant receiving office to shred or destroy the documentation in their systems.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0021"
+      ],
+      "section": "6.5. Privacy Impact Analysis: Related to Information Sharing",
+      "explanation": "Presents incident reporting and destruction of mistakenly received records as the response to improper external disclosure.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "risk",
+      "sentence_ids": [
+        96
+      ],
+      "text": "Privacy Risk : This privacy risk includes the inadvertent/unintentional disclosure of PII to sources that do not need to have that information through information sharing.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0021"
+      ],
+      "section": "6.5. Privacy Impact Analysis: Related to Information Sharing",
+      "explanation": "Identifies inadvertent disclosure through information sharing to parties without a need for the information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "mitigation",
+      "sentence_ids": [
+        97
+      ],
+      "text": "Mitigation : When OPM becomes aware that an individual or office inadvertently received paper or electronic PII that is not related to the constituent, we report to the OPM cybersecurity team and ask the relevant individual or office to shred or destroy the documentation in their systems.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0021"
+      ],
+      "section": "6.5. Privacy Impact Analysis: Related to Information Sharing",
+      "explanation": "Presents incident reporting and destruction of misdirected records as the response to inadvertent disclosure.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 19,
+      "type": "risk",
+      "sentence_ids": [
+        113
+      ],
+      "text": "Privacy Risk : There is a risk that individuals may not be able to access information about them that is contained in this system or be afforded an adequate opportunity to correct that information.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0025"
+      ],
+      "section": "7.4. Privacy Impact Analysis: Related to Redress",
+      "explanation": "Identifies possible inability to access or correct information maintained about an individual.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 20,
+      "type": "mitigation",
+      "sentence_ids": [
+        114,
+        115
+      ],
+      "text": "Mitigation : The risk is mitigated by the ability of the individual to request assistance from the Congressperson or OPM in correcting the information contained in the system. OLA CS will work with the congressional office and constituent to identify and correct erroneous information, as appropriate.",
+      "unit_ids": [
+        "141_opm_office-of-legislative-affairs-ola#unit#0025"
+      ],
+      "section": "7.4. Privacy Impact Analysis: Related to Redress",
+      "explanation": "Explicitly provides assistance from the agency and congressional offices to identify and correct information.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 1,
+      "confidence": "low"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 6,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 6,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 7,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 15,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 18,
+      "risk_span_id": 17,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 20,
+      "risk_span_id": 19,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

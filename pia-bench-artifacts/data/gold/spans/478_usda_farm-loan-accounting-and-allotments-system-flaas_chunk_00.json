@@ -1,0 +1,326 @@
+{
+  "chunk_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#chunk#00",
+  "doc_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas",
+  "agency": "usda",
+  "n_sentences": 149,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        26
+      ],
+      "text": "The privacy risks are moderate.",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States the assessed level of privacy risk for the amount and type of data collected.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        27
+      ],
+      "text": "The minimum amount of Personally Identifiable Information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Presents data minimization as a response to the identified privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "text": "The risks are mitigated using various control mechanisms. See below: Initial and ongoing employee security awareness training informs users of their responsibilities with regard to safeguarding PII and/or Privacy Act data. Access must be requested through FSA-13A security forms with justification. Access is restricted and issued only on a need to know basis. Access to the data center is restricted by physical security measures. A warning banner is displayed. All users must be uniquely identified and authenticated prior to access. Social Security numbers are masked so that it is not displayed on the terminal. Interconnection Security Agreements (ISA). Memorandums of Understanding (MOUs)",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly identifies and lists control mechanisms used to mitigate the privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        51
+      ],
+      "text": "When records have reached their retention period, they are immediately retired or destroyed in accordance with the USDA Record Retention policies and procedures.",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes prompt retirement or destruction of records under retention procedures to manage retention-related risk.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        52
+      ],
+      "text": "During this period, the stored information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Identifies risks of unauthorized viewing, data loss or destruction, and non-availability during retention.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        53
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes access-control, physical-control, and password protections in direct response to the retention risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "text": "Sharing is internal and all users must have security clearance and granted access through the FSA13-A and RD Log book process. The risks are mitigated using various control mechanisms. See below: Initial and ongoing employee security awareness training informs users of their responsibilities with regard to safeguarding PII and/or Privacy Act data. Access must be requested through FSA-13A security forms with justification. Access is restricted and issued only on a need to know basis. Access to the data center is restricted by physical security measures. A warning banner is displayed. All users must be uniquely identified and authenticated prior to access. Social Security numbers are masked so that it is not displayed on the terminal. Interconnection Security Agreements (ISA). Memorandums of Understanding (MOUs).",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Presents clearance, authorization, training, access restrictions, authentication, masking, and agreements as controls mitigating internal-sharing risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        84
+      ],
+      "text": "The privacy risks are moderate.",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "States the assessed level of privacy risk arising from external sharing.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        85
+      ],
+      "text": "The minimum amount of Personally Identifiable Information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Presents collection of only the minimum necessary PII as a response to external-sharing risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95
+      ],
+      "text": "The risks are mitigated using various control mechanisms. See below: Initial and ongoing employee security awareness training informs users of their responsibilities with regard to safeguarding PII and/or Privacy Act data. Access must be requested through FSA-13A security forms with justification. Access is restricted and issued only on a need to know basis. Access to the data center is restricted by physical security measures. A warning banner is displayed. All users must be uniquely identified and authenticated prior to access. Social Security numbers are masked so that it is not displayed on the terminal. Interconnection Security Agreements (ISA). Memorandums of Understanding (MOUs).",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Explicitly identifies and lists control mechanisms used to mitigate external-sharing privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        102
+      ],
+      "text": "The risk is considered moderate.",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0037"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "States the assessed level of risk associated with individuals being unaware of the collection.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        103
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0037"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies publication of system-of-records notices as the notification measure addressing the notice risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "risk",
+      "sentence_ids": [
+        111
+      ],
+      "text": "The risk associated with redress is considered low, as the public does not have access to the system or the data.",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0043"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "States that the privacy risk associated with available redress is low and explains the basis for that assessment.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        112,
+        113
+      ],
+      "text": "While the public cannot access the system to update or change their personal information, they may update their information using form AD 2530 and submit to the appropriate FSA official. The FSA official will in turn update the system based on the information provided.",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0043"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Provides an alternative process through which individuals can submit corrected information for an official to update in the system.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "risk",
+      "sentence_ids": [
+        125,
+        126
+      ],
+      "text": "The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        127,
+        128,
+        129
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM. Quarterly access reviews are done to ensure controls are mitigated.",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly describes mapped controls and quarterly access reviews as measures intended to minimize the unauthorized-access risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "null_finding",
+      "sentence_ids": [
+        132
+      ],
+      "text": "No",
+      "unit_ids": [
+        "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0053"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so please discuss their implementation.",
+      "explanation": "Explicitly answers that the project does not employ technology raising privacy concerns.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 5,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 13,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 15,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

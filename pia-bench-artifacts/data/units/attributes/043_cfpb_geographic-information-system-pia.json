@@ -1,0 +1,241 @@
+{
+  "document_id": "043_cfpb_geographic-information-system-pia",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0000",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0001",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0002",
+      "attributes": [
+        "context",
+        "purpose"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0003",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0004",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0005",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0006",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0007",
+      "attributes": [
+        "purpose",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0008",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "retention",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0009",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0010",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0011",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0012",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0013",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0014",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0015",
+      "attributes": [
+        "context",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0016",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0017",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0018",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0019",
+      "attributes": [
+        "context",
+        "legal_basis",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0020",
+      "attributes": [
+        "information_types",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0021",
+      "attributes": [
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0022",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0023",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "043_cfpb_geographic-information-system-pia#unit#0024",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

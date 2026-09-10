@@ -1,0 +1,307 @@
+{
+  "chunk_id": "012_cfpb_market-research-in-the-field#chunk#00",
+  "doc_id": "012_cfpb_market-research-in-the-field",
+  "agency": "cfpb",
+  "n_sentences": 118,
+  "spans": [
+    {
+      "span_id": 0,
+      "type": "risk",
+      "sentence_ids": [
+        25,
+        26
+      ],
+      "text": "As with any data collection and use, there are privacy risks. The primary privacy risks associated with Market Research in the Field are risks related to: \uf0b7 Confidentiality, \uf0b7 Individual Participation, \uf0b7 Data Minimization, and \uf0b7 Accountability.",
+      "unit_ids": [
+        "012_cfpb_market-research-in-the-field#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "States that the research presents privacy risks involving confidentiality, participation, minimization, and accountability.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        29
+      ],
+      "text": "In the event of breach of confidentiality or if an individual is re-identified from data stripped of direct identifying PII, there would be risk of embarrassment or reputational harm.",
+      "unit_ids": [
+        "012_cfpb_market-research-in-the-field#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Identifies embarrassment or reputational harm from a confidentiality breach or re-identification.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        30,
+        31
+      ],
+      "text": "To minimize the risk to confidentiality, the Bureau minimizes the collection of direct identifying information, and enforces access controls to minimize the number of individuals who have access to the data and by storing data on systems that have been accredited as secure for this type of data. Staff are also trained on how to handle potential breaches to minimize negative impacts.",
+      "unit_ids": [
+        "012_cfpb_market-research-in-the-field#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Presents data minimization, access controls, secure storage, and breach-response training as measures to reduce confidentiality harm.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "text": "There is a risk associated with Individual Participation and the degree of notice and consent applicable to Market Research in the Field. Because most of the information collected and used in Market Research in the Field is collected from third parties, and not provided directly by individuals to the CFPB, opportunities for notice and informed consent may be limited or not practicable. Furthermore, an individual may not know that they are part of a research study and therefore are subject to indirect observation. For example, a consumer of a company conducting a disclosure trial under a waiver from the CFPB may not know that the disclosure they receive is not the one required under regulation, but rather a trial disclosure that is still legally effective (i.e. the consumer cannot claim that they did not receive the required disclosure). Further, the consumer may not know that his or her behaviors relating to specific research questions may be evaluated - in the aggregate - as part of a research study about consumers generally.",
+      "unit_ids": [
+        "012_cfpb_market-research-in-the-field#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Describes limited notice and consent and the possibility that individuals may unknowingly participate in research or have their behavior evaluated.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        38
+      ],
+      "text": "To address the limits of individual participation, the Bureau has published this PIA, relies on a SORN (if applicable) and approval from the Office of Management and Budget of information collections under the Paperwork Reduction Act (if applicable); and makes policies and procedures for the Market Research in the Field available (as appropriate).",
+      "unit_ids": [
+        "012_cfpb_market-research-in-the-field#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Identifies publication, formal notices, approvals, and available policies as responses to limited individual participation.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        43
+      ],
+      "text": "Data Minimization.To reduce the risk of overcollection, the CFPB typically collects information that has been stripped of direct identifying PII, and conducts analysis for generalized insight into consumer decision-making in the aggregate.",
+      "unit_ids": [
+        "012_cfpb_market-research-in-the-field#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Explicitly presents removal of direct identifiers and aggregate analysis as reducing overcollection risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        45
+      ],
+      "text": "To minimize the impact to individuals, the Bureau uses standard social science research practices, including designing Market Research in the Field in accordance with human subject research protocols, and reviewing research proposals to ensure that they serve an authorized purpose.",
+      "unit_ids": [
+        "012_cfpb_market-research-in-the-field#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Presents human-subject protocols, research design practices, and proposal review as measures to minimize impacts and support accountability.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        46
+      ],
+      "text": "The Bureau also implements contractual obligations for third parties to support incident response and recovery in the event of a security breach or data loss, and likewise requires compliance with CFPB cybersecurity policy and procedures.",
+      "unit_ids": [
+        "012_cfpb_market-research-in-the-field#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Uses contractual incident-response duties and cybersecurity requirements to manage breach or data-loss consequences.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        49
+      ],
+      "text": "In addition, the risks to individuals are small, and the Bureau has procedures in place to cancel research in the event of negative impact to individuals, and it retains the right to terminate an agreement to conduct Market Research in the Field with partners at any time.",
+      "unit_ids": [
+        "012_cfpb_market-research-in-the-field#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Identifies cancellation procedures and termination rights as ways to respond to negative impacts on individuals.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        50
+      ],
+      "text": "The Bureau implements appropriate technical, physical, and administrative controls relative to the risks presented to individual participation, minimization, confidentiality, and accountability presented by Market Research in the Field.",
+      "unit_ids": [
+        "012_cfpb_market-research-in-the-field#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Explicitly states that technical, physical, and administrative controls are applied relative to the identified privacy risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        63,
+        64,
+        65
+      ],
+      "text": "The CFPB minimizes intrusiveness by only collecting PII when necessary for an authorized purpose. Controls that help minimize intrusiveness of Market Research in the Field include: collaborating with third parties and obligating the third parties to either restrict CFPB access to only aggregated information, or stripping direct identifying PII from information prior to submission to the CFPB; collecting direct identifying PII only for the purposes of matching across datasets, and then destroying the PII used for matching; or, collaborating with a third party to prepare the information in different ways that permit the CFPB to gain insight into the information while limiting the risks related to receipt or maintenance of that information. Where possible, the CFPB uses information that does not directly identify an individual to make generalizations for a group of consumers.",
+      "unit_ids": [
+        "012_cfpb_market-research-in-the-field#unit#0006"
+      ],
+      "section": "Privacy Risk Management",
+      "explanation": "Presents necessity limits, de-identification, destruction after matching, aggregation, and restricted access as measures to minimize intrusiveness.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        85,
+        86
+      ],
+      "text": "When the CFPB receives data solely from third parties, the individual sometimes has limited opportunity to receive notice regarding the CFPB's use of the information; consent to such use; access the information that pertains to them; or obtain redress. The opportunities are limited because information about the individuals is not collected directly from the individual; and the information is typically stripped of direct identifying PII before the CFPB obtains it, thereby precluding both access to and potential misuse of that information by the CFPB.",
+      "unit_ids": [
+        "012_cfpb_market-research-in-the-field#unit#0007"
+      ],
+      "section": "2. Describe CFPB's objective for the information.",
+      "explanation": "States that third-party collection can limit individuals' opportunities for notice, consent, access, and redress.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        88,
+        89,
+        90,
+        91
+      ],
+      "text": "Prior to collaborating with third parties, the CFPB conducts a due diligence review that includes identifying the scope of the partner(s) or collaborator(s)'s privacy policy or other public disclosures, such as terms of use, that implicate Market Research in the Field collaboration. The objective is to ensure that any applicable legal obligations relative to notice are met and that collaboration on Market Research in the Field does not contradict the partners' publicly disclosed policies. The CFPB also seeks to address privacy issues when designing Market Research in the Field initiatives with third parties. For example, research projects may involve an updated privacy policy, the creations of a Data Release Form, or include signage or additional language in marketing materials.",
+      "unit_ids": [
+        "012_cfpb_market-research-in-the-field#unit#0007"
+      ],
+      "section": "2. Describe CFPB's objective for the information.",
+      "explanation": "Describes due diligence and research-design measures intended to satisfy notice obligations and address privacy issues.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        92
+      ],
+      "text": "To minimize the risks associated with notice and informed consent, the CFPB promotes transparency by generally announcing third party collaborations, issuing notices on its website; publishing the results of Field Research; and documenting the program in this PIA.",
+      "unit_ids": [
+        "012_cfpb_market-research-in-the-field#unit#0007"
+      ],
+      "section": "2. Describe CFPB's objective for the information.",
+      "explanation": "Explicitly presents public announcements, notices, publication, and PIA documentation as reducing notice and informed-consent risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        94
+      ],
+      "text": "In such cases, the CFPB ensures all legally required notice requirements are met and that opportunities for notice and informed consent exist.",
+      "unit_ids": [
+        "012_cfpb_market-research-in-the-field#unit#0007"
+      ],
+      "section": "2. Describe CFPB's objective for the information.",
+      "explanation": "Ensures legally required notice and informed-consent opportunities when consumers participate voluntarily.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        101
+      ],
+      "text": "Personnel Security supported through background checks Further, any publicly released version of the data will use disclosure protection techniques (e.g., rounding, imputation, exclusion of some variables, aggregation of categorical responses) to minimize the risk of releasing personally identifiable or otherwise sensitive information.",
+      "unit_ids": [
+        "012_cfpb_market-research-in-the-field#unit#0007"
+      ],
+      "section": "2. Describe CFPB's objective for the information.",
+      "explanation": "Explicitly uses disclosure-protection techniques to reduce the risk of releasing identifiable or sensitive information.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 0,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 0,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 0,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 0,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 0,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

@@ -1,0 +1,116 @@
+{
+  "chunk_id": "038_cfpb_small-business-lending-sbl-system-beta-testing-pia#chunk#00",
+  "doc_id": "038_cfpb_small-business-lending-sbl-system-beta-testing-pia",
+  "agency": "cfpb",
+  "n_sentences": 89,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        36
+      ],
+      "text": "The primary risks associated with PII covered by this PIA are related to the following: Data minimization; and",
+      "unit_ids": [
+        "038_cfpb_small-business-lending-sbl-system-beta-testing-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Identifies data minimization and security as the primary privacy-risk areas for the covered PII.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        38,
+        39
+      ],
+      "text": "Covered financial institutions are instructed to only provide fake data during the beta-testing activities; no real application data should be provided to the CFPB during this phase. Furthermore, the CFPB provides simulated data to financial institutions to upload during testing.",
+      "unit_ids": [
+        "038_cfpb_small-business-lending-sbl-system-beta-testing-pia#unit#0007"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Describes measures intended to prevent real applicant information from being submitted during testing.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        40
+      ],
+      "text": "However, there is a risk that financial institutions user or POC may inadvertently upload their own file that contains PII.",
+      "unit_ids": [
+        "038_cfpb_small-business-lending-sbl-system-beta-testing-pia#unit#0007"
+      ],
+      "section": "Data Minimization",
+      "explanation": "States that a participating institution's user may accidentally upload a file containing PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        41,
+        42,
+        43
+      ],
+      "text": "The CFPB mitigates this risk by only using the information received for testing purposes. Additionally, information is not shared outside of the SBL system testing team. Furthermore, the user or POC can request for removal of any data they submit to the system.",
+      "unit_ids": [
+        "038_cfpb_small-business-lending-sbl-system-beta-testing-pia#unit#0007"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Explicitly responds to the inadvertent-upload risk through limited use and sharing of submitted information and by allowing its removal.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "text": "The CFPB takes measures to mitigate and address any risks to the security of data it receives, consistent with the guidance and standards set for federal information security and privacy programs. As such, security and privacy were considered during the design and development of the system to ensure that data collection and use practices had appropriate controls built in. The CFPB provides its employees and contractors with appropriate privacy and security training to ensure information is used and secured appropriately, and access controls are implemented and managed by the system owner to ensure only those with authorized access can use the data. The technical, physical, and administrative controls implemented are appropriate for the testing of the SBL system.",
+      "unit_ids": [
+        "038_cfpb_small-business-lending-sbl-system-beta-testing-pia#unit#0008"
+      ],
+      "section": "Security",
+      "explanation": "Presents design controls, training, access restrictions, and other controls as measures addressing data-security risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        82
+      ],
+      "text": "As a result of conducting this initial PIA, the CFPB established the Privacy Notice at the point of collection of beta-testing data to ensure that SBL users or POCs, on behalf of covered financial institutions, understand the purpose of the collection and uses of the data being submitted for beta testing.",
+      "unit_ids": [
+        "038_cfpb_small-business-lending-sbl-system-beta-testing-pia#unit#0011"
+      ],
+      "section": "3. Describe how CFPB shares any of the information with third parties with whom the CFPB shares the information for compatible purposes, e.g., federal or state agencies, the general public, etc.",
+      "explanation": "Describes a privacy notice established through the PIA process to ensure participants understand the collection's purpose and uses.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 3,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

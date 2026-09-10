@@ -1,0 +1,255 @@
+{
+  "chunk_id": "032_cfpb_publication-of-consumer-response-narratives-pia#chunk#00",
+  "doc_id": "032_cfpb_publication-of-consumer-response-narratives-pia",
+  "agency": "cfpb",
+  "n_sentences": 104,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "text": "The opt-in consent states that: (a) whether or not consent is given will have no impact on how the CFPB handles the complaint, (b) the consumer may withdraw consent at any time and the narrative will be removed from the Consumer Complaint Database, and (c) the CFPB will take reasonable steps to remove personally identifiable information (PII) from the complaint to minimize, but not eliminate, the risk of re-identification. The CFPB performs the following tasks to de-identify, or 'scrub,' PII from complaint narratives following the Consumer Response Scrubbing Standard published on the CFPB's website at www.consumerfinance.gov/complaint/data-use. At a high level, the CFPB follows a three-step procedure: (1) an automated process, called a script, reviews narrative content and identifies and removes PII; (2) a CFPB staff member then reviews the narrative and removes any additional PII that the script may not have identified and removed, and (3) another script reviews the narrative to ensure that the prior steps have not missed any PII. Once a narrative successfully completes these steps, the narrative is eligible for publication.",
+      "unit_ids": [
+        "032_cfpb_publication-of-consumer-response-narratives-pia#unit#0003"
+      ],
+      "section": "Overview",
+      "explanation": "Describes PII removal and layered automated and manual review intended to reduce re-identification risk before publication.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        29,
+        30,
+        31
+      ],
+      "text": "Periodically, CFPB staff perform an additional quality assurance review on narrative content to validate that the automated reviews and CFPB staff review are performed accurately. Any narratives identified with remaining PII will be reprocessed using the above steps. If process issues are identified during quality assurance reviews, then the Consumer Response Scrubbing Standard will be reviewed and corrected, as appropriate.",
+      "unit_ids": [
+        "032_cfpb_publication-of-consumer-response-narratives-pia#unit#0003"
+      ],
+      "section": "Overview",
+      "explanation": "Describes quality-assurance review, reprocessing, and process correction for narratives containing residual PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        43
+      ],
+      "text": "When submitting a complaint, there is a risk that a consumer may disclose more information than necessary for the service they are seeking.",
+      "unit_ids": [
+        "032_cfpb_publication-of-consumer-response-narratives-pia#unit#0005"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Identifies the possibility that consumers provide more information than is necessary.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        44,
+        45,
+        46
+      ],
+      "text": "To mitigate this risk, Consumer Response leverages processes and controls that limit the amount of information that a consumer is required to provide. Moreover, consumers are discouraged from including personal information in their complaint submission. For example, when a consumer submits a complaint through the Consumer Portal via the Consumer Resource Center (CRC), the consumer is reminded to provide only the necessary information to submit and route the complaint.",
+      "unit_ids": [
+        "032_cfpb_publication-of-consumer-response-narratives-pia#unit#0005"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Limits required information and warns consumers to provide only information necessary for their complaint.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        47
+      ],
+      "text": "For any PII provided with the complaint, the CFPB applies a robust scrubbing standard to remove personal identifiers and other personal information prior to publication in the Consumer Complaint Database.",
+      "unit_ids": [
+        "032_cfpb_publication-of-consumer-response-narratives-pia#unit#0005"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Removes personal information before complaint narratives are published.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        48
+      ],
+      "text": "If any PII remains in a complaint that is published to the Consumer Complaint Database, staff are trained on how to report and handle suspected privacy breaches to mitigate harm to an impacted individual.",
+      "unit_ids": [
+        "032_cfpb_publication-of-consumer-response-narratives-pia#unit#0005"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Provides breach-reporting and response procedures to reduce harm if published material contains residual PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        49
+      ],
+      "text": "In certain cases, if staff are unable to sufficiently de-identify a narrative, the narrative will not be published.",
+      "unit_ids": [
+        "032_cfpb_publication-of-consumer-response-narratives-pia#unit#0005"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Prevents publication when a narrative cannot be sufficiently de-identified.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        51
+      ],
+      "text": "In some cases-and in compliance with record management requirements to limit the amount of sensitive information held by the CFPB-the CFPB may not collect or will immediately delete certain sensitive information (e.g., account numbers) that a consumer provided to CRC systems, if it is not needed for that service.",
+      "unit_ids": [
+        "032_cfpb_publication-of-consumer-response-narratives-pia#unit#0005"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Avoids collecting or promptly deletes unnecessary sensitive information to limit the amount retained.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        63
+      ],
+      "text": "There is a risk that transferring the data between the systems could create a vulnerability in the security of the system, allowing a bad actor to access the complaint data containing PII.",
+      "unit_ids": [
+        "032_cfpb_publication-of-consumer-response-narratives-pia#unit#0008"
+      ],
+      "section": "Security",
+      "explanation": "Identifies the possibility that inter-system transfers create a vulnerability allowing unauthorized access to PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        64,
+        65,
+        66
+      ],
+      "text": "The CFPB has mitigated this risk by deploying an interconnection security agreement (ISA) between these systems to implement logical and physical access controls that limit data access only to authorized CFPB users. For example, the data are protected by a firewall cluster and load balancers and a network intrusion detection system (NIDS) device monitors unusual and/or malicious network activity. When such activity is detected, logs are reviewed by the CFPB's Cybersecurity Team for investigation and further action as appropriate.",
+      "unit_ids": [
+        "032_cfpb_publication-of-consumer-response-narratives-pia#unit#0008"
+      ],
+      "section": "Security",
+      "explanation": "Explicitly addresses transfer risk through an interconnection agreement, access controls, network protections, monitoring, and investigation.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        89
+      ],
+      "text": "However, data already downloaded by the public cannot be recalled by the CFPB.",
+      "unit_ids": [
+        "032_cfpb_publication-of-consumer-response-narratives-pia#unit#0011"
+      ],
+      "section": "Describe what opportunities, if any, individuals to whom the information pertains have to (a) receive notice regarding the CFPB's use of the information; (b) consent to such use; (c) access the information that pertains to them; or (d) obtain redress.",
+      "explanation": "Identifies the inability to retrieve complaint data already downloaded by members of the public after consent is withdrawn.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "risk",
+      "sentence_ids": [
+        91
+      ],
+      "text": "The guidance also provides notice about the risk for potential reidentification, despite the CFPB's rigorous scrubbing process.",
+      "unit_ids": [
+        "032_cfpb_publication-of-consumer-response-narratives-pia#unit#0011"
+      ],
+      "section": "Describe what opportunities, if any, individuals to whom the information pertains have to (a) receive notice regarding the CFPB's use of the information; (b) consent to such use; (c) access the information that pertains to them; or (d) obtain redress.",
+      "explanation": "Explicitly acknowledges a residual possibility of re-identification despite scrubbing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        95,
+        96,
+        97,
+        98
+      ],
+      "text": "The CFPB takes a comprehensive and sophisticated approach to data scrubbing to protect the privacy of the consumer while still providing the public with useful data. The CFPB hired a third-party contractor to assess and make recommendations on de-identifying the narratives. The contractor recommended that the CFPB utilize this hybrid approach in which complaints are first checked through an automated process, then further reviewed manually by trained staff, and lastly verified by an additional computer check to spot any possible PII remaining for another review. This rigorous procedure will help to ensure proper deidentification of all narratives that will be released.",
+      "unit_ids": [
+        "032_cfpb_publication-of-consumer-response-narratives-pia#unit#0012"
+      ],
+      "section": "Explain the standards and relevant controls that govern the CFPB's-or any third-party contractor(s) acting on behalf of the CFPB-collection, use, disclosure, retention, or disposal of information.",
+      "explanation": "Presents a contractor-reviewed hybrid scrubbing procedure as protection against PII remaining in published narratives.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 1,
+      "risk_span_id": 12,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 12,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 12,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 12,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 12,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 12,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

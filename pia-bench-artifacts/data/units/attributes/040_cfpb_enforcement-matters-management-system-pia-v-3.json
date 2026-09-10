@@ -1,0 +1,278 @@
+{
+  "document_id": "040_cfpb_enforcement-matters-management-system-pia-v-3",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0000",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0001",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0002",
+      "attributes": [
+        "context",
+        "purpose"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0003",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0004",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0005",
+      "attributes": [
+        "context",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0006",
+      "attributes": [
+        "context",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0007",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0008",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0009",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0010",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0011",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0012",
+      "attributes": [
+        "operations",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0013",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0014",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0015",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0016",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0017",
+      "attributes": [
+        "legal_basis",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0018",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0019",
+      "attributes": [
+        "legal_basis",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0020",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0021",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0022",
+      "attributes": [
+        "legal_basis",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0023",
+      "attributes": [
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0024",
+      "attributes": [
+        "legal_basis",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0025",
+      "attributes": [
+        "information_types",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0026",
+      "attributes": [
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0027",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0028",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

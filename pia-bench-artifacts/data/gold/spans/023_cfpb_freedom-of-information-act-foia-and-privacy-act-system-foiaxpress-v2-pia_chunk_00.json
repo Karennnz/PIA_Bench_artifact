@@ -1,0 +1,184 @@
+{
+  "chunk_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#chunk#00",
+  "doc_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia",
+  "agency": "cfpb",
+  "n_sentences": 139,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        23
+      ],
+      "text": "There is a possibility, through administrative error, that unauthorized individuals may gain access to the information in FOIAXpress.",
+      "unit_ids": [
+        "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0006"
+      ],
+      "section": "Security",
+      "explanation": "Identifies the possibility that administrative error could permit unauthorized access to personal information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "text": "The Bureau mitigates this risk by designing a system which limits access only to authorized users, based on their need to know. Currently only Bureau FOIA Office staff, legal department staff responsible for FOIA appeals, and technical support staff can access FOIAXpress. To secure PII against unauthorized disclosure and access for FOIAXpress and the use of the PAL and Login.gov, the Bureau employs extensive security controls and safeguards, with access granted solely to Bureau FOIA staff or approved personnel. The protections include: \uf0b7 Adherence to Bureau policies and procedures governing privacy and information security. \uf020 \uf0b7 Conducting background checks on all personnel with access to the system. \uf020 \uf0b7 Initial and follow-on privacy and security awareness training for everyone with access to the system. \uf020 \uf0b7 Physical and technical perimeter security safeguards. \uf020 \uf0b7 Security Operations Center service to monitor activity, with antivirus and intrusion detection software. \uf020 \uf0b7 Technical and physical access controls such as roll based access management and firewalls. \uf020 \uf0b7 Risk/controls assessments and mitigation. \uf020 Authorized staff are only allowed access to the PII required or appropriate to carry out their assigned job responsibilities. Access to the system is eliminated or modified if the employee or contractor no longer has a need to know the information, changes jobs, is terminated, or resigns .",
+      "unit_ids": [
+        "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0006"
+      ],
+      "section": "Security",
+      "explanation": "Presents need-to-know access restrictions, security safeguards, personnel controls, monitoring, and access removal as measures addressing unauthorized access or disclosure.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "text": "There is a risk that an individual's PII may be released without their knowledge or consent. This may be through disclosure in requested records, along with the possibility of a record with PII mistakenly sent to a requestor. Another possible instance is that when an individual submits a FOIA request, the nature of the request and the identity of the requestor can become publicly available information. For example, a member of the public may file a FOIA request that seeks copies of all the FOIA requests filed by an individual or that relate to a specific topic.",
+      "unit_ids": [
+        "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0007"
+      ],
+      "section": "Individual Participation",
+      "explanation": "Identifies ways personal information or requestor identities could be disclosed without the individual's knowledge or consent.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        33,
+        34
+      ],
+      "text": "For all potential FOIA publications the Bureau engages in a review process based on federal guidelines, to minimize the unnecessary distribution of PII, along with other compliance obligations. The Bureau summarizes and publishes information about the FOIA requests it receives in aggregate in the 'CFPB FOIA Log' on its website, currently, with the following fields: 3 \uf0b7 Request ID \uf0b7 Request Date \uf0b7 Requestor Name \uf0b7 Organization \uf0b7 Request Description \uf0b7 Final Disposition \uf0b7 Exemption Cited The Bureau does not release the identities of individuals who file Privacy Act requests.",
+      "unit_ids": [
+        "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0007"
+      ],
+      "section": "Individual Participation",
+      "explanation": "Describes review and publication practices intended to minimize unnecessary disclosure of personal information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        36
+      ],
+      "text": "There is a risk that the PII that requestors submit is incorrect, erroneous, or obsolete.",
+      "unit_ids": [
+        "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0008"
+      ],
+      "section": "Data Quality and Integrity",
+      "explanation": "Identifies the risk that information submitted by requestors may be inaccurate, erroneous, or obsolete.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        37
+      ],
+      "text": "To mitigate this risk, when possible, the Bureau contacts individual requestors to correct their records when inaccuracies are discovered.",
+      "unit_ids": [
+        "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0008"
+      ],
+      "section": "Data Quality and Integrity",
+      "explanation": "Explicitly states that the Bureau contacts requestors to correct discovered inaccuracies.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        40
+      ],
+      "text": "There is a risk that a requestor may submit more information than necessary to the Bureau in the request.",
+      "unit_ids": [
+        "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0009"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Identifies the risk that requestors may provide more information than is necessary.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        43
+      ],
+      "text": "5 PRIVACY IMPACT ASSESSMENT-SEPTEMBER 2021 To mitigate this risk, the Bureau excludes extraneous information when possible and only asks for sensitive PII when it is required.",
+      "unit_ids": [
+        "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0009"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Explicitly states that extraneous information is excluded when possible and sensitive information is requested only when required.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        116
+      ],
+      "text": "There is a risk through administrative error or from the individual themselves, that the PII provided to Bureau in relation to a request may be inaccurate.",
+      "unit_ids": [
+        "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0011"
+      ],
+      "section": "2. Describe CFPB's  objective  for  the  information.",
+      "explanation": "Identifies the possibility that administrative or individual error may result in inaccurate personal information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        117
+      ],
+      "text": "Individuals who believe that this is the case may request an amendment or correction by directly contacting the Bureau's FOIA Office to update any information submitted to the Bureau.",
+      "unit_ids": [
+        "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0011"
+      ],
+      "section": "2. Describe CFPB's  objective  for  the  information.",
+      "explanation": "Provides a correction process through which individuals may update inaccurate information.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

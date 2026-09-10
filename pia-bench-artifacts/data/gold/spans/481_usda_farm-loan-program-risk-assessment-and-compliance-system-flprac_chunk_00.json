@@ -1,0 +1,211 @@
+{
+  "chunk_id": "481_usda_farm-loan-program-risk-assessment-and-compliance-system-flprac#chunk#00",
+  "doc_id": "481_usda_farm-loan-program-risk-assessment-and-compliance-system-flprac",
+  "agency": "usda",
+  "n_sentences": 111,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        26
+      ],
+      "text": "| Applications | Privacy risks and how mitigated. | |-----------------------|----------------------------------------------------------------------------------------------------------------| | DDORS, FLOTrack, SDMS | The controls that have been implemented, inherited, compensated, tested, satisfied and continuously monitored. |",
+      "unit_ids": [
+        "481_usda_farm-loan-program-risk-assessment-and-compliance-system-flprac#unit#0016"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Controls are presented in the privacy impact analysis as the measures used to manage privacy risk, although no specific risk is stated.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        39
+      ],
+      "text": "When records have reached their retention period, they are immediately retired or destroyed in accordance with the USDA Record Retention policies and procedures.",
+      "unit_ids": [
+        "481_usda_farm-loan-program-risk-assessment-and-compliance-system-flprac#unit#0025"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Timely retirement or destruction under records-retention procedures limits exposure after the retention period.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        40
+      ],
+      "text": "During this period, the stored information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "481_usda_farm-loan-program-risk-assessment-and-compliance-system-flprac#unit#0025"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Identifies unauthorized viewing, data loss or destruction, and non-availability as possible harms during retention.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        41
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "481_usda_farm-loan-program-risk-assessment-and-compliance-system-flprac#unit#0025"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Access-control measures are presented immediately in response to the identified risks affecting stored information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        65
+      ],
+      "text": "| Applications | Notice to individuals and unawareness risk mitigation. | |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | DDORS, FLOTrack, SDMS | The risk is considered moderate.",
+      "unit_ids": [
+        "481_usda_farm-loan-program-risk-assessment-and-compliance-system-flprac#unit#0041"
+      ],
+      "section": "6.4 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Expressly assesses the notice-related privacy risk as moderate.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        66
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower. |",
+      "unit_ids": [
+        "481_usda_farm-loan-program-risk-assessment-and-compliance-system-flprac#unit#0041"
+      ],
+      "section": "6.4 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "System-of-records notices provide notification to address the risk that individuals may be unaware of collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        74
+      ],
+      "text": "| Applications | Privacy risks associated with redress and risk mitigation. | |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | DDORS, FLOTrack, SDMS | The risk associated with redress is considered low, as the public does not have access to the system or the data.",
+      "unit_ids": [
+        "481_usda_farm-loan-program-risk-assessment-and-compliance-system-flprac#unit#0047"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Expressly assesses the privacy risk associated with redress and explains why it is considered low.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        75,
+        76
+      ],
+      "text": "While the public cannot access the system to update or change their personal information, they may update their information using from AD 2530 and submit to the appropriate FSA official. The FSA official will in turn update the system based on the information provided.",
+      "unit_ids": [
+        "481_usda_farm-loan-program-risk-assessment-and-compliance-system-flprac#unit#0047"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Provides an alternative process for individuals to submit corrections and have an agency official update the system.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        88,
+        89
+      ],
+      "text": "| Applications | Privacy risks identified and risk mitigation. | |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | DDORS, FLOTrack, SDMS | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "481_usda_farm-loan-program-risk-assessment-and-compliance-system-flprac#unit#0054"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Identifies unauthorized access to privacy information as the main privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        90
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal.",
+      "unit_ids": [
+        "481_usda_farm-loan-program-risk-assessment-and-compliance-system-flprac#unit#0054"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly states that mitigating controls are used to minimize the identified privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        92
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. |",
+      "unit_ids": [
+        "481_usda_farm-loan-program-risk-assessment-and-compliance-system-flprac#unit#0054"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Quarterly access reviews are presented as an ongoing measure supporting the mitigating controls.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "null_finding",
+      "sentence_ids": [
+        95
+      ],
+      "text": "| Applications | Technology privacy risks. | |-----------------------|-----------------------------| | DDORS, FLOTrack, SDMS | No |",
+      "unit_ids": [
+        "481_usda_farm-loan-program-risk-assessment-and-compliance-system-flprac#unit#0057"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns?  If so please discuss their implementation.",
+      "explanation": "Explicitly indicates that the employed technology does not raise privacy concerns.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 3,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 9,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

@@ -1,0 +1,169 @@
+{
+  "chunk_id": "024_cfpb_entellitrak-ombudsman-tool-pia#chunk#00",
+  "doc_id": "024_cfpb_entellitrak-ombudsman-tool-pia",
+  "agency": "cfpb",
+  "n_sentences": 102,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        31
+      ],
+      "text": "When submitting an inquiry to the Ombudsman's Office, an inquirer may put data at risk by providing additional or unnecessary PII.",
+      "unit_ids": [
+        "024_cfpb_entellitrak-ombudsman-tool-pia#unit#0006"
+      ],
+      "section": "Data Minimization",
+      "explanation": "States that inquirers may expose additional or unnecessary PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "text": "The Office mitigates this risk by limiting the scope of information collected in Entellitrak to the amount of data necessary to act upon inquiries. PII, limited to first name and last name, is used solely by the Ombudsman's Office to assist with resolving an inquiry. Any additional PII submitted by the inquirer is not included in the Entellitrak record. The information is collected directly from an inquirer, and the submission and collection of PII is voluntary. The collection of this data is the minimum necessary amount of information for the Ombudsman's Office to assist an inquirer with resolving the inquiry.",
+      "unit_ids": [
+        "024_cfpb_entellitrak-ombudsman-tool-pia#unit#0006"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Explicitly mitigates unnecessary PII collection through data minimization, limited use, exclusion of additional PII, and voluntary submission.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        37
+      ],
+      "text": "Given the sensitive nature of inquiries received by the Ombudsman's Office, there is a risk of reputational harm to the inquirer, the Bureau, and the CFPB Ombudsman's Office in the event of a data breach or a breach of confidentiality.",
+      "unit_ids": [
+        "024_cfpb_entellitrak-ombudsman-tool-pia#unit#0007"
+      ],
+      "section": "Confidentiality",
+      "explanation": "Identifies reputational harm resulting from a data breach or breach of confidentiality.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        38
+      ],
+      "text": "The Bureau minimizes risk by enforcing access controls to minimize the access to data to only authorized Ombudsman's Office staff.",
+      "unit_ids": [
+        "024_cfpb_entellitrak-ombudsman-tool-pia#unit#0007"
+      ],
+      "section": "Confidentiality",
+      "explanation": "Explicitly minimizes the confidentiality risk by restricting data access to authorized staff.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        39
+      ],
+      "text": "Ombudsman's Office staff are also trained on appropriate uses of the data within the application prior to receiving access to the application.",
+      "unit_ids": [
+        "024_cfpb_entellitrak-ombudsman-tool-pia#unit#0007"
+      ],
+      "section": "Confidentiality",
+      "explanation": "Presents staff training on appropriate data use as an additional response to the confidentiality risk.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "risk",
+      "sentence_ids": [
+        41
+      ],
+      "text": "Given the content and sensitivity of information held within this cloud-based solution there is a risk that unauthorized individuals can gain access to the information via web interface.",
+      "unit_ids": [
+        "024_cfpb_entellitrak-ombudsman-tool-pia#unit#0008"
+      ],
+      "section": "Security",
+      "explanation": "Identifies the risk that unauthorized individuals could access sensitive information through the web interface.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        42,
+        43,
+        44
+      ],
+      "text": "The Bureau mitigates this risk by only granting Entellitrak system access to authorized Ombudsman's Office staff who, based on their need to know, are restricted to the minimal amount of data required or appropriate to carry out their assigned job responsibilities. Access to the system is granted solely by the System Owner, the Ombudsman's Office, and approved users are required to log into the application with a secure username and password. This access is restricted or terminated at the request of the Ombudsman's Office, as necessary, should the staff member no longer have a need to know the information, change job functions, be terminated, or resign.",
+      "unit_ids": [
+        "024_cfpb_entellitrak-ombudsman-tool-pia#unit#0008"
+      ],
+      "section": "Security",
+      "explanation": "Explicitly mitigates unauthorized access through need-to-know restrictions, controlled account approval, authentication, and timely access termination.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        45,
+        46
+      ],
+      "text": "Information within the application is subject to the appropriate technical, physical, and administrative controls implemented to address these risks, such as encryption for data maintained within the system. For example, National Institutes of Standards and Technology (NIST) controls families, including Identification and Authentication (IA) and Risk Assessment (RA), are implemented to restrict access to the information to authorized Ombudsman's Office Staff.",
+      "unit_ids": [
+        "024_cfpb_entellitrak-ombudsman-tool-pia#unit#0008"
+      ],
+      "section": "Security",
+      "explanation": "States that technical, physical, and administrative controls, including encryption and NIST access controls, address the identified security risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        98
+      ],
+      "text": "As a result of the foregoing, the Ombudsman's Office can securely create, track, and manage inquiries electronically, reducing the privacy impact of manually managing inquiry details.",
+      "unit_ids": [
+        "024_cfpb_entellitrak-ombudsman-tool-pia#unit#0013"
+      ],
+      "section": "5. Explain  the  standards  and  relevant  controls  that  govern  the CFPB's-or any third-party contractor(s) acting on behalf of the CFPB-collection,  use,  disclosure,  retention,  or disposal  of information.",
+      "explanation": "Frames secure electronic case management as reducing the privacy impact associated with manually managing inquiry details.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 3,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 6,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 6,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

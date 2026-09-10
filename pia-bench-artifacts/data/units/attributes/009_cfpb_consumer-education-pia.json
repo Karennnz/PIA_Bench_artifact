@@ -1,0 +1,462 @@
+{
+  "document_id": "009_cfpb_consumer-education-pia",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0000",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0001",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0002",
+      "attributes": [
+        "context",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0003",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0004",
+      "attributes": [
+        "context",
+        "purpose",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0005",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0006",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0007",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0008",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0009",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0010",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0011",
+      "attributes": [
+        "operations",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0012",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0013",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "retention"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0014",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0015",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0016",
+      "attributes": [
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0017",
+      "attributes": [
+        "purpose",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0018",
+      "attributes": [
+        "purpose",
+        "operations",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0019",
+      "attributes": [
+        "context",
+        "information_types"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0020",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0021",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0022",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0023",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0024",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0025",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0026",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0027",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0028",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0029",
+      "attributes": [
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0030",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0031",
+      "attributes": [
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0032",
+      "attributes": [
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0033",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0034",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0035",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0036",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0037",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0038",
+      "attributes": [
+        "context",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0039",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0040",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0041",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0042",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0043",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0044",
+      "attributes": [
+        "legal_basis",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0045",
+      "attributes": [
+        "legal_basis",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0046",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0047",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0048",
+      "attributes": [
+        "information_types",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0049",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0050",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0051",
+      "attributes": [
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "009_cfpb_consumer-education-pia#unit#0052",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

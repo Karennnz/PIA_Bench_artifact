@@ -1,0 +1,8 @@
+topic,name,single_topic_units,run_units,recovered,recall,wilson_lo,wilson_hi,attempt_rate,run_units_attempted,recall_when_attempted,run_units_not_attempted,recall_when_not_attempted
+R05,Excessive retention or failed disposition,12,360,285,0.7917,0.747,0.83,0.8139,293,0.9659,67,0.0299
+R02,Security compromise and unauthorized access,63,1890,1313,0.6947,0.674,0.715,0.8921,1686,0.7444,204,0.2843
+R01,Excessive or intrusive collection and inference,15,450,197,0.4378,0.393,0.484,0.58,261,0.5287,189,0.3122
+R03,"Incompatible use, disclosure, or external custody",34,1020,420,0.4118,0.382,0.442,0.7716,787,0.4663,233,0.2275
+R04,"Inaccurate, incomplete, stale, or unreliable information",14,420,117,0.2786,0.238,0.323,0.25,105,0.819,315,0.0984
+R06,"Insufficient notice, understanding, or meaningful choice",21,630,142,0.2254,0.194,0.26,0.4317,272,0.5,358,0.0168
+R07,"Barriers to access, correction, challenge, or redress",22,660,58,0.0879,0.069,0.112,0.0818,54,0.8704,606,0.0182

@@ -1,0 +1,212 @@
+{
+  "chunk_id": "490_usda_farm-service-field-operations-support-system-fsfoss#chunk#00",
+  "doc_id": "490_usda_farm-service-field-operations-support-system-fsfoss",
+  "agency": "usda",
+  "n_sentences": 108,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        24
+      ],
+      "text": "| Applications | Privacy risks and how mitigated. | |----------------|----------------------------------------------------------------------------------------------------------------| | COC-ES | The controls that have been implemented, inherited, compensated, tested, satisfied and continuously monitored. |",
+      "unit_ids": [
+        "490_usda_farm-service-field-operations-support-system-fsfoss#unit#0018"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Presents implemented and continuously monitored controls as the response in the privacy-risk analysis, although no specific risk is stated.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        36
+      ],
+      "text": "When records have reached their retention period, they are immediately retired or destroyed in accordance with the USDA Record Retention policies and procedures.",
+      "unit_ids": [
+        "490_usda_farm-service-field-operations-support-system-fsfoss#unit#0027"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes prompt retirement or destruction of records under retention policies to limit retention-related exposure.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        37
+      ],
+      "text": "During this period, the stored information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "490_usda_farm-service-field-operations-support-system-fsfoss#unit#0027"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Explicitly identifies unauthorized viewing, data loss or destruction, and non-availability as risks during storage.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        38
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "490_usda_farm-service-field-operations-support-system-fsfoss#unit#0027"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access-control software, physical controls, and password protection in direct response to the stated storage risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        62
+      ],
+      "text": "| Applications | Notice to individuals and unawareness risk mitigation. | |----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | COC-ES | The risk is considered moderate.",
+      "unit_ids": [
+        "490_usda_farm-service-field-operations-support-system-fsfoss#unit#0043"
+      ],
+      "section": "6.4 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Explicitly assesses the risk of individuals being unaware of collection as moderate in the section context.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        63
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower. |",
+      "unit_ids": [
+        "490_usda_farm-service-field-operations-support-system-fsfoss#unit#0043"
+      ],
+      "section": "6.4 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies publication of system-of-records notices as the notification measure addressing the unawareness risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        71
+      ],
+      "text": "| Applications | Privacy risks associated with redress and risk mitigation. | |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | COC-ES | The risk associated with redress is considered low, as the public does not have access to the system or the data.",
+      "unit_ids": [
+        "490_usda_farm-service-field-operations-support-system-fsfoss#unit#0049"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly characterizes the privacy risk associated with redress as low.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        72,
+        73
+      ],
+      "text": "While the public cannot access the system to update or change their personal information, they may update their information using from AD 2530 and submit to the appropriate FSA official. The FSA official will in turn update the system based on the information provided.",
+      "unit_ids": [
+        "490_usda_farm-service-field-operations-support-system-fsfoss#unit#0049"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explains the alternative process by which individuals can submit corrections and have an FSA official update the system.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        85,
+        86
+      ],
+      "text": "| Applications | Privacy risks identified and risk mitigation. | |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | COC-ES | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "490_usda_farm-service-field-operations-support-system-fsfoss#unit#0057"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        87,
+        88
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM.",
+      "unit_ids": [
+        "490_usda_farm-service-field-operations-support-system-fsfoss#unit#0057"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Explicitly states that mitigating controls are used to minimize the privacy risks and are mapped to the security plan.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        89
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. |",
+      "unit_ids": [
+        "490_usda_farm-service-field-operations-support-system-fsfoss#unit#0057"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies quarterly access reviews as a control supporting mitigation of unauthorized-access risk.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "null_finding",
+      "sentence_ids": [
+        92
+      ],
+      "text": "| Applications | Technology privacy risks. | |----------------|-----------------------------| | COC-ES | No |",
+      "unit_ids": [
+        "490_usda_farm-service-field-operations-support-system-fsfoss#unit#0060"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns?  If so please discuss their implementation.",
+      "explanation": "The agency answers that the system does not employ technology raising privacy concerns.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 3,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 9,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

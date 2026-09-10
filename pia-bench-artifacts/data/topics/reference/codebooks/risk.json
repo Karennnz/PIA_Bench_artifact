@@ -1,0 +1,253 @@
+{
+  "kind": "risk",
+  "status": "frozen_for_exploratory_assignment",
+  "frozen_at_utc": "2026-09-03T14:44:27.617257+00:00",
+  "scope": "73 cleaned TRACE PIAs; exploratory content characterization only",
+  "not_benchmark_gold": true,
+  "candidate_source": "content_codebook_candidate.json",
+  "candidate_sha256": "0d39e16ae837c863853c89c5689504eef36d821109c8f0ed9fde0c3878f88398",
+  "discovery_source": "risk_generated.json",
+  "discovery_sha256": "0836386496c01fe4f5273c3da1b39d44cc0fcea46f2b16c204557b20685323f2",
+  "discovery_requested_model": "gpt-5.6-terra",
+  "discovery_returned_models": [
+    "gpt-5.6-terra"
+  ],
+  "discovery_topic_names": [
+    "Unauthorized access or disclosure of personal information",
+    "Re-identification and irreversible public exposure",
+    "Excessive collection or surveillance",
+    "Excessive retention and insecure disposal",
+    "Purpose-incompatible use and downstream misuse of personal information",
+    "Insufficient privacy notice, awareness, or meaningful consent",
+    "Limits on individual access, correction, deletion, and redress",
+    "Data quality, classification, integrity, and availability failures",
+    "Other substantive content",
+    "Unclear or ambiguous",
+    "Noise or non-substantive"
+  ],
+  "refinement_decision": "Retained eight failure-mechanism themes and explicit boundary rules, preventing broad discovery labels from obscuring access-versus-use, accuracy-versus-redress, and notice-versus-post-collection-rights distinctions.",
+  "assignment_protocol": {
+    "primary_required": true,
+    "max_secondary": 2,
+    "evidence_must_be_exact_substring": true,
+    "compound_primary_order": [
+      "foregrounded_main_proposition",
+      "largest_share_of_substantive_clauses",
+      "earliest_fully_stated_mechanism",
+      "unclear_if_no_defensible_primary"
+    ],
+    "confidence_values": [
+      "high",
+      "medium",
+      "low"
+    ]
+  },
+  "priority_confusion_pairs": [
+    "R02/R03",
+    "R04/R07",
+    "R06/R07"
+  ],
+  "topics": [
+    {
+      "topic_id": "R01",
+      "name": "Excessive or intrusive collection and inference",
+      "definition": "The system collects, combines, derives, monitors, or concentrates more, more sensitive, or more identifiable information than a demonstrated purpose requires, including unnecessarily intrusive surveillance or profiling.",
+      "inclusion_rule": [
+        "over-collection",
+        "unrestricted free text",
+        "unnecessary identifiers, attributes, or populations",
+        "avoidable real test data",
+        "revealing aggregation or profiling",
+        "intrusive monitoring",
+        "inference beyond demonstrated need"
+      ],
+      "exclusion_rule": [
+        "excessive retention",
+        "inaccurate data",
+        "incompatible later use",
+        "unauthorized access after collection"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Too much is acquired or derived means R01; wrong later purpose means R03; too long means R05.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "R02",
+      "name": "Security compromise and unauthorized access",
+      "definition": "A person or process without the required identity, entitlement, or permission may reach, view, alter, extract, destroy, or disrupt information, or the system or data may be compromised through a security failure.",
+      "inclusion_rule": [
+        "external compromise",
+        "stolen credentials and impersonation",
+        "excessive privileges",
+        "unauthorized viewing",
+        "access beyond need-to-know",
+        "security incidents",
+        "security-framed loss, destruction, or unavailability"
+      ],
+      "exclusion_rule": [
+        "incompatible handling by an authorized user or recipient",
+        "disclosure or public-release boundary as the central mechanism",
+        "record error without a security event"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Who can reach the data means R02; what an otherwise participating user or recipient may do with it or where it is sent means R03.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "R03",
+      "name": "Incompatible use, disclosure, or external custody",
+      "definition": "Information may be used beyond its approved purpose, disclosed to an inappropriate recipient, made public, redistributed, or placed with another organization or platform in ways that weaken purpose and recipient boundaries.",
+      "inclusion_rule": [
+        "secondary use",
+        "insider use for unrelated purposes",
+        "disclosure without authority, consent, or need",
+        "wrong-recipient release",
+        "public exposure",
+        "onward dissemination",
+        "external custody risk",
+        "release-enabled re-identification"
+      ],
+      "exclusion_rule": [
+        "access by someone lacking permission",
+        "excessive initial collection",
+        "notice or consent deficits without a handling boundary"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Use, recipient, purpose, or location boundary means R03; identity, entitlement, or access boundary means R02.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "R04",
+      "name": "Inaccurate, incomplete, stale, or unreliable information",
+      "definition": "Records, inputs, linkages, or analytical outputs may be incorrect, incomplete, obsolete, inconsistent, biased, or otherwise unreliable and may produce an inappropriate analysis, communication, or decision.",
+      "inclusion_rule": [
+        "source inaccuracies",
+        "stale or incomplete records",
+        "failed validation or import",
+        "mismatched records",
+        "biased or unrepresentative inputs when stated",
+        "loss of substantive integrity"
+      ],
+      "exclusion_rule": [
+        "security compromise without a quality consequence",
+        "inability to request correction",
+        "compliance consequence without a quality defect"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Defect in record or output means R04; inability to inspect, challenge, or correct it means R07.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "R05",
+      "name": "Excessive retention or failed disposition",
+      "definition": "Identifiable information may remain beyond operational or legal need, lack an enforceable lifecycle endpoint, or fail to be deleted, overwritten, returned, archived, or destroyed as required.",
+      "inclusion_rule": [
+        "indefinite or unnecessarily long retention",
+        "absent, pending, or unimplemented schedules",
+        "stale copies and caches",
+        "contractor and cloud copies",
+        "failure to dispose at end of purpose",
+        "exposure explicitly increased by extended retention"
+      ],
+      "exclusion_rule": [
+        "excessive collection unrelated to time",
+        "generic compromise during justified storage",
+        "neutral or implemented schedule"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Time, lifecycle endpoint, or disposition failure must be central; otherwise use the explicit harm category or R_UNCLEAR.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "R06",
+      "name": "Insufficient notice, understanding, or meaningful choice",
+      "definition": "Individuals may not know or understand collection, monitoring, sponsorship, use, sharing, or consequences, or may lack a meaningful opportunity to consent, decline, opt out, or authorize participation.",
+      "inclusion_rule": [
+        "missing, late, or inaccessible notice",
+        "unclear sponsorship or destination",
+        "indirect collection",
+        "no meaningful consent, refusal, or opt-out",
+        "unexplained mandatory collection",
+        "invalid representative authorization as a choice problem"
+      ],
+      "exclusion_rule": [
+        "post-collection access, amendment, challenge, or remedy",
+        "incompatible use or disclosure where notice is not the stated problem"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Understanding and choice before or at collection or use means R06; post-collection rights mean R07.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "R07",
+      "name": "Barriers to access, correction, challenge, or redress",
+      "definition": "After information is maintained or acted upon, an individual may be unable to inspect it, correct or amend or delete it where applicable, challenge a decision or disputed record, or obtain a usable remedy.",
+      "inclusion_rule": [
+        "missing or cumbersome access and amendment procedures",
+        "indirect-only correction",
+        "unclear ownership",
+        "inability to remove public or third-party content",
+        "ineffective complaint, appeal, or remedy",
+        "failure to honor rights requests"
+      ],
+      "exclusion_rule": [
+        "inaccurate record without a rights barrier",
+        "lack of initial notice or consent",
+        "general internal accountability weakness"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Bad data means R04; inability to fix or challenge it means R07.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "R08",
+      "name": "Weak governance, accountability, or compliance capacity",
+      "definition": "Privacy protection may fail because duties, policies, ownership, workforce knowledge, documentation, oversight, or enforceability are absent or inadequate.",
+      "inclusion_rule": [
+        "no governing policy",
+        "unclear responsibility",
+        "deficient training",
+        "poor recordkeeping or auditability",
+        "weak partner oversight without a concrete disclosure event",
+        "inability to demonstrate or enforce compliance"
+      ],
+      "exclusion_rule": [
+        "concrete access, use, disclosure, or rights failure merely accompanied by legal consequences",
+        "legal penalties alone"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Organizational capacity or duty failure means R08; an explicit concrete privacy event takes its mechanism code primary.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "R_OTHER",
+      "name": "Other substantive risk",
+      "definition": "Clear substantive privacy failure mechanism outside R01-R08; record a proposed theme.",
+      "inclusion_rule": "Clear substantive privacy failure mechanism outside R01-R08; record a proposed theme.",
+      "exclusion_rule": "Use a named substantive topic whenever supported.",
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Clear substantive privacy failure mechanism outside R01-R08; record a proposed theme.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "R_UNCLEAR",
+      "name": "Unclear or ambiguous risk",
+      "definition": "Genuine risk language but no mechanism or no defensible dominant mechanism.",
+      "inclusion_rule": "Genuine risk language but no mechanism or no defensible dominant mechanism.",
+      "exclusion_rule": "Use a named substantive topic whenever supported.",
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Genuine risk language but no mechanism or no defensible dominant mechanism.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "R_NOISE",
+      "name": "Non-substantive risk text",
+      "definition": "Non-risk content, null or assurance-only statement, prompt, heading, bare category list, bare severity, cross-reference, or extraction artefact.",
+      "inclusion_rule": "Non-risk content, null or assurance-only statement, prompt, heading, bare category list, bare severity, cross-reference, or extraction artefact.",
+      "exclusion_rule": "Use a named substantive topic whenever supported.",
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Non-risk content, null or assurance-only statement, prompt, heading, bare category list, bare severity, cross-reference, or extraction artefact.",
+      "example_record_ids": []
+    }
+  ]
+}

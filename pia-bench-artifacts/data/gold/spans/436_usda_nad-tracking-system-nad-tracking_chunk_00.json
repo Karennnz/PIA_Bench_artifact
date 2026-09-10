@@ -1,0 +1,134 @@
+{
+  "chunk_id": "436_usda_nad-tracking-system-nad-tracking#chunk#00",
+  "doc_id": "436_usda_nad-tracking-system-nad-tracking",
+  "agency": "usda",
+  "n_sentences": 126,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        31
+      ],
+      "text": "The privacy risks are low and controlled through role-based access to data.",
+      "unit_ids": [
+        "436_usda_nad-tracking-system-nad-tracking#unit#0012"
+      ],
+      "section": "1.6 What specific legal authorities, arrangements, and/or agreements defined the collection of information?",
+      "explanation": "States that privacy risks are controlled through role-based access.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        46
+      ],
+      "text": "Risk for data retention periods are low due to the security controls in place and the low impact of data stored.",
+      "unit_ids": [
+        "436_usda_nad-tracking-system-nad-tracking#unit#0018"
+      ],
+      "section": "3.2 Has the retention period been approved by the component records officer and the National Archives and Records Administration (NARA)?",
+      "explanation": "Attributes the low retention risk to existing security controls and the low-impact nature of the data.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        67
+      ],
+      "text": "Notifications for individuals are provided by the USDA OHA-NAD Business Office and administrative judges who adjudicate the case.",
+      "unit_ids": [
+        "436_usda_nad-tracking-system-nad-tracking#unit#0029"
+      ],
+      "section": "6.4 Do individuals have the right to consent to particular uses of the information? If so, how does the individual exercise the right?",
+      "explanation": "Describes notifications provided to individuals in response to the identified notice risk.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        90
+      ],
+      "text": "The risk is low that proper redress will not be provided to the individual.",
+      "unit_ids": [
+        "436_usda_nad-tracking-system-nad-tracking#unit#0035"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Identifies the possibility that an individual may not receive proper redress, while assessing that possibility as low.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        93
+      ],
+      "text": "Thus, when a critical piece of data is questioned, often the adjudicative process moves into a fact-finding stage to ensure that the data is correct.",
+      "unit_ids": [
+        "436_usda_nad-tracking-system-nad-tracking#unit#0035"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Describes a fact-finding process used to verify questioned data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        94,
+        95
+      ],
+      "text": "Even after the first-level appeal stage with an Administrative Judge, if the data bearing on the adjudicative outcome is still in dispute, the appellant has a right to file a second-level Director review. At this stage of the process, the case is examined by an appeals staff attorney to ensure the accuracy of the case file and determine the dispute.",
+      "unit_ids": [
+        "436_usda_nad-tracking-system-nad-tracking#unit#0035"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Provides a second-level review in which an appeals attorney examines the case file for accuracy and resolves the dispute.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "null_finding",
+      "sentence_ids": [
+        105
+      ],
+      "text": "There are no known privacy risks for NADTrack.",
+      "unit_ids": [
+        "436_usda_nad-tracking-system-nad-tracking#unit#0042"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly states that there are no known privacy risks for the system.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "null_finding",
+      "sentence_ids": [
+        111
+      ],
+      "text": "No",
+      "unit_ids": [
+        "436_usda_nad-tracking-system-nad-tracking#unit#0044"
+      ],
+      "section": "9.1 What type of project is the program or system?",
+      "explanation": "Answers that the project does not employ technology that may raise privacy concerns.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 4,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

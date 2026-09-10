@@ -1,0 +1,147 @@
+{
+  "chunk_id": "498_usda_fpac-casp-fpac-casp#chunk#00",
+  "doc_id": "498_usda_fpac-casp-fpac-casp",
+  "agency": "usda",
+  "n_sentences": 92,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        25
+      ],
+      "text": "Privacy risks are mitigated on FPAC CASP by not storing any PII on the system and by not assessing any data transmitted between users and DOL or USCIS.",
+      "unit_ids": [
+        "498_usda_fpac-casp-fpac-casp#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly states that privacy risks are mitigated by avoiding storage of PII and assessment of transmitted data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        30
+      ],
+      "text": "The FPAC CASP system is in compliance with the FISMA and the security and privacy controls provided in the U.S. National Institute of Standards and Technology (NIST) Special Publication 800-53, Revision 4. If any residual risks are identified, they will be managed and reported via the FISMA mandated risk assessment processes.",
+      "unit_ids": [
+        "498_usda_fpac-casp-fpac-casp#unit#0018"
+      ],
+      "section": "2.4 Privacy Impact Analysis: Describe any types of controls that may be in place to ensure that information is handled in accordance with the above described uses.",
+      "explanation": "States that any identified residual risks will be managed and reported through mandated risk-assessment processes.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        46
+      ],
+      "text": "FPAC CASP / H2A mitigates the risk to a user's PII by not assessing or storing this data.",
+      "unit_ids": [
+        "498_usda_fpac-casp-fpac-casp#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Explicitly identifies not assessing or storing user PII as mitigation for risk to that PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        57
+      ],
+      "text": "The risks associated with an individual's information would be mitigated by the system that directly collects this information",
+      "unit_ids": [
+        "498_usda_fpac-casp-fpac-casp#unit#0037"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "States that risks concerning an individual's information are mitigated by the system that directly collects it.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        70
+      ],
+      "text": "FPAC CASP mitigates privacy risks by not storing any PII and by only being a 'pass through' between the user and other Federal applications.",
+      "unit_ids": [
+        "498_usda_fpac-casp-fpac-casp#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly states that privacy risks are mitigated by not storing PII and operating only as a pass-through.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "null_finding",
+      "sentence_ids": [
+        73
+      ],
+      "text": "No, the project utilizes Agency approved technologies, and these technology choices do not raise privacy concerns.",
+      "unit_ids": [
+        "498_usda_fpac-casp-fpac-casp#unit#0053"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so please discuss their implementation.",
+      "explanation": "Explicitly finds that the selected technologies do not raise privacy concerns.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        86
+      ],
+      "text": "Privacy risks are nominal.",
+      "unit_ids": [
+        "498_usda_fpac-casp-fpac-casp#unit#0066"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Acknowledges that privacy risks exist, while characterizing them as nominal.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        87
+      ],
+      "text": "FPAC CASP only communicates with other Federal agencies.",
+      "unit_ids": [
+        "498_usda_fpac-casp-fpac-casp#unit#0066"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "In direct response to the nominal-risk finding, limits communications to other federal agencies.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        88
+      ],
+      "text": "Additionally, FPAC CASP does not use web measurement or customization technology.",
+      "unit_ids": [
+        "498_usda_fpac-casp-fpac-casp#unit#0066"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "In direct response to the nominal-risk finding, notes that privacy-affecting web measurement and customization technologies are not used.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 7,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

@@ -1,0 +1,255 @@
+{
+  "chunk_id": "439_usda_nfc-webta-application#chunk#00",
+  "doc_id": "439_usda_nfc-webta-application",
+  "agency": "usda",
+  "n_sentences": 167,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        31
+      ],
+      "text": "NFC complies with the National Institute of Standards and Technology (NIST) and the Federal Information Security Management Act (FISMA), to ensure that data is protected from unauthorized access, malicious or inadvertent modification, disclosure, and disruption.",
+      "unit_ids": [
+        "439_usda_nfc-webta-application#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Standards compliance is presented in the privacy-impact analysis as protecting data from unauthorized access, modification, disclosure, and disruption.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        32
+      ],
+      "text": "NFC also works diligently to secure Personally Identifiable Information (PII) by requiring adequate training of employees and contractors that have access to the data.",
+      "unit_ids": [
+        "439_usda_nfc-webta-application#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Required employee and contractor training is presented as a means of securing PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "text": "NFC provides the degree of protection (administrative, technical, and physical safeguards) for the data collected as prescribed by the Privacy Act of 1974, 5 U.S.C. Section 552a. NFC ensures all data included in data file transmissions are provided, received, and stored in a secure manner. NFC protects, labels, and handles the data in accordance with 5 U.S.C. Section 552, Privacy act of 1974, as amended and applicable to agency regulations. All employees and contractors adhere to security requirements for handling and storing of Federal data as directed by the Electronic Government Act Title III, also known as FISMA.",
+      "unit_ids": [
+        "439_usda_nfc-webta-application#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Administrative, technical, physical, transmission, handling, and personnel safeguards are presented as protections for collected data.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        37
+      ],
+      "text": "Employees have access only to their own records; managers have access only to employees they supervise; and agency HR staff have access only to their agency employee information (as determined by the agency).",
+      "unit_ids": [
+        "439_usda_nfc-webta-application#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Access is limited according to each user's role and relationship to the records.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        44,
+        45,
+        46
+      ],
+      "text": "WebTA uses role based access and UserID/password to protect access to data. Employees have access only to their own records; managers have access only to employees they supervise; and agency human resources staff have access only to their agency employee information (as determined by the agency). Access to information is provided on a need-to-know basis and follows our \"least privilege\" policy.",
+      "unit_ids": [
+        "439_usda_nfc-webta-application#unit#0018"
+      ],
+      "section": "2.4 Privacy Impact Analysis: Describe any types of controls that may be in place to ensure that information is handled in accordance with the above described uses.",
+      "explanation": "Role-based authentication, need-to-know restrictions, and least privilege are presented as controls over information use.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        54
+      ],
+      "text": "NFC destroys data on paper and microfiche following the guidance and timelines in accordance with the Record Control Schedule N1-016-10-7.",
+      "unit_ids": [
+        "439_usda_nfc-webta-application#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Records are destroyed according to the approved retention schedule, managing risks from retaining data too long.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "text": "The system security officer handles requests for information pertaining to user accounts. Access control is based on the principle of least privilege, which refers to granting the minimum required system resources to a user that enables them to perform their duties. NFC grants authority to use/access WebTA at the request of the customers and the requesting user's ASO. Employees have access only to their own records; managers have access only to employees they supervise; and agency human resources staff have access only to their agency employee information (as determined by the agency). Access is requested/determined by the agency payroll/personnel offices, and based upon the application need, and level to access the data.",
+      "unit_ids": [
+        "439_usda_nfc-webta-application#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Account-request oversight, least privilege, agency authorization, and role limitations manage risks from internal sharing and access.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        77
+      ],
+      "text": "Data transmission risks are mitigated by the required use of secure file transmission methods for all information that is exchanged between WebTA and another system, agency, or organization.",
+      "unit_ids": [
+        "439_usda_nfc-webta-application#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "The agency explicitly states that required secure file-transfer methods mitigate data-transmission risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95
+      ],
+      "text": "The system security officer handles requests for information pertaining to user accounts. Access control is based on the principle of least privilege, which refers to granting the minimum required system resources to a user that enables them to perform their duties. NFC grants authority to use/access WebTA at the request of the customers and the requesting user's ASO. Employees have access only to their own records; managers have access only to employees they supervise; and agency human resources staff have access only to their agency employee information (as determined by the agency). Access is requested/determined by the agency payroll/personnel offices, and based upon the application need, and level to access the data. The proper controls are in place to protect the data and prevent unauthorized access.",
+      "unit_ids": [
+        "439_usda_nfc-webta-application#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Access oversight, least privilege, authorization requirements, role restrictions, and protective controls manage external-sharing access risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        96
+      ],
+      "text": "Data transmission risks are mitigated by the required use of secure file transmission methods for all information that is transmitted from WebTA to another system, agency, or organization.",
+      "unit_ids": [
+        "439_usda_nfc-webta-application#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "The agency explicitly states that secure transmission methods mitigate data-transmission risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        112,
+        113,
+        114,
+        115,
+        116
+      ],
+      "text": "NFC coordinates and communicates with the agencies that employ individuals, not directly with the employees. NFC provides the agencies with the SORN that is associated with WebTA. The agencies that use WebTA are responsible for making their employees aware of, and consent to, uses of their information for legitimate uses described in the SORN. The agencies are responsible for informing their employees of their rights to consent to particular uses of their information, as described in the SORN. The individual employees must coordinate directly with their employing agency regarding these rights.",
+      "unit_ids": [
+        "439_usda_nfc-webta-application#unit#0037"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Providing the SORN through employing agencies and informing employees of uses and consent rights addresses the risk that individuals are unaware of collection and use.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        117
+      ],
+      "text": "From a regulatory and management controls perspective, a copy of the redacted PIA is available on USDA's Office of the Chief Information Officer web site.",
+      "unit_ids": [
+        "439_usda_nfc-webta-application#unit#0037"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Publication of the redacted PIA provides additional public notice and transparency.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        123,
+        124
+      ],
+      "text": "It is the responsibility of the agency to ensure that personnel with access to correct data on individuals have the proper clearances, position sensitivity designations, and appropriate system access to the data. NFC access control procedures, role based security of the application, and agency reporting of individual access and utilization aid agency officials to mitigate the risks of agency individuals with improper access",
+      "unit_ids": [
+        "439_usda_nfc-webta-application#unit#0043"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Clearance requirements, role-based security, access procedures, and reporting are explicitly presented as reducing improper-access risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        136,
+        137
+      ],
+      "text": "A Risk Assessment was performed on PPS which included WebTA and the security controls have been documented in the System Security Plan. These controls are tested annually under SSAE 18, and an independent assessment is performed every three years or when changes are made to the system",
+      "unit_ids": [
+        "439_usda_nfc-webta-application#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Risk assessment, documented controls, annual testing, and periodic independent assessment manage security and privacy risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 15,
+      "type": "null_finding",
+      "sentence_ids": [
+        144
+      ],
+      "text": "There are no privacy concerns with the technology employed.",
+      "unit_ids": [
+        "439_usda_nfc-webta-application#unit#0053"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so please discuss their implementation.",
+      "explanation": "The agency explicitly states that the employed technology raises no privacy concerns.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        163,
+        164
+      ],
+      "text": "We do not track user web activities beyond their browsing the NFC Web site. We do not cross reference browsing habits with other entities, and we do not sell or give away user information to other entities.",
+      "unit_ids": [
+        "439_usda_nfc-webta-application#unit#0068"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Limiting activity tracking and avoiding cross-referencing, sale, or disclosure of user information reduce third-party website privacy exposure.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [],
+  "validation_problems": []
+}

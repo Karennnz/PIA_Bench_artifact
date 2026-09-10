@@ -1,0 +1,540 @@
+{
+  "document_id": "475_usda_document-management-system-dms",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0000",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0001",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0002",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0003",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0004",
+      "attributes": [
+        "context",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0005",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0006",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0007",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0008",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0009",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0010",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0011",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0012",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0013",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0014",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0015",
+      "attributes": [
+        "purpose",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0016",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0017",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0018",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0019",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0020",
+      "attributes": [
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0021",
+      "attributes": [
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "retention"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0022",
+      "attributes": [
+        "purpose"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0023",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0024",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0025",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0026",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0027",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0028",
+      "attributes": [
+        "purpose",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0029",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0030",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0031",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0032",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0033",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0034",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0035",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0036",
+      "attributes": [
+        "purpose",
+        "legal_basis"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0037",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0038",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0039",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0040",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0041",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0042",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0043",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0044",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0045",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0046",
+      "attributes": [
+        "purpose",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0047",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0048",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0049",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0050",
+      "attributes": [
+        "information_types",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0051",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0052",
+      "attributes": [
+        "context",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0053",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0054",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0055",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0056",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0057",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0058",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0059",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0060",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0061",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0062",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0063",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0064",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0065",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0066",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0067",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "475_usda_document-management-system-dms#unit#0068",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

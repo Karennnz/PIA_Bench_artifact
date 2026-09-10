@@ -1,0 +1,767 @@
+{
+  "chunk_id": "483_usda_farm-program-business-partner-farm-records-system-midas#chunk#00",
+  "doc_id": "483_usda_farm-program-business-partner-farm-records-system-midas",
+  "agency": "usda",
+  "n_sentences": 160,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        75
+      ],
+      "text": "Follow the format below: Privacy Risk : Privacy Act (PA) risks associated with the characterization of information may include: Misclassification of Data: Incorrectly categorizing PII which can lead to inadequate protection measures, exposing sensitive data to unauthorized access or misuse.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0025"
+      ],
+      "section": "2.6. PRIVACY IMPACT ANALYSIS: Related to Characterization of the Information",
+      "explanation": "Identifies harm from misclassifying personal information, including inadequate protection and unauthorized use.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        76
+      ],
+      "text": "Inadequate Security Controls: If PII is not properly identified and characterized, it may not receive the necessary security measures, increasing the risk of data breaches.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0025"
+      ],
+      "section": "2.6. PRIVACY IMPACT ANALYSIS: Related to Characterization of the Information",
+      "explanation": "Identifies increased breach risk when personal information is not properly characterized and protected.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        77
+      ],
+      "text": "Over-collection of Data: Misunderstanding classification of information may result in collecting more data than necessary, violating principles of data minimization and increasing exposure to risk.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0025"
+      ],
+      "section": "2.6. PRIVACY IMPACT ANALYSIS: Related to Characterization of the Information",
+      "explanation": "Identifies over-collection and increased exposure resulting from misunderstanding information classifications.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        78
+      ],
+      "text": "Mitigation : By Implementing some or all the following mitigation actions, mission areas can effectively characterize personal identifiable information (PII), manage privacy risks, and comply with the PA requirements: Data Classification Policy: Adhere to departments data classification policy that categorizes PII based on sensitivity and the potential impact of unauthorized access or disclosure.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0025"
+      ],
+      "section": "2.6. PRIVACY IMPACT ANALYSIS: Related to Characterization of the Information",
+      "explanation": "Prescribes sensitivity-based data classification as a response to characterization risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        79
+      ],
+      "text": "Regular Data Inventory: Conduct regular inventories of personal information to identify and categorize the types of data collected, stored, and processed by the organization.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0025"
+      ],
+      "section": "2.6. PRIVACY IMPACT ANALYSIS: Related to Characterization of the Information",
+      "explanation": "Prescribes regular inventories to identify and categorize personal information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        80
+      ],
+      "text": "Contextual Information Use: Ensure that the context in which personal information is collected and used is considered when characterizing data, recognizing how this affects privacy risks.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0025"
+      ],
+      "section": "2.6. PRIVACY IMPACT ANALYSIS: Related to Characterization of the Information",
+      "explanation": "Prescribes consideration of collection and use context when characterizing information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        92
+      ],
+      "text": "Follow the format below: Privacy Risk : Privacy act risks associated with the uses of information include: Unauthorized Use of Data: PII may be used for purposes other than those for which it was collected, violating privacy principles and user expectations.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0028"
+      ],
+      "section": "3.3. PRIVACY IMPACT ANALYSIS: Related to uses of the information.",
+      "explanation": "Identifies the possibility that personal information will be used for unauthorized purposes.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        93
+      ],
+      "text": "Data Misuse: Employees or third parties may misuse PII, either intentionally or unintentionally, leading to breaches of confidentiality and trust.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0028"
+      ],
+      "section": "3.3. PRIVACY IMPACT ANALYSIS: Related to uses of the information.",
+      "explanation": "Identifies intentional or accidental misuse that could breach confidentiality and trust.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        94
+      ],
+      "text": "Inadequate Consent: If individuals are not adequately informed about how their data will be used, or if consent is not appropriately obtained, it can result in legal non-compliance and ethical concerns.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0028"
+      ],
+      "section": "3.3. PRIVACY IMPACT ANALYSIS: Related to uses of the information.",
+      "explanation": "Identifies legal and ethical harm from inadequate notice or consent regarding data uses.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        95
+      ],
+      "text": "Mitigation : By Implementing some or all the following mitigation actions, mission areas may better safeguard PII and ensure responsible use in compliance with PA requirement: Purpose Limitation: Clearly define and communicate the specific purposes for which PII is collected and used, ensuring that it is not used for unrelated purposes without consent.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0028"
+      ],
+      "section": "3.3. PRIVACY IMPACT ANALYSIS: Related to uses of the information.",
+      "explanation": "Prescribes purpose limitation and communication of permitted uses.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        96
+      ],
+      "text": "Data Minimization: Collect and use only the minimum amount of PII necessary to achieve the intended purpose, reducing the risk of misuse.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0028"
+      ],
+      "section": "3.3. PRIVACY IMPACT ANALYSIS: Related to uses of the information.",
+      "explanation": "Prescribes minimizing collection and use to reduce misuse risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        97
+      ],
+      "text": "User Consent: Obtain explicit consent from individuals before using their personal information, particularly for purposes that go beyond the original intent of collection.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0028"
+      ],
+      "section": "3.3. PRIVACY IMPACT ANALYSIS: Related to uses of the information.",
+      "explanation": "Prescribes explicit consent for uses beyond the original collection purpose.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "risk",
+      "sentence_ids": [
+        101
+      ],
+      "text": "Follow the format below: Privacy Risk : Privacy Act risks associated with notices include: Inadequate Disclosure: Notices may fail to adequately inform individuals about how their personal information will be collected, used, and shared, leading to misunderstandings about privacy practices.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0032"
+      ],
+      "section": "4.3. PRIVACY IMPACT ANALYSIS: Related to Notice",
+      "explanation": "Identifies harm from notices that inadequately disclose collection, use, and sharing practices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "risk",
+      "sentence_ids": [
+        102
+      ],
+      "text": "Ambiguity: If notices are unclear or overly complex, individuals may not fully understand their rights or the mission area's data practices, leading to a lack of informed consent.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0032"
+      ],
+      "section": "4.3. PRIVACY IMPACT ANALYSIS: Related to Notice",
+      "explanation": "Identifies loss of informed consent when notices are unclear or overly complex.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "risk",
+      "sentence_ids": [
+        103
+      ],
+      "text": "Non-compliance with Regulations: Failing to provide required notices as stipulated by the Privacy Act can result in legal penalties and regulatory scrutiny.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0032"
+      ],
+      "section": "4.3. PRIVACY IMPACT ANALYSIS: Related to Notice",
+      "explanation": "Identifies legal and regulatory consequences from failing to provide required notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        104,
+        105
+      ],
+      "text": "Mitigation : Implementing some or all the following mitigation actions, mission areas can better protect individual privacy rights and comply with privacy act requirements: Clear Communication: Ensure that privacy notices are written in clear, accessible language. Avoid legal jargon to make it understandable for all users.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0032"
+      ],
+      "section": "4.3. PRIVACY IMPACT ANALYSIS: Related to Notice",
+      "explanation": "Prescribes clear, accessible notices without unnecessary legal jargon.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "mitigation",
+      "sentence_ids": [
+        106
+      ],
+      "text": "Regular Updates: Review and update privacy notices regularly to reflect changes in data practices, regulations, or business operations.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0032"
+      ],
+      "section": "4.3. PRIVACY IMPACT ANALYSIS: Related to Notice",
+      "explanation": "Prescribes regular notice reviews and updates to reflect current practices and requirements.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "mitigation",
+      "sentence_ids": [
+        107
+      ],
+      "text": "User Consent: Implement mechanisms for obtaining explicit user consent for data collection and processing and provide options for users to withdraw consent easily.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0032"
+      ],
+      "section": "4.3. PRIVACY IMPACT ANALYSIS: Related to Notice",
+      "explanation": "Prescribes mechanisms for explicit consent and consent withdrawal.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 19,
+      "type": "risk",
+      "sentence_ids": [
+        112
+      ],
+      "text": "Follow the format below: Privacy Risk : Privacy act risks associated with the retention of information include: Excessive Data Retention: Retaining PII longer than necessary can violate data minimization principles, increasing the risk of unauthorized access and exposure.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0036"
+      ],
+      "section": "5.3. PRIVACY IMPACT ANALYSIS : Related to retention of information.",
+      "explanation": "Identifies increased unauthorized-access exposure from retaining personal information too long.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 20,
+      "type": "risk",
+      "sentence_ids": [
+        113
+      ],
+      "text": "Data Breaches: The longer PII is retained, the greater the risk of data breaches occurring, whether through hacking, accidental disclosures, or insider threats.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0036"
+      ],
+      "section": "5.3. PRIVACY IMPACT ANALYSIS : Related to retention of information.",
+      "explanation": "Identifies increasing breach risk as the retention period grows.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 21,
+      "type": "risk",
+      "sentence_ids": [
+        114
+      ],
+      "text": "Non-compliance with Regulations: Failing to adhere to legal requirements regarding data retention periods can lead to regulatory penalties and legal liabilities.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0036"
+      ],
+      "section": "5.3. PRIVACY IMPACT ANALYSIS : Related to retention of information.",
+      "explanation": "Identifies legal and regulatory consequences from violating retention requirements.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 22,
+      "type": "mitigation",
+      "sentence_ids": [
+        116
+      ],
+      "text": "Data Retention Policy: Use NARA data retention policies that outlines how long different types of PII will be retained and the rationale for those timeframes.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0036"
+      ],
+      "section": "5.3. PRIVACY IMPACT ANALYSIS : Related to retention of information.",
+      "explanation": "Prescribes use of approved retention policies and defined retention rationales.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 23,
+      "type": "mitigation",
+      "sentence_ids": [
+        117
+      ],
+      "text": "Regular Reviews: Conduct regular reviews of stored data to ensure compliance with retention policies and to identify information that is no longer necessary for business purposes.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0036"
+      ],
+      "section": "5.3. PRIVACY IMPACT ANALYSIS : Related to retention of information.",
+      "explanation": "Prescribes reviews to enforce retention rules and identify unnecessary information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 24,
+      "type": "mitigation",
+      "sentence_ids": [
+        118
+      ],
+      "text": "Secure Disposal Procedures: Establish secure methods for the disposal of personal information that is no longer needed, such as shredding paper documents or using data-wiping software for electronic files.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0036"
+      ],
+      "section": "5.3. PRIVACY IMPACT ANALYSIS : Related to retention of information.",
+      "explanation": "Prescribes secure destruction of personal information that is no longer needed.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 25,
+      "type": "risk",
+      "sentence_ids": [
+        122
+      ],
+      "text": "Follow the format below: Privacy Risk : Information is shared internally between NRCS, RMA, FSA agencies is at risk for unauthorized access.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0039"
+      ],
+      "section": "6.2. PRIVACY IMPACT ANALYSIS: Related to internal sharing and disclosure.",
+      "explanation": "Identifies unauthorized-access risk arising from internal information sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 26,
+      "type": "mitigation",
+      "sentence_ids": [
+        123
+      ],
+      "text": "Mitigation : Information is transmitted via encrypted communication channel.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0039"
+      ],
+      "section": "6.2. PRIVACY IMPACT ANALYSIS: Related to internal sharing and disclosure.",
+      "explanation": "Uses encrypted communications to mitigate the stated internal-sharing risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 27,
+      "type": "mitigation",
+      "sentence_ids": [
+        124
+      ],
+      "text": "Data is controlled by role-based access and only available to users with authorized access.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0039"
+      ],
+      "section": "6.2. PRIVACY IMPACT ANALYSIS: Related to internal sharing and disclosure.",
+      "explanation": "Uses role-based restrictions to limit shared information to authorized users.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 28,
+      "type": "risk",
+      "sentence_ids": [
+        128
+      ],
+      "text": "Follow the format below: Privacy Risk : Privacy risks associated with external sharing and disclosure include: Unauthorized Access: Sharing PII with third parties increases the risk of unauthorized access, especially if those parties do not have adequate security measures in place.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0041"
+      ],
+      "section": "6.4. PRIVACY IMPACT ANALYSIS: Related to external sharing and disclosure.",
+      "explanation": "Identifies increased unauthorized-access risk when personal information is shared externally.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 29,
+      "type": "risk",
+      "sentence_ids": [
+        129
+      ],
+      "text": "Data Breaches: External sharing can lead to data breaches, either through hacking or inadvertent exposure, resulting in unauthorized individuals gaining access to sensitive information.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0041"
+      ],
+      "section": "6.4. PRIVACY IMPACT ANALYSIS: Related to external sharing and disclosure.",
+      "explanation": "Identifies breach and inadvertent-exposure risks associated with external sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 30,
+      "type": "risk",
+      "sentence_ids": [
+        130
+      ],
+      "text": "Loss of Control: Once PII is shared externally, mission areas may lose control over how that information is used, which can lead to misuse or unauthorized applications of the data.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0041"
+      ],
+      "section": "6.4. PRIVACY IMPACT ANALYSIS: Related to external sharing and disclosure.",
+      "explanation": "Identifies loss of control and possible misuse after information is shared externally.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 31,
+      "type": "mitigation",
+      "sentence_ids": [
+        132
+      ],
+      "text": "Data Sharing Policy: Develop a clear policy outlining the conditions under which PII can be shared externally, including legal and compliance requirements (ex.: Computer Matching Agreements, SORNs, Business Agreements).",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0041"
+      ],
+      "section": "6.4. PRIVACY IMPACT ANALYSIS: Related to external sharing and disclosure.",
+      "explanation": "Prescribes a policy defining lawful and compliant conditions for external sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 32,
+      "type": "mitigation",
+      "sentence_ids": [
+        133
+      ],
+      "text": "Due Diligence: Conduct thorough due diligence on third parties before sharing personal data, ensuring their privacy standards and practices are comparable to the PA and USDA requirements.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0041"
+      ],
+      "section": "6.4. PRIVACY IMPACT ANALYSIS: Related to external sharing and disclosure.",
+      "explanation": "Prescribes privacy due diligence before sharing information with third parties.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 33,
+      "type": "mitigation",
+      "sentence_ids": [
+        134
+      ],
+      "text": "Written Agreements: Establish written agreements or contracts with third parties that outline their responsibilities for safeguarding shared data and compliance with privacy laws.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0041"
+      ],
+      "section": "6.4. PRIVACY IMPACT ANALYSIS: Related to external sharing and disclosure.",
+      "explanation": "Prescribes agreements assigning third parties safeguarding and compliance obligations.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 34,
+      "type": "risk",
+      "sentence_ids": [
+        142
+      ],
+      "text": "Follow the format below: Privacy Risk : Privacy Act risks associated with redress include: Inadequate Processes: If the processes for individuals to seek redress for privacy violations are unclear or cumbersome, it can deter individuals from exercising their rights and lead to unresolved complaints.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0047"
+      ],
+      "section": "7.5. PRIVACY IMPACT ANALYSIS: Related to Redress.",
+      "explanation": "Identifies unresolved complaints and deterred rights exercise from unclear or burdensome redress processes.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 35,
+      "type": "risk",
+      "sentence_ids": [
+        143
+      ],
+      "text": "Lack of Transparency: Not providing clear information about how redress mechanisms work can create confusion and mistrust among individuals regarding their rights and the agency's accountability.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0047"
+      ],
+      "section": "7.5. PRIVACY IMPACT ANALYSIS: Related to Redress.",
+      "explanation": "Identifies confusion and mistrust caused by insufficient transparency about redress.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 36,
+      "type": "risk",
+      "sentence_ids": [
+        144
+      ],
+      "text": "Failure to Address Complaints: Mission areas or agencies may not adequately address or resolve complaints related to privacy violations, leading to dissatisfaction and potential legal repercussions.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0047"
+      ],
+      "section": "7.5. PRIVACY IMPACT ANALYSIS: Related to Redress.",
+      "explanation": "Identifies dissatisfaction and legal consequences from failing to resolve privacy complaints.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 37,
+      "type": "mitigation",
+      "sentence_ids": [
+        146
+      ],
+      "text": "Establish Clear Procedures: Develop and communicate clear procedures for individuals to submit complaints or requests for redress related to privacy violations.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0048"
+      ],
+      "section": "Privacy Impact Assessment",
+      "explanation": "Prescribes clear and communicated procedures for complaints and redress requests.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 38,
+      "type": "mitigation",
+      "sentence_ids": [
+        147
+      ],
+      "text": "User Awareness Campaigns: Educate users about their rights under the privacy act and the available redress mechanisms through workshops, newsletters, or online resources.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0048"
+      ],
+      "section": "Privacy Impact Assessment",
+      "explanation": "Prescribes education about privacy rights and available redress mechanisms.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 39,
+      "type": "mitigation",
+      "sentence_ids": [
+        148
+      ],
+      "text": "Dedicated Privacy Officer/Privacy Point of Contact: Appoint a dedicated privacy officer or other personnel responsible for handling redress requests and ensuring timely responses to complaints.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0048"
+      ],
+      "section": "Privacy Impact Assessment",
+      "explanation": "Prescribes dedicated personnel to handle redress requests and ensure timely action.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 40,
+      "type": "mitigation",
+      "sentence_ids": [
+        149
+      ],
+      "text": "Timely Response Protocols: Implement protocols for acknowledging and responding to redress requests promptly, ensuring that individuals feel heard and valued.",
+      "unit_ids": [
+        "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0048"
+      ],
+      "section": "Privacy Impact Assessment",
+      "explanation": "Prescribes prompt acknowledgment and response protocols for redress requests.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 2,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 2,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 3,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 3,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 13,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 14,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 13,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 15,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 18,
+      "risk_span_id": 14,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 19,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 21,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 23,
+      "risk_span_id": 19,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 23,
+      "risk_span_id": 21,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 24,
+      "risk_span_id": 19,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 24,
+      "risk_span_id": 20,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 25,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 27,
+      "risk_span_id": 25,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 31,
+      "risk_span_id": 28,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 31,
+      "risk_span_id": 30,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 32,
+      "risk_span_id": 28,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 32,
+      "risk_span_id": 29,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 33,
+      "risk_span_id": 28,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 33,
+      "risk_span_id": 29,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 33,
+      "risk_span_id": 30,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 37,
+      "risk_span_id": 34,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 37,
+      "risk_span_id": 35,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 38,
+      "risk_span_id": 34,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 38,
+      "risk_span_id": 35,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 39,
+      "risk_span_id": 34,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 39,
+      "risk_span_id": 36,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 40,
+      "risk_span_id": 34,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 40,
+      "risk_span_id": 36,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

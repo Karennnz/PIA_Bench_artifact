@@ -1,0 +1,228 @@
+{
+  "chunk_id": "039_cfpb_nonbank-registry-system-pia#chunk#01",
+  "doc_id": "039_cfpb_nonbank-registry-system-pia",
+  "agency": "cfpb",
+  "n_sentences": 74,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        0
+      ],
+      "text": "Privacy Risk : There is a risk that information may be shared in a manner that is inconsistent with the original collection.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0021"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Identifies possible sharing inconsistent with the original purpose of collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "text": "Mitigation : To mitigate this risk, the CFPB has implemented administrative and technical access controls that help to ensure information maintained within the NBR System is used according to the purposes identified in this PIA and other related notices. Only CFPB Staff have direct access to all the information collected and maintained in the NBR System. As noted above, information is shared with external parties, such as other regulators based on a need to know and in accordance with the NBR SORN, 24 the CFPB's regulations on Disclosure of Records and Information, and information sharing agreements. 23 NBR SORN, supra note 8. Finally, information disclosed in the public registry will be limited to nonbank identifying information, the name and title of the attesting executive (if applicable), and the covered order.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0021"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Presents access, need-to-know, disclosure, and public-release limitations as measures addressing inconsistent sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        5
+      ],
+      "text": "To prevent the unnecessary disclosure of information maintained in covered orders, covered nonbanks are instructed in the Orders Rule to redact any nonpublic portions of the covered orders before submitting them to the registry.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0021"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Requires submitters to redact nonpublic material to prevent unnecessary disclosure.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        6
+      ],
+      "text": "In order to avoid accidental publication of nonpublic information, the CFPB will conduct manual reviews prior to publication in order to mitigate any potential privacy risks, in accordance with applicable authorities.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0021"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Uses pre-publication manual review to avoid accidental release of nonpublic information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        7
+      ],
+      "text": "Privacy Risk : There is a risk of unauthorized access or use by nonbank account users (i.e., authorized representatives).",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0021"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Identifies possible unauthorized access or use by nonbank account users.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "text": "Mitigation : To mitigate this risk, the CFPB has implemented security and privacy safeguards to protect CFPB systems and the information maintained within the NBR System. For example, the Nonbank Registry Portal resides within the CFPB network. As a federal database, the NBR system is subject to the Federal Information Security Modernization Act (FISMA), 25 which requires the annual verification that all users who access federal systems have both the business need and the authorization to access the system. To comply with FISMA, government users must annually verify employment and that their role requires continued access to the NBR System. In addition, NBR account users are required to create user accounts via the Nonbank Registray Portal. NBR users can only log into their accounts with a username and password. NBR account users are also required to download and use a multi-factor authentication tool or application when logging into their user account. This tool will validate the NBR account user's identity every time they log into the NBR account. Additionally, nonbank entities are required to maintain at least one 'Point of Contact' user that is responsible for assigning and managing information access within the NBR Portal for other users of the nonbank. The CFPB implements role-based access controls to ensure NBR users only have access to the system and/or information necessary and relevant to their assigned duties. This ensures that authorized nonbank representatives only have access to the system to allow them to upload documents to the NBR System and information pertaining to their organization.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0021"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Explicitly responds to the unauthorized-access risk with identity verification, multifactor authentication, account management, and role-based restrictions.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        19,
+        20,
+        21
+      ],
+      "text": "Finally, the CFPB has established oversight controls to identify suspicious and/or authorized activity as discussed below in Section 6 of this PIA. For example, suspicious and/or unauthorized access is monitored and logged. Security administrators are notified of unusual behavior (e.g., disablement of security, login times, number of login attempts, failed login attempts) or misconduct (e.g., unauthorized removal of data) by authorized users.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0021"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Describes oversight, logging, and administrator notifications used to detect suspicious or unauthorized activity.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        55
+      ],
+      "text": "Privacy Risk : There is a risk that the NBR System and information maintained therein may be accessed by unauthorized individuals.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0025"
+      ],
+      "section": "Privacy  Impact  Analysis:  Related  to  Accountability,  Auditing,  and Security",
+      "explanation": "Identifies possible access to the system and its information by unauthorized individuals.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        56,
+        57,
+        58
+      ],
+      "text": "Mitigation : To mitigate this risk, the CFPB has implemented the above technical, physical, and administrative controls to safeguard PII and other sensitive information maintained in the NBR System. For example, access to the NBR System is limited to CFPB Staff who have a need to know the information in the performance of their duties. As noted above, CFPB Staff that require elevated privileges to complete their job functions must sign and electronically submit the Privileged User Access (PUA) Form to the CFPB ServiceDesk to obtain elevated access to NBR and review and acknowledge the Rules of Behavior for Privileged Users .",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0025"
+      ],
+      "section": "Privacy  Impact  Analysis:  Related  to  Accountability,  Auditing,  and Security",
+      "explanation": "Explicitly addresses unauthorized access through administrative, physical, and technical controls, including need-to-know and privileged-access procedures.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "text": "In addition, the CFPB has established oversight controls through robust auditing features to identify and support accountability for unauthorized use/misconduct. CFPB's 'Information Governance' Policy 33 outlines the established rules on the intake, management, disclosure, and disposition of information (in its various formats) at CFPB and applies to all CFPB users. As noted above, CFPB Staff are required to review and sign the CFPB's 'Acceptable Use of CFPB Technology Resources Policy' 34 and complete the privacy and security training, and annually thereafter, before access is granted to a CFPB system. Suspicious and/or unauthorized access is monitored and logged, thereby discouraging users from inappropriate access to CFPB systems. Security administrators are notified of unusual behavior (e.g., disablement of security, login times, number of login attempts, failed login attempts) or misconduct (e.g., unauthorized removal of data) by authorized users. For example, the CFPB employs extract logging and 90-day reviews to identify user behavior and staff actions around particular events, such as changes in the information or data, warnings, or errors that are unexpected, which are reviewed in relation to their job roles and workflow.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0025"
+      ],
+      "section": "Privacy  Impact  Analysis:  Related  to  Accountability,  Auditing,  and Security",
+      "explanation": "Uses governance requirements, training, auditing, monitoring, and event review to deter and identify unauthorized use or misconduct.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        65,
+        66
+      ],
+      "text": "If the system administrator notices that anyone has used a system or application in violation of CFPB policy, system access may be revoked. If there is evidence of potential misconduct, the incident may be referred to the appropriate CFPB office for investigation and further review and appropriate action.",
+      "unit_ids": [
+        "039_cfpb_nonbank-registry-system-pia#unit#0025"
+      ],
+      "section": "Privacy  Impact  Analysis:  Related  to  Accountability,  Auditing,  and Security",
+      "explanation": "Provides for access revocation, investigation, and further action when policy violations or misconduct are detected.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 8,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

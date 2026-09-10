@@ -1,0 +1,2503 @@
+{
+  "chunk_id": "465_usda_snap-information-database#chunk#00",
+  "doc_id": "465_usda_snap-information-database",
+  "agency": "usda",
+  "n_sentences": 226,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        46
+      ],
+      "text": "Privacy Risk : Privacy Act risks associated with the characterization of SNAP Information Database information may include: Overcollection of Data: Misunderstanding classification of information may result in collecting more data than necessary, violating principles of data minimization and increasing exposure to risk.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0023"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies overcollection and increased exposure resulting from mischaracterizing information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        47
+      ],
+      "text": "Noncompliance with Regulations: Failing to accurately characterize information can lead to noncompliance with privacy laws and regulations, resulting in legal penalties and reputational damage.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0023"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "States that inaccurate characterization may cause regulatory noncompliance, penalties, and reputational damage.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        48
+      ],
+      "text": "Lack of Individual Awareness: If individuals are not informed about how their PII is characterized and used, it can lead to a lack of trust and potential backlash against the organization.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0023"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies inadequate individual awareness and resulting loss of trust or backlash.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        49
+      ],
+      "text": "Failure to Honor Individual Rights: Mischaracterization may lead to difficulties in fulfilling individual rights requests, such as access or deletion, if the organization does not accurately track how data is categorized and used.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0023"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "States that mischaracterization may prevent fulfillment of individual privacy rights.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        50,
+        51
+      ],
+      "text": "Mitigation : Addressing risks through proper data characterization practices is essential for maintaining compliance with the Privacy Act and protecting individuals' personal information. By i mplementing the following mitigation actions, the SNAP Information Database can effectively characterize personal identifiable information (PII), manage privacy risks, and comply with the Privacy Act requirements.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0023"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Introduces proper data-characterization practices and the listed actions as responses to the stated risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        52
+      ],
+      "text": "Regular Data Inventory: Conduct regular inventories of personal information to identify and categorize the types of data collected, stored, and processed by the organization.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0023"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes regular data inventories to identify and categorize personal information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        53
+      ],
+      "text": "Individual Consent for Sensitive Data: Obtain explicit consent for the collection and processing of sensitive personal information, such as health or financial data, and ensure that individual s are aware of its characterization.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0023"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes explicit consent and awareness for sensitive-data processing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        54
+      ],
+      "text": "Regular Data Inventory: Conduct regular inventories of personal information to identify and categorize the types of data collected, stored, and processed by the organization.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0023"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Repeats the prescribed regular data-inventory control.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        66
+      ],
+      "text": "Privacy Risk : Privacy act risks associated with the uses of information by the SNAP Information Database include: Purpose Limitation: Using PII beyond its intended purpose can increase the risk of data exposure and violate privacy regulations.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies exposure and regulatory risks from using PII beyond its intended purpose.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "risk",
+      "sentence_ids": [
+        67
+      ],
+      "text": "Unauthorized Use of Data: PII may be used for purposes other than those for which it was collected, violating privacy principles and individual expectations.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies the possibility of unauthorized secondary use of PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        68
+      ],
+      "text": "Data Misuse: Employees or third parties may misuse PII, either intentionally or unintentionally, leading to breaches of confidentiality and trust.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies intentional or accidental misuse by employees or third parties.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "risk",
+      "sentence_ids": [
+        69
+      ],
+      "text": "Inadequate Consent: If individuals are not adequately informed about how their data will be used, or if consent is not appropriately obtained, it can result in legal non-compliance and ethical concerns.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies legal and ethical risks from inadequate notice or consent regarding data use.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "risk",
+      "sentence_ids": [
+        70
+      ],
+      "text": "Overuse of Information: Using PII beyond its intended purpose can increase the risk of data exposure and violate privacy regulations.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies exposure and regulatory risks from overuse of PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "risk",
+      "sentence_ids": [
+        71
+      ],
+      "text": "Loss of Data Control: When PII is shared with third parties, there is a risk of losing control over how that data is used, potentially leading to unauthorized access or exploitation.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies loss of control, unauthorized access, or exploitation following third-party sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "risk",
+      "sentence_ids": [
+        72
+      ],
+      "text": "Increased Risk of Data Breaches: The more PII is used and shared, the higher the risk of data breaches occurring, whether through hacking, accidental disclosures, or insider threats.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "States that greater use and sharing increase the likelihood of data breaches.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "risk",
+      "sentence_ids": [
+        73
+      ],
+      "text": "Negative Impact on Reputation: Misusing PII can harm the agency's reputation, leading to loss of customer trust and potential business losses.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies reputational and trust harms from misuse of PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "risk",
+      "sentence_ids": [
+        74
+      ],
+      "text": "Failure to Honor Individual Rights: Inadequate processes for managing the use of PII may result in the inability to fulfill individual rights requests, such as access, correction, or deletion.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies inability to fulfill access, correction, or deletion rights.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "risk",
+      "sentence_ids": [
+        75
+      ],
+      "text": "Compliance Violations: Using information in ways that are not compliant with privacy acts can lead to legal penalties, audits, and increased scrutiny from regulators.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies penalties and scrutiny from noncompliant information use.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 19,
+      "type": "mitigation",
+      "sentence_ids": [
+        76
+      ],
+      "text": "Mitigation : By implementing some or all the following mitigation actions, the SNAP Information Database may better safeguard PII and ensure responsible use in compliance with Privacy Act requirements: Monitoring and Auditing: Regularly monitor and audit the use of personal information to ensure compliance with privacy policies and identify any unauthorized or inappropriate uses.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes monitoring and auditing to detect unauthorized uses and ensure compliance.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 20,
+      "type": "mitigation",
+      "sentence_ids": [
+        77
+      ],
+      "text": "Data Minimization: Collect and use only the minimum amount of PII necessary to achieve the intended purpose, reducing the risk of misuse.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes data minimization to reduce misuse risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 21,
+      "type": "mitigation",
+      "sentence_ids": [
+        78
+      ],
+      "text": "Regular Training: Provide regular training for employees on privacy laws and the importance of adhering to the defined uses of personal information to ensure compliance.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes privacy training to promote compliant use of information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 22,
+      "type": "mitigation",
+      "sentence_ids": [
+        79
+      ],
+      "text": "Individual Consent: Obtain explicit consent from individuals before using their personal information, particularly for purposes that go beyond the original intent of collection.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes explicit consent for uses beyond the original collection purpose.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 23,
+      "type": "mitigation",
+      "sentence_ids": [
+        80
+      ],
+      "text": "Transparency: Inform individuals about how their personal information will be used, including any potential secondary uses, through clear and accessible privacy notices.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes transparent notice of primary and secondary uses.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 24,
+      "type": "mitigation",
+      "sentence_ids": [
+        81
+      ],
+      "text": "Access Controls: Implement access controls to restrict who can use personal information and for what purposes, ensuring that only authorized personnel have access to sensitive data.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes purpose-based access controls for sensitive data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 25,
+      "type": "mitigation",
+      "sentence_ids": [
+        82
+      ],
+      "text": "Incident Response Plan: Follow department incident response plan to address any misuse of PII, outlining procedures for reporting and mitigating such incidents.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes incident-response procedures for PII misuse.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 26,
+      "type": "mitigation",
+      "sentence_ids": [
+        83
+      ],
+      "text": "Privacy Impact Assessments (PIAs): Conduct PIAs for new projects or uses of PII to assess potential risks to privacy and implement measures to mitigate them.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes PIAs to identify privacy risks and implement mitigating measures.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 27,
+      "type": "mitigation",
+      "sentence_ids": [
+        84
+      ],
+      "text": "Individual Rights Awareness: Make individuals aware of their rights regarding their personal information, including the right to access, correct, or request deletion of their data.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0025"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes informing individuals of access, correction, and deletion rights.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 28,
+      "type": "risk",
+      "sentence_ids": [
+        91
+      ],
+      "text": "Privacy Act risks associated with notices include: Inadequate Disclosure: Notices may fail to adequately inform individuals about how their personal information will be collected, used, and shared, leading to misunderstandings about privacy practices.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies inadequate disclosure and resulting misunderstandings about privacy practices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 29,
+      "type": "risk",
+      "sentence_ids": [
+        92
+      ],
+      "text": "Ambiguity: If notices are unclear or overly complex, individuals may not fully understand their rights or the SNAP Information Database's data practices, leading to a lack of informed consent.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies unclear notices and resulting lack of understanding or informed consent.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 30,
+      "type": "risk",
+      "sentence_ids": [
+        93
+      ],
+      "text": "Non-C ompliance with Regulations: Failing to provide required notices as stipulated by the Privacy Act can result in legal penalties and regulatory scrutiny.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies penalties and scrutiny from failure to provide required notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 31,
+      "type": "risk",
+      "sentence_ids": [
+        94
+      ],
+      "text": "Insufficient Updates: Notices that are not regularly updated to reflect changes in data practices or legal requirements can mislead individuals and result in privacy violations.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies misleading or violative notices that are not kept current.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 32,
+      "type": "risk",
+      "sentence_ids": [
+        95
+      ],
+      "text": "Lack of Accessibility: Notices that are not easily accessible or understandable to all individuals, including those with disabilities or language barriers, can lead to exclusion and non-compliance.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies exclusion and noncompliance from inaccessible notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 33,
+      "type": "risk",
+      "sentence_ids": [
+        96
+      ],
+      "text": "Failure to Communicate Changes: Not adequately informing individuals about changes to privacy practices or policies can lead to confusion and mistrust, especially if data practices evolve.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies confusion and mistrust when privacy-practice changes are not communicated.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 34,
+      "type": "risk",
+      "sentence_ids": [
+        97
+      ],
+      "text": "Overcollection of Data: If notices do not clearly explain the purpose of data collection, individuals may be more likely to provide information that is not necessary, leading to potential data minimization violations.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies unnecessary collection caused by notices that do not explain collection purposes.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 35,
+      "type": "risk",
+      "sentence_ids": [
+        98
+      ],
+      "text": "Inconsistent Messaging: Different notices provided by various states may contain conflicting information, causing confusion and undermining trust.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies confusion and loss of trust from inconsistent state notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 36,
+      "type": "risk",
+      "sentence_ids": [
+        99
+      ],
+      "text": "Underestimating Individual Rights: Notices that do not clearly outline individuals' rights regarding their personal information can prevent them from exercising those rights effectively.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies inability to exercise rights when notices do not explain them.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 37,
+      "type": "mitigation",
+      "sentence_ids": [
+        100,
+        101
+      ],
+      "text": "Mitigation : Implementing some or all the following mitigation actions, the SNAP Information Database, and by extension states, can better protect individual privacy rights and comply with privacy act requirements: Clear Communication: Ensure that privacy notices are written in clear, accessible language. Avoid legal jargon to make it understandable for all individuals.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes clear, accessible, jargon-free privacy notices in response to notice risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 38,
+      "type": "mitigation",
+      "sentence_ids": [
+        102
+      ],
+      "text": "Regular Updates: Review and update privacy notices regularly to reflect changes in data practices, regulations, or business operations.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes regular notice reviews and updates.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 39,
+      "type": "mitigation",
+      "sentence_ids": [
+        103
+      ],
+      "text": "Feedback Mechanism: Establish a process for individual s to ask questions or express concerns about privacy notices and practices, allowing for continuous improvement.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes a mechanism for questions and concerns about notices and privacy practices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 40,
+      "type": "mitigation",
+      "sentence_ids": [
+        104
+      ],
+      "text": "Individual Consent: Implement mechanisms for obtaining explicit individual consent for data collection and processing and provide options for individuals to withdraw consent easily.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes explicit-consent and consent-withdrawal mechanisms.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 41,
+      "type": "mitigation",
+      "sentence_ids": [
+        105
+      ],
+      "text": "Transparency: Clearly outline what personal data is being collected, the purpose of data collection, how it will be used, and who it will be shared with.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes notice of collected data, purposes, uses, and recipients.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 42,
+      "type": "mitigation",
+      "sentence_ids": [
+        106,
+        107
+      ],
+      "text": "Data Minimization: Limit data collection to only what is necessary for the stated purpose. Avoid collecting excessive or irrelevant data.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes limiting collection to necessary information and avoiding excessive data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 43,
+      "type": "mitigation",
+      "sentence_ids": [
+        108
+      ],
+      "text": "Individual Rights: Inform individual s about their rights regarding their personal data, including access, correction, deletion, and the ability to object to processing.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes notice of individual access, correction, deletion, and objection rights.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 44,
+      "type": "mitigation",
+      "sentence_ids": [
+        109
+      ],
+      "text": "Accessibility: Make privacy notices easily accessible on websites and apps, ensuring they can be found without difficulty.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes making privacy notices easy to locate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 45,
+      "type": "mitigation",
+      "sentence_ids": [
+        110
+      ],
+      "text": "Third -Party Compliance: Ensure that any third parties handling personal data adhere to the same privacy standards and practices as outlined in their privacy notices.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0029"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes consistent privacy compliance by third parties handling personal data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 46,
+      "type": "risk",
+      "sentence_ids": [
+        120
+      ],
+      "text": "Follow this format: Privacy Risk : Privacy act risks associated with the retention of information within the SNAP Information Database include: Excessive Data Retention: Retaining PII longer than necessary can violate data minimization principles, increasing the risk of unauthorized access and exposure.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies unauthorized-access and exposure risks from excessive retention.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 47,
+      "type": "risk",
+      "sentence_ids": [
+        121
+      ],
+      "text": "Data Breaches: The longer PII is retained, the greater the risk of data breaches occurring, whether through hacking, accidental disclosures, or insider threats.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "States that longer retention increases breach risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 48,
+      "type": "risk",
+      "sentence_ids": [
+        122
+      ],
+      "text": "Noncompliance with Regulations: Failing to adhere to legal requirements regarding data retention periods can lead to regulatory penalties and legal liabilities.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies penalties and liability from violating retention requirements.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 49,
+      "type": "risk",
+      "sentence_ids": [
+        123
+      ],
+      "text": "Obsolescence of Data: Retained data may become outdated or irrelevant, leading to inaccuracies in decisionmaking or service delivery, which can affect individuals negatively.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies adverse effects from retaining obsolete or inaccurate data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 50,
+      "type": "risk",
+      "sentence_ids": [
+        124
+      ],
+      "text": "Inadequate Disposal Procedures: If the SNAP Information Database does not have secure methods for disposing PII that is no longer needed, it can lead to unintended exposure of sensitive data.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies unintended exposure from insecure disposal practices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 51,
+      "type": "risk",
+      "sentence_ids": [
+        125
+      ],
+      "text": "Inconsistent Retention Practices: Different states or external federal agencies with which SNAP Information Database data is shared may follow varying retention practices, resulting in confusion and potential violations of privacy policies.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies confusion and policy violations from inconsistent retention practices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 52,
+      "type": "risk",
+      "sentence_ids": [
+        126
+      ],
+      "text": "Failure to Honor Individual Requests: Retaining information longer than necessary may hinder the SNAP Information Database's ability to fulfill individual requests for data deletion or access, leading to dissatisfaction and potential legal issues.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies interference with deletion or access requests caused by over-retention.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 53,
+      "type": "risk",
+      "sentence_ids": [
+        127
+      ],
+      "text": "Increased Legal Risks: Long retention periods can increase the risk of being involved in litigation, as older data may be subjected to subpoenas or discovery requests.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies increased litigation and discovery exposure from long retention periods.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 54,
+      "type": "risk",
+      "sentence_ids": [
+        128
+      ],
+      "text": "Reputation Damage: Inadequate retention practices can lead to public relations issues and damage a department's reputation if PII is mishandled or exposed.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies reputational harm from mishandling or exposing retained PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 55,
+      "type": "risk",
+      "sentence_ids": [
+        129
+      ],
+      "text": "Lack of Accountability: Without proper oversight of retention practices, there may be a lack of accountability for data management, increasing the risk of errors and privacy violations.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies errors and privacy violations arising from inadequate retention oversight.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 56,
+      "type": "mitigation",
+      "sentence_ids": [
+        130
+      ],
+      "text": "Mitigation : Implementing the following mitigation actions, the SNAP Information Database can ensure responsible retention of PII while complying with the Privacy Act.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Introduces the listed retention controls as measures for managing the stated risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 57,
+      "type": "mitigation",
+      "sentence_ids": [
+        131
+      ],
+      "text": "Data Retention Policy: Use NARA data retention policies that outlines how long different types of PII will be retained and the rationale for those timeframes.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes a NARA-based retention policy with defined periods and rationales.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 58,
+      "type": "mitigation",
+      "sentence_ids": [
+        132
+      ],
+      "text": "Data Minimization: Collect and retain only the PII that is necessary for the intended purpose, minimizing the risk associated with holding excessive data.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes collecting and retaining only necessary PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 59,
+      "type": "mitigation",
+      "sentence_ids": [
+        133
+      ],
+      "text": "Regular Reviews: Conduct regular reviews of stored data to ensure compliance with retention policies and to identify information that is no longer necessary for business purposes.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes periodic review to enforce retention policy and identify unnecessary data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 60,
+      "type": "mitigation",
+      "sentence_ids": [
+        134
+      ],
+      "text": "Access Controls: I mplement strict access controls to limit who can view and manage retained personal information, reducing the risk of unauthorized access.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes strict access controls for retained personal information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 61,
+      "type": "mitigation",
+      "sentence_ids": [
+        135
+      ],
+      "text": "Audit Trail: Maintain an audit trail to document when data is collected, accessed, and disposed of, which can help demonstrate compliance with retention policies.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes audit trails for collection, access, and disposal.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 62,
+      "type": "mitigation",
+      "sentence_ids": [
+        136
+      ],
+      "text": "Compliance Checks: Regularly conduct compliance checks to ensure that retention practices align with legal requirements and organizational policies.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes compliance checks for legal and organizational retention requirements.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 63,
+      "type": "mitigation",
+      "sentence_ids": [
+        137
+      ],
+      "text": "Retention Schedule: Follow a retention schedule that specifies the duration for retaining different types of records and when they should be reviewed or disposed of.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes a schedule defining retention, review, and disposal periods.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 64,
+      "type": "mitigation",
+      "sentence_ids": [
+        138
+      ],
+      "text": "Secure Disposal Procedures: Establish secure methods for the disposal of personal information that is no longer needed, such as shredding paper documents or using datawiping software for electronic files.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes secure destruction of unneeded paper and electronic information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 65,
+      "type": "mitigation",
+      "sentence_ids": [
+        139
+      ],
+      "text": "Documentation and Training: Ensure that employees are aware of and trained on the data retention policy, including the importance of compliance and the procedures for handling personal information.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes retention-policy documentation and employee training.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 66,
+      "type": "mitigation",
+      "sentence_ids": [
+        140
+      ],
+      "text": "Individual Rights Notification: Inform individuals about their rights regarding data retention, including the right to request deletion of their personal information when it is no longer necessary for the purposes for which it was collected.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0032"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes notice of individual rights concerning retention and deletion.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 67,
+      "type": "risk",
+      "sentence_ids": [
+        144
+      ],
+      "text": "Follow this format: Privacy Risk : Minimal due to access controls that includes roles that are integrated into the USDA eAuthentication Application .",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0035"
+      ],
+      "section": "Internal Privacy Impact Analysis",
+      "explanation": "States that internal-sharing privacy risk exists but is minimal because of role-based access controls.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 68,
+      "type": "mitigation",
+      "sentence_ids": [
+        145
+      ],
+      "text": "Mitigation : All access will be managed using the USDA eAuthentication Application.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0035"
+      ],
+      "section": "Internal Privacy Impact Analysis",
+      "explanation": "Explicitly identifies USDA eAuthentication access management as the mitigation.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 69,
+      "type": "risk",
+      "sentence_ids": [
+        149
+      ],
+      "text": "Follow this format: Privacy Risk : Privacy Act risks associated with sharing information externally include: Unauthorized Access: Sharing PII with third parties increases the risk of unauthorized access, especially if those parties do not have adequate security measures in place.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Identifies increased unauthorized-access risk when PII is shared with third parties.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 70,
+      "type": "risk",
+      "sentence_ids": [
+        150
+      ],
+      "text": "Data Breaches: External sharing can lead to data breaches, either through hacking or inadvertent exposure, resulting in unauthorized individuals gaining access to sensitive information.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Identifies breach and inadvertent-exposure risks from external sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 71,
+      "type": "risk",
+      "sentence_ids": [
+        151
+      ],
+      "text": "Loss of Control: Once PII is shared externally, the SNAP Information Database and USDA may lose control over how that information is used, which can lead to misuse or unauthorized applications of the data.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Identifies loss of control and potential misuse after external disclosure.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 72,
+      "type": "risk",
+      "sentence_ids": [
+        152
+      ],
+      "text": "Noncompliance with Regulations: Sharing PII without proper consent or outside the parameters set by privacy laws can result in legal penalties and reputational damage.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Identifies penalties and reputational damage from unlawful or nonconsensual sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 73,
+      "type": "risk",
+      "sentence_ids": [
+        153
+      ],
+      "text": "Inconsistent Data Management Practices: Different third parties may have varying practices for handling PII, leading to inconsistencies in data protection and increased risks.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Identifies increased protection risks from inconsistent third-party data practices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 74,
+      "type": "risk",
+      "sentence_ids": [
+        154
+      ],
+      "text": "Insufficient Due Diligence: Failing to conduct proper due diligence on third parties before sharing PII can expose the SNAP Information Database to risks associated with partnering with unreliable or non -compliant entities.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Identifies exposure from inadequate third-party due diligence.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 75,
+      "type": "risk",
+      "sentence_ids": [
+        155
+      ],
+      "text": "Public Perception and Trust Erosion: External sharing of PII, especially if not communicated transparently, can lead to public distrust and negative perceptions of the SNAP Information Database or agency.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Identifies public distrust from nontransparent external sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 76,
+      "type": "risk",
+      "sentence_ids": [
+        156
+      ],
+      "text": "Reputational Damage: I f shared PII is misused or leads to negative outcomes for individuals, it can result in significant reputational harm to the SNAP Information Databas e or agency responsible for the data.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Identifies reputational harm if shared PII is misused or harms individuals.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 77,
+      "type": "risk",
+      "sentence_ids": [
+        157
+      ],
+      "text": "Limited Individual Awareness: Individuals may not be fully aware of how their PII is being shared or the potential risks involved, leading to a lack of informed consent.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Identifies lack of awareness and informed consent concerning external sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 78,
+      "type": "risk",
+      "sentence_ids": [
+        158
+      ],
+      "text": "Legal Liability: The SNAP Information Database and USDA may face lawsuits or legal actions if individuals believe their PII has been mishandled or improperly disclosed, resulting in financial and operational impacts.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Identifies legal and operational consequences of mishandled or improper disclosure.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 79,
+      "type": "mitigation",
+      "sentence_ids": [
+        159
+      ],
+      "text": "Mitigation : Implementing the following mitigation actions, the SNAP Information Database can manage the risk associated with external sharing and disclosure of personal information while complying with Privacy Act requirements.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Introduces the listed controls as measures for managing external-sharing risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 80,
+      "type": "mitigation",
+      "sentence_ids": [
+        160
+      ],
+      "text": "Access Controls: Implement strict access controls to ensure that only authorized personnel can share or disclose PII externally.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Prescribes access controls restricting who may disclose PII externally.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 81,
+      "type": "mitigation",
+      "sentence_ids": [
+        161
+      ],
+      "text": "Security Measures: Employ robust security measures, such as encryption and secure transfer protocols, when sharing personal data to protect it during transmission.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Prescribes encryption and secure transfer protocols for external sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 82,
+      "type": "mitigation",
+      "sentence_ids": [
+        162
+      ],
+      "text": "Data Sharing Policy: Develop a clear policy outlining the conditions under which PII can be shared externally, including legal and compliance requirements (ex.: Computer Matching Agreements, SORNs, Business Agreements).",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Prescribes a policy defining lawful and compliant sharing conditions.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 83,
+      "type": "mitigation",
+      "sentence_ids": [
+        163
+      ],
+      "text": "Due Diligence: Conduct thorough due diligence on third parties before sharing personal data, ensuring their privacy standards and practices are comparable to the PA and USDA requirements.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Prescribes due diligence regarding third-party privacy practices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 84,
+      "type": "mitigation",
+      "sentence_ids": [
+        164
+      ],
+      "text": "Written Agreements: Establish written agreements or contracts with third parties that outline their responsibilities for safeguarding shared data and compliance with privacy laws.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Prescribes written agreements defining third-party safeguarding and compliance duties.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 85,
+      "type": "mitigation",
+      "sentence_ids": [
+        165
+      ],
+      "text": "Need -toKnow Basis: Limit the sharing of PII to only what is necessary for the intended purpose, adhering to the principle of data minimization.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Prescribes limiting external sharing to information necessary for the purpose.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 86,
+      "type": "mitigation",
+      "sentence_ids": [
+        166
+      ],
+      "text": "Individual Consent: Obtain explicit consent from individuals before sharing their personal information with third parties.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Prescribes explicit consent before third-party sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 87,
+      "type": "mitigation",
+      "sentence_ids": [
+        167
+      ],
+      "text": "Transparency with Individuals: Clearly inform individuals about potential external sharing of their personal data in privacy notices, including the types of entities with whom data may be shared and the purposes for sharing.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Prescribes transparent notice of sharing recipients and purposes.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 88,
+      "type": "mitigation",
+      "sentence_ids": [
+        168
+      ],
+      "text": "Access Controls: Implement strict access controls to ensure that only authorized personnel can share or disclose PII externally.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Repeats the prescribed access controls for external disclosure.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 89,
+      "type": "mitigation",
+      "sentence_ids": [
+        169
+      ],
+      "text": "Individual Consent: Obtain explicit consent from individuals before sharing their personal information with third parties.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Repeats the prescribed explicit-consent control.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 90,
+      "type": "mitigation",
+      "sentence_ids": [
+        170
+      ],
+      "text": "Regular Audits: Conduct regular audits of data sharing practices and third -party compliance to ensure adherence to privacy policies and legal requirements.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Prescribes audits of sharing practices and third-party compliance.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 91,
+      "type": "mitigation",
+      "sentence_ids": [
+        171
+      ],
+      "text": "Incident Response Plan: Develop an incident response plan that outlines procedures for addressing potential data breaches or unauthorized disclosures related to external sharing.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0037"
+      ],
+      "section": "External Privacy Impact Analysis",
+      "explanation": "Prescribes incident-response procedures for external breaches and unauthorized disclosures.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 92,
+      "type": "risk",
+      "sentence_ids": [
+        179
+      ],
+      "text": "Follow this format: Privacy Risk : Privacy Act risks associated with redress include: Inadequate Processes: If the processes for individuals to seek redress for privacy violations are unclear or cumbersome, it can deter individuals from exercising their rights and lead to unresolved complaints.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies deterrence and unresolved complaints caused by unclear or burdensome redress processes.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 93,
+      "type": "risk",
+      "sentence_ids": [
+        180
+      ],
+      "text": "Lack of Transparency: Not providing clear information about how redress mechanisms work can create confusion and mistrust among individuals regarding their rights and the agency's accountability.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies confusion and mistrust from inadequate redress transparency.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 94,
+      "type": "risk",
+      "sentence_ids": [
+        181
+      ],
+      "text": "Failure to Address Complaints: The SNAP Information Database or agencies may not adequately address or resolve complaints related to privacy violations, leading to dissatisfaction and potential legal repercussions.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies dissatisfaction and legal consequences when privacy complaints are not resolved.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 95,
+      "type": "risk",
+      "sentence_ids": [
+        182
+      ],
+      "text": "Delayed Responses: Slow responses to redress requests can frustrate individuals and exacerbate feelings of mistrust and dissatisfaction, potentially leading to reputational harm.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies frustration, mistrust, and reputational harm from delayed responses.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 96,
+      "type": "risk",
+      "sentence_ids": [
+        183
+      ],
+      "text": "Inconsistent Application: If redress processes are applied inconsistently across different cases or agencies, it can lead to perceptions of unfairness and bias, undermining trust in the entire department.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies unfairness and loss of trust from inconsistent redress processes.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 97,
+      "type": "risk",
+      "sentence_ids": [
+        184
+      ],
+      "text": "Insufficient Recordkeeping: Poor documentation of redress requests and outcomes can hinder an agency's ability to identify patterns of violations, learn from mistakes, and improve practices.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies inability to detect patterns and improve practices because of poor redress records.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 98,
+      "type": "risk",
+      "sentence_ids": [
+        185
+      ],
+      "text": "Legal Exposure: Failing to provide adequate redress options may expose the SNAP Information Database or USDA to legal challenges, including lawsuits or regulatory scrutiny, especially if individuals feel their rights have been violated.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies lawsuits and regulatory scrutiny from inadequate redress options.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 99,
+      "type": "risk",
+      "sentence_ids": [
+        186
+      ],
+      "text": "Reputation Damage: Public knowledge of inadequate redress mechanisms can damage the department's reputation, leading to loss of customer trust and potential business impacts.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies reputational and trust harm from inadequate redress mechanisms.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 100,
+      "type": "risk",
+      "sentence_ids": [
+        187
+      ],
+      "text": "Lack of Accountability: Without effective redress mechanisms, the SNAP Information Database or USDA may not be held accountable for privacy violations, which can perpetuate poor data handling practices.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies lack of accountability and continued poor data handling without effective redress.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 101,
+      "type": "risk",
+      "sentence_ids": [
+        188
+      ],
+      "text": "Discrimination: If redress mechanisms are not accessible to all individuals equally, it may lead to discrimination, where certain groups may find it harder to seek and obtain redress.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Identifies discriminatory effects from unequally accessible redress mechanisms.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 102,
+      "type": "mitigation",
+      "sentence_ids": [
+        189,
+        190
+      ],
+      "text": "Mitigation : To mitigate redress risks, the SNAP Information Database must establish clear, accessible, and effective redress mechanisms, providing transparent information about the process, ensuring timely responses, and maintaining thorough documentation of all complaints and resolutions. Implementing the following mitigati on actions, the SNAP Information Database can enhance redress mechanisms, ensuring individuals have effective means to address privacy concerns.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Requires clear, accessible, timely, documented, and effective redress mechanisms in response to the listed risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 103,
+      "type": "mitigation",
+      "sentence_ids": [
+        191
+      ],
+      "text": "Establish Clear Procedures: Develop and communicate clear procedures for individuals to submit complaints or requests for redress related to privacy violations.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes clear and communicated complaint and redress procedures.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 104,
+      "type": "mitigation",
+      "sentence_ids": [
+        192
+      ],
+      "text": "User Awareness Campaigns: Educate users about their rights under the privacy act and the available redress mechanisms through workshops, newsletters, or online resources.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes education about privacy rights and available redress mechanisms.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 105,
+      "type": "mitigation",
+      "sentence_ids": [
+        193
+      ],
+      "text": "Dedicated Point of Contact: Appoint dedicated personnel who are responsible for handling redress requests and ensuring timely responses to complaints.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes dedicated personnel for complaints and timely responses.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 106,
+      "type": "mitigation",
+      "sentence_ids": [
+        194
+      ],
+      "text": "Timely Response Protocols: Implement protocols for acknowledging and responding to redress requests promptly, ensuring that individuals feel heard and valued.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes prompt acknowledgment and response protocols.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 107,
+      "type": "mitigation",
+      "sentence_ids": [
+        195
+      ],
+      "text": "Investigation Processes: Create structured process for investigating redress requests, including gathering necessary information and documenting findings.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes structured investigation and documentation of redress requests.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 108,
+      "type": "mitigation",
+      "sentence_ids": [
+        196
+      ],
+      "text": "Remediation Options: Offer various remediation options, such as data correction, deletion, or compensation, depending on the nature of the complaint and the organization's policies.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes correction, deletion, compensation, and other remediation options.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 109,
+      "type": "mitigation",
+      "sentence_ids": [
+        197
+      ],
+      "text": "Feedback Mechanisms: Establish feedback channels for individuals to provide insights on the redress process, helping to improve the system continuously.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes feedback channels to improve the redress process.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 110,
+      "type": "mitigation",
+      "sentence_ids": [
+        198
+      ],
+      "text": "Regular Training: Provide ongoing training for employees on handling privacy complaints and the importance of adhering to redress procedures.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes employee training for consistent handling of privacy complaints.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 111,
+      "type": "mitigation",
+      "sentence_ids": [
+        199
+      ],
+      "text": "Monitoring and Reporting: Regularly monitor redress requests and outcomes to identify trends, potential issues, and areas for improvement in privacy practices.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes monitoring and reporting to identify trends and improve accountability.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 112,
+      "type": "mitigation",
+      "sentence_ids": [
+        200
+      ],
+      "text": "Transparency in Outcomes: Communicate the outcomes of redress requests to the individuals involved, ensuring transparency and fostering trust in the process.",
+      "unit_ids": [
+        "465_usda_snap-information-database#unit#0043"
+      ],
+      "section": "Privacy Impact Analysis",
+      "explanation": "Prescribes communicating redress outcomes to improve transparency and trust.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 2,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 4,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 2,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 2,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 4,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 19,
+      "risk_span_id": 9,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 19,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 19,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 19,
+      "risk_span_id": 18,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 20,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 20,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 20,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 20,
+      "risk_span_id": 13,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 20,
+      "risk_span_id": 15,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 21,
+      "risk_span_id": 9,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 21,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 21,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 21,
+      "risk_span_id": 18,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 12,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 13,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 23,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 23,
+      "risk_span_id": 12,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 23,
+      "risk_span_id": 13,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 24,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 24,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 24,
+      "risk_span_id": 14,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 24,
+      "risk_span_id": 15,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 25,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 25,
+      "risk_span_id": 15,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 9,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 10,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 11,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 12,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 13,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 14,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 15,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 16,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 17,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 18,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 27,
+      "risk_span_id": 17,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 37,
+      "risk_span_id": 28,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 37,
+      "risk_span_id": 29,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 37,
+      "risk_span_id": 32,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 37,
+      "risk_span_id": 36,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 38,
+      "risk_span_id": 30,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 38,
+      "risk_span_id": 31,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 38,
+      "risk_span_id": 33,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 39,
+      "risk_span_id": 28,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 39,
+      "risk_span_id": 29,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 40,
+      "risk_span_id": 28,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 40,
+      "risk_span_id": 34,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 41,
+      "risk_span_id": 28,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 41,
+      "risk_span_id": 29,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 41,
+      "risk_span_id": 34,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 41,
+      "risk_span_id": 36,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 42,
+      "risk_span_id": 34,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 43,
+      "risk_span_id": 36,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 44,
+      "risk_span_id": 32,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 45,
+      "risk_span_id": 30,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 45,
+      "risk_span_id": 35,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 56,
+      "risk_span_id": 46,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 56,
+      "risk_span_id": 47,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 56,
+      "risk_span_id": 48,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 56,
+      "risk_span_id": 49,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 56,
+      "risk_span_id": 50,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 56,
+      "risk_span_id": 51,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 56,
+      "risk_span_id": 52,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 56,
+      "risk_span_id": 53,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 56,
+      "risk_span_id": 54,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 56,
+      "risk_span_id": 55,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 57,
+      "risk_span_id": 46,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 57,
+      "risk_span_id": 48,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 57,
+      "risk_span_id": 51,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 57,
+      "risk_span_id": 55,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 58,
+      "risk_span_id": 46,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 58,
+      "risk_span_id": 47,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 59,
+      "risk_span_id": 46,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 59,
+      "risk_span_id": 48,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 59,
+      "risk_span_id": 49,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 59,
+      "risk_span_id": 55,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 60,
+      "risk_span_id": 47,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 61,
+      "risk_span_id": 48,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 61,
+      "risk_span_id": 50,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 61,
+      "risk_span_id": 55,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 62,
+      "risk_span_id": 48,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 62,
+      "risk_span_id": 51,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 62,
+      "risk_span_id": 55,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 63,
+      "risk_span_id": 46,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 63,
+      "risk_span_id": 48,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 63,
+      "risk_span_id": 49,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 63,
+      "risk_span_id": 50,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 63,
+      "risk_span_id": 51,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 64,
+      "risk_span_id": 47,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 64,
+      "risk_span_id": 50,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 64,
+      "risk_span_id": 54,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 65,
+      "risk_span_id": 48,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 65,
+      "risk_span_id": 55,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 66,
+      "risk_span_id": 52,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 68,
+      "risk_span_id": 67,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 79,
+      "risk_span_id": 69,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 79,
+      "risk_span_id": 70,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 79,
+      "risk_span_id": 71,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 79,
+      "risk_span_id": 72,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 79,
+      "risk_span_id": 73,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 79,
+      "risk_span_id": 74,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 79,
+      "risk_span_id": 75,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 79,
+      "risk_span_id": 76,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 79,
+      "risk_span_id": 77,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 79,
+      "risk_span_id": 78,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 80,
+      "risk_span_id": 69,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 80,
+      "risk_span_id": 72,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 81,
+      "risk_span_id": 69,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 81,
+      "risk_span_id": 70,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 82,
+      "risk_span_id": 71,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 82,
+      "risk_span_id": 72,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 82,
+      "risk_span_id": 73,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 83,
+      "risk_span_id": 69,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 83,
+      "risk_span_id": 70,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 83,
+      "risk_span_id": 73,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 83,
+      "risk_span_id": 74,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 84,
+      "risk_span_id": 71,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 84,
+      "risk_span_id": 72,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 84,
+      "risk_span_id": 73,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 84,
+      "risk_span_id": 78,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 85,
+      "risk_span_id": 69,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 85,
+      "risk_span_id": 71,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 85,
+      "risk_span_id": 72,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 86,
+      "risk_span_id": 72,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 86,
+      "risk_span_id": 77,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 87,
+      "risk_span_id": 75,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 87,
+      "risk_span_id": 77,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 88,
+      "risk_span_id": 69,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 88,
+      "risk_span_id": 72,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 89,
+      "risk_span_id": 72,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 89,
+      "risk_span_id": 77,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 90,
+      "risk_span_id": 72,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 90,
+      "risk_span_id": 73,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 90,
+      "risk_span_id": 74,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 91,
+      "risk_span_id": 69,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 91,
+      "risk_span_id": 70,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 91,
+      "risk_span_id": 76,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 91,
+      "risk_span_id": 78,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 102,
+      "risk_span_id": 92,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 102,
+      "risk_span_id": 93,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 102,
+      "risk_span_id": 94,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 102,
+      "risk_span_id": 95,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 102,
+      "risk_span_id": 96,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 102,
+      "risk_span_id": 97,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 102,
+      "risk_span_id": 98,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 102,
+      "risk_span_id": 99,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 102,
+      "risk_span_id": 100,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 102,
+      "risk_span_id": 101,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 103,
+      "risk_span_id": 92,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 103,
+      "risk_span_id": 93,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 104,
+      "risk_span_id": 92,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 104,
+      "risk_span_id": 93,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 104,
+      "risk_span_id": 101,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 105,
+      "risk_span_id": 94,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 105,
+      "risk_span_id": 95,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 105,
+      "risk_span_id": 100,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 106,
+      "risk_span_id": 95,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 107,
+      "risk_span_id": 94,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 107,
+      "risk_span_id": 97,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 108,
+      "risk_span_id": 94,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 109,
+      "risk_span_id": 92,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 109,
+      "risk_span_id": 96,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 110,
+      "risk_span_id": 94,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 110,
+      "risk_span_id": 96,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 111,
+      "risk_span_id": 94,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 111,
+      "risk_span_id": 95,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 111,
+      "risk_span_id": 96,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 111,
+      "risk_span_id": 97,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 111,
+      "risk_span_id": 100,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 112,
+      "risk_span_id": 93,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 112,
+      "risk_span_id": 94,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

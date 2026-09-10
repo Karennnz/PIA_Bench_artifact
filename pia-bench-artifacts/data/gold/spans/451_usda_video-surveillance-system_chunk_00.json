@@ -1,0 +1,470 @@
+{
+  "chunk_id": "451_usda_video-surveillance-system#chunk#00",
+  "doc_id": "451_usda_video-surveillance-system",
+  "agency": "usda",
+  "n_sentences": 200,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        66
+      ],
+      "text": "Privacy Risk: The cameras will collect more information than is necessary to accomplish the purpose by the VSS.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Identifies the possibility that surveillance cameras collect more information than necessary.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        67
+      ],
+      "text": "Mitigation: This is mitigated by the placement of cameras in public places as opposed to bathrooms or other areas where individuals have a reasonable expectation of privacy.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Responds by limiting camera placement to public areas where privacy is not reasonably expected.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        70
+      ],
+      "text": "Privacy Risk: Video that is not relevant and necessary to accomplishing the mission will be collected and not recorded over.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Identifies collection and continued retention of video unrelated to the mission.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        71,
+        72,
+        73
+      ],
+      "text": "Mitigation: USDA only uses the video feeds to detect and respond to potentially unlawful activities in real time or to support law enforcement investigations and prosecutions to the extent that they contain information relevant to a criminal (or potential criminal) activity. All other video feed is automatically overwritten once the storage capacity has reached its limit. This is also mitigated by the 'Rules of Behavior' users must sign and by administrative and potentially criminal penalties.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Limits use to relevant law-enforcement purposes, overwrites other footage, and imposes behavioral rules and penalties.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        79
+      ],
+      "text": "Privacy Risk: VSS may be used for improper surveillance or record more than is necessary.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0018"
+      ],
+      "section": "2.4 Privacy Impact Analysis: Describe any types of controls that may be in place to ensure that information is handled in accordance with the above described uses.",
+      "explanation": "Identifies improper surveillance and excessive recording as potential harms.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        80,
+        81,
+        82,
+        83,
+        84
+      ],
+      "text": "Mitigation: The purpose behind USDA use of a VSS is to detect and deter criminal activity, and to provide investigatory leads only. Additionally, VSS access is restricted to only those who monitor the video feeds. The system tracks the users and will be periodically reviewed for misuse and discriminatory practices. 'Rules of Behavior' must be agreed to before any use of the system. The misuse of any system will subject employees to administrative and potentially criminal penalties.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0018"
+      ],
+      "section": "2.4 Privacy Impact Analysis: Describe any types of controls that may be in place to ensure that information is handled in accordance with the above described uses.",
+      "explanation": "Addresses improper use through purpose limitations, restricted access, user tracking, reviews, rules, and penalties.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        85
+      ],
+      "text": "Privacy Risk: Unauthorized access to a VSS video feed may occur.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0018"
+      ],
+      "section": "2.4 Privacy Impact Analysis: Describe any types of controls that may be in place to ensure that information is handled in accordance with the above described uses.",
+      "explanation": "Identifies possible unauthorized access to surveillance feeds.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        86
+      ],
+      "text": "Mitigation: The risk is mitigated by the fact that the video feed is encrypted during transmission and only videos of stored data are available.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0018"
+      ],
+      "section": "2.4 Privacy Impact Analysis: Describe any types of controls that may be in place to ensure that information is handled in accordance with the above described uses.",
+      "explanation": "Directly addresses unauthorized access through transmission encryption and limits on available video.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        87
+      ],
+      "text": "Privacy Risk: Use of VSS cameras may restrict freedom of speech or association.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0018"
+      ],
+      "section": "2.4 Privacy Impact Analysis: Describe any types of controls that may be in place to ensure that information is handled in accordance with the above described uses.",
+      "explanation": "Identifies a potential chilling or restrictive effect on speech and association.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        88,
+        89,
+        90,
+        91,
+        92,
+        93
+      ],
+      "text": "Mitigation: The system does not in any way restrict freedom of speech or association. The images are primarily used to detect and deter criminal activity. The images are not used to restrict or investigate lawful rallies and associations. The occurrence of First Amendment-protected activity, such as a protest or rally outside a federal facility, is treated by USDA like any other activity that may be captured by a USDA camera. Unless there is evidence of criminal activity that must be investigated or prosecuted, USDA will not maintain those images for longer than the storage capacity of the VSS. USDA shares images only for legitimate law enforcement purposes or in response to FOIA requests.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0018"
+      ],
+      "section": "2.4 Privacy Impact Analysis: Describe any types of controls that may be in place to ensure that information is handled in accordance with the above described uses.",
+      "explanation": "Addresses the civil-liberties risk by limiting use, retention, and sharing and by excluding investigation of lawful protected activity.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        100
+      ],
+      "text": "Privacy Risk: There is a privacy risk that storing video for six months is too long.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Identifies the six-month video retention period as potentially excessive.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        101
+      ],
+      "text": "Mitigation: The retention period is appropriately limited to only retain images for a short length of time, while still allowing USDA to identify potentially relevant video when a crime has occurred but is not immediately reported.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Explains that retention is limited while allowing time to identify footage relevant to delayed crime reports.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        106
+      ],
+      "text": "Internal information sharing will be minimal, any risks are mitigated by using sign-in protection.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Explicitly presents minimal sharing and sign-in protection as measures mitigating internal-sharing risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 14,
+      "type": "risk",
+      "sentence_ids": [
+        107
+      ],
+      "text": "Risk when sharing within USDA is considered low-moderate.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Explicitly acknowledges a low-to-moderate privacy risk from sharing within the agency.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        108,
+        109,
+        110,
+        111,
+        112,
+        113
+      ],
+      "text": "When data sharing within the network, encryption protocols ensure PII is not inadvertently shared in an unencrypted format. Data is encrypted in motion and at rest. In addition, access to data is limited to only those persons with a need-to-know using internal, granular governance process. Dissemination of information is governed by internal policy. Internal information sharing is limited to the VM server boundaries within the information systems. The data is encrypted into unique data strings to further mitigate any risks to PII.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Addresses internal-sharing risk through encryption, need-to-know access, policy controls, system boundaries, and protected data encoding.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "risk",
+      "sentence_ids": [
+        122
+      ],
+      "text": "Risk: Authorized disclosure due to the method in which the data is shared to external organizations.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Identifies a disclosure risk arising from the method used to share data externally.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 17,
+      "type": "mitigation",
+      "sentence_ids": [
+        123,
+        124,
+        125
+      ],
+      "text": "Mitigation: Video footage will only be shared with external organizations in response to formal requests, such as criminal investigations and disciplinary actions Information from the VSS cameras will be used by federal agencies and local law enforcement to detect and respond to potentially unlawful activities in the areas surrounding federal facilities. The information may also be used to support law enforcement investigations and prosecutions to the extent it contains information relevant to a criminal or potentially criminal activity. The information can be transmitted via media, such as CD or DVD and/or may be transmitted as exported video clips in a variety of video formats will be encrypted, and password protected when transmitted.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Restricts external disclosures to formal, relevant purposes and protects transmitted footage with encryption and passwords.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "risk",
+      "sentence_ids": [
+        135
+      ],
+      "text": "Privacy Risk: Members of the public may not see the notice sign or may not be aware of why cameras are necessary.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0037"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies the possibility that people will not notice or understand the surveillance notice.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 19,
+      "type": "mitigation",
+      "sentence_ids": [
+        136,
+        137
+      ],
+      "text": "Mitigation: The risk is mitigated by the publication of this PIA. This PIA makes clear that federal properties are under surveillance by cameras and why the cameras are necessary.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0037"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Addresses lack of awareness by publishing an assessment explaining the surveillance and its necessity.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 20,
+      "type": "risk",
+      "sentence_ids": [
+        150,
+        151
+      ],
+      "text": "Privacy Risk: The period of time for redress for an individual is very short. In most cases, video is not retained longer than six months.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0043"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Identifies the short period available for individuals to seek redress due to limited retention.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 21,
+      "type": "risk",
+      "sentence_ids": [
+        152,
+        153
+      ],
+      "text": "Mitigation: Given the nature of VSS, a robust program to permit access, review, and correction of the video cannot be provided. This lack of direct access and formal redress mechanism represent a risk to individual privacy; however, it is necessary given the utility of VSS and the retention rates.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0043"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Identifies the inability to provide robust direct access and formal correction or redress as a privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 22,
+      "type": "mitigation",
+      "sentence_ids": [
+        154
+      ],
+      "text": "While some individuals will not have a formal mechanism for access or redress, USDA has internal mechanisms to correct inaccuracies and protect against abuse through the auditing system and the 'Rules of Behavior' for users.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0043"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Uses internal correction, auditing, and user-conduct mechanisms to reduce abuse and inaccuracy risks despite limited formal redress.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 23,
+      "type": "risk",
+      "sentence_ids": [
+        170
+      ],
+      "text": "Privacy Risk: Unauthorized access or a data breach.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Identifies unauthorized access and data breaches as privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 24,
+      "type": "mitigation",
+      "sentence_ids": [
+        171,
+        172,
+        173,
+        174,
+        175
+      ],
+      "text": "Mitigation: Only authorized users are allowed to view the video feeds of VSS. The log-in and use of the system is traceable to a particular user and periodically audited for misuse and discriminatory practices. VSS is also physically protected against unauthorized access. Finally, 'Rules of Behavior' must be agreed to and signed before any use of the system. The misuse of any system will subject employees to administrative and potentially criminal penalties.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Addresses unauthorized access and breaches through access restrictions, traceable auditing, physical protection, conduct rules, and penalties.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 25,
+      "type": "null_finding",
+      "sentence_ids": [
+        179
+      ],
+      "text": "No, VSS does not employ technology which may raise privacy concerns.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0053"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so, please discuss their implementation.",
+      "explanation": "Explicitly states that the system does not use technology that raises privacy concerns.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 26,
+      "type": "mitigation",
+      "sentence_ids": [
+        180,
+        181,
+        182,
+        183,
+        184,
+        185
+      ],
+      "text": "All privacy concerns are mitigated by three factors, which are all required by USDA guidelines per NIST recommendations. The first factor is that individuals must meet the requirements of the USDA two factor authentication process. This includes having a LincPass. Secondly, all individuals who access VSS data must request access via VSS designated authority. Access is granted following approval by the change control process or directly by the Chief, OSSP FPD. Thirdly, following the approval of credentials, all individuals who obtain access to VSS must acknowledge and agree to the terms of the Rules of Behavior.",
+      "unit_ids": [
+        "451_usda_video-surveillance-system#unit#0053"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so, please discuss their implementation.",
+      "explanation": "Explicitly characterizes authentication, approval-based access, and user conduct requirements as mitigating privacy concerns.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 14,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 14,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 16,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 19,
+      "risk_span_id": 18,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 20,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 21,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 24,
+      "risk_span_id": 23,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

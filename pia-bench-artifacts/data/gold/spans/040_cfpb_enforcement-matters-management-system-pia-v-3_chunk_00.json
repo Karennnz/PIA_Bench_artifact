@@ -1,0 +1,280 @@
+{
+  "chunk_id": "040_cfpb_enforcement-matters-management-system-pia-v-3#chunk#00",
+  "doc_id": "040_cfpb_enforcement-matters-management-system-pia-v-3",
+  "agency": "cfpb",
+  "n_sentences": 238,
+  "spans": [
+    {
+      "span_id": 0,
+      "type": "risk",
+      "sentence_ids": [
+        98
+      ],
+      "text": "Privacy Risk : There is a risk that information in the Enforcement Matter Management System is used for purposes beyond those described in this PIA.",
+      "unit_ids": [
+        "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0010"
+      ],
+      "section": "Privacy Impact Analysis: Related to Characterization of the Information.",
+      "explanation": "Identifies possible use of system information beyond the documented purposes.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106
+      ],
+      "text": "Mitigation : To mitigate this risk, CFPB Staff that require elevated privileges to complete their job functions must sign and electronically submit the Privileged User Access (PUA) Form to obtain elevated access to the Enforcement Matter Management System and review and acknowledge the Rules of Behavior for Privileged Users . The rules of behavior define the user's responsibilities, such as confirming that they will protect information from misuse and ensure information is only disclosed to authorized individuals that have a need to know. All CFPB Staff are required to only share information externally when permitted by the CFPB's rules governing the Disclosure of Records and Information. 19 Additionally, all CFPB Staff with access to CFPB systems, such as the Enforcement Matter Management System, must sign the CFPB 'Acceptable Use of CFPB Information Technology Resources' policy. This policy establishes the user's responsibilities and the requirements to safeguard information technology resources and information. This includes protecting PII and other sensitive or confidential information. Finally, all CFPB Staff are required to take annual privacy training. CFPB privacy training stresses the importance of the appropriate and authorized use of personal information in government information systems.",
+      "unit_ids": [
+        "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0010"
+      ],
+      "section": "Privacy Impact Analysis: Related to Characterization of the Information.",
+      "explanation": "Presents privileged-access requirements, disclosure restrictions, acceptable-use obligations, and training as measures against unauthorized or inappropriate use.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        122
+      ],
+      "text": "Privacy Risk : There is a risk that authorized users collect more information than is necessary for enforcement matters.",
+      "unit_ids": [
+        "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0013"
+      ],
+      "section": "Privacy Impact Analysis: Related to Limits on Information Collection and Retention",
+      "explanation": "Identifies the possibility that authorized users will collect more information than necessary.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129
+      ],
+      "text": "Mitigation : To mitigate this risk, the CFPB has established technical controls and privacy safeguards to collect only a limited amount of information about individuals that is narrowly tailored to effectively track and manage the enforcement matter lifecycle. For example, the ENForce application data fields are limited to information relevant to enforcement matters, limiting PII in the system. In addition, only authorized users may create and/or edit Enforcement Matter Management System records. Authorized users may also add documents that might contain PII to a system record. However, these documents are limited to key documents that are relevant to the management and tracking of an enforcement matter. Finally, future enhancements to the Enforcement Matter Management System will also limit the collection of information maintained in the system. For example, integrating the ENForce and ENFund applications with other systems where relevant information and documents are maintained, such as in the matter document library, or in other CFPB systems, will prevent the duplication of information and/or documents across CFPB systems.",
+      "unit_ids": [
+        "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0013"
+      ],
+      "section": "Privacy Impact Analysis: Related to Limits on Information Collection and Retention",
+      "explanation": "Describes data-field limitations, relevance restrictions, authorized editing, and planned integration as measures to minimize collection and duplication.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        145
+      ],
+      "text": "Privacy Risk : There is a risk that CFPB may use information in the Enforcement Matter Management System in a manner inconsistent with the intended purpose for which it was collected or shared with those who do not have a need to know.",
+      "unit_ids": [
+        "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0016"
+      ],
+      "section": "Privacy Impact Analysis: Related to Uses of Information",
+      "explanation": "Identifies inconsistent use and disclosure to personnel without a need to know.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        146,
+        147,
+        148
+      ],
+      "text": "Mitigation : To mitigate this, the CFPB shares information in accordance with the SORNs identified above. Generally, access to matter records is limited to authorized CFPB Staff. A limited number of authorized FTC users have access to a very limited set of CFPB data (discussed in detail below).",
+      "unit_ids": [
+        "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0016"
+      ],
+      "section": "Privacy Impact Analysis: Related to Uses of Information",
+      "explanation": "Uses applicable records notices and limits access to authorized personnel and a narrow group of external users.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "risk",
+      "sentence_ids": [
+        149
+      ],
+      "text": "Additionally, there is a risk that information may be inadvertently shared with another application within Salesforce.",
+      "unit_ids": [
+        "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0016"
+      ],
+      "section": "Privacy Impact Analysis: Related to Uses of Information",
+      "explanation": "Identifies possible inadvertent sharing with another application in the same cloud platform.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        150,
+        151,
+        152,
+        153
+      ],
+      "text": "The CFPB mitigates this risk by using the Salesforce application in accordance with its Authority to Operate (ATO) based upon the CFPB Approved and Authorized (A&A) processes. The CFPB assesses A&A connections between applications to apply role-based environment access controls to ensure the security and privacy of the interconnection. The CFPB also assesses proposed data sharing between the cloud environments to ensure only authorized users access matter records. The CFPB also configures security controls at a granular level within each application to prevent sharing PII externally.",
+      "unit_ids": [
+        "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0016"
+      ],
+      "section": "Privacy Impact Analysis: Related to Uses of Information",
+      "explanation": "Describes authorization processes, interconnection assessments, role-based controls, and granular configurations as responses to inadvertent sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        172
+      ],
+      "text": "Privacy Risk : There is a risk that individuals are not aware of or will not have the opportunity to consent to the collection of their information maintained in the Enforcement Matter Management System.",
+      "unit_ids": [
+        "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0020"
+      ],
+      "section": "Privacy Impact Analysis: Related to Individual Notice and Participation",
+      "explanation": "Identifies lack of awareness and lack of an opportunity to consent to collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        173
+      ],
+      "text": "Mitigation : This risk cannot be mitigated.",
+      "unit_ids": [
+        "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0020"
+      ],
+      "section": "Privacy Impact Analysis: Related to Individual Notice and Participation",
+      "explanation": "Explicitly states that the identified notice-and-consent risk cannot be mitigated.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 10,
+      "type": "risk",
+      "sentence_ids": [
+        189
+      ],
+      "text": "Privacy Risk : There is a risk that information maintained within the Enforcement Matter Management System may be accessed by unauthorized individuals who do not have a need to know or used in a manner that is inconsistent with the purpose for collection.",
+      "unit_ids": [
+        "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0023"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Identifies unauthorized access and use inconsistent with the collection purpose.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199
+      ],
+      "text": "Mitigation : To mitigate this risk, Enforcement has implemented administrative, technical, and physical safeguards to protect the Enforcement Matter Management System and the information collected and maintained therein. For example, designated FTC staff need a user account to access the CFPB-FTC Matter Sharing community module, and the module itself only contains limited information. FTC user account requests must be submitted to and approved by FTC and Enforcement staff before system administrators create an FTC user account. Approved FTC users receive a welcome email directing them to create a username and password and use multi-factor authentication to access the CFPB-FTC Matter Sharing Community module. As a federal database, the CFPB-FTC Matter Sharing Community module is subject to the Federal Information Security Modernization Act (FISMA), which requires the annual verification that all users who access federal systems have both the business need and the authorization to access the system. To comply with FISMA, government users must annually verify employment and that their role requires continued access to the system. Enforcement staff are responsible for granting access to the CFPB-FTC Matter Sharing Community module and will terminate access for FTC Staff in accordance with all policies and protocols. Finally, the CFPB-FTC Matter Sharing Community module generates audit logs of user activity, including FTC users, to monitor unusual system behavior. Audit logs track when FTC users are logged onto the system, who views which records, who uploads documents to an FTC matter record, and how records are used within the system (e.g., unauthorized creation, system configurations). Any evidence of misuse may result in the termination of the FTC user account.",
+      "unit_ids": [
+        "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0023"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Presents safeguards including limited data, account approval, multifactor authentication, annual access verification, account termination, and audit monitoring.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "risk",
+      "sentence_ids": [
+        224
+      ],
+      "text": "Privacy Risk : There is a risk that unauthorized users may access the Enforcement Matter Management System or information maintained therein.",
+      "unit_ids": [
+        "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0027"
+      ],
+      "section": "Privacy  Impact  Analysis:  Related  to  Accountability,  Auditing,  and Security",
+      "explanation": "Identifies possible access to the system or its information by unauthorized users.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236
+      ],
+      "text": "Mitigation : To mitigate this risk, the CFPB has implemented the above technical, physical, and administrative controls to safeguard PII and other sensitive information maintained in the Enforcement Matter Management System. For example, internal access to the system is limited to CFPB Staff that have a need to know. As noted above, CFPB Staff cannot access the system without being granted access by the system's Product Owners. In addition, the CFPB has established oversight controls through robust auditing features to identify and support accountability for unauthorized use/misconduct. CFPB's 'Information Governance' Policy outlines the established rules on the intake, management, disclosure, and disposition of information (in its various formats) at CFPB and applies to all CFPB users. CFPB Staff are required to review and sign the CFPB's 'Acceptable Use of CFPB Technology Resources Policy' and complete the privacy and security training within thirty days of their onboarding, and annually thereafter, to maintain access to a CFPB system. Suspicious and/or unauthorized access is monitored and logged, thereby discouraging users from inappropriate access to CFPB systems. Security administrators review audit logs of the system and applications identified herein to monitor for unusual behavior (e.g., disabling security, login times, number of login attempts, failed login attempts) or misconduct (e.g., unauthorized removal of data) by authorized users. For example, the CFPB employs extract logging and 90-day reviews to identify user behavior and Staff actions around particular events within the Enforcement Matter Management System, such as changes in the information or data, warnings, or errors that are unexpected, which are reviewed in relation to their job roles and workflow. If the system administrator notices that anyone has used a system in violation of CFPB policy, system access may be revoked. If there is evidence of potential misconduct, the incident will be referred to the appropriate Bureau office for investigation and further review. CFPB Staff will be disciplined accordingly, which could include adverse actions or removal from the CFPB.",
+      "unit_ids": [
+        "040_cfpb_enforcement-matters-management-system-pia-v-3#unit#0027"
+      ],
+      "section": "Privacy  Impact  Analysis:  Related  to  Accountability,  Auditing,  and Security",
+      "explanation": "Presents access restrictions, auditing, training, monitoring, revocation, investigation, and discipline as controls against unauthorized access and misconduct.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 1,
+      "risk_span_id": 0,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 6,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 12,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

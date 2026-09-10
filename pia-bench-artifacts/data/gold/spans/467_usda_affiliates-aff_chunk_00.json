@@ -1,0 +1,234 @@
+{
+  "chunk_id": "467_usda_affiliates-aff#chunk#00",
+  "doc_id": "467_usda_affiliates-aff",
+  "agency": "usda",
+  "n_sentences": 147,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        42,
+        43,
+        44,
+        45
+      ],
+      "text": "Privacy risks are mitigated because access to the information will be limited to appropriate NRCS personnel and partners by the use of eAuth, which provides user authentication for NRCS. Role Based Access Control (RBAC) provides access enforcement for the Affiliates application. Other access requirements include the need for users to be on the USDA network backbone, using a CCE computer. Please see Section 2.4 and Section 8.6 for a further discussion of security controls that are in place to mitigate privacy risks.",
+      "unit_ids": [
+        "467_usda_affiliates-aff#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly states that privacy risks are mitigated through authentication, role-based access controls, network restrictions, and related security controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        52
+      ],
+      "text": "This application is in compliance with the FISMA and the security and privacy controls provided in the U.S. National Institute of Standards and Technology (NIST) Special Publication 800-53, Revision 4. If any residual risks are identified, they will be managed and reported via the FISMA mandated risk assessment processes.",
+      "unit_ids": [
+        "467_usda_affiliates-aff#unit#0017"
+      ],
+      "section": "2.3 If the system uses commercial or publicly available data please explain why and how it is used.",
+      "explanation": "States that identified residual risks will be managed through mandated risk-assessment processes.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        56
+      ],
+      "text": "The primary privacy risk is that a data breach could result in the release of information about an affiliate or about an affiliate who no longer has any association with NRCS.",
+      "unit_ids": [
+        "467_usda_affiliates-aff#unit#0020"
+      ],
+      "section": "3.2 Has the retention period been approved by the component records officer and the National Archives and Records Administration (NARA)?",
+      "explanation": "Identifies the risk that a breach could release information about current or former affiliates.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        57
+      ],
+      "text": "This is mitigated by limited access to the data, nonportability of the data and controlled storage of the data located in controlled facilities.",
+      "unit_ids": [
+        "467_usda_affiliates-aff#unit#0020"
+      ],
+      "section": "3.2 Has the retention period been approved by the component records officer and the National Archives and Records Administration (NARA)?",
+      "explanation": "Explicitly mitigates the breach and disclosure risk through limited access, nonportability, and controlled storage.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        59
+      ],
+      "text": "The risks associated with retaining application-specific information are mitigated by the controls discussed above.",
+      "unit_ids": [
+        "467_usda_affiliates-aff#unit#0020"
+      ],
+      "section": "3.2 Has the retention period been approved by the component records officer and the National Archives and Records Administration (NARA)?",
+      "explanation": "States that risks from retaining application-specific information are mitigated by previously discussed controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        66,
+        67
+      ],
+      "text": "Privacy risks are mitigated by ensuring that access to the data is through established security rules via eAuth. Any residual risks are mitigated by the controls discussed in Section 2.4 above.",
+      "unit_ids": [
+        "467_usda_affiliates-aff#unit#0023"
+      ],
+      "section": "4.2 How is the information transmitted or disclosed?",
+      "explanation": "Explicitly says internal-sharing privacy risks are mitigated through established authentication rules and previously discussed controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        78,
+        79
+      ],
+      "text": "Privacy risks are mitigated by virtue of NOT sharing information external to the USDA. Any residual risks are mitigated by the controls discussed in Section 2.4 above.",
+      "unit_ids": [
+        "467_usda_affiliates-aff#unit#0027"
+      ],
+      "section": "5.3 How is the information shared outside the Department and what security measures safeguard its transmission?",
+      "explanation": "Explicitly says external-sharing risks are mitigated by not sharing information externally and by other controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        91
+      ],
+      "text": "NRCS personnel individually advise affiliates applying for eAuth credentials what information is being collected, the purpose of the collection and how the data will be used.",
+      "unit_ids": [
+        "467_usda_affiliates-aff#unit#0031"
+      ],
+      "section": "6.4 Do individuals have the right to consent to particular uses of the information? If so, how does the individual exercise the right?",
+      "explanation": "Describes individual notice about collection, purpose, and use as the response to risks of individuals being unaware of collection.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        102
+      ],
+      "text": "There are no privacy risks specifically associated with the redress process other than the possibility that the initial data entry made by NRCS on behalf of the affiliate is incorrect.",
+      "unit_ids": [
+        "467_usda_affiliates-aff#unit#0036"
+      ],
+      "section": "7.4 If no formal redress is provided, what alternatives are available to the individual?",
+      "explanation": "Identifies the possibility that NRCS could initially enter an affiliate's data incorrectly, despite stating that no other redress-related risks exist.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        103,
+        104
+      ],
+      "text": "That risk is mitigated by the necessity of eAuth data (entered by the affiliate) corresponding to the Affiliates data for initial and subsequent logins. If eAuth access is granted, but unachievable, then the affiliate's data must be validated.",
+      "unit_ids": [
+        "467_usda_affiliates-aff#unit#0036"
+      ],
+      "section": "7.4 If no formal redress is provided, what alternatives are available to the individual?",
+      "explanation": "Explicitly mitigates incorrect data-entry risk through correspondence checks with affiliate-entered eAuth data and validation when access fails.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        105
+      ],
+      "text": "Residual privacy risks associated with the redress process for individuals are mitigated since individuals can use the relevant procedures discussed above to update their original public records.",
+      "unit_ids": [
+        "467_usda_affiliates-aff#unit#0036"
+      ],
+      "section": "7.4 If no formal redress is provided, what alternatives are available to the individual?",
+      "explanation": "States that residual redress risks are mitigated by procedures allowing individuals to update their records.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        120,
+        121
+      ],
+      "text": "Privacy risks are mitigated by specific security controls including enforcement of 'need to know' and 'least privilege' via RBAC as discussed above, as well as the implementation of Department approved encryption measures for data at rest and data in transit. Any privacy risks identified in this system are mitigated by the security and privacy safeguards provided in Section 8.5, and by the security controls discussed in Section 2.4 above.",
+      "unit_ids": [
+        "467_usda_affiliates-aff#unit#0043"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly states that privacy risks are mitigated through least privilege, role-based access, encryption, and referenced safeguards.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        122
+      ],
+      "text": "Remediation of privacy risks associated with internal/external sharing are addressed in PIA Sections 4 and 5, respectively.",
+      "unit_ids": [
+        "467_usda_affiliates-aff#unit#0043"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that remediation for privacy risks arising from internal and external sharing is addressed by the controls in the sharing sections.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 14,
+      "type": "null_finding",
+      "sentence_ids": [
+        128
+      ],
+      "text": "No, the project utilizes Agency approved technologies, and these technology choices do not raise privacy concerns.",
+      "unit_ids": [
+        "467_usda_affiliates-aff#unit#0045"
+      ],
+      "section": "9.1 What type of project is the program or system?",
+      "explanation": "Explicitly finds that the agency-approved technology choices do not raise privacy concerns.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 3,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 9,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

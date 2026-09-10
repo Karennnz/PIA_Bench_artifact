@@ -1,0 +1,301 @@
+{
+  "chunk_id": "025_cfpb_consumer-resource-center-crc-pia#chunk#00",
+  "doc_id": "025_cfpb_consumer-resource-center-crc-pia",
+  "agency": "cfpb",
+  "n_sentences": 156,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        48
+      ],
+      "text": "There is a risk that unauthorized third parties may use contact center services to obtain information about a consumer or complaint that is not theirs.",
+      "unit_ids": [
+        "025_cfpb_consumer-resource-center-crc-pia#unit#0006"
+      ],
+      "section": "Limits on Uses and Sharing of Information",
+      "explanation": "Identifies the risk that unauthorized third parties could obtain another consumer's complaint information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        49,
+        50,
+        51,
+        52
+      ],
+      "text": "To mitigate this, CRC services employs validation processes to ensure that individuals who request information about a complaint or inquiry are properly verified. This is done when individuals are required to provide different forms of identification or security verifications prior to obtaining access. When speaking to consumers Consumer Guides handling calls are required to obtain verification of identity prior to providing any information about a complaint or inquiry. Access controls, along with other privacy controls are in effect with CRC to limit access to sensitive information only those who are authorized due to their role and a need to know.",
+      "unit_ids": [
+        "025_cfpb_consumer-resource-center-crc-pia#unit#0006"
+      ],
+      "section": "Limits on Uses and Sharing of Information",
+      "explanation": "Describes identity verification and access controls used to prevent unauthorized access to complaint information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        54,
+        55
+      ],
+      "text": "In supporting the operation to field and process complaints or inquiries from consumers, CRC utilizes PII, which is entered into Bureau systems. This information is a target for hackers, identity thieves, and other threats.",
+      "unit_ids": [
+        "025_cfpb_consumer-resource-center-crc-pia#unit#0007"
+      ],
+      "section": "Security",
+      "explanation": "States that PII used in CRC operations is a target for hackers, identity thieves, and other threats.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "text": "The Bureau has mitigated this vulnerability by implementing appropriate security controls to protect information contained in the systems against unauthorized disclosure and access. Only authorized users (i.e., consumers who are involved in a complaint, Bureau staff, and support staff) have access to the CRC system, with access limited to the role served in the process. Bureau and vendor staff users are restricted to the minimal amount of data needed to carry out their assigned job responsibilities. The Bureau terminates or reduces access of an employee or contractor if they no longer have a need to know the information, resign, or are terminated. The Bureau has emergency plans and incident-reporting procedures for security incidents involving the CRC. The Bureau, vendor, and a third-party quality assurance service monitor daily use of the system for suspicious or possible inappropriate activity. They are responsible for reporting any incidents and coordinating escalation, reporting, and response procedures to the Bureau.",
+      "unit_ids": [
+        "025_cfpb_consumer-resource-center-crc-pia#unit#0007"
+      ],
+      "section": "Security",
+      "explanation": "Presents security controls, least-privilege access, monitoring, and incident-response procedures as mitigation for threats to PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        64
+      ],
+      "text": "In the course of this work there is a risk that CRC staff may inadvertently mishandle the PII it collects from consumers, by sharing it with an unauthorized person due to a gap in knowledge of Bureau procedure.",
+      "unit_ids": [
+        "025_cfpb_consumer-resource-center-crc-pia#unit#0008"
+      ],
+      "section": "Awareness and Training",
+      "explanation": "Identifies the risk that staff could inadvertently mishandle or disclose PII because of insufficient procedural knowledge.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        65,
+        66,
+        67
+      ],
+      "text": "To ensure that this risk is mitigated, CRC staff are required to complete annual role-based training on handling data and information security. Internal rules and guidance for managing PII apply to all who work for the Bureau, including vendor staff. The training includes recognizing possible breaches of PII and how to report them.",
+      "unit_ids": [
+        "025_cfpb_consumer-resource-center-crc-pia#unit#0008"
+      ],
+      "section": "Awareness and Training",
+      "explanation": "Requires role-based training and guidance on handling PII and recognizing and reporting breaches.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        69
+      ],
+      "text": "There is a privacy risk that incorrect information about the consumer is captured during their interaction with the contact center, which can result in future communications being sent to someone who is not party to the complaint/inquiry or delays in the processing their submission.",
+      "unit_ids": [
+        "025_cfpb_consumer-resource-center-crc-pia#unit#0009"
+      ],
+      "section": "Data Quality and Integrity",
+      "explanation": "Identifies the risk of capturing inaccurate consumer information, resulting in misdirected communications or processing delays.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        70,
+        71,
+        72
+      ],
+      "text": "To mitigate this risk, the consumer can contact the Bureau through the CRC to correct or amend records about themselves. Additionally, under the Privacy Act of 1974, an individual can submit a request to amend or correct their record, either directly or through a request made by their legal representative or their Congressional representative. Information about Privacy Act requests is available in the SORN, CFPB.005 - Consumer Response System, and at https://www.consumerfinance.gov/foia-requests/.",
+      "unit_ids": [
+        "025_cfpb_consumer-resource-center-crc-pia#unit#0009"
+      ],
+      "section": "Data Quality and Integrity",
+      "explanation": "Provides mechanisms for consumers or their representatives to correct or amend inaccurate records.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        74
+      ],
+      "text": "During an interaction with the contact center there is a risk that a consumer may disclose more information than necessary to a Consumer Guide for the service they are seeking.",
+      "unit_ids": [
+        "025_cfpb_consumer-resource-center-crc-pia#unit#0010"
+      ],
+      "section": "Consumer Interactions",
+      "explanation": "Identifies the risk that consumers may disclose more information than is necessary during contact-center interactions.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        75,
+        76,
+        77,
+        78,
+        79
+      ],
+      "text": "To mitigate this risk, the CRC leverages processes and controls that limit the amount of information required to be provided by a consumer. For example, when a consumer calls the CRC for a status update on a complaint, the Consumer Guide asks for basic, non-sensitive information to verify the consumer's identity. The Consumer Guide does not ask for Social Security Numbers (SSN) or other sensitive information to verify one's identity for services that do not need it. Additionally, when intaking a complaint, the Consumer Guide is trained to only ask for the necessary information to complete the complaint form. In some cases-and in compliance with record management requirements to limit the amount of sensitive information held by the Bureau, the Bureau may not collect or will immediately delete certain sensitive information (e.g., account numbers) that a consumer provided to CRC systems, if it is not needed for that service.",
+      "unit_ids": [
+        "025_cfpb_consumer-resource-center-crc-pia#unit#0010"
+      ],
+      "section": "Consumer Interactions",
+      "explanation": "Describes data-minimization practices, including limiting requested information and deleting unnecessary sensitive information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        80
+      ],
+      "text": "There is a privacy risk that consumers are unaware of the information the Bureau maintains about them in order to process a complaint.",
+      "unit_ids": [
+        "025_cfpb_consumer-resource-center-crc-pia#unit#0011"
+      ],
+      "section": "Individual Participation",
+      "explanation": "Identifies the risk that consumers may be unaware of information maintained about them for complaint processing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        81,
+        82,
+        83
+      ],
+      "text": "Notice and consent of use is employed to mitigate this risk. The Bureau informs consumers who engage the CRC that the disclosure of personal information is voluntary. Additionally, the Bureau provides Privacy Act Statement and other forms of notice (including this PIA) detailing how the consumer's information is collected by the CRC is used.",
+      "unit_ids": [
+        "025_cfpb_consumer-resource-center-crc-pia#unit#0011"
+      ],
+      "section": "Individual Participation",
+      "explanation": "Uses notice and consent-related disclosures to inform consumers about voluntary collection and use of their information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "risk",
+      "sentence_ids": [
+        84
+      ],
+      "text": "There is a risk that complaints could be submitted on behalf of consumers without their consent, using the contact center system.",
+      "unit_ids": [
+        "025_cfpb_consumer-resource-center-crc-pia#unit#0012"
+      ],
+      "section": "Consumer submissions by third parties",
+      "explanation": "Identifies the risk that third parties could submit complaints for consumers without their consent.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        85,
+        86,
+        87
+      ],
+      "text": "Entities generally cannot share consumers' financial information-including as part of the complaint process-unless everyone listed in the complaint is also listed on the account or loan or authorized by the customer to receive financial information. Entities may require that their customers provide signed, written permission directly to them before sharing financial information with a third party, such as a lawyer, guardian, or a person with power of attorney. With these mitigation procedures in place, the technical, physical, and administrative controls implemented to promote individual participation, minimization, and accountability are appropriate.",
+      "unit_ids": [
+        "025_cfpb_consumer-resource-center-crc-pia#unit#0012"
+      ],
+      "section": "Consumer submissions by third parties",
+      "explanation": "Describes authorization and written-permission requirements as procedures mitigating unauthorized third-party submissions or disclosures.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        138
+      ],
+      "text": "The Bureau manages risks to privacy by complying with the Privacy Act of 1974, Right to Financial Privacy Act, and E-Government Act of 2002. To further compliance, it voluntarily adopts Office of Management and Budget privacy-related guidance as best practice 14 and applies National Institute of Standards and Technology risk management processes for privacy.",
+      "unit_ids": [
+        "025_cfpb_consumer-resource-center-crc-pia#unit#0018"
+      ],
+      "section": "Explain the standards and relevant controls that govern the CFPB's-or any third-party contractor(s) acting on its behalf collection, use, disclosure, retention, or disposal of information.",
+      "explanation": "Explicitly states that the Bureau manages privacy risks through legal compliance, privacy guidance, and risk-management processes.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        145,
+        146,
+        147,
+        148,
+        149
+      ],
+      "text": "15 FedRAMP compliance and federal regulations for vendor operated cloud-based systems, require that risk mitigation protocols be in place. The strategies detailed reflect the implementation of these protocols by the vendor to address the risks they encounter. Security controls for the CRC are leveraged to protect information contained in the system against unauthorized disclosure and access. Those controls are: Bureau policies, procedures, and guidance for privacy and information assurance Conducting background checks on personnel Initial and follow-on privacy and security awareness training for personnel Physical perimeter security safeguards Security Operations Center to monitor antivirus and intrusion detection software Risk and controls assessments and mitigation Technical access controls, such as role-based access management and firewalls Disaster mitigation protocols for the CRC are present for catastrophic events and security challenges, like system outages. Those procedures include comprehensive data back-up for the CRC, breach notification processes, and secure channels for submitting transactional information.",
+      "unit_ids": [
+        "025_cfpb_consumer-resource-center-crc-pia#unit#0018"
+      ],
+      "section": "Explain the standards and relevant controls that govern the CFPB's-or any third-party contractor(s) acting on its behalf collection, use, disclosure, retention, or disposal of information.",
+      "explanation": "Explicitly frames vendor security protocols and controls as risk mitigation against unauthorized disclosure, access, and other security events.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 13,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 3,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

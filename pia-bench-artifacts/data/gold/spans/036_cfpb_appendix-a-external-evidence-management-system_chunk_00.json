@@ -1,0 +1,244 @@
+{
+  "chunk_id": "036_cfpb_appendix-a-external-evidence-management-system#chunk#00",
+  "doc_id": "036_cfpb_appendix-a-external-evidence-management-system",
+  "agency": "cfpb",
+  "n_sentences": 52,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        25
+      ],
+      "text": "There is a risk that CFPB records maintained in the contractor-owned environment will be retained for longer than necessary.",
+      "unit_ids": [
+        "036_cfpb_appendix-a-external-evidence-management-system#unit#0001"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Identifies the possibility that contractor-held records may be retained longer than necessary.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        26,
+        27
+      ],
+      "text": "To mitigate this risk, all CFPB records are transferred electronically to the contractor, except for in rare situations where the original documents are paper-based. In these situations, the original documents are shipped to the contractor for scanning and the paper documents are returned to the CFPB.",
+      "unit_ids": [
+        "036_cfpb_appendix-a-external-evidence-management-system#unit#0001"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Presents electronic transfer and prompt return of scanned paper originals as measures addressing excessive retention.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "text": "CFPB mitigates this risk by implementing a process where all electronic documents maintained within the contractor's environment will either be transferred back to CFPB or destroyed three (3) months after the case-also referred to as a matter-is closed. Upon closure of a matter, the CFPB the Contracting Officer's Representative (COR) notifies the contractor. The COR receives an automated electronic notification when a matter closes and barring any instructions to retain the records longer (e.g., investigative purposes), the COR will manually notify the contractor three months later. The contractor will then provide the COR with the chain of custody and Final Disposition certificate signed and dated.",
+      "unit_ids": [
+        "036_cfpb_appendix-a-external-evidence-management-system#unit#0001"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Establishes a closure-triggered process for returning or destroying electronic records and documenting final disposition.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        32,
+        33
+      ],
+      "text": "Records transferred back to the CFPB will then be maintained in a locked evidence locker and destroyed in accordance with the relevant records retention schedule. As noted above, the CFPB retains records in accordance with National Archives and Records Administration (NARA) General Records Schedules and NARA-approved Bureau record schedules.",
+      "unit_ids": [
+        "036_cfpb_appendix-a-external-evidence-management-system#unit#0001"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Requires returned records to be secured and destroyed according to approved retention schedules.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        34
+      ],
+      "text": "There is a risk of loss or unauthorized access or use, destruction, modification, or unintended or inappropriate disclosure for information maintained in a contractor-environment.",
+      "unit_ids": [
+        "036_cfpb_appendix-a-external-evidence-management-system#unit#0002"
+      ],
+      "section": "Security",
+      "explanation": "Identifies risks of loss, unauthorized handling, alteration, destruction, and inappropriate disclosure in the contractor environment.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        35,
+        36,
+        37
+      ],
+      "text": "This risk is mitigated. To mitigate this risk, all CFPB staff, including federal contractors with access to CFPB information and systems are subject to the same federal laws, regulations, and policies while working at the CFPB and proceed through the same background investigations for suitability and security clearance determinations. Other requirements placed on federal contractors also include those associated with Federal Acquisition Regulations.",
+      "unit_ids": [
+        "036_cfpb_appendix-a-external-evidence-management-system#unit#0002"
+      ],
+      "section": "Security",
+      "explanation": "Explicitly responds to the security risk through legal, policy, suitability, clearance, and acquisition requirements for contractors.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        38
+      ],
+      "text": "Bureau records are only shared with contractors that have a need to know based on job duties.",
+      "unit_ids": [
+        "036_cfpb_appendix-a-external-evidence-management-system#unit#0002"
+      ],
+      "section": "Security",
+      "explanation": "Limits contractor disclosure to personnel with a job-related need to know.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        39
+      ],
+      "text": "CFPB records are transferred to the contractor using encrypted physical media (e.g., hard drives) or over secure File Transfer Protocol and vice versa.",
+      "unit_ids": [
+        "036_cfpb_appendix-a-external-evidence-management-system#unit#0002"
+      ],
+      "section": "Security",
+      "explanation": "Protects records during transfer through encryption or secure transfer protocols.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        40
+      ],
+      "text": "These records are maintained by the contractor in a FedRAMP-secured environment.",
+      "unit_ids": [
+        "036_cfpb_appendix-a-external-evidence-management-system#unit#0002"
+      ],
+      "section": "Security",
+      "explanation": "Uses a federally authorized secured environment to protect contractor-maintained records.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        41
+      ],
+      "text": "All users are required to read and sign the 'Employee Rules of Behavior' before being granted access.",
+      "unit_ids": [
+        "036_cfpb_appendix-a-external-evidence-management-system#unit#0002"
+      ],
+      "section": "Security",
+      "explanation": "Requires users to acknowledge behavioral rules before receiving access.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "text": "Access to the environment is strictly provided through an approval authorization process. In addition, the following access controls are in place to prevent misuse or unauthorized access to CFPB records: Assignment of unique account name and complex passwords; Multifactor authentication via PIV; RSA soft tokens are used for second factor authentication (if applicable); Automatic removal of inactive accounts; Least privilege access procedures; and Role-based access controls. The contractor employs role-based access controls to ensure that users only have access to the environment and CFPB records maintained therein that are necessary and relevant to their assigned job duties. For example, these role-based access controls only permit a user to see or modify information for cases or matters to which they are assigned.",
+      "unit_ids": [
+        "036_cfpb_appendix-a-external-evidence-management-system#unit#0002",
+        "036_cfpb_appendix-a-external-evidence-management-system#unit#0003"
+      ],
+      "section": "Security",
+      "explanation": "Uses authorization, multifactor authentication, account controls, least privilege, and role-based restrictions to prevent unauthorized access or misuse.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "text": "Finally, the contractor has established oversight controls through robust auditing features to identify and support accountability for unauthorized use/misconduct. Suspicious or unauthorized access is monitored and logged, thereby deterring users from inappropriate access and use of CFPB information. Information maintained in the audit log includes but is not limited to, the type of audit event, date and time event occurred, and user ID to identify the employee. The audit log is stored separately and protected from viewing or access by authorized users.",
+      "unit_ids": [
+        "036_cfpb_appendix-a-external-evidence-management-system#unit#0003"
+      ],
+      "section": "Legal Technology and Support Team Privacy Impact Assessment July 2024",
+      "explanation": "Uses protected audit logs and monitoring to detect, deter, and attribute suspicious or unauthorized activity.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 5,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 5,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 5,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

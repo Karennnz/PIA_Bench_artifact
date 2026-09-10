@@ -1,0 +1,180 @@
+{
+  "chunk_id": "493_usda_farm-service-security-services-system-fssss#chunk#00",
+  "doc_id": "493_usda_farm-service-security-services-system-fssss",
+  "agency": "usda",
+  "n_sentences": 108,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        36
+      ],
+      "text": "When records have reached their retention period, they are immediately retired or destroyed in accordance with the USDA Record Retention policies and procedures.",
+      "unit_ids": [
+        "493_usda_farm-service-security-services-system-fssss#unit#0025"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes prompt retirement or destruction of records under retention procedures, reducing retention-related exposure.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        37
+      ],
+      "text": "During this period, the stored information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "493_usda_farm-service-security-services-system-fssss#unit#0025"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Identifies unauthorized viewing, loss, destruction, and unavailability as risks during retention.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        38
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "493_usda_farm-service-security-services-system-fssss#unit#0025"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access-control protections in direct response to the stated retention risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        61
+      ],
+      "text": "| Applications | Notice to individuals and unawareness risk mitigation. | |----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | EAS | The risk is considered moderate.",
+      "unit_ids": [
+        "493_usda_farm-service-security-services-system-fssss#unit#0040"
+      ],
+      "section": "6.4 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Assesses the risk of individuals being unaware of collection as moderate.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        62
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower. |",
+      "unit_ids": [
+        "493_usda_farm-service-security-services-system-fssss#unit#0040"
+      ],
+      "section": "6.4 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies system-of-records notices as the notification mechanism addressing unawareness.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "risk",
+      "sentence_ids": [
+        70
+      ],
+      "text": "| Applications | Privacy risks associated with redress and risk mitigation. | |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | EAS | The risk associated with redress is considered low, as the public does not have access to the system or the data.",
+      "unit_ids": [
+        "493_usda_farm-service-security-services-system-fssss#unit#0046"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly assesses the privacy risk associated with redress as low.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        71,
+        72
+      ],
+      "text": "While the public cannot access the system to update or change their personal information, they may update their information using from AD 2530 and submit to the appropriate FSA official. The FSA official will in turn update the system based on the information provided.",
+      "unit_ids": [
+        "493_usda_farm-service-security-services-system-fssss#unit#0046"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Provides an alternative process for individuals to submit corrections through an agency official.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        84,
+        85
+      ],
+      "text": "| Applications | Privacy risks identified and risk mitigation. | |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | EAS | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "493_usda_farm-service-security-services-system-fssss#unit#0054"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the main privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        86,
+        87,
+        88
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM. Quarterly access reviews are done to ensure controls are mitigated. |",
+      "unit_ids": [
+        "493_usda_farm-service-security-services-system-fssss#unit#0054"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "States that mitigating controls are maintained, mapped, and reviewed quarterly to minimize the unauthorized-access risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "null_finding",
+      "sentence_ids": [
+        91
+      ],
+      "text": "| Applications | Technology privacy risks. | |----------------|-----------------------------| | EAS | No |",
+      "unit_ids": [
+        "493_usda_farm-service-security-services-system-fssss#unit#0057"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns?  If so please discuss their implementation.",
+      "explanation": "Explicitly indicates that the employed technology does not raise privacy concerns.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 1,
+      "risk_span_id": 2,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 6,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 8,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

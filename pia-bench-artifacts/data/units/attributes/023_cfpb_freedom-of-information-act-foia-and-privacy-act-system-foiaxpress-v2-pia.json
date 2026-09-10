@@ -1,0 +1,149 @@
+{
+  "document_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0000",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0001",
+      "attributes": [
+        "purpose"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0002",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0003",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0004",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0005",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0006",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0007",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0008",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0009",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0010",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "retention",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0011",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0012",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "retention",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0013",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia#unit#0014",
+      "attributes": [
+        "context",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

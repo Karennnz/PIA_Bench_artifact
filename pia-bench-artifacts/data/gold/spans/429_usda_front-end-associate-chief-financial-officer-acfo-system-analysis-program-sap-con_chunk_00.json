@@ -1,0 +1,473 @@
+{
+  "chunk_id": "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#chunk#00",
+  "doc_id": "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con",
+  "agency": "usda",
+  "n_sentences": 177,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        53
+      ],
+      "text": "ConcurGov has implemented a multilayered defense strategy as a protection against unauthorized modifications.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0023"
+      ],
+      "section": "2.4. How will the information be checked for accuracy? How often will it be checked?",
+      "explanation": "Presents a defense strategy as protection against unauthorized modification of information.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        61
+      ],
+      "text": "Unauthorized disclosure and access to user information Audit and compliance issues Data breaches and cyber attacks Potential legal and regulatory consequences Encryption - All client/server communications are encrypted through Transport Layer Security.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0028"
+      ],
+      "section": "Possible risks:",
+      "explanation": "Explicitly identifies unauthorized access, disclosure, breaches, compliance problems, and resulting consequences as possible risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        62,
+        63
+      ],
+      "text": "Mitigation : These risks are mitigated by applying the following controls: . Timeout for remote access - ConcurGov sessions are cancelled by the application server after a specified idle period.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0028"
+      ],
+      "section": "Possible risks:",
+      "explanation": "Explicit mitigation framing followed by session timeouts as a control for the identified risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        64
+      ],
+      "text": "Access controls including role-based account management and implementation of separation of duties and least privilege is enforced through the use of profiles and roles.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0028"
+      ],
+      "section": "Possible risks:",
+      "explanation": "Role-based access, separation of duties, and least privilege are presented as controls addressing the preceding risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        73
+      ],
+      "text": ": Possible risks associated with the PII accessible through this system is: Unauthorized disclosure and access to user information Audit and compliance issues Data breaches and cyber attacks Potential legal and regulatory consequences Mitigation : These risks are mitigated by applying the following controls: Encryption - All client/server communications are encrypted through Transport Layer Security.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0032"
+      ],
+      "section": "Privacy Risk",
+      "explanation": "Identifies unauthorized disclosure, access, breaches, compliance issues, and legal consequences as privacy risks; the sentence also contains mitigation language, so it is classified by its risk finding.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        74
+      ],
+      "text": "Timeout for remote access - ConcurGov sessions are cancelled by the application server after a specified idle period.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0032"
+      ],
+      "section": "Privacy Risk",
+      "explanation": "Session timeout is presented as part of the controls mitigating the preceding risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        75
+      ],
+      "text": "Access controls including role-based account management and implementation of separation of duties and least privilege is enforced through the use of profiles and roles.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0032"
+      ],
+      "section": "Privacy Risk",
+      "explanation": "Role-based access, separation of duties, and least privilege are presented as controls mitigating the preceding risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        94
+      ],
+      "text": "Users may have challenges understanding the system access requirements and how their information will be used.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0036"
+      ],
+      "section": "Privacy Risks:",
+      "explanation": "States that users may not understand access requirements or how their information will be used.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        95,
+        96
+      ],
+      "text": "Mitigation : These risks are mitigated by applying the following controls: As a part of the Government's Charge Card registration process, users are given a designated FATA (Travel Point of Contact) to provide comprehensive guidance for accessing the system. Users can email or call the FATA as needed.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0036"
+      ],
+      "section": "Privacy Risks:",
+      "explanation": "Explicitly responds to the notice risk by providing a designated contact who offers guidance and assistance.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "risk",
+      "sentence_ids": [
+        102
+      ],
+      "text": "Longer period of data retention can impose the risk of data being stolen, loss of data integrity and confidentiality.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0041"
+      ],
+      "section": "Privacy Risk :",
+      "explanation": "States that extended retention creates risks of theft and loss of data integrity and confidentiality.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        103,
+        104,
+        105
+      ],
+      "text": "Mitigation : These risks are mitigated by applying the following controls: Users are required to undergo USDA Records Management training in AgLearn annually. Course completion includes Records Management, Records Management Responsibilities, and Acknowledgment.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0041",
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0042"
+      ],
+      "section": "Privacy Risk :",
+      "explanation": "Explicit mitigation framing followed by required annual records-management training.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        106,
+        107
+      ],
+      "text": "Information is protected by access rules. Users who need access to the data must be granted access by an authorized individual and will apply the appropriate access rules to the user's ID.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0042"
+      ],
+      "section": "Privacy Impact Assessment",
+      "explanation": "Access rules and authorization requirements are presented as controls for the retention risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        108
+      ],
+      "text": "Encryption - All client/server communications are encrypted through Transport Layer Security.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0042"
+      ],
+      "section": "Privacy Impact Assessment",
+      "explanation": "Encryption of communications is listed as a control mitigating the retention risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        109
+      ],
+      "text": "Masking of PII data.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0042"
+      ],
+      "section": "Privacy Impact Assessment",
+      "explanation": "Masking of personally identifiable information is listed as a control mitigating the retention risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        110,
+        111
+      ],
+      "text": "Controlled access - USDA eAuthentication limits SAP ConcurGov access to authorized users only. In addition, authorized users must be defined to the SAP ConcurGov application.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0042"
+      ],
+      "section": "Privacy Impact Assessment",
+      "explanation": "Authentication and application-level authorization limit access to approved users as a response to the retention risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        112
+      ],
+      "text": "Timeout for remote access - SAP Concur sessions are cancelled by the application server after a specified idle period.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0042"
+      ],
+      "section": "Privacy Impact Assessment",
+      "explanation": "Automatic cancellation of idle sessions is listed as a mitigating control.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "mitigation",
+      "sentence_ids": [
+        113
+      ],
+      "text": "System audit logs - The hosting provider captures and retains all logon and logoff actions and selected additional actions such as changes to user profiles.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0042"
+      ],
+      "section": "Privacy Impact Assessment",
+      "explanation": "Logging of access and profile changes is listed as a control for managing the retention risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "mitigation",
+      "sentence_ids": [
+        123
+      ],
+      "text": "In order to protect against session hijacking, the CCPS environment employs an Akamai web application firewall (WAF) feature that prevents man in the middle attacks, including session hijacking.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0045"
+      ],
+      "section": "1.2 with 128-bit encryption or higher.",
+      "explanation": "The firewall is expressly employed to protect against session hijacking and man-in-the-middle attacks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 19,
+      "type": "risk",
+      "sentence_ids": [
+        126
+      ],
+      "text": "Unauthorized disclosure and access to user information Controlled access - USDA eAuthentication limits ConcurGov access to authorized users only.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0047"
+      ],
+      "section": "Privacy Risks:",
+      "explanation": "Identifies unauthorized disclosure and access to user information as an internal-sharing privacy risk; the same sentence also contains a control, so it is classified by its risk finding.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 20,
+      "type": "mitigation",
+      "sentence_ids": [
+        127,
+        128,
+        129
+      ],
+      "text": "Limitations are applied through the assignment of restrictive roles. Access controls including role-based account management and implementation of separation of duties and least privilege is enforced through the use of profiles and roles. Mitigation : These risks are mitigated by applying the following controls:",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0047"
+      ],
+      "section": "Privacy Risks:",
+      "explanation": "Restrictive roles, role-based access, separation of duties, and least privilege are explicitly identified as controls mitigating the internal-sharing risk.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 21,
+      "type": "risk",
+      "sentence_ids": [
+        132
+      ],
+      "text": "Unauthorized disclosure and access to user information Data breaches and cyber attacks",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0050"
+      ],
+      "section": "Privacy Risk :",
+      "explanation": "Identifies unauthorized disclosure, unauthorized access, data breaches, and cyberattacks as external-sharing risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 22,
+      "type": "mitigation",
+      "sentence_ids": [
+        133,
+        134
+      ],
+      "text": "Mitigation : These risks are mitigated by applying the following controls: Controlled access - USDA eAuthentication limits ConcurGov access to authorized users only. Limitations are applied through the assignment of restrictive roles.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0051"
+      ],
+      "section": "Privacy Impact Assessment",
+      "explanation": "Explicit mitigation framing followed by authentication and restrictive-role controls limiting access to authorized users.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 23,
+      "type": "mitigation",
+      "sentence_ids": [
+        135
+      ],
+      "text": "Access controls including role-based account management and implementation of separation of duties and least privilege is enforced through the use of profiles and roles.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0051"
+      ],
+      "section": "Privacy Impact Assessment",
+      "explanation": "Role-based access, separation of duties, and least privilege are listed as controls mitigating external-sharing risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 24,
+      "type": "mitigation",
+      "sentence_ids": [
+        136
+      ],
+      "text": "Encryption - All client/server communications are encrypted through Transport Layer Security.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0051"
+      ],
+      "section": "Privacy Impact Assessment",
+      "explanation": "Encrypted communications are listed as a control mitigating external-sharing risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 25,
+      "type": "risk",
+      "sentence_ids": [
+        150
+      ],
+      "text": "The FATA may decline the requested changes from the traveler based on the scope of requests, the changes sought, the impact of the changes, and laws, regulations, and policies.",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0058"
+      ],
+      "section": "Privacy Risks:",
+      "explanation": "States that a travel administrator may deny an individual's requested correction, creating a redress risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 26,
+      "type": "mitigation",
+      "sentence_ids": [
+        151,
+        152,
+        153
+      ],
+      "text": "USDA FATAs must adhere to established laws, regulations, and policies in order to ensure continuity and security of the system. The following laws, regulations, and policies are applicable to ensuring continuity and security of the system: Mitigation : These risks are mitigated by applying the following controls: | Identification Number | Source | Title | Date | Link | |-------------------------|------------------------------------------------|-------------------------------------------------------------------------------------------------------|----------------|---------------| | NIST SP 800-53 | National Institute of Standards and Technology | Security and Privacy Controls for Federal Information Systems and Organizations, Revision 5 | December 2020 | SP 800-53 | | NIST SP 800- 122 | National Institute of Standards and Technology | NIST SP 800-122, Guide to Protecting the Confidentiality of Personally Identifiable Information (PII) | April 2010 | SP 800-122 | | NIST SP 800- 144 | National Institute of Standards and Technology | Guidelines on Security and Privacy in Public Cloud Computing | December 2011 | SP 800-144 | | NARA 2010-05 | National Archives NARA Bulletin 2010- 05 | Guidance on Managing Records in Cloud Computing Environments (NARA Bulletin) | September 2010 | NARA 2020- 05 | | PL 107-347 | E-Government Act of 2002 | Federal Information Security Modernization Act (FISMA) of 2014 | December 2014 | FISMA 2014 |",
+      "unit_ids": [
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0058",
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con#unit#0059"
+      ],
+      "section": "Privacy Risks:",
+      "explanation": "Compliance with identified laws, regulations, standards, and policies is explicitly presented as the control for the redress risk.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 20,
+      "risk_span_id": 19,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 21,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 23,
+      "risk_span_id": 21,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 24,
+      "risk_span_id": 21,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 25,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

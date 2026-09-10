@@ -1,0 +1,436 @@
+{
+  "chunk_id": "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#chunk#00",
+  "doc_id": "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research",
+  "agency": "cfpb",
+  "n_sentences": 137,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        26
+      ],
+      "text": "It must also be compliant with other applicable federal laws, including other provisions of the Act, the Paperwork Reduction Act, the Right to Financial Privacy Act, and the Privacy Act of 1974. Using SEFL Data for Market Research implicates privacy concerns because a breach of confidentiality, or re-identification, could result in an individual being stigmatized or suffering economic harm.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0003"
+      ],
+      "section": "OVERVIEW",
+      "explanation": "Identifies potential confidentiality breaches or re-identification leading to stigma or economic harm.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        27
+      ],
+      "text": "Further, privacy protections such as notice and consent have limited applicability to the collection of data under Supervision and Enforcement authorities, because individuals do not provide their data directly to the CFPB, and informed consent may not be practicable.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0003"
+      ],
+      "section": "OVERVIEW",
+      "explanation": "Identifies limited availability of notice and consent protections for indirectly collected information.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        43
+      ],
+      "text": "The CFPB mitigates the risk of inappropriate collection by collecting SEFL Data in a manner consistent with applicable laws and CFPB policies.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0010"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly describes legal and policy compliance as reducing inappropriate-collection risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        44
+      ],
+      "text": "Typically, the CFPB strips the SEFL Data to be used for Market Research of direct identifying PII and only provides that stripped dataset to CFPB personnel who conduct Market Research.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0010"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Describes removal of direct identifiers and restricted provision of the resulting data as part of the preceding risk response.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        56
+      ],
+      "text": "There is a risk that individuals whose information is used for Market Research may not understand the scope of Market Research, including whether the CFPB has data that pertains to them.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0014"
+      ],
+      "section": "2.3 Are there any privacy risks for this system that relate to openness and transparency? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies the possibility that individuals will not understand the scope of the research or whether their data are involved.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        57
+      ],
+      "text": "The CFPB mitigates this privacy risk by minimizing the extent to which this data are identifiable by stripping the data of direct identifying PII where practicable, and by limiting access to only those individuals who have a need to access the data.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0014"
+      ],
+      "section": "2.3 Are there any privacy risks for this system that relate to openness and transparency? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly responds to the stated transparency risk through de-identification and need-based access restrictions.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        58
+      ],
+      "text": "The CFPB is also publishing this PIA to promote transparency.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0014"
+      ],
+      "section": "2.3 Are there any privacy risks for this system that relate to openness and transparency? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Uses publication of the assessment to improve transparency concerning the research.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        79
+      ],
+      "text": "The CFPB reduces privacy risks by typically stripping direct identifying PII from the SEFL Data used for Market Research.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0024"
+      ],
+      "section": "3.9 Are there any privacy risks for this system that relate to data minimization? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that removal of direct identifiers reduces data-minimization privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        80
+      ],
+      "text": "When the CFPB does use direct identifying PII in analyses, it does so in order to a) match across datasets; b) update data sets; c) weight datasets in order to make generalizations regarding a given population; d) proxy based on population characteristics; and e) contact potential recipients of surveys and then use those surveys to solicit information on consumer experiences with consumer financial products and services.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0024"
+      ],
+      "section": "3.9 Are there any privacy risks for this system that relate to data minimization? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Limits use of directly identifying information to enumerated research necessities within the data-minimization response.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        81
+      ],
+      "text": "Further, all proposals to use SEFL Data for Market Research are vetted, and all SEFL Data serve a supervisory or enforcement purpose.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0024"
+      ],
+      "section": "3.9 Are there any privacy risks for this system that relate to data minimization? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Describes proposal review and a requirement that the data also serve an authorized supervisory or enforcement purpose.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        91
+      ],
+      "text": "Although SEFL Data used for Market Research purposes do not typically contain direct identifying PII, to the extent that the data contain PII, there is a risk of unauthorized use such as unauthorized re-identification and monitoring of individuals, unauthorized disclosures, or unauthorized Market Research conducted by CFPB personnel.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0030"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies unauthorized use, re-identification, monitoring, disclosure, and unauthorized research as privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        92
+      ],
+      "text": "To mitigate the risk of unauthorized uses, the CFPB typically strips SEFL Data of direct identifying PII when it is to be used for Market Research purposes.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0030"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly mitigates unauthorized-use risk by generally removing direct identifiers.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        93
+      ],
+      "text": "It also employs qualified personnel with the necessary academic credentials and subject matter expertise to conduct Market Research.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0030"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Uses appropriately qualified researchers as an additional control against improper research uses.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        94
+      ],
+      "text": "To mitigate the risk of re-identification and monitoring of individuals using this data, the CFPB limits personnel access to direct identifying PII using technical access controls, and provides privacy and security training so that personnel know how to handle and protect data appropriately.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0030"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly addresses re-identification and monitoring through technical access restrictions and personnel training.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        95
+      ],
+      "text": "CFPB personnel do not attempt to re-identify SEFL Data that are or have been stripped of direct identifying PII.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0030"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Prohibits personnel from attempting to re-identify data from which direct identifiers have been removed.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        96
+      ],
+      "text": "The CFPB reduces the privacy risk of unauthorized disclosures of SEFL Data by reviewing disclosures of Market Research in light of legal requirements, including the Privacy Act, Section 1022(c)(8) of the Dodd-Frank Act, and the CFPB's rules on the disclosure of confidential information, 12 CFR Part 1070, so that the data are not inappropriately disclosed and made vulnerable to subsequent misuse.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0030"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly reduces unauthorized-disclosure risk through legal review of research disclosures.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "mitigation",
+      "sentence_ids": [
+        97,
+        98
+      ],
+      "text": "To reduce disclosure risk, the CFPB may also use disclosure limitation techniques in generating Market Research products. These techniques may include collapsing response cells, not returning specific variables, and not associating specific outcomes with individuals.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0030"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Describes disclosure-limitation techniques and gives examples of how outputs are made less identifying.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "risk",
+      "sentence_ids": [
+        102
+      ],
+      "text": "Risk exists related to data quality and integrity.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0033"
+      ],
+      "section": "5.2 Are there any privacy risks for individuals whose information is collected or used by the project that relate to data quality and integrity? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that a risk exists concerning data quality and integrity.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 19,
+      "type": "mitigation",
+      "sentence_ids": [
+        103
+      ],
+      "text": "To reduce the risk related to data quality and integrity, the CFPB uses best practices of social science research design and data management techniques to reduce the impact of errors or bias in Consumer Experience Research.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0033"
+      ],
+      "section": "5.2 Are there any privacy risks for individuals whose information is collected or used by the project that relate to data quality and integrity? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly reduces data-quality risk through research-design and data-management practices intended to limit errors and bias.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 20,
+      "type": "mitigation",
+      "sentence_ids": [
+        104
+      ],
+      "text": "The Bureau does not use the results of Consumer Experience Research in a way that negatively impact the individual.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0033"
+      ],
+      "section": "5.2 Are there any privacy risks for individuals whose information is collected or used by the project that relate to data quality and integrity? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Limits the potential impact of quality problems by not using research results in ways that harm individuals.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 21,
+      "type": "risk",
+      "sentence_ids": [
+        113
+      ],
+      "text": "There is risk that privacy incidents could occur, resulting in unauthorized use or disclosure of PII.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0039"
+      ],
+      "section": "6.5 Are there any privacy risks for this system that relate to security? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies the possibility of privacy incidents causing unauthorized use or disclosure of personal information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 22,
+      "type": "mitigation",
+      "sentence_ids": [
+        114
+      ],
+      "text": "The CFPB mitigates the risk of privacy incidents by providing an extensive set of technical and administrative security and privacy controls reinforced by privacy and security training to CFPB personnel on the appropriate use of information and implementing breach notification processes and plans.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0039"
+      ],
+      "section": "6.5 Are there any privacy risks for this system that relate to security? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly mitigates incident risk through technical and administrative controls, training, and breach-response processes.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 23,
+      "type": "risk",
+      "sentence_ids": [
+        126
+      ],
+      "text": "There is a risk that individuals may not be able to control how the data that pertains to them are being used in support of Market Research.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0044"
+      ],
+      "section": "7.4 Are there any privacy risks for this system that relate to individual participation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies the risk that individuals cannot control how information about them is used for research.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 24,
+      "type": "mitigation",
+      "sentence_ids": [
+        127
+      ],
+      "text": "The CFPB relies on its statutory authority to conduct Market Research using this data and promotes transparency regarding Market Research through this PIA.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0044"
+      ],
+      "section": "7.4 Are there any privacy risks for this system that relate to individual participation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Responds to the participation risk by grounding the use in statutory authority and providing transparency through the assessment.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 25,
+      "type": "mitigation",
+      "sentence_ids": [
+        130
+      ],
+      "text": "Since the CFPB requires and provides privacy and security training for all of CFPB personnel, Market Research poses minimal risks regarding privacy awareness and training.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0047"
+      ],
+      "section": "8.2 Are there any privacy risks for this system that relate to awareness and training? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Presents mandatory privacy and security training as the reason awareness-and-training risks are minimal.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 26,
+      "type": "mitigation",
+      "sentence_ids": [
+        136
+      ],
+      "text": "The CFPB has mitigated risks related to accountability and auditing by limiting who has access to the information, clearly defining and assigning user roles with limited permissions, and providing users with training on use of the system, including privacy, security, and confidentiality.",
+      "unit_ids": [
+        "008_cfpb_certain-supervision-enforcement-and-fair-lending-data-used-for-market-research#unit#0050"
+      ],
+      "section": "9.2 Are there any privacy risks for this system that relate to accountability and auditing? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly describes restricted access, limited user permissions, and training as mitigating accountability and auditing risks.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 11,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 19,
+      "risk_span_id": 18,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 20,
+      "risk_span_id": 18,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 21,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 24,
+      "risk_span_id": 23,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

@@ -1,0 +1,574 @@
+{
+  "chunk_id": "009_cfpb_consumer-education-pia#chunk#00",
+  "doc_id": "009_cfpb_consumer-education-pia",
+  "agency": "cfpb",
+  "n_sentences": 248,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        70
+      ],
+      "text": "Specifically, Consumer Education implicates privacy because of the risk to confidentiality; because of the risk of misuse of information; because of the risk of unnecessary or inappropriate information collection; and because opportunities for notice and informed consent may be limited.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0006"
+      ],
+      "section": "Collection of PII and Related Privacy Implications",
+      "explanation": "Identifies confidentiality, misuse, excessive collection, and inadequate notice or consent as privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        86
+      ],
+      "text": "The collection of data presents risks related to inappropriate collection or misuse.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0013"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "States that collecting the data creates risks of inappropriate collection and misuse.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        87,
+        88
+      ],
+      "text": "The CFPB mitigates these risks by conducting reviews of existing literature and limiting Consumer Education to topics where sufficient research or analysis does not already exist, or where known gaps in financial education and financial literacy programs exist. Further, the CFPB evaluates the authority and purpose that justify the conduct of Consumer Education and approves projects only when such projects are consistent with applicable law and CFPB policies.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0013"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Describes research, necessity, authority, purpose, and policy reviews used to prevent inappropriate collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        89
+      ],
+      "text": "The CFPB provides training for individuals collecting PII to help reduce the risk of unnecessary information collection.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0013"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly presents collector training as reducing unnecessary information collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        90,
+        91,
+        92
+      ],
+      "text": "When the CFPB partners with a third party, the Bureau uses formal processes for soliciting participation and selecting partners. Additionally, the CFPB outlines in legal agreements the appropriate uses and access controls for PII. For example, contracts typically include language prohibiting the third party from furnishing direct identifying information to the CFPB.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0013"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Describes partner-selection processes and contractual restrictions used to control third-party collection, access, and use.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        93
+      ],
+      "text": "Finally, the CFPB has formal processes in place by which the Bureau's Privacy and CyberSecurity teams review new Consumer Education initiatives for consistency with the statements made in this document and to ensure information collected is necessary for the purposes of the initiative.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0013"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Presents formal privacy and cybersecurity reviews as ensuring that new collections are necessary and consistent with policy.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        94,
+        95
+      ],
+      "text": "To the extent that the CFPB receives more PII than necessary, it minimizes retention to reduce the possibility that it may be misused subsequent to collection. Further, the CFPB only retains the information for as long as is necessary to support authorized purposes in accordance with approved records retention schedules.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0013"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Limits retention of excess PII and ties retention to authorized purposes to reduce subsequent misuse.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        120
+      ],
+      "text": "There is a risk that individuals recruited for or who otherwise participate in Consumer Education may not understand that the CFPB is conducting or sponsoring the Consumer Education and subsequent research, or how their information is being used, including for research purposes, especially when third parties are involved.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0017"
+      ],
+      "section": "2.3 Are there any privacy risks for this system that relate to openness, and transparency? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies the risk that participants may not understand CFPB involvement or how their information is used.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        121
+      ],
+      "text": "Additionally, there is a risk that information collected may be misused either for secondary types of research that are incompatible with the purposes of the initial collection, or for uses individuals do not understand, were not provided notice of, or to which they have not provided consent.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0017"
+      ],
+      "section": "2.3 Are there any privacy risks for this system that relate to openness, and transparency? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies incompatible secondary use and uses lacking adequate notice, understanding, or consent.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        122,
+        123,
+        124,
+        125
+      ],
+      "text": "To mitigate these risks, the CFPB provides notice and consent opportunities and identifies itself as sponsoring or co-sponsoring, as appropriate and where possible, on Consumer Education recruitment flyers, informed consent forms, and information collection instruments. In some instances, the CFPB may rely on a private entity's privacy policy to provide limited or additional notice to individuals. In limited circumstances, when notice of CFPB sponsorship would compromise the validity of Consumer Education, and the initiative does not require a Privacy Act Statement or Paperwork Reduction Act Statement, Participants are informed of the CFPB's role after the Consumer Education has concluded. Furthermore, the CFPB has published this PIA and, when the Paperwork Reduction Act requires, obtains approval of the Office of Management and Budget for information collections involved in Consumer Education.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0017"
+      ],
+      "section": "2.3 Are there any privacy risks for this system that relate to openness, and transparency? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Provides notice, consent, sponsorship disclosures, delayed notice where necessary, public documentation, and regulatory review to address transparency risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        156,
+        157,
+        158
+      ],
+      "text": "The CFPB works to minimize the risk of collecting unnecessary PII. The CFPB reduces the privacy risk of over-collection by conducting reviews of existing literature and limiting Consumer Education to topics where sufficient research or analysis does not already exist prior to data collection, or there is opportunity to validate or develop new insights. For example, the CFPB demonstrates that Consumer Education does not duplicate existing information collections or research as part of obtaining OMB approval under the PRA.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0026"
+      ],
+      "section": "3.9 Are there any privacy risks for this system that relate to data minimization? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly describes literature and duplication reviews used to minimize unnecessary collection and over-collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        159
+      ],
+      "text": "In some cases, direct identifying PII is necessary to facilitate Consumer Education initiatives and/or conduct research, and in those instances, the information collected is limited to only that which is necessary to recruit or schedule Participants in Consumer Education, or to facilitate matching, as appropriate.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0026"
+      ],
+      "section": "3.9 Are there any privacy risks for this system that relate to data minimization? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Limits direct identifiers to information necessary for recruitment, scheduling, or matching.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        160
+      ],
+      "text": "Furthermore, the CFPB uses sampling methods, as appropriate, when it is not necessary to conduct a universal collection.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0026"
+      ],
+      "section": "3.9 Are there any privacy risks for this system that relate to data minimization? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Uses sampling instead of universal collection when complete collection is unnecessary.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        161
+      ],
+      "text": "The CFPB also evaluates and reduces the privacy sensitivity of the information under consideration for collection, using best practices from the OMB and the National Institute of Standards and Technology.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0026"
+      ],
+      "section": "3.9 Are there any privacy risks for this system that relate to data minimization? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Evaluates and reduces the privacy sensitivity of information considered for collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "risk",
+      "sentence_ids": [
+        179
+      ],
+      "text": "Although Consumer Education does not generally rely on direct identifying PII for its analysis, to the extent that it contains PII, risk exists related to unauthorized use.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0032"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "States that PII creates a risk of unauthorized use.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        180,
+        181,
+        182
+      ],
+      "text": "To mitigate the risk of unauthorized uses, the CFPB restricts the collection of and access to direct identifying PII. For example, when partnering with a third party, the CFPB typically restricts the third party from furnishing direct identifying PII to the Bureau through contract provisions or other legal agreements, and, in some cases, requires the identifying PII to be stored separate from Response Data. It also employs qualified personnel with the necessary academic credentials and subject matter expertise to conduct Consumer Education, or partners with reputable third parties who are subject to due diligence checks conducted by Bureau personnel.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0032"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Restricts collection and access, separates identifying data, and uses qualified or vetted personnel and partners to prevent unauthorized use.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "mitigation",
+      "sentence_ids": [
+        183,
+        184
+      ],
+      "text": "To mitigate the risk of unauthorized disclosure or re-identification and monitoring of individuals, the CFPB limits personnel access to direct identifying PII using technical access controls, and provides privacy and security training so that personnel know how to handle and protect data appropriately. CFPB personnel do not attempt to re-identify information stripped of direct identifying PII, and may in some cases be contractually prohibited from doing so.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0032"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly uses access controls, training, and prohibitions on re-identification to mitigate unauthorized disclosure, re-identification, and monitoring.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "mitigation",
+      "sentence_ids": [
+        185
+      ],
+      "text": "The CFPB reduces the privacy risk of unauthorized disclosures under Consumer Education by reviewing Consumer Education products in light of legal requirements, including the Privacy Act and Section 1022 of the Dodd-Frank Act, and 12 CFR 1070.41(c), so that information is not inappropriately disclosed and made vulnerable to subsequent misuse.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0032"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Uses legal review of outputs to reduce unauthorized disclosure and subsequent misuse.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 19,
+      "type": "mitigation",
+      "sentence_ids": [
+        186,
+        187
+      ],
+      "text": "To reduce disclosure risk, the CFPB may also use disclosure limitation techniques in generating Consumer Education products. These techniques may include collapsing response cells, not returning specific variables, and not associating specific outcomes with individuals, or exclusion of some observations.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0032"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Applies disclosure-limitation techniques to reduce the possibility that released data will expose individuals.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 20,
+      "type": "risk",
+      "sentence_ids": [
+        191
+      ],
+      "text": "Privacy risks related to data quality and integrity are minimal for individuals because the Bureau does not use the results of Consumer Education or Consumer Education research in a way that negatively impacts the individual.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0034"
+      ],
+      "section": "5.1 How will the information collected be verified for accuracy and completeness?",
+      "explanation": "Acknowledges that data quality and integrity present privacy risk, while assessing that risk as minimal.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 21,
+      "type": "risk",
+      "sentence_ids": [
+        193,
+        194,
+        195
+      ],
+      "text": "Privacy risks related to data quality and integrity are minimal for individuals because the Bureau does not use the results of Consumer Education in a way that negatively impacts the individual. Nevertheless, risk exists related to data quality and integrity. Participant data may not be accurate, even when self-reported, and the CFPB cannot guarantee accuracy for Administrative Data or other third-party data.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0035"
+      ],
+      "section": "5.2 Are there any privacy risks for individuals whose information is collected or used by the project that relate to data quality and integrity? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Acknowledges data quality and integrity risk and explains that participant and third-party data may be inaccurate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 22,
+      "type": "mitigation",
+      "sentence_ids": [
+        196
+      ],
+      "text": "To reduce the risk related to data quality and integrity, the CFPB uses social science research methodologies to reduce the impact of data errors on results of Consumer Education and, where necessary and with Participant consent, seeks to augment information with data from third parties.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0035"
+      ],
+      "section": "5.2 Are there any privacy risks for individuals whose information is collected or used by the project that relate to data quality and integrity? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly uses research methodologies and consent-based third-party augmentation to reduce the effect of data errors.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 23,
+      "type": "mitigation",
+      "sentence_ids": [
+        207,
+        208,
+        209
+      ],
+      "text": "In order to mitigate these risks to an acceptable level the CFPB implements extensive security controls for information collected or maintained on behalf of the CFPB, and conducts third-party assessments of vendors and services procured by the CFPB. The CFPB implements the following controls for internally maintained systems: CFPB policies and procedures governing privacy and information security; Background checks on all personnel with access to the system; Initial and follow-on privacy and security awareness training for each individual with access to the system; Physical perimeter security safeguards; Security Operations Center to monitor antivirus and intrusion detection software; Risk and controls assessments and mitigation; Technical access controls, such as role-based access management and firewalls; Appropriate disaster mitigation strategies, breach notification processes and plans, and secure channels for submitting transactional information. The CFPB implements controls relevant to third party vendors and services according to risks identified through the following types of third party reviews: Third-Party Security Assessment & Authorization (SA&A) Package; Statements on Standards for Attestation Engagements (SSAE) 16 Review; Risk Assessments by Independent Organization; or a complete Risk Assessment by CFPB.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0039"
+      ],
+      "section": "6.3 How will the system be secured?",
+      "explanation": "Explicitly presents internal security controls and third-party assessments as reducing identified system risks to an acceptable level.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 24,
+      "type": "risk",
+      "sentence_ids": [
+        213
+      ],
+      "text": "There is risk that information collected for Consumer Education could be used or disclosed in an unauthorized manner.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0041"
+      ],
+      "section": "6.5 Are there any privacy risks for this system that relate to security? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies possible unauthorized use or disclosure of information collected for Consumer Education.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 25,
+      "type": "mitigation",
+      "sentence_ids": [
+        214,
+        215
+      ],
+      "text": "Where possible, the CFPB refrains from storing Administrative Data or demographic data with information used to schedule or manage participation in Consumer Education, such as contact information. Additionally, the CFPB implements extensive security controls for information collected or maintained on behalf of the CFPB, and conducts third-party assessments of vendors and services procured by the CFPB as outlined above.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0041"
+      ],
+      "section": "6.5 Are there any privacy risks for this system that relate to security? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Separates categories of data where possible and applies security controls and vendor assessments to address unauthorized use or disclosure.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 26,
+      "type": "risk",
+      "sentence_ids": [
+        216
+      ],
+      "text": "Finally, there is risk that privacy incidents could occur, resulting in unauthorized use or disclosure of PII.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0041"
+      ],
+      "section": "6.5 Are there any privacy risks for this system that relate to security? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies the possibility of privacy incidents resulting in unauthorized use or disclosure of PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 27,
+      "type": "mitigation",
+      "sentence_ids": [
+        217,
+        218
+      ],
+      "text": "The CFPB mitigates the risk of privacy incidents by providing privacy and security training to CFPB personnel on the appropriate use of information and implementing breach notification processes and plans. Access is limited on a need to know basis, with logical controls limiting access to data stored on CFPB GSS's.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0041"
+      ],
+      "section": "6.5 Are there any privacy risks for this system that relate to security? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly mitigates privacy incidents through training, breach-response planning, need-to-know restrictions, and logical access controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 28,
+      "type": "risk",
+      "sentence_ids": [
+        233
+      ],
+      "text": "Since participation in Consumer Education is generally voluntary and individuals are informed about the nature of the Consumer Education and may determine what and how much information to share, Consumer Education poses minimal risk regarding individual participation.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0046"
+      ],
+      "section": "7.4 Are there any privacy risks for this system that relate to individual participation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Assesses individual-participation privacy risk as minimal rather than absent.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 29,
+      "type": "mitigation",
+      "sentence_ids": [
+        234
+      ],
+      "text": "In cases where Consumer Education is not voluntary, for example, individuals receive a mailer from the CFPB about savings habits as a result of an existing relationship with a financial product or service provider, any information collected is for statistical purposes only and does not include PII.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0046"
+      ],
+      "section": "7.4 Are there any privacy risks for this system that relate to individual participation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "For nonvoluntary participation, limits collection to statistical information that excludes PII.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 30,
+      "type": "risk",
+      "sentence_ids": [
+        238
+      ],
+      "text": "Since the CFPB requires privacy and security training for all CFPB personnel, and specific privacy training for personnel conducting Consumer Education, Consumer Education poses minimal risks regarding privacy awareness and training.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0049"
+      ],
+      "section": "8.2 Are there any privacy risks for this system that relate to awareness and training? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Assesses privacy awareness and training risks as minimal rather than nonexistent.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 31,
+      "type": "mitigation",
+      "sentence_ids": [
+        247
+      ],
+      "text": "The CFPB has mitigated risks related to accountability and auditing by limiting who has access to the information, clearly defining and assigning user roles with limited permissions, and providing users with training on use of the system, including privacy, security, and confidentiality.",
+      "unit_ids": [
+        "009_cfpb_consumer-education-pia#unit#0052"
+      ],
+      "section": "9.2 Are there any privacy risks for this system that relate to accountability and auditing? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that accountability and auditing risks are mitigated through access limits, defined permissions, and user training.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 2,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 2,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 15,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 15,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 18,
+      "risk_span_id": 15,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 19,
+      "risk_span_id": 15,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 20,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 21,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 23,
+      "risk_span_id": 24,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 23,
+      "risk_span_id": 26,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 25,
+      "risk_span_id": 24,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 27,
+      "risk_span_id": 26,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 29,
+      "risk_span_id": 28,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

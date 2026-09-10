@@ -1,0 +1,255 @@
+{
+  "chunk_id": "497_usda_fpac-box-fpac-box#chunk#00",
+  "doc_id": "497_usda_fpac-box-fpac-box",
+  "agency": "usda",
+  "n_sentences": 126,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        33
+      ],
+      "text": "Risk is mitigated based on vendor's meeting FISMA, NIST and FedRAMP certifications.",
+      "unit_ids": [
+        "497_usda_fpac-box-fpac-box#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that vendor compliance and certifications mitigate risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        34
+      ],
+      "text": "Privacy risks are mitigated because access to the information will be limited to appropriate FPAC personnel and partners by the use of the Role-Based model involving USDA e-Authentication, SSO, or domain credentials.",
+      "unit_ids": [
+        "497_usda_fpac-box-fpac-box#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly presents restricted, role-based access as reducing privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        35
+      ],
+      "text": "Please see Section 2.4 and Section 8.6 for a further discussion of security controls that are in place to mitigate privacy risks.",
+      "unit_ids": [
+        "497_usda_fpac-box-fpac-box#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Identifies additional security controls as measures for mitigating privacy risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        43
+      ],
+      "text": "This application is in compliance with the FISMA and the security and privacy controls provided in the U.S. National Institute of Standards and Technology (NIST) Special Publication 800-53, Revision 4. If any residual risks are identified, they will be managed and reported via the FISMA mandated risk assessment processes.",
+      "unit_ids": [
+        "497_usda_fpac-box-fpac-box#unit#0018"
+      ],
+      "section": "2.4 Privacy Impact Analysis: Describe any types of controls that may be in place to ensure that information is handled in accordance with the above described uses.",
+      "explanation": "Commits to managing and reporting any residual risks through mandated risk-assessment processes.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        50
+      ],
+      "text": "The primary risk is that a data breach could result in the inappropriate release of PII information related to FPAC Box user(s).",
+      "unit_ids": [
+        "497_usda_fpac-box-fpac-box#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Identifies the possibility that a breach could cause inappropriate disclosure of personal information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        51
+      ],
+      "text": "This is mitigated via the use of role-based authorization, e-Authentication, and Digital Rights Managements (DRM), which includes FIPS 140-2 certified encryption.",
+      "unit_ids": [
+        "497_usda_fpac-box-fpac-box#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Explicitly responds to the breach and disclosure risk with authorization, authentication, rights management, and encryption.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        53
+      ],
+      "text": "The risks associated with retaining application-specific information are mitigated by the controls discussed above.",
+      "unit_ids": [
+        "497_usda_fpac-box-fpac-box#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that controls discussed earlier mitigate risks arising from retaining application-specific information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        58
+      ],
+      "text": "Privacy risk are mitigated by only transmitting information to authorized employees, contractors and affiliates with need-to-know based on role-based authorization, eAuthentication, and FIPS 140-2 certified encryption.",
+      "unit_ids": [
+        "497_usda_fpac-box-fpac-box#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Explicitly presents need-to-know restrictions, authorization, authentication, and encryption as mitigating internal-sharing risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        59
+      ],
+      "text": "Any residual risk are mitigated by the controls discussed in Section 2.4 above.",
+      "unit_ids": [
+        "497_usda_fpac-box-fpac-box#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "States that previously discussed controls mitigate residual internal-sharing risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        64
+      ],
+      "text": "Privacy risks are mitigated by preventing the release of PII to affiliates (farmers and landowners) through role-based authorization, e-Authentication, and FIPS 140-2 certified encryption.",
+      "unit_ids": [
+        "497_usda_fpac-box-fpac-box#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Explicitly identifies access controls, authentication, and encryption as mitigating external-disclosure risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        65
+      ],
+      "text": "Any residual risk are mitigated by the controls discussed in Section 2.4 above.",
+      "unit_ids": [
+        "497_usda_fpac-box-fpac-box#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "States that previously discussed controls mitigate residual external-sharing risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "null_finding",
+      "sentence_ids": [
+        72
+      ],
+      "text": "There is no risk that any Landowner would be unaware of 'collection,' because FPAC Box does not directly collect information.",
+      "unit_ids": [
+        "497_usda_fpac-box-fpac-box#unit#0037"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Explicitly states that there is no risk of landowners being unaware of collection because the system does not collect information directly.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        102
+      ],
+      "text": "Privacy risks identified in this system are mitigated by the security and privacy safeguards provided in Section 8.5, and by the security controls discussed in Section 2.4 Remediation of privacy risks associated with internal/external sharing are addressed in PIA Sections 4 and 5 respectively.",
+      "unit_ids": [
+        "497_usda_fpac-box-fpac-box#unit#0050"
+      ],
+      "section": "on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly states that identified system risks are mitigated by referenced security, privacy, and sharing controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "risk",
+      "sentence_ids": [
+        120
+      ],
+      "text": "Privacy risks are nominal.",
+      "unit_ids": [
+        "497_usda_fpac-box-fpac-box#unit#0066"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Characterizes the privacy risks from third-party applications as nominal, acknowledging a low level of risk rather than none.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        121
+      ],
+      "text": "FPAC Box does not control, link or provide access to thirdparty applications.",
+      "unit_ids": [
+        "497_usda_fpac-box-fpac-box#unit#0066"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explains that the system does not control, link to, or provide access to third-party applications, limiting the stated risk.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        122
+      ],
+      "text": "Access is controlled by USDA's role-base authorization and eAuthentication process.",
+      "unit_ids": [
+        "497_usda_fpac-box-fpac-box#unit#0066"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Presents role-based authorization and authentication as the access protections addressing the stated third-party risk.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 14,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 14,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

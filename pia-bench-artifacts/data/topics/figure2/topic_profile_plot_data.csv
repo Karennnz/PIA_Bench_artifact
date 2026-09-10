@@ -1,0 +1,17 @@
+kind,topic,name,released_inventory,canonical_inventory,canonical_ground_truth_spans,canonical_ground_truth_share_pct,diagnostic_units,diagnostic_reference_share_pct,run_opportunities,recovered,missed,miss_rate_pct,share_of_all_misses_pct,total_misses
+risk,R07,"Barriers to access, correction, or redress",451,444,41,9.23,22,12.15,660,58,602,91.21,20.77,2898
+risk,R03,"Incompatible use, disclosure, or custody",451,444,72,16.22,34,18.78,1020,420,600,58.82,20.70,2898
+risk,R02,Security compromise or unauthorised access,451,444,111,25.00,63,34.81,1890,1313,577,30.53,19.91,2898
+risk,R06,Insufficient notice or meaningful choice,451,444,47,10.59,21,11.60,630,142,488,77.46,16.84,2898
+risk,R04,Inaccurate or unreliable information,451,444,23,5.18,14,7.73,420,117,303,72.14,10.46,2898
+risk,R01,Intrusive collection or inference,451,444,31,6.98,15,8.29,450,197,253,56.22,8.73,2898
+risk,R05,Excessive retention or failed deletion,451,444,23,5.18,12,6.63,360,285,75,20.83,2.59,2898
+risk,R08,Weak governance or accountability,451,444,4,0.90,0,,0,0,0,,,2898
+mitigation,M02,Authentication or least-privilege access,831,821,179,21.80,55,26.70,1650,723,927,56.18,21.99,4216
+mitigation,M06,"Transparency, notice, and meaningful choice",831,821,97,11.81,35,16.99,1050,152,898,85.52,21.30,4216
+mitigation,M07,"Data quality, access, correction, and redress",831,821,66,8.04,24,11.65,720,94,626,86.94,14.85,4216
+mitigation,M08,"Governance, accountability, and assurance",831,821,78,9.50,26,12.62,780,195,585,75.00,13.88,4216
+mitigation,M01,Data minimisation or identifiability reduction,831,821,116,14.13,22,10.68,660,186,474,71.82,11.24,4216
+mitigation,M03,"Purpose, use, and sharing controls",831,821,67,8.16,16,7.77,480,139,341,71.04,8.09,4216
+mitigation,M04,Operational or physical security,831,821,70,8.53,17,8.25,510,222,288,56.47,6.83,4216
+mitigation,M05,Bounded retention and verified deletion,831,821,59,7.19,11,5.34,330,253,77,23.33,1.83,4216

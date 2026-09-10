@@ -1,0 +1,258 @@
+{
+  "chunk_id": "433_usda_miscellaneous-administrative-systems-group-admin#chunk#00",
+  "doc_id": "433_usda_miscellaneous-administrative-systems-group-admin",
+  "agency": "usda",
+  "n_sentences": 150,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        56
+      ],
+      "text": "Follow the format below: Privacy Risk : The high volume of sensitive data collected increases the risk of authorized access or data breaches.",
+      "unit_ids": [
+        "433_usda_miscellaneous-administrative-systems-group-admin#unit#0026"
+      ],
+      "section": "2.6. PRIVACY IMPACT ANALYSIS: Related to Characterization of the Information",
+      "explanation": "Explicitly states that the volume of sensitive data increases the risk of improper access or a data breach.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "text": "Mitigation : NFC complies with the National Institute of Standards and Technology (NIST) and the Federal Information Security Management Act (FISMA), to ensure that data is protected from unauthorized access, malicious or inadvertent modification, disclosure, and disruption. NFC also works diligently to secure Personally Identifiable Information (PII) by requiring adequate training of employees and contractors that have access to the data. NFC provides the degree of protection (administrative, technical, and physical safeguards) for the data collected as prescribed by the Privacy Act of 1974, 5 U.S.C. Section 552a. NFC ensures all data included in data file transmissions are provided, received, and stored in a secure manner. NFC protects, labels, and handles the data in accordance with 5 U.S.C. Section 552, Privacy act of 1974, as amended and applicable to agency regulations. All employees and contractors adhere to security requirements for handling and storing of Federal data as directed by the Electronic Government Act Title III, also known as the Federal Information Security Management Act (FISMA).",
+      "unit_ids": [
+        "433_usda_miscellaneous-administrative-systems-group-admin#unit#0026"
+      ],
+      "section": "2.6. PRIVACY IMPACT ANALYSIS: Related to Characterization of the Information",
+      "explanation": "Presented as the response to the stated risk and describes compliance, training, safeguards, secure transmission and handling requirements.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        69
+      ],
+      "text": "Privacy Risk : There is a risk that the information collected could be used for purposes beyond those initially intended, leading to authorized access, misuse, or violation of principles.",
+      "unit_ids": [
+        "433_usda_miscellaneous-administrative-systems-group-admin#unit#0029"
+      ],
+      "section": "Privacy Impact Assessment",
+      "explanation": "Explicitly identifies the risk of information being used beyond its intended purposes, including misuse.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "text": "Mitigation : ADMIN uses role-based access and User ID/password to protect access to data. Access to information is limited to authorized personnel on a need-to-know basis, ensuring that users can only view or use data relevant to their roles Individuals only have access to their own records. Data collected is explicitly used for debt collection, statistical reporting, payroll processing, and related administrative functions. ADMIN also implements logging and monitoring mechanisms to track all data access and usage. Before individuals are given access to the system they must undergo mandatory training on appropriate uses of information and the consequences of misuse. The system also utilize Top Secret, DB2 Secure Table and Windows file security are used to manage end user security.",
+      "unit_ids": [
+        "433_usda_miscellaneous-administrative-systems-group-admin#unit#0029"
+      ],
+      "section": "Privacy Impact Assessment",
+      "explanation": "Presented as mitigation and describes purpose limitation, restricted access, monitoring, training and security controls addressing misuse.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        80
+      ],
+      "text": "Follow the format below: Privacy Risk : Individuals may not be adequately informed about the collection and use of their information due to the system receiving individual data from various sources.",
+      "unit_ids": [
+        "433_usda_miscellaneous-administrative-systems-group-admin#unit#0033"
+      ],
+      "section": "4.3. PRIVACY IMPACT ANALYSIS: Related to Notice",
+      "explanation": "Explicitly states that individuals may not receive adequate notice because their data comes from multiple sources.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        81,
+        82
+      ],
+      "text": "Mitigation : NFC ensures notice regarding ADMIN's usage of PII is provided through publicly accessible documents like this PIA as well as USDA's OCFO/NFC-1 System of Records Notice. Agencies sharing data through ADMIN are also responsible for notifying employees of information collected and shared.",
+      "unit_ids": [
+        "433_usda_miscellaneous-administrative-systems-group-admin#unit#0033"
+      ],
+      "section": "4.3. PRIVACY IMPACT ANALYSIS: Related to Notice",
+      "explanation": "Presented as mitigation and provides notice through the PIA, SORN and notices from agencies sharing the data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        89
+      ],
+      "text": "Privacy Risk : Retaining data for a period of 10 years could increase the risk of authorized access or misuse.",
+      "unit_ids": [
+        "433_usda_miscellaneous-administrative-systems-group-admin#unit#0036"
+      ],
+      "section": "5.3. PRIVACY IMPACT ANALYSIS : Related to retention of information.",
+      "explanation": "Explicitly states that retaining information for ten years increases the risk of improper access or misuse.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        90,
+        91,
+        92
+      ],
+      "text": "Mitigation : The purpose of retaining the information is to provide historical data to respond to any issues including but not limited to payroll and benefit corrections, debt, and payment amounts. ADMIN implements logging and monitoring mechanisms to track all data access and usage. The system also utilizes Top Secret, DB2 Secure Table and Windows file security are used to manage end user security.",
+      "unit_ids": [
+        "433_usda_miscellaneous-administrative-systems-group-admin#unit#0036"
+      ],
+      "section": "5.3. PRIVACY IMPACT ANALYSIS : Related to retention of information.",
+      "explanation": "Presented as the retention-risk response, explaining the operational need for retention and identifying monitoring and access-security measures.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        100
+      ],
+      "text": "Privacy Risk : The broad sharing of data internally among USDA agencies may result in advertent or authorized disclosure.",
+      "unit_ids": [
+        "433_usda_miscellaneous-administrative-systems-group-admin#unit#0040"
+      ],
+      "section": "6.2. PRIVACY IMPACT ANALYSIS: Related to internal sharing and disclosure.",
+      "explanation": "Explicitly identifies a disclosure risk arising from broad internal sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        101,
+        102,
+        103
+      ],
+      "text": "Mitigation : Access to data is granted only on a need-to-know basis and is managed using the principle of least privilege. Data is transmitted between ADMIN and other NFC systems via secure mainframe FTP processes. Regular audits and access reviews ensure compliance with security policies.",
+      "unit_ids": [
+        "433_usda_miscellaneous-administrative-systems-group-admin#unit#0040"
+      ],
+      "section": "6.2. PRIVACY IMPACT ANALYSIS: Related to internal sharing and disclosure.",
+      "explanation": "Presented as mitigation and limits internal sharing through least privilege, secure transfers, audits and access reviews.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        111
+      ],
+      "text": "Follow the format below: Privacy Risk : ADMIN exchanges data with the Department of the Treasury which could lead to data being exfiltrated, breached, or leaked.",
+      "unit_ids": [
+        "433_usda_miscellaneous-administrative-systems-group-admin#unit#0042"
+      ],
+      "section": "6.4. PRIVACY IMPACT ANALYSIS: Related to external sharing and disclosure.",
+      "explanation": "Explicitly states that exchanges with Treasury could result in exfiltration, breach or leakage.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        112,
+        113
+      ],
+      "text": "Mitigation : Data exchanges occur over secure VPN connections managed by USDA's Digital Infrastructure Services Center (DISC). Additionally, encryption and logging mechanisms are employed to monitor and protect data transfers.",
+      "unit_ids": [
+        "433_usda_miscellaneous-administrative-systems-group-admin#unit#0042"
+      ],
+      "section": "6.4. PRIVACY IMPACT ANALYSIS: Related to external sharing and disclosure.",
+      "explanation": "Presented as mitigation and protects external exchanges with secure VPN connections, encryption and logging.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "risk",
+      "sentence_ids": [
+        125
+      ],
+      "text": "Privacy Risk : Individuals may remain unaware of their ability to correct information.",
+      "unit_ids": [
+        "433_usda_miscellaneous-administrative-systems-group-admin#unit#0048"
+      ],
+      "section": "7.5. PRIVACY IMPACT ANALYSIS: Related to Redress.",
+      "explanation": "Explicitly states that individuals may be unaware of their ability to correct their information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        126
+      ],
+      "text": "Mitigation : This PIA and the SORN provide clear and concise instructions on how to gain access to their information as well correcting inaccurate or erroneous information",
+      "unit_ids": [
+        "433_usda_miscellaneous-administrative-systems-group-admin#unit#0048"
+      ],
+      "section": "7.5. PRIVACY IMPACT ANALYSIS: Related to Redress.",
+      "explanation": "Presented as mitigation and provides access and correction instructions through the PIA and SORN.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 13,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

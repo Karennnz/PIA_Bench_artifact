@@ -1,0 +1,329 @@
+{
+  "document_id": "146_opm_research-and-oversight-repository-rovr",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0000",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0001",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0002",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0003",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0004",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0005",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0006",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0007",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0008",
+      "attributes": [
+        "context",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0009",
+      "attributes": [
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0010",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0011",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0012",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0013",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0014",
+      "attributes": [
+        "purpose",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0015",
+      "attributes": [
+        "context",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0016",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0017",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0018",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0019",
+      "attributes": [
+        "legal_basis",
+        "information_types",
+        "operations",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0020",
+      "attributes": [
+        "operations",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0021",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0022",
+      "attributes": [
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0023",
+      "attributes": [
+        "legal_basis",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0024",
+      "attributes": [
+        "legal_basis",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0025",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0026",
+      "attributes": [
+        "legal_basis",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0027",
+      "attributes": [
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0028",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0029",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0030",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0031",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0032",
+      "attributes": [
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0033",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0034",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "146_opm_research-and-oversight-repository-rovr#unit#0035",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

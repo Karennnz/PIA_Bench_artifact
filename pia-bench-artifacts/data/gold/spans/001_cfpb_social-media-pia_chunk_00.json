@@ -1,0 +1,318 @@
+{
+  "chunk_id": "001_cfpb_social-media-pia#chunk#00",
+  "doc_id": "001_cfpb_social-media-pia",
+  "agency": "cfpb",
+  "n_sentences": 110,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        10
+      ],
+      "text": "Use of social media raises concerns related to the protection of personal privacy.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0004"
+      ],
+      "section": "Overview",
+      "explanation": "Identifies general privacy concerns arising from social-media use.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        22,
+        23
+      ],
+      "text": "As with any data collection and use, there are privacy risks. The primary privacy risks associated with the Bureau's use of social media are risks related to: Openness and Transparency, Individual Participation, Data Minimization, Security, and Accountability.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "States that the collection and use create privacy risks and identifies the principal risk categories.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        26,
+        27,
+        28
+      ],
+      "text": "To minimize the risk to openness and transparency, the CFPB communicates to consumers about the PII we collect, as well as how we will protect it, use it, and share it. The Bureau provides a 'pop-up' alert that notifies consumers that they are being re-directed to a third-party website or any other location that is not part of an official government domain. The pop-up includes language that clarifies that the new website may have different privacy policies from those of the agency's official website.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Presents notices about collection, handling, redirection, and differing third-party policies as reducing transparency risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        31,
+        32
+      ],
+      "text": "ConsumerFinance.gov includes a comment and moderation page that explains the Bureau's approach to comments on both the Bureau's blog and the Bureau's Facebook page: https://www.facebook.com/CFPB. This includes a section on privacy that informs the public that information posted to our public website will be visible to the general public.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Describes privacy notice content that warns the public about the visibility of posted information.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        33,
+        34
+      ],
+      "text": "The Bureau also mitigates risk through the degree of notice and consent applicable to the social media platforms used by the Bureau. The Bureau has used appropriate branding to distinguish the agency's activities, including adding the agency's logo to all social media platforms used by the Bureau.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Expressly presents notice, consent, and agency branding as risk-reduction measures.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "risk",
+      "sentence_ids": [
+        36,
+        37
+      ],
+      "text": "There is a risk associated with Individual Participation and the Bureau's limitations on the ability to remove or correct information. Given that the social media platforms include the public sharing of information, the Bureau cannot control the information posted to its social media platforms, including deleting information.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Identifies the limited ability to remove or correct information posted on third-party social-media platforms.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        38,
+        39,
+        40
+      ],
+      "text": "Participation in the CFPB blog and Facebook page are covered by our comment policy: http://www.consumerfinance.gov/comment-policy/. Facebook, and other social media tools, have issued standards that detail inappropriate content. The CFPB believes in operating in full compliance of these standards, including monitoring comments for posts in violations of these standards.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Presents comment policies, platform standards, and monitoring as management of inappropriate posted content.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        41
+      ],
+      "text": "The full policies for each tool are as follows: Facebook : https://www.facebook.com/communitystandards Twitter: https://support.twitter.com/articles/18311-the-twitter-rules Disqus: https://help.disqus.com/customer/portal/articles/1753105-basic-rules-for-disquspowered-profiles-and-discussions YouTube : https://www.youtube.com/static?template=privacy_guidelines Yelp: http://www.yelp.com/tos/privacy_en_us_20150504 Flickr: https://policies.yahoo.com/us/en/yahoo/privacy/products/flickr/index.htm LinkedIn: https://www.linkedin.com/legal/privacy-policy Data Minimization .To reduce the risk of overcollection, the CFPB typically does not collect identifying information, or it collects information that has been stripped of direct identifying PII and conducts analysis for generalized insight into consumer decision-making and interactions in the aggregate.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Explicitly describes limiting or de-identifying collection to reduce overcollection risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        42,
+        43
+      ],
+      "text": "Consumers may interact with the Bureau through social media, which would result in user names being shared with the Bureau and with the public. Consumers may also choose to share personal information with the Bureau using various social media tools.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Identifies that usernames and voluntarily supplied personal information may be exposed to the Bureau and the public.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        44
+      ],
+      "text": "Where possible the Bureau has provided guidance to consumers indicating that personal information should not be sent to the Bureau through social media, but should instead be transmitted through one of our secure communication channels.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Directs consumers away from social media and toward secure channels for transmitting personal information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        45
+      ],
+      "text": "The Bureau has provided guidance to its staff to not collect PII from social media interactions and not enter it into the Bureau's systems.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Directs staff not to collect or enter personal information obtained from social-media interactions.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "risk",
+      "sentence_ids": [
+        49
+      ],
+      "text": "CFPB does not control or guarantee the security or privacy of its social media accounts, nor does the site control the PII that is collected or stored on them.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "States that the Bureau cannot control or guarantee third-party platform security, privacy, or personal-information handling.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        50
+      ],
+      "text": "CFPB will make every attempt possible to protect visitors' identities and personal information; however, visitors are subject to the policies of these websites and platforms.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Commits the Bureau to attempting to protect visitor identities and personal information despite residual third-party risk.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        51
+      ],
+      "text": "Before using any third-party websites or applications to engage with the public, the CFPB examines the third party's privacy policy to evaluate the risks and determine whether the website or application is appropriate for the agency's use.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Requires privacy-policy and risk evaluation before using a third-party website or application.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        53
+      ],
+      "text": "T o ensure accountability in the handling of personal information, the Bureau performs an annual review of the Bureau's website privacy policy and has established procedures for sharing information with the public through social media.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Explicitly presents annual review and information-sharing procedures as measures to ensure accountability.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        91
+      ],
+      "text": "To minimize the risks associated with notice and informed consent, the CFPB provides required notices on all websites, uses branding to distinguish the agency's activities from those of nongovernment actors, and collects only the information necessary for proprer performance of agency functions and which has practical utility.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0009"
+      ],
+      "section": "Describe what opportunities, if any, individuals to whom the information pertains have to (a) receive notice regarding the CFPB's use of the information; (b) consent to such use; (c) access the information that pertains to them; or (d) obtain redress.",
+      "explanation": "Explicitly identifies notices, branding, and collection minimization as measures reducing notice and consent risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "mitigation",
+      "sentence_ids": [
+        92
+      ],
+      "text": "Finally, the CFPB gives individuals the ability to request access and amendment to their personal information in accordance with the Privacy Act and the CFPB's Privacy Act regulations, at 12 C.F.R. 1070.50 et seq.",
+      "unit_ids": [
+        "001_cfpb_social-media-pia#unit#0009"
+      ],
+      "section": "Describe what opportunities, if any, individuals to whom the information pertains have to (a) receive notice regarding the CFPB's use of the information; (b) consent to such use; (c) access the information that pertains to them; or (d) obtain redress.",
+      "explanation": "Provides access and amendment mechanisms that help address limitations on individual participation and correction.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 2,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 2,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 6,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 12,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 12,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 6,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

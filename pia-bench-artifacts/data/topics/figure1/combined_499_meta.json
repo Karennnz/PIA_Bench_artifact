@@ -1,0 +1,81 @@
+{
+  "method": "TopicGPT: LLM-assisted topic modelling assignment",
+  "qualification": "The frozen 73-record exploratory codebook was transferred unchanged to the classified remainder, followed by a logged model-assisted internal QA audit.",
+  "counts": {
+    "completed_73_untouched": 73,
+    "new_remainder_assignments": 426,
+    "audit_corrections_applied": 22,
+    "audit_primary_labels_changed": 21,
+    "combined": 499,
+    "primary_counts_sum": 499,
+    "secondary_assignments_n": 117,
+    "secondary_topic_labels_n": 121,
+    "is_pia_bool_false_in_remainder": 56
+  },
+  "source_hashes": {
+    "prepared_426_inputs": "51ee60f2528c396fa7a6973e25d659d612a0e02ad7921ddae37984371417533b",
+    "frozen_system_codebook": "15e2c9ecf3b872f7db9019a277684dd787fc0c5421bab9296bf876545369f3df",
+    "completed_73_assignments": "af2bc3e382bb2816e7afc3eef58a68cfd8eb9f32712548736e7c923ad633e7f0",
+    "new_426_raw_model_assignments": "afee1233b517917f0b7f70ecd74b7f52c05e10e00156a85c9cc5466a091ded68",
+    "new_426_reviewed_assignments": "0295ee46c46058f3efcdfea5155c1763de35bb8fccce903188c8dcd09967978a",
+    "audit_corrections": "34a89aa5c51e9bc50e87c10b32c06986a1c2d76aa62f935b02bc39411bcbf027",
+    "special_assignment_audit": "613af6e25bb75d7d922f4cf8ca70a97a3327c60740a694f959e704f0b234b3c2",
+    "broader_assignment_audit": "3fca4e9edfc1930721215242e32834e116096ba016486a295a9a205b19fb16c5"
+  },
+  "artifacts": {
+    "raw_remainder_assignments": {
+      "path": "2026-09-04_topicgpt_system_purposes_all499/outputs/remainder_426_system_assignments.jsonl",
+      "sha256": "afee1233b517917f0b7f70ecd74b7f52c05e10e00156a85c9cc5466a091ded68"
+    },
+    "reviewed_remainder_assignments": {
+      "path": "2026-09-04_topicgpt_system_purposes_all499/outputs/remainder_426_system_assignments_reviewed.jsonl",
+      "sha256": "0295ee46c46058f3efcdfea5155c1763de35bb8fccce903188c8dcd09967978a"
+    },
+    "applied_audit_corrections": {
+      "path": "2026-09-04_topicgpt_system_purposes_all499/validation/applied_system_assignment_corrections.jsonl",
+      "sha256": "887043ece37849e07f27b9ba0c98912a740a02162c04544cca6813cd676074da",
+      "n": 22
+    },
+    "special_assignment_audit": {
+      "path": "2026-09-04_topicgpt_system_purposes_all499/validation/special_assignment_audit.jsonl",
+      "sha256": "613af6e25bb75d7d922f4cf8ca70a97a3327c60740a694f959e704f0b234b3c2",
+      "n": 22
+    },
+    "broader_assignment_audit": {
+      "path": "2026-09-04_topicgpt_system_purposes_all499/validation/broader_assignment_audit.jsonl",
+      "sha256": "3fca4e9edfc1930721215242e32834e116096ba016486a295a9a205b19fb16c5",
+      "n": 16
+    },
+    "combined_assignments": {
+      "path": "2026-09-04_topicgpt_system_purposes_all499/outputs/combined_499_system_assignments.jsonl",
+      "sha256": "ab476ced8897c0cceac008753b48ea8d741130e7ea1dec5ca9602116a56788d3"
+    },
+    "counts_csv": {
+      "path": "2026-09-04_topicgpt_system_purposes_all499/outputs/combined_499_system_purpose_counts.csv",
+      "sha256": "6c6f88f303c4a8dea514b32e16db14ca042d693a7450485ae6ad876de06c0d77"
+    },
+    "counts_json": {
+      "path": "2026-09-04_topicgpt_system_purposes_all499/outputs/combined_499_system_purpose_counts.json",
+      "sha256": "46ba21837ec43a4764cfb909fe42b9afcd0bb7c5f343f50c1564785c59de65dd"
+    },
+    "purpose_by_agency_csv": {
+      "path": "2026-09-04_topicgpt_system_purposes_all499/outputs/combined_499_system_purpose_by_agency.csv",
+      "sha256": "63662772ce2c2a88b4e6308cfa702f58186cde8e7027ce3d554f598c913e2379"
+    },
+    "purpose_by_pia_status_csv": {
+      "path": "2026-09-04_topicgpt_system_purposes_all499/outputs/combined_499_system_purpose_by_pia_status.csv",
+      "sha256": "324e1a1ce86efb914acf832b2f23259a00217964e7230add9c1a162f1ef6c8c0"
+    },
+    "ai_status_counts_csv": {
+      "path": "2026-09-04_topicgpt_system_purposes_all499/outputs/combined_499_ai_status_counts.csv",
+      "sha256": "b67e7db65c089b3ab59c63c5bae4efd7500ab0f53ec3e6c67e8032a1f0ae21fc"
+    },
+    "overleaf_table_fragment": {
+      "path": "2026-09-04_topicgpt_system_purposes_all499/outputs/combined_499_system_purpose_table.tex",
+      "sha256": "e25f4d5a7c2f358e24f1eb6469671896435ac58e42b2dd83bbcfa287f0073841",
+      "denominator": 499,
+      "scope_wording": "collected parsed records (443 PIA-classified, 56 non-PIA)"
+    }
+  },
+  "generated_at_utc": "2026-09-04T16:38:37.431413+00:00"
+}

@@ -1,0 +1,190 @@
+{
+  "chunk_id": "440_usda_ocx-contact-center-ocx-cc#chunk#00",
+  "doc_id": "440_usda_ocx-contact-center-ocx-cc",
+  "agency": "usda",
+  "n_sentences": 156,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "text": "MITIGATION: Data is stored in a secure, but unencrypted Salesforce Government cloud environment. Salesforce Government Cloud is a partitioned instance of Salesforce's platform as a service (PaaS) and software as a service (SaaS). It is a multitenant community cloud infrastructure specifically for use by U.S. federal, state, and local government customers, U.S. government contractors, and federally funded research and development centers. See the System Security Plan (SSP) security controls Accountability, Audit and Risk Management (AR), and Data Minimization and Retention (DM). Personal case data can only be accessed authorized federal employees of the AskUSDA Contact Center with eAuth level 2 authentication.",
+      "unit_ids": [
+        "440_usda_ocx-contact-center-ocx-cc#unit#0014"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Presented as the response to the information-collection risk discussion, using a secured government-cloud environment, documented controls, and restricted authenticated access.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        57,
+        58
+      ],
+      "text": "RISK: Information being retained for an indefinite or definite length can potentially be a risk. With data stored for this length of time there is the potential of unauthorized access or unauthorized disclosure as well as performance, storage considerations and costs would have to be considered.",
+      "unit_ids": [
+        "440_usda_ocx-contact-center-ocx-cc#unit#0023"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Identifies risks from prolonged retention, including unauthorized access or disclosure.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        59,
+        60,
+        61
+      ],
+      "text": "MITIGATION: Archival of data after a certain period (7 years) can save on storage and still provide access to the data (not real-time) for reporting as well as increase the performance of the system if the data set gets too large. Additionally, purging of on a periodic basis of non- essential could also aide in keeping storage costs lower and increased performance. See the System Security Plan (SSP) security controls Accountability, Audit and Risk Management (AR), Data Quality and Integrity (DI) and Data Minimization and Retention (DM).",
+      "unit_ids": [
+        "440_usda_ocx-contact-center-ocx-cc#unit#0023"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Archiving, periodic purging, and retention-related controls are presented as measures for managing prolonged-retention risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        65
+      ],
+      "text": "RISK : The risk to internal information sharing would be the unauthorized disclosure of customer contact and inquiry information.",
+      "unit_ids": [
+        "440_usda_ocx-contact-center-ocx-cc#unit#0026"
+      ],
+      "section": "4.2 How is the information transmitted or disclosed?",
+      "explanation": "Identifies unauthorized disclosure of customer information as a risk of internal sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "text": "MITIGATION : The NIST 800-53 controls are discussed in the SSP. System and Communication Protection (SC) to prevent unauthorized and unintended information transfer. System and Integrity (SI) controls are in place to provide integrity and confidentiality. The security and control of PII is the responsibility of the System Owner and AskUSDA employees. Risk is mitigated with the implementation of AskUSDA NIST policies, standards, and procedures as well as Employee Security Training. Also, the data is stored in a secure environment behind the secure Salesforce Government Cloud infrastructure.",
+      "unit_ids": [
+        "440_usda_ocx-contact-center-ocx-cc#unit#0026"
+      ],
+      "section": "4.2 How is the information transmitted or disclosed?",
+      "explanation": "Presents security controls, policies, training, assigned responsibility, and secure infrastructure as responses to the internal-sharing risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        83,
+        84
+      ],
+      "text": "Notice is provided to customers at the time of their inquiry submission. It is during this process that the customer has the opportunity to cancel the request.",
+      "unit_ids": [
+        "440_usda_ocx-contact-center-ocx-cc#unit#0037"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Notice at submission and the opportunity to cancel are given in direct response to the risk that individuals may be unaware of collection.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 7,
+      "type": "null_finding",
+      "sentence_ids": [
+        96
+      ],
+      "text": "There would be no additional risk associated with the redress process available to users",
+      "unit_ids": [
+        "440_usda_ocx-contact-center-ocx-cc#unit#0043"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly states that the available redress process creates no additional risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        126
+      ],
+      "text": "RISK : There is minimal risk given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system.",
+      "unit_ids": [
+        "440_usda_ocx-contact-center-ocx-cc#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that a privacy risk exists, although it is characterized as minimal.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138
+      ],
+      "text": "MITIGATION : However, AskUSDA Contact Center has the following controls in place - collecting auditable events: date and time of the event, the component of the information system where the event occurred, type of event, user/subject identity, and the outcome (success or failure) of the event. Audit logs will be reviewed by the DSC quarterly and suspicious activity will be investigated. Items that will be reviewed are: Login History - Review of successful and failed login attempts for all users in the Salesforce org which includes reviewing the IPs where the users logged in from and any 3rd party apps. Regularly maintain active and inactive users in the system - Review of users who haven't logged in for more than 8 weeks. Review of all users in the system and licenses available in the org. Review all admin users in the system and revoke/restrict privileges if necessary. Setup Audit Trail - Review modifications made to org's configuration. Record Modification Fields - All objects include fields to store the name of the user who created the record and who last modified the record. This provides some basic auditing information. Field History Tracking - Enable auditing for individual fields, which will automatically track any changes in the values of selected fields for some objects. Review what apps and packages are installed and running in the org and how the installed apps and Integrations interact with the org. Per the General Records Schedule 20 Section 1C, the following items will be deleted/ destroyed when the agency determines they are no longer needed for administrative, legal, audit, or other operational purposes: electronic files and hard copy printouts created to monitor system usage, including, but not limited to, log-in files, password files, audit trail files, system usage files, and cost-back files used to assess charges for system usage.",
+      "unit_ids": [
+        "440_usda_ocx-contact-center-ocx-cc#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Presents audit collection, review, investigation, account and privilege review, change tracking, and record disposal as controls responding to the identified risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "null_finding",
+      "sentence_ids": [
+        141
+      ],
+      "text": "AskUSDA contact center does not raise any privacy concerns because of its employed technology.",
+      "unit_ids": [
+        "440_usda_ocx-contact-center-ocx-cc#unit#0053"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so please discuss their implementation.",
+      "explanation": "Explicitly states that the employed technology raises no privacy concerns.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 8,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

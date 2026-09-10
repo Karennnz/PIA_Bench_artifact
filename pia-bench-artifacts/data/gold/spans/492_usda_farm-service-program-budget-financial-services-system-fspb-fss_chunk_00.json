@@ -1,0 +1,233 @@
+{
+  "chunk_id": "492_usda_farm-service-program-budget-financial-services-system-fspb-fss#chunk#00",
+  "doc_id": "492_usda_farm-service-program-budget-financial-services-system-fspb-fss",
+  "agency": "usda",
+  "n_sentences": 199,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        87
+      ],
+      "text": "| Applications | Privacy risks and how mitigated. | |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | CORE, FDIS, FI FMS- SCOAP, | \u2022 Privacy risks are minimal as privacy information is inputted only by partners and FPAC government employees that have access to the application.",
+      "unit_ids": [
+        "492_usda_farm-service-program-budget-financial-services-system-fspb-fss#unit#0020"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that privacy risks exist, although assessed as minimal.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        88,
+        89,
+        90
+      ],
+      "text": "Under our current plan, users must be authenticated via USDA | | FSAFS, NPS, NRRS, NRRS Notes, NRRS- RFLS, PRRS | ICAMs e-AUTH system and authorized via USDA's role-based authorization \u2022 The minimum amount of personally identifiable information is collected to satisfy the purpose of this system. The risks are mitigated using various control mechanisms, these include: o All users must be uniquely identified and authenticated prior to accessing the application. o Access to data is restricted. o Information is encrypted at rest and in transit. o Masking of PII o System audit logs are retained and reviewed weekly | |--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|",
+      "unit_ids": [
+        "492_usda_farm-service-program-budget-financial-services-system-fspb-fss#unit#0020",
+        "492_usda_farm-service-program-budget-financial-services-system-fspb-fss#unit#0021"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly identifies authentication, authorization, data minimization, encryption, masking, access restrictions, and audit review as mechanisms mitigating the identified risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        113
+      ],
+      "text": "Controls in place to ensure the correct handling of information include the following: End users are correctly identified and authenticated according USDA and FSA 1) security policies for access managements, authentication and identification controls, 2) Audit logging is used to ensure data integrity; audit logging is performed at the Department-level used to ensure data integrity, 3) this application is in compliance with the FISMA and the security and privacy controls provided in the U.S. National Institute of Standards and Technology (NIST) Special Publication 800-53, Revision 4. If any residual risks are identified, they will be managed and reported via the FISMA mandated risk assessment processes. |",
+      "unit_ids": [
+        "492_usda_farm-service-program-budget-financial-services-system-fspb-fss#unit#0027"
+      ],
+      "section": "2.4 Privacy Impact Analysis: Describe any types of controls that may be in place to ensure that information is handled in accordance with the above described uses.",
+      "explanation": "States that any identified residual risks will be managed and reported through formal risk-assessment processes.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        118,
+        119
+      ],
+      "text": "When records have reached their retention period, they are | immediately retired or destroyed in accordance with the USDA Record Retention policies and procedures.",
+      "unit_ids": [
+        "492_usda_farm-service-program-budget-financial-services-system-fspb-fss#unit#0031",
+        "492_usda_farm-service-program-budget-financial-services-system-fspb-fss#unit#0032"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes prompt retirement or destruction of records after the applicable retention period as a response to retention concerns.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        120
+      ],
+      "text": "During this period, the stored information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "492_usda_farm-service-program-budget-financial-services-system-fspb-fss#unit#0032"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Identifies unauthorized viewing, loss, destruction, and unavailability as risks during retention.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        121
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "492_usda_farm-service-program-budget-financial-services-system-fspb-fss#unit#0032"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents software, physical, and password access protections in response to unauthorized viewing risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        122,
+        123,
+        124
+      ],
+      "text": "SORN USDA/FSA-2 States: Program documents are destroyed within 6 years after end of participation. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal. (See Appendix B - Records Disposition Procedures)",
+      "unit_ids": [
+        "492_usda_farm-service-program-budget-financial-services-system-fspb-fss#unit#0032"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Provides record-destruction, transfer, and disposal requirements that limit retention-related exposure.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        146
+      ],
+      "text": "For users unaware of the use of their information, a mitigation strategy is customers may contact USDA at any time and be connected to the FPAC Privacy Officer, who will explain the collection and use of their information. |",
+      "unit_ids": [
+        "492_usda_farm-service-program-budget-financial-services-system-fspb-fss#unit#0047"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Explicitly identifies access to the agency privacy officer as a mitigation for individuals unaware of information use.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        159
+      ],
+      "text": "| Applications | Privacy risks associated with redress and risk mitigation. | |-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | CORE, FDIS, FI FMS-SCOAP, FSAFS, NPS, NRRS, NRRS Notes, NRRS-RFLS, PRRS | A privacy risk associated with the redress available to an individual is a third-party request for that individual's information.",
+      "unit_ids": [
+        "492_usda_farm-service-program-budget-financial-services-system-fspb-fss#unit#0054"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Identifies the possibility of a third party requesting an individual's information as a redress-related privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        160
+      ],
+      "text": "The risk is mitigated by review of the request to ensure there is proper legal authority for the information to be disclosed. |",
+      "unit_ids": [
+        "492_usda_farm-service-program-budget-financial-services-system-fspb-fss#unit#0054"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly mitigates the third-party request risk through legal-authority review before disclosure.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        173,
+        174
+      ],
+      "text": "| Applications | Privacy risks identified and risk mitigation. | |---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | CORE, FDIS, FI FMS-SCOAP, FSAFS, NPS, NRRS, | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "492_usda_farm-service-program-budget-financial-services-system-fspb-fss#unit#0062"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        175,
+        176,
+        177
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM. Quarterly access reviews are done to ensure controls are mitigated. |",
+      "unit_ids": [
+        "492_usda_farm-service-program-budget-financial-services-system-fspb-fss#unit#0062"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly presents mapped controls and quarterly access reviews as measures for minimizing the unauthorized-access risk.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 13,
+      "type": "null_finding",
+      "sentence_ids": [
+        180
+      ],
+      "text": "| Applications | Technology privacy risks. | |-------------------------------------------------------------------------|-----------------------------| | CORE, FDIS, FI FMS-SCOAP, FSAFS, NPS, NRRS, NRRS Notes, NRRS-RFLS, PRRS | No |",
+      "unit_ids": [
+        "492_usda_farm-service-program-budget-financial-services-system-fspb-fss#unit#0065"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so, please discuss their implementation.",
+      "explanation": "Explicitly answers that the project does not employ technology raising privacy concerns.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 5,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

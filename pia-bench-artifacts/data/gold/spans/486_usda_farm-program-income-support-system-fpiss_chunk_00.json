@@ -1,0 +1,213 @@
+{
+  "chunk_id": "486_usda_farm-program-income-support-system-fpiss#chunk#00",
+  "doc_id": "486_usda_farm-program-income-support-system-fpiss",
+  "agency": "usda",
+  "n_sentences": 117,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        33
+      ],
+      "text": "| Applications | Privacy risks and how mitigated. | |----------------|----------------------------------------------------------------------------------------------------------------| | ARCPLC SWIMS | The controls that have been implemented, inherited, compensated, tested, satisfied and continuously monitored. |",
+      "unit_ids": [
+        "486_usda_farm-program-income-support-system-fpiss#unit#0017"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "The agency presents implemented, tested, and continuously monitored controls as its response to the general privacy-impact analysis.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        44,
+        45
+      ],
+      "text": "| Applications | Risks associated with the length of time data is retained and how those risks are mitigated. | |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | ARCPLC SWIMS | The retention period is based on a combination business need (i.e., how long do we need this information for our business process) and long-term usefulness. When records have reached their retention period, they are immediately retired or destroyed in accordance with the USDA Record Retention policies and procedures.",
+      "unit_ids": [
+        "486_usda_farm-program-income-support-system-fpiss#unit#0026"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Retention is based on business need and usefulness, with records retired or destroyed when the retention period ends.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        46
+      ],
+      "text": "During this period, the stored information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "486_usda_farm-program-income-support-system-fpiss#unit#0026"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "The agency identifies unauthorized viewing, data loss or destruction, and non-availability as risks during retention.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        47
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "486_usda_farm-program-income-support-system-fpiss#unit#0026"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Access-control software, physical controls, and passwords are presented immediately as protection against the identified retention-period risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        71
+      ],
+      "text": "| Applications | Notice to individuals and unawareness risk mitigation. | |----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | ARCPLC SWIMS | The risk is considered moderate.",
+      "unit_ids": [
+        "486_usda_farm-program-income-support-system-fpiss#unit#0042"
+      ],
+      "section": "6.4 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "The agency rates the risk associated with individuals being unaware of collection as moderate.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        72
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA- 2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower. |",
+      "unit_ids": [
+        "486_usda_farm-program-income-support-system-fpiss#unit#0042"
+      ],
+      "section": "6.4 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Automatic notice through published system-of-records notices addresses the risk that individuals may be unaware of collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        80
+      ],
+      "text": "| Applications | Privacy risks associated with redress and risk mitigation. | |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | ARCPLC SWIMS | The risk associated with redress is considered low, as the public does not have access to the system or the data.",
+      "unit_ids": [
+        "486_usda_farm-program-income-support-system-fpiss#unit#0048"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "The agency expressly assesses the privacy risk associated with redress as low.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        81,
+        82
+      ],
+      "text": "While the public cannot access the system to update or change their personal information, they may update their information using from AD 2530 and submit to the appropriate FSA official. The FSA official will in turn update the system based on the information provided.",
+      "unit_ids": [
+        "486_usda_farm-program-income-support-system-fpiss#unit#0048"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Individuals can submit an update form to an FSA official, who then updates the system, addressing limits on direct public correction.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        94,
+        95
+      ],
+      "text": "| Applications | Privacy risks identified and risk mitigation. | |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | ARCPLC SWIMS | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "486_usda_farm-program-income-support-system-fpiss#unit#0056"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Unauthorized access to privacy information is identified as the main privacy risk and rated moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        96,
+        97
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM.",
+      "unit_ids": [
+        "486_usda_farm-program-income-support-system-fpiss#unit#0056"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "The agency expressly identifies mitigating controls intended to minimize privacy risks and documents their mapping in the security plan.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        98
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. |",
+      "unit_ids": [
+        "486_usda_farm-program-income-support-system-fpiss#unit#0056"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Quarterly access reviews are presented as an additional measure supporting mitigation of unauthorized-access risk.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "null_finding",
+      "sentence_ids": [
+        101
+      ],
+      "text": "| Applications | Technology privacy risks. | |----------------|-----------------------------| | ARCPLC SWIMS | No |",
+      "unit_ids": [
+        "486_usda_farm-program-income-support-system-fpiss#unit#0059"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns?  If so please discuss their implementation.",
+      "explanation": "The agency explicitly answers that the project does not employ technology raising privacy concerns.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 9,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

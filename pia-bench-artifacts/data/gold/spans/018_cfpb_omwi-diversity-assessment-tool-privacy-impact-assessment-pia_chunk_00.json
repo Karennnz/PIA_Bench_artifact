@@ -1,0 +1,278 @@
+{
+  "chunk_id": "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia#chunk#00",
+  "doc_id": "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia",
+  "agency": "cfpb",
+  "n_sentences": 123,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        21
+      ],
+      "text": "The primary risks associated with the OMWI Diversity Assessment Tool are risks related to: Limits on Uses and Sharing of Information Awareness and Training Data Minimization Data Quality and Integrity Individual Participation Accountability and Auditing Openness and Transparency These risks and their mitigations are described below: disclosing information, to the information to be collected or disclosed, to a plan and/or an instrument calling for the collection or disclosure of information, or any of these, as appropriate.",
+      "unit_ids": [
+        "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia#unit#0006"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Identifies the primary categories of privacy risk associated with the tool.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        23
+      ],
+      "text": "The development and use of the OMWI Diversity Assessment Tool creates privacy risk because the consolidation of contact and tracking information into one repository may increase the risk of improper access to PII or improper use or disclosure of information.",
+      "unit_ids": [
+        "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia#unit#0007"
+      ],
+      "section": "Limits on Uses and Sharing of Information",
+      "explanation": "Explicitly states that consolidating information may increase improper access, use, or disclosure risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        25
+      ],
+      "text": "Only internal OMWI staff members or contractors authorized by the system/product owner will be able to access the OMWI Diversity Assessment Tool after being granted permissions by a system administrator.",
+      "unit_ids": [
+        "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia#unit#0007"
+      ],
+      "section": "Limits on Uses and Sharing of Information",
+      "explanation": "Restricts system access to authorized personnel who have been granted permissions.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        28
+      ],
+      "text": "Internal users will be able to search for, view, and generate reports containing entity contacts collected and maintained by the tool and other CFPB1 applications, however they will not be able to export full lists of entity contact information.",
+      "unit_ids": [
+        "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia#unit#0007"
+      ],
+      "section": "Limits on Uses and Sharing of Information",
+      "explanation": "Limits authorized users' ability to export complete contact lists.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        32,
+        33
+      ],
+      "text": "The CFPB plans to mitigate risks presented by the misuse of the OMWI Diversity Assessment Tool through training of users. Training will include guidance on appropriate use of the tool and PII contained in the system, as well as reinforce the need to quickly report unauthorized disclosures of information through the Bureau's Service Desk for routing to the privacy and cybersecurity teams.",
+      "unit_ids": [
+        "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia#unit#0008"
+      ],
+      "section": "Awareness and Training",
+      "explanation": "Explicitly presents user training and disclosure-reporting guidance as measures to mitigate misuse risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        34
+      ],
+      "text": "Additionally, if a disclosure occurs, the Senior Agency Official for Privacy (SAOP) will make a determination about a suspected or confirmed disclosure of PII information to Bureau personnel, contractors, or others with access to the Bureau's information and information systems as defined in the Bureau's Policy on Suspected Breach Reporting.",
+      "unit_ids": [
+        "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia#unit#0008"
+      ],
+      "section": "Awareness and Training",
+      "explanation": "Provides an incident-assessment process for suspected or confirmed disclosures.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        35
+      ],
+      "text": "Because the Bureau cannot control the content of submitted free-text responses and attachments as part of an assessment, the submitted assessments could contain information that would be considered unnecessary PII.",
+      "unit_ids": [
+        "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia#unit#0009"
+      ],
+      "section": "Data Minimization",
+      "explanation": "States that uncontrolled free-text responses and attachments could contain unnecessary PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        36
+      ],
+      "text": "If an assessment inadvertently contains unnecessary PII, the Bureau will limit access to the PII to only those individuals with a bona fide need to know through role-based access controls.",
+      "unit_ids": [
+        "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia#unit#0009"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Responds to unnecessary PII by limiting access through role-based controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        42
+      ],
+      "text": "However, when entity contact information is validated or entered into the system by an internal user, there is the possibility of human error in entering the correct information.",
+      "unit_ids": [
+        "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia#unit#0010"
+      ],
+      "section": "Data Quality and Integrity",
+      "explanation": "Identifies the possibility of human error when contact information is entered or validated.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        43,
+        44
+      ],
+      "text": "Entity contacts will have the opportunity to view and correct any information in the system pertaining to them by logging into the system and accessing their information. Furthermore, information contained in the OMWI Diversity Assessment Tool is collected in accordance with the Privacy Act of 1974, and therefore, individuals will have the opportunity to access their PII and allow them to correct or amend it if it is inaccurate through the processes provided in the governing SORNs.",
+      "unit_ids": [
+        "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia#unit#0011"
+      ],
+      "section": "Individual Participation",
+      "explanation": "Allows individuals to review and correct inaccurate information, reducing data-quality risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        45
+      ],
+      "text": "The OMWI Diversity Assessment Tool is being developed in accordance with input of representatives from the Privacy Program and the Legal Division to ensure compliance with all relevant governing authorities.",
+      "unit_ids": [
+        "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia#unit#0012"
+      ],
+      "section": "Accountability and Auditing",
+      "explanation": "Uses privacy and legal review during development to manage compliance and accountability risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        46
+      ],
+      "text": "Additionally, both internal and independent auditors hold the Bureau accountable for complying with CFPB policies and procedures related to the processing of PII.",
+      "unit_ids": [
+        "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia#unit#0012"
+      ],
+      "section": "Accountability and Auditing",
+      "explanation": "Uses internal and independent auditing to enforce accountability for PII processing.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        47
+      ],
+      "text": "The CFPB is committed to taking swift and immediate action if we uncover any violations of law or our policies and procedures.",
+      "unit_ids": [
+        "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia#unit#0012"
+      ],
+      "section": "Accountability and Auditing",
+      "explanation": "Commits the Bureau to corrective action when legal or policy violations are discovered.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        49
+      ],
+      "text": "Prior to the collection of information, individuals will be provided a Privacy Act Notice on the onboarding form and assessment website.",
+      "unit_ids": [
+        "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia#unit#0013"
+      ],
+      "section": "Openness and Transparency",
+      "explanation": "Provides notice before information collection to address openness and transparency risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        51
+      ],
+      "text": "The technical, physical, and administrative controls implemented to limit the risk of harm to individuals are appropriate.",
+      "unit_ids": [
+        "018_cfpb_omwi-diversity-assessment-tool-privacy-impact-assessment-pia#unit#0013"
+      ],
+      "section": "Openness and Transparency",
+      "explanation": "Explicitly characterizes implemented controls as limiting the risk of harm to individuals.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 2,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 2,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 2,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

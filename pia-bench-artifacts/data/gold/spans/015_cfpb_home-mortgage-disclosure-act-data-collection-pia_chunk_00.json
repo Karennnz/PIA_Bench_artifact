@@ -1,0 +1,274 @@
+{
+  "chunk_id": "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#chunk#00",
+  "doc_id": "015_cfpb_home-mortgage-disclosure-act-data-collection-pia",
+  "agency": "cfpb",
+  "n_sentences": 163,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        33
+      ],
+      "text": "Data Minimization Security Individual Participation: There are limited opportunities for individuals to consent to the collection of HMDA data by financial institutions.",
+      "unit_ids": [
+        "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#unit#0006"
+      ],
+      "section": "Data Quality and Integrity",
+      "explanation": "Identifies restricted individual consent as a privacy participation concern.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        40
+      ],
+      "text": "8 The fact that the Federal HMDA agencies do not collect HMDA data directly from applicants and borrowers, and that the Bureau collects HMDA data on behalf of other appropriate federal agencies, creates a risk that applicants and borrowers are not aware of the data collection.",
+      "unit_ids": [
+        "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#unit#0006"
+      ],
+      "section": "Data Quality and Integrity",
+      "explanation": "States that indirect collection may leave applicants and borrowers unaware that their data is collected.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        41,
+        42
+      ],
+      "text": "However, the existence of both HMDA and Regulation C provide notice to the public that financial institutions will report data about mortgage applications and originations to the Federal HMDA agencies. Moreover, covered financial institutions are required to inform mortgage loan applicants that federal law requires that the lenders ask applicants for the ethnicity, race, and sex of the applicant to monitor compliance with federal statutes that prohibit lenders from discriminating against applicants on these bases. lines of credit for a period of two years so that financial institutions originating fewer than 500 open-end lines of credit in either of the preceding two years will not be required to begin collecting such data until January 1, 2020. 5 A ppropriate federal agencies are member agencies of the Federal Financial Institutions Examination Council-the Bureau, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Board of Gov ernors of the Federal Reserve System, and the National Credit Union Administration-as well as the Department of Housing and Urban Development (collectively, 'Federal HMDA agencies').",
+      "unit_ids": [
+        "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#unit#0006"
+      ],
+      "section": "Data Quality and Integrity",
+      "explanation": "Describes legal and lender-provided notice intended to address individuals' lack of awareness.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        46
+      ],
+      "text": "These data will be collected beginning in 2018 and first reported to Federal HMDA agencies, including the CFPB, in 2019. Data Quality and Integrity : Because the Bureau relies on the financial institution to provide accurate data, it does not independently verify that the data is accurate upon submission.",
+      "unit_ids": [
+        "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#unit#0006"
+      ],
+      "section": "Data Quality and Integrity",
+      "explanation": "Identifies possible data-quality problems because submitted information is not independently verified.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        47,
+        48
+      ],
+      "text": "However, the HMDA Platform is expected to increase the quality and integrity of the HMDA data by confirming that the information is formatted appropriately and satisfies certain requirements. The HMDA Platform will lead the financial institutions through a five-step process, which includes the review of any possible data inaccuracies, certifying the accuracy and completeness of the data, submitting the data, and receiving a confirmation receipt.",
+      "unit_ids": [
+        "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#unit#0006"
+      ],
+      "section": "Data Quality and Integrity",
+      "explanation": "Explains platform checks and certification steps intended to improve accuracy and integrity.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "risk",
+      "sentence_ids": [
+        52
+      ],
+      "text": "Although the 2015 HMDA Rule added several new reporting requirements, in developing and adopting the 2015 HMDA Rule, the Bureau carefully considered the potential risks to applicant and borrower privacy, and the potential burdens on financial institutions, and determined that any such risks are justified by the benefits of collecting the data in light of HMDA's purposes.",
+      "unit_ids": [
+        "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#unit#0006"
+      ],
+      "section": "Data Quality and Integrity",
+      "explanation": "Acknowledges potential privacy risks arising from expanded reporting requirements.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        54,
+        55
+      ],
+      "text": "In light of potential privacy concerns, rather than implementing this requirement by requiring financial institutions to report date or year of birth, the 2015 HMDA Rule requires the reporting of age at the time of application as a more privacy-protective approach. To further minimize the data collected, the CFPB also did not adopt in the 2015 HMDA Rule some of the new or amended data points it initially proposed, such as the proposed requirements to report qualified mortgage status or the initial draw on an open-end line of credit.",
+      "unit_ids": [
+        "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#unit#0006"
+      ],
+      "section": "Data Quality and Integrity",
+      "explanation": "Describes privacy-protective data design choices and omitted data elements used to minimize collection risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        56
+      ],
+      "text": "Security: As with any large dataset, there is a risk that HMDA data could be subject to unauthorized access in transit to or while maintained by the CFPB.",
+      "unit_ids": [
+        "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#unit#0006"
+      ],
+      "section": "Data Quality and Integrity",
+      "explanation": "Identifies the possibility of unauthorized access while data is transmitted or maintained.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        57
+      ],
+      "text": "If reported non-public HMDA data were exposed, there is a risk that the data could be matched to other data to reidentify applicants and borrowers and could disclose information about applicants and borrowers that may be harmful or sensitive.",
+      "unit_ids": [
+        "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#unit#0006"
+      ],
+      "section": "Data Quality and Integrity",
+      "explanation": "Identifies reidentification and disclosure of harmful or sensitive information as consequences of exposure.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        60
+      ],
+      "text": "The Bureau takes strong measures to mitigate and address any risks to the security of sensitive data it receives, consistent with the guidance and standards set for federal information security programs, and the Bureau is committed to protecting the information security of the HMDA data it receives from financial institutions.",
+      "unit_ids": [
+        "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#unit#0006"
+      ],
+      "section": "Data Quality and Integrity",
+      "explanation": "Explicitly states that the Bureau takes measures to mitigate security risks to sensitive data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        100
+      ],
+      "text": "20 In evaluating the data to be reported under the 2015 HMDA Rule, the Bureau considered the objectives of HMDA in light of potential burdens on financial institutions and potential risks to applicant and borrower privacy, and took steps to reduce these potential risks and burdens where possible.",
+      "unit_ids": [
+        "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#unit#0014"
+      ],
+      "section": "Other Data Points",
+      "explanation": "States that the Bureau took steps to reduce potential applicant and borrower privacy risks when selecting reportable data.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "risk",
+      "sentence_ids": [
+        128
+      ],
+      "text": "There are limited opportunities for individuals to consent to the collection of HMDA data by financial institutions.",
+      "unit_ids": [
+        "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#unit#0017"
+      ],
+      "section": "access the information that pertains to them; or (d) obtain redress.",
+      "explanation": "Restates the limited ability of individuals to consent to collection.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 13,
+      "type": "risk",
+      "sentence_ids": [
+        133
+      ],
+      "text": "There are no opportunities available for individuals to consent to an institution's reporting of HMDA data.",
+      "unit_ids": [
+        "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#unit#0017"
+      ],
+      "section": "access the information that pertains to them; or (d) obtain redress.",
+      "explanation": "Identifies the absence of an opportunity to consent to institutional reporting.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 14,
+      "type": "risk",
+      "sentence_ids": [
+        134
+      ],
+      "text": "Further, the CFPB does not provide opportunities to the individual to access information that pertains to them that has been reported, or to obtain redress.",
+      "unit_ids": [
+        "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#unit#0017"
+      ],
+      "section": "access the information that pertains to them; or (d) obtain redress.",
+      "explanation": "Identifies the absence of individual access and redress opportunities for reported information.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 15,
+      "type": "risk",
+      "sentence_ids": [
+        158
+      ],
+      "text": "As such, the risk of inappropriate collection, use, and disclosure or retention of information by these third parties is minimal.",
+      "unit_ids": [
+        "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#unit#0028"
+      ],
+      "section": "CFPB Policies, Guidelines and Standards",
+      "explanation": "Acknowledges a residual, though minimal, risk of inappropriate third-party handling of information.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        159,
+        160
+      ],
+      "text": "In any instance of sharing with a third party, controls are put in place to protect against inappropriate collection, disclosure, and retention depending on the type of sharing or data involved. Depending on the particular sharing typical controls might include: \uf0a7 Compliance with all federally mandated policies and standards \uf0a7 Compliance with CFPB internal policies and standards, including cybersecurity policies and procedures \uf0a7 Data quality and integrity checks \uf0a7 Data encryption \uf0a7 Transmission protections \uf0a7 Extract logging and 90-day reviews \uf0a7 Role-based Access Controls",
+      "unit_ids": [
+        "015_cfpb_home-mortgage-disclosure-act-data-collection-pia#unit#0028"
+      ],
+      "section": "CFPB Policies, Guidelines and Standards",
+      "explanation": "Describes controls selected to prevent inappropriate third-party collection, disclosure, retention, or other handling.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 6,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 6,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 15,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

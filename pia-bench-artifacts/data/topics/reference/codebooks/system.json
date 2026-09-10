@@ -1,0 +1,316 @@
+{
+  "kind": "system",
+  "status": "frozen_for_exploratory_assignment",
+  "frozen_at_utc": "2026-09-03T14:44:27.616634+00:00",
+  "scope": "73 cleaned TRACE PIAs; exploratory content characterization only",
+  "not_benchmark_gold": true,
+  "candidate_source": "content_codebook_candidate.json",
+  "candidate_sha256": "0d39e16ae837c863853c89c5689504eef36d821109c8f0ed9fde0c3878f88398",
+  "discovery_source": "system_generated.json",
+  "discovery_sha256": "89aa351f1edef3219ff3837a4889d0f4f69263c551733711af2831c25c3f1ffc",
+  "discovery_requested_model": "gpt-5.6-terra",
+  "discovery_returned_models": [
+    "gpt-5.6-terra"
+  ],
+  "discovery_topic_names": [
+    "Public Information, Consumer Service, and Case Response",
+    "Research, Analytics, Data Access, and Reference Information Management",
+    "Regulatory Compliance, Reporting, Supervision, and Enforcement",
+    "Enterprise Digital Platform, Identity, Records, and Collaboration Services",
+    "Internal Administrative, Workplace, and Financial Operations",
+    "Agricultural Program Delivery, Finance, and Producer Services",
+    "Other substantive content",
+    "Unclear or ambiguous"
+  ],
+  "refinement_decision": "Retained eight agency-neutral mission/function families. The unconstrained discovery was useful as a coverage check but merged formal cases with public contact, merged identity/security with records and platforms, and introduced an agency-specific agricultural family.",
+  "assignment_protocol": {
+    "primary_required": true,
+    "max_secondary": 2,
+    "evidence_must_be_exact_substring": true,
+    "compound_primary_order": [
+      "foregrounded_main_proposition",
+      "largest_share_of_substantive_clauses",
+      "earliest_fully_stated_mechanism",
+      "unclear_if_no_defensible_primary"
+    ],
+    "confidence_values": [
+      "high",
+      "medium",
+      "low"
+    ]
+  },
+  "priority_confusion_pairs": [],
+  "topics": [
+    {
+      "topic_id": "S01",
+      "name": "Public information, outreach, and service intake",
+      "definition": "The main operational outcome is communicating with the public, educating or guiding people, locating services, receiving general inquiries or feedback, or providing a public-facing contact channel.",
+      "inclusion_rule": [
+        "public websites and social media",
+        "education and outreach",
+        "provider locators",
+        "general contact centers",
+        "feedback and survey channels",
+        "outreach management"
+      ],
+      "exclusion_rule": [
+        "formal regulatory, complaint, investigation, appeal, or constituent case workflows",
+        "benefit, loan, grant, or program-service determinations",
+        "analytical dataset publication as the primary output"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "If interaction is the endpoint, use S01; if it initiates a formal case or determination, use S03 or S04.",
+      "example_record_ids": [
+        "001_cfpb_social-media-pia",
+        "004_cfpb_hud-counselor-tool-pia",
+        "440_usda_ocx-contact-center-ocx-cc",
+        "452_usda_voice-of-the-customer-voc-medallia"
+      ]
+    },
+    {
+      "topic_id": "S02",
+      "name": "Research, analytics, reporting, and data publication",
+      "definition": "The main output is research, evaluation, analytics, data integration, a dashboard, map, report, or analytical/public-use data product rather than an individualized operational action.",
+      "inclusion_rule": [
+        "market and consumer research",
+        "data warehouses used principally for analysis and reporting",
+        "business intelligence",
+        "geographic analysis",
+        "public-use datasets",
+        "analytical repositories"
+      ],
+      "exclusion_rule": [
+        "analytics embedded within benefit delivery, enforcement, or internal finance when those operational outcomes dominate",
+        "generic hosting or data infrastructure with no primary analytical product"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Aggregate knowledge, report, or data product means S02; an individual case, payment, eligibility decision, or administrative transaction means the relevant operational family.",
+      "example_record_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia",
+        "006_cfpb_republication-of-the-home-mortgage-disclosure-act-public-use-dataset-pia",
+        "043_cfpb_geographic-information-system-pia",
+        "468_usda_business-analytic-division-bad"
+      ]
+    },
+    {
+      "topic_id": "S03",
+      "name": "Regulatory, oversight, investigation, and case administration",
+      "definition": "The main outcome is administering formal cases or requests connected to regulation, supervision, enforcement, investigation, adjudication, audit or oversight, civil-rights complaints, appeals, or statutory records requests.",
+      "inclusion_rule": [
+        "examination and enforcement",
+        "evidence and e-discovery",
+        "formal complaint and ombudsman cases",
+        "FOIA and Privacy Act requests",
+        "regulatory registries",
+        "legislative constituent cases",
+        "appeals and compliance cases"
+      ],
+      "exclusion_rule": [
+        "public contact without a formal case outcome",
+        "benefit, loan, grant, or service transactions",
+        "generic document repositories"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "A specialized mission workflow overrides its document-management implementation.",
+      "example_record_ids": [
+        "023_cfpb_freedom-of-information-act-foia-and-privacy-act-system-foiaxpress-v2-pia",
+        "031_cfpb_supervision-and-examination-system-ses-pia",
+        "040_cfpb_enforcement-matters-management-system-pia-v-3",
+        "417_usda_cres-application-cres"
+      ]
+    },
+    {
+      "topic_id": "S04",
+      "name": "Benefits, loans, grants, and public-program delivery",
+      "definition": "The main outcome is determining, administering, or delivering a public program, benefit, loan, grant, insurance or support payment, conservation service, or related applicant or recipient transaction.",
+      "inclusion_rule": [
+        "eligibility and enrollment",
+        "loan origination, appraisal, servicing, restructuring, and accounting",
+        "disaster and income-support programs",
+        "financial assistance",
+        "agricultural and conservation program delivery"
+      ],
+      "exclusion_rule": [
+        "internal agency finance, travel, payroll, or workforce administration",
+        "regulation or enforcement",
+        "analysis that does not administer the program"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Transactions chiefly affecting applicants, borrowers, producers, grantees, or beneficiaries are S04; transactions chiefly managing agency staff and internal resources are S05.",
+      "example_record_ids": [
+        "465_usda_snap-information-database",
+        "476_usda_electronic-debt-and-loan-restructuring-system-edalr",
+        "480_usda_farm-loan-delivery-and-credit-analysis-system-fld-cas",
+        "485_usda_farm-program-disaster-system-fpds"
+      ]
+    },
+    {
+      "topic_id": "S05",
+      "name": "Internal finance, workforce, and administrative operations",
+      "definition": "The main outcome is running internal or shared-service agency administration, including finance, travel, expenses, billing, budgeting, payroll, timekeeping, workforce, procurement, or general office requests.",
+      "inclusion_rule": [
+        "employee time and pay systems",
+        "internal travel and expense",
+        "agency accounting and billing",
+        "internal financial-management support",
+        "miscellaneous administrative applications"
+      ],
+      "exclusion_rule": [
+        "recipient loan, benefit, or grant processing",
+        "oversight and investigation",
+        "general-purpose application hosting"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Classify by whose operational transaction is completed: agency or workforce means S05; public-program participant means S04.",
+      "example_record_ids": [
+        "414_usda_administrative-billings-and-collections-system-abco",
+        "429_usda_front-end-associate-chief-financial-officer-acfo-system-analysis-program-sap-con",
+        "439_usda_nfc-webta-application",
+        "459_usda_fns-financial-management-general-support-system-fns-fm-gss"
+      ]
+    },
+    {
+      "topic_id": "S06",
+      "name": "Identity, access, protective security, and safety monitoring",
+      "definition": "Identity or credential management, access authorization, physical protection, surveillance, security-request administration, or safety and emergency monitoring is itself the system's primary mission function.",
+      "inclusion_rule": [
+        "ICAM",
+        "logical or physical access-control administration",
+        "identity affiliation",
+        "video surveillance",
+        "security request and approval",
+        "protective facility or infrastructure monitoring"
+      ],
+      "exclusion_rule": [
+        "ordinary access controls or safeguards used by another mission system",
+        "generic secure hosting"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Security or safety must be the reason the system exists, not an implementation property.",
+      "example_record_ids": [
+        "029_cfpb_identity-credential-and-access-management-icam-pia",
+        "424_usda_enterprise-physical-access-control-system-epacs",
+        "451_usda_video-surveillance-system",
+        "467_usda_affiliates-aff"
+      ]
+    },
+    {
+      "topic_id": "S07",
+      "name": "Records, content, correspondence, and collaboration management",
+      "definition": "The main outcome is creating, routing, storing, imaging, retrieving, retaining, or collaboratively editing documents, records, correspondence, or files across otherwise general business processes.",
+      "inclusion_rule": [
+        "enterprise document and records management",
+        "correspondence and content management",
+        "document imaging",
+        "file sharing",
+        "general document collaboration"
+      ],
+      "exclusion_rule": [
+        "documents within a specialized enforcement, complaint, FOIA, benefit, or loan workflow",
+        "software-development artefacts and hosting platforms"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "General reusable content or record capability means S07; a mission-specific case outcome means the mission family.",
+      "example_record_ids": [
+        "415_usda_agwrite-content-management-system-cms",
+        "474_usda_digital-record-management-system-drms",
+        "494_usda_filenet-document-imaging-system-fdis",
+        "497_usda_fpac-box-fpac-box"
+      ]
+    },
+    {
+      "topic_id": "S08",
+      "name": "Shared IT platforms, application hosting, and software delivery",
+      "definition": "The assessed object chiefly supplies reusable technical infrastructure, shared application services, cloud or platform hosting, development or change management, or a security boundary for multiple downstream applications.",
+      "inclusion_rule": [
+        "PaaS and cloud application boundaries",
+        "multi-application hosting",
+        "DevSecOps pipelines",
+        "shared web services",
+        "software-development and change-control platforms",
+        "general relationship-management platforms"
+      ],
+      "exclusion_rule": [
+        "a hosted application with one dominant mission outcome",
+        "records and content products",
+        "identity and security systems"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Mission outcome normally beats implementation technology; use S08 only when the reusable platform or shared boundary is the assessed object.",
+      "example_record_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2",
+        "470_usda_collaborative-software-development-laboratory-colab",
+        "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod",
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva"
+      ]
+    },
+    {
+      "topic_id": "S_OTHER",
+      "name": "Other system function",
+      "definition": "Clear primary system function outside S01-S08; record a proposed family.",
+      "inclusion_rule": "Clear primary system function outside S01-S08; record a proposed family.",
+      "exclusion_rule": "Use a named substantive topic whenever supported.",
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Clear primary system function outside S01-S08; record a proposed family.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "S_UNCLEAR",
+      "name": "Unclear system function",
+      "definition": "Profile is too incomplete or evenly multi-purpose to choose one family.",
+      "inclusion_rule": "Profile is too incomplete or evenly multi-purpose to choose one family.",
+      "exclusion_rule": "Use a named substantive topic whenever supported.",
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Profile is too incomplete or evenly multi-purpose to choose one family.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "S_NOISE",
+      "name": "No usable system description",
+      "definition": "No substantive system description because of parsing or template failure; trigger input repair.",
+      "inclusion_rule": "No substantive system description because of parsing or template failure; trigger input repair.",
+      "exclusion_rule": "Use a named substantive topic whenever supported.",
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "No substantive system description because of parsing or template failure; trigger input repair.",
+      "example_record_ids": []
+    }
+  ],
+  "ai_status": {
+    "values": [
+      {
+        "id": "explicit_ai_or_ml",
+        "rule": "Profile explicitly states that the assessed system uses AI, artificial intelligence, machine learning, an LLM or generative model, a trained or learning model, or a named learned capability."
+      },
+      {
+        "id": "possibly_ai_enabled_but_not_explicit",
+        "rule": "Profile describes prediction, scoring, profiling, autonomous recommendations, or adaptive inference that could be AI or ML but does not establish it; do not count as confirmed AI."
+      },
+      {
+        "id": "conventional_or_no_ai_evidence",
+        "rule": "Profile adequately describes the system without explicit AI or ML evidence; this is absence of evidence in the profile, not proof of absence."
+      },
+      {
+        "id": "unclear",
+        "rule": "Usable profile is insufficient to judge."
+      }
+    ],
+    "non_evidence_terms": [
+      "automated",
+      "advanced technology",
+      "algorithm",
+      "analytics",
+      "business intelligence",
+      "data mining",
+      "cloud",
+      "search",
+      "dashboard"
+    ],
+    "explicit_subtypes": [
+      "llm_or_generative_ai",
+      "other_ai_or_ml",
+      "agentic"
+    ],
+    "agentic_rule": "Requires explicit goal-directed planning or tool or action execution with some operational autonomy; chatbot and ordinary workflow automation are insufficient.",
+    "exact_evidence_quote_required_for_explicit": true
+  }
+}

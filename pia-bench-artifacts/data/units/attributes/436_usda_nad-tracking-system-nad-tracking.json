@@ -1,0 +1,476 @@
+{
+  "document_id": "436_usda_nad-tracking-system-nad-tracking",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0000",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0001",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0002",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0003",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0004",
+      "attributes": [
+        "context",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0005",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0006",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0007",
+      "attributes": [
+        "information_types"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0008",
+      "attributes": [
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0009",
+      "attributes": [
+        "purpose"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0010",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0011",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0012",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0013",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0014",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0015",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0016",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0017",
+      "attributes": [
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0018",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0019",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0020",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0021",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0022",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0023",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0024",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0025",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0026",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0027",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0028",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0029",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0030",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0031",
+      "attributes": [
+        "context",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0032",
+      "attributes": [
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0033",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0034",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0035",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0036",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0037",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0038",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0039",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0040",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0041",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0042",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0043",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0044",
+      "attributes": [
+        "context",
+        "purpose",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0045",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0046",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0047",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0048",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0049",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0050",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0051",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0052",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0053",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0054",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0055",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0056",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0057",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0058",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0059",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "436_usda_nad-tracking-system-nad-tracking#unit#0060",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

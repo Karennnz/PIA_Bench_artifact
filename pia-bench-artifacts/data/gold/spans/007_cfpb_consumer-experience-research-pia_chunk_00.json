@@ -1,0 +1,607 @@
+{
+  "chunk_id": "007_cfpb_consumer-experience-research-pia#chunk#00",
+  "doc_id": "007_cfpb_consumer-experience-research-pia",
+  "agency": "cfpb",
+  "n_sentences": 241,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        51
+      ],
+      "text": "Consumer Experience Research implicates privacy because it presents risks related to confidentiality, related to misuse of information, and related to opportunities for notice and informed consent.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0002"
+      ],
+      "section": "DOCUMENT PURPOSE",
+      "explanation": "Summarizes the privacy risks arising from confidentiality failures, information misuse, and inadequate notice or consent.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "text": "A risk related to confidentiality might exist during the recruitment, selection, and administration phases of Consumer Experience Research. Recruitment materials often disclose the purpose of the research that, if not phrased appropriately, might associate potentially sensitive information, such as a foreclosure or debt collections with a specific individual. Data demonstrating that an individual meets the selection criteria, e.g. age, race/ethnicity, income or education level, gender, etc., might also disclose potentially sensitive information about an individual. Lastly, contact information for Respondents, such as name, email, home address, and phone number, which is collected for such purposes as scheduling participation in the Consumer Experience Research, conducting follow-up or providing compensation for participation, might be used or disclosed in an unauthorized manner. Such breaches in the confidentiality could make the individual more vulnerable to economic harm or embarrassment.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0002"
+      ],
+      "section": "DOCUMENT PURPOSE",
+      "explanation": "Describes confidentiality risks during research activities, including exposure or unauthorized use of sensitive and contact information and resulting harm.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        57
+      ],
+      "text": "To reduce the risk of breaches of confidentiality, the CFPB designs recruitment materials so as not to disclose sensitive information about those it seeks to recruit, and uses appropriate security controls to protect information used in Consumer Experience Research.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0002"
+      ],
+      "section": "DOCUMENT PURPOSE",
+      "explanation": "Explicitly reduces confidentiality-breach risk through careful recruitment-material design and security controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        58,
+        59
+      ],
+      "text": "There is also risk related to misuse of information collected for Consumer Experience Research. Misuse might involve secondary types of research that are incompatible with the purposes of the initial collection, or a use of the information that individuals do not understand or to which they have not provided consent.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0002"
+      ],
+      "section": "DOCUMENT PURPOSE",
+      "explanation": "Identifies misuse through incompatible secondary research or uses that participants do not understand or consent to.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        60,
+        61,
+        62,
+        63
+      ],
+      "text": "To reduce the risk of misuse, the CFPB minimizes access to PII based on need-to-know. Typically, direct identifying PII is kept separate from Response Data, and only Response Data are used to conduct analyses. When the CFPB does use direct identifying PII in analyses, it does so in order to a) match across datasets; b) update data sets; and c) contact potential recipients of surveys and then use those surveys to solicit information on consumer experiences with consumer financial products and services. Other PII that does not directly identify an individual may be used to a) proxy based on population characteristics; and b) weight datasets in order to make generalizations regarding a given population.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0002"
+      ],
+      "section": "DOCUMENT PURPOSE",
+      "explanation": "Explicitly reduces misuse risk by restricting access, separating identifiers from response data, and limiting analytical uses of PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "risk",
+      "sentence_ids": [
+        64
+      ],
+      "text": "Finally, while all Consumer Experience Research participation is voluntary, there is a risk that individuals may not understand how their information may be used.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0002"
+      ],
+      "section": "DOCUMENT PURPOSE",
+      "explanation": "Identifies the possibility that voluntary participants may not understand how their information will be used.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        65,
+        66,
+        67
+      ],
+      "text": "This risk is mitigated by appropriate notice and consent opportunities. For example, in informal online polls, individuals would be notified of the purpose of the Consumer Experience Research project and how the information may be shared through the online introduction, and, by their ability to not participate, infer that participation is voluntary. Alternatively in formal phone, online or mail surveys, the CFPB or a third party would inform individuals that participation in Consumer Experience Research is voluntary and explain how their information will be used through appropriate vehicles, such as Privacy Notices, Privacy Act Statements or Informed Consent forms.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0002"
+      ],
+      "section": "DOCUMENT PURPOSE",
+      "explanation": "Explicitly addresses the understanding risk through notice, consent, and explanations of voluntary participation and information use.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        87
+      ],
+      "text": "Consumer Experience Research presents privacy risk related to inappropriate collection of PII.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0008"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies inappropriate collection of PII as a privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        88,
+        89
+      ],
+      "text": "The CFPB mitigates this risk by conducting reviews of existing literature and limiting Consumer Experience Research to topics where sufficient research or analysis does not already exist, or where there is opportunity to validate conclusions or develop new insights. Limiting the amount of data collected for Consumer Experience Research to what is necessary effectively reduces the risk that such research might result in inappropriate collection of PII.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0008"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Reduces inappropriate collection by reviewing existing research, limiting research topics, and collecting only necessary data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        90
+      ],
+      "text": "Further, the CFPB evaluates the authority and purpose that justify the conduct of Consumer Experience Research and approves projects only when such projects are consistent with applicable law and CFPB policies.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0008"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Manages collection risk by reviewing authority and purpose and approving only lawful, policy-consistent projects.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        91,
+        92
+      ],
+      "text": "When the CFPB partners with a third party, the CFPB outlines the appropriate uses and access controls for PII in data sharing agreements or contracts. For example, contracts typically include language that the third party will not furnish direct identifying PII to the CFPB.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0008"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Uses contracts and data-sharing agreements to limit third-party uses, access, and transfer of identifying PII.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        93,
+        94
+      ],
+      "text": "To the extent that the CFPB receives more PII than necessary in the course of Consumer Experience Research, it minimizes retention to reduce the possibility that it may be misused subsequent to collection. Further, the CFPB will only retain the information for as long as it is necessary to support authorized purposes in accordance with approved records retention schedules.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0008"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Reduces the potential misuse of excess PII through minimized retention and approved retention schedules.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "risk",
+      "sentence_ids": [
+        119
+      ],
+      "text": "There is a risk that individuals recruited for Consumer Experience Research may not understand that the CFPB is conducting the Consumer Experience Research, especially when third parties are involved.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0011"
+      ],
+      "section": "2.3 Are there any privacy risks for this system that relate to openness and transparency? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies the risk that recruits may not understand CFPB's role, particularly when third parties participate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        120,
+        121
+      ],
+      "text": "To mitigate this risk, the CFPB identifies itself as sponsoring or co-sponsoring, as appropriate, Consumer Experience Research in the research materials, including but not limited to recruitment flyers, informed consent forms, and information collection instruments. In limited circumstances, when CFPB sponsorship would compromise the validity of Consumer Experience Research and the Consumer Experience Research does not legally require a Privacy Act Statement or a Paperwork Reduction Act Statement, Respondents are informed of the CFPB's role after the Consumer Experience Research has concluded.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0011"
+      ],
+      "section": "2.3 Are there any privacy risks for this system that relate to openness and transparency? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Addresses sponsorship confusion by identifying CFPB in research materials or providing disclosure after research when prior disclosure would compromise validity.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        122
+      ],
+      "text": "Furthermore, the CFPB has published this PIA and, when the Paperwork Reduction Act requires, obtains approval of the Office of Management and Budget for information collections involved in Consumer Experience Research.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0011"
+      ],
+      "section": "2.3 Are there any privacy risks for this system that relate to openness and transparency? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Further promotes transparency through publication of the PIA and applicable public information-collection review.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        153
+      ],
+      "text": "The CFPB works to minimize the risk of collecting unnecessary PII by only collecting necessary information.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0021"
+      ],
+      "section": "3.9 Are there any privacy risks for this system that relate to data minimization? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly minimizes unnecessary-collection risk by limiting collection to necessary information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "mitigation",
+      "sentence_ids": [
+        154,
+        155
+      ],
+      "text": "The CFPB reduces the privacy risk of overcollection by conducting reviews of existing literature and limiting Consumer Experience Research to topics where sufficient research or analysis does not already exist prior to data collection, or where there is opportunity to validate conclusions or develop new insights. For example, when OMB's approval is required for an information collection pursuant to the PRA, the CFPB is usually required to demonstrate that the collection does not duplicate information otherwise available to the CFPB.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0021"
+      ],
+      "section": "3.9 Are there any privacy risks for this system that relate to data minimization? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Reduces overcollection by reviewing existing literature, avoiding duplicative research, and using applicable PRA review.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "mitigation",
+      "sentence_ids": [
+        156
+      ],
+      "text": "Furthermore, the CFPB uses sampling methods, as appropriate, when it is not necessary to conduct a universal collection.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0021"
+      ],
+      "section": "3.9 Are there any privacy risks for this system that relate to data minimization? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Uses sampling instead of universal collection when appropriate to limit overcollection.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 19,
+      "type": "mitigation",
+      "sentence_ids": [
+        157
+      ],
+      "text": "The CFPB also evaluates and reduces the privacy sensitivity of the information under consideration for collection, using best practices from the OMB and the National Institute of Standards and Technology (NIST).",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0021"
+      ],
+      "section": "3.9 Are there any privacy risks for this system that relate to data minimization? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Reduces collection sensitivity by evaluating proposed information using recognized privacy practices.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 20,
+      "type": "risk",
+      "sentence_ids": [
+        174
+      ],
+      "text": "Although Consumer Experience Research does not generally rely on direct identifying PII for its analysis, to the extent that it contains PII, risk exists related to unauthorized use.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0027"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies unauthorized use of PII as a privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 21,
+      "type": "mitigation",
+      "sentence_ids": [
+        175,
+        176
+      ],
+      "text": "To mitigate the risk of unauthorized use, the CFPB restricts the collection of and access to direct identifying PII. For example, when partnering with a third party the CFPB typically restricts the third party from furnishing direct identifying PII to the Bureau through contract provisions and requires the direct identifying PII to be stored separately from the Response Data.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0027"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly addresses unauthorized use by restricting collection and access and separating identifying PII from response data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 22,
+      "type": "mitigation",
+      "sentence_ids": [
+        177,
+        178,
+        179
+      ],
+      "text": "To mitigate the risk of inappropriate re-identification and monitoring of individuals, the CFPB limits personnel access to direct identifying PII using technical access controls, and provides privacy and security training so that personnel know how to handle and protect data appropriately. CFPB personnel do not attempt to re-identify information stripped of direct identifying PII in Consumer Experience Research, and may, in some instances, be contractually prohibited from doing so. The CFPB also employs qualified personnel with the necessary academic credentials and subject matter expertise to conduct Consumer Experience Research.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0027"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Reduces re-identification and monitoring through access controls, training, prohibitions on re-identification, and qualified personnel.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 23,
+      "type": "mitigation",
+      "sentence_ids": [
+        180,
+        181
+      ],
+      "text": "The CFPB also reduces the privacy risk of unauthorized disclosures under Consumer Experience Research by reviewing Consumer Experience Research products in light of legal requirements, including the Privacy Act, Section 1022(c)(8) of the Dodd-Frank Act, and 12 C.F.R. 1070.41(c), so that information is not inappropriately disclosed and made vulnerable to subsequent misuse. The CFPB may also use disclosure-protection procedures such as aggregation of response categories, rounding, exclusion of some variables, or exclusion of observations, to reduce disclosure risk.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0027"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Reduces unauthorized disclosure and subsequent misuse through legal review and statistical disclosure-protection procedures.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 24,
+      "type": "risk",
+      "sentence_ids": [
+        187
+      ],
+      "text": "Risk exists related to data quality and integrity.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0030"
+      ],
+      "section": "5.2 Are there any privacy risks for individuals whose information is collected or used by the project that relate to data quality and integrity? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly identifies privacy risk related to data quality and integrity.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 25,
+      "type": "mitigation",
+      "sentence_ids": [
+        188,
+        189
+      ],
+      "text": "To reduce the risk related to data quality and integrity, the CFPB uses best practices of social science research design and data management techniques to reduce the impact of errors or bias in Consumer Experience Research. The Bureau does not use the results of Consumer Experience Research in a way that negatively impacts the individual.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0030"
+      ],
+      "section": "5.2 Are there any privacy risks for individuals whose information is collected or used by the project that relate to data quality and integrity? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Reduces quality and integrity risk through research-design and data-management practices and by avoiding adverse individual impact.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 26,
+      "type": "mitigation",
+      "sentence_ids": [
+        200,
+        201,
+        202
+      ],
+      "text": "In order to mitigate these risks to an acceptable level the CFPB implements extensive security controls for information collected or maintained on behalf of the CFPB, and conducts third-party assessments of vendors and services procured by the CFPB. The CFPB implements the following controls for internally maintained systems: \uf0b7 CFPB policies and procedures governing privacy and information security; \uf0b7 Background checks on all personnel with access to the system; \uf0b7 Initial and follow-on privacy and security awareness training for each individual with access to the system; \uf0b7 Physical perimeter security safeguards; \uf0b7 Security Operations Center to monitor antivirus and intrusion detection software; \uf0b7 Risk and controls assessments and mitigation; \uf0b7 Technical access controls, such as role-based access management and firewalls; and \uf0b7 Appropriate disaster mitigation strategies, breach notification processes and plans, and secure channels for submitting transactional information. The CFPB implements controls relevant to third party vendors and services according to risks identified the following types of third party reviews: ThirdParty Security Assessment & Authorization (SA&A) Package; Statements on Standards for Attestation Engagements (SSAE) 16 Review; Risk Assessments by Independent Organization; or a complete Risk Assessment by the CFPB.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0034"
+      ],
+      "section": "6.3 How will the system be secured?",
+      "explanation": "Explicitly mitigates assessed risks through extensive internal security controls and risk-based reviews of third parties.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 27,
+      "type": "risk",
+      "sentence_ids": [
+        206
+      ],
+      "text": "There is risk that privacy incidents could occur, resulting in unauthorized use or disclosure of PII.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0036"
+      ],
+      "section": "6.5 Are there any privacy risks for this system that relate to security? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies the possibility of privacy incidents causing unauthorized use or disclosure of PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 28,
+      "type": "mitigation",
+      "sentence_ids": [
+        207,
+        208
+      ],
+      "text": "The CFPB mitigates the risk of privacy incidents by providing privacy and security training to CFPB personnel on the appropriate use of information and implementing breach notification processes and plans. Access is limited on a need to know basis, with logical controls limiting access to data stored on CFPB GSS's.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0036"
+      ],
+      "section": "6.5 Are there any privacy risks for this system that relate to security? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly mitigates privacy incidents through training, breach-response processes, need-to-know access, and logical controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 29,
+      "type": "risk",
+      "sentence_ids": [
+        224
+      ],
+      "text": "Some risk exists related to individual participation in Consumer Experience Research.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0040"
+      ],
+      "section": "7.4 Are there any privacy risks for this system that relate to individual participation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that Consumer Experience Research presents risks related to individual participation.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 30,
+      "type": "mitigation",
+      "sentence_ids": [
+        225
+      ],
+      "text": "Individuals who choose to participate in Consumer Experience Research are typically informed about the nature of the Consumer Experience Research so that the individual may make an informed decision about whether to participate as Respondents.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0040"
+      ],
+      "section": "7.4 Are there any privacy risks for this system that relate to individual participation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Supports informed participation by explaining the nature of the research before individuals decide whether to participate.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 31,
+      "type": "risk",
+      "sentence_ids": [
+        226,
+        227
+      ],
+      "text": "However, when Consumer Experience Research uses Administrative Data, there is a risk that individuals may not be able to control what information is being used. Further, when individuals choose not to participate, Administrative Data pertaining to them may be used in order to analyze potential nonresponse bias in Consumer Experience Research.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0040"
+      ],
+      "section": "7.4 Are there any privacy risks for this system that relate to individual participation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies loss of control over Administrative Data, including use of data about people who decline participation.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 32,
+      "type": "mitigation",
+      "sentence_ids": [
+        228
+      ],
+      "text": "The CFPB seeks to mitigate these risks by promoting transparency through this PIA and through public comments to Information Collection Requests published in the Federal Register, as appropriate.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0040"
+      ],
+      "section": "7.4 Are there any privacy risks for this system that relate to individual participation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly addresses participation risks by promoting transparency through the PIA and public-comment processes.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 33,
+      "type": "mitigation",
+      "sentence_ids": [
+        240
+      ],
+      "text": "The CFPB has mitigated risks related to accountability and auditing by limiting who has access to the information, clearly defining and assigning user roles with limited permissions, and providing users with training on use of the system, including privacy, security, and confidentiality.",
+      "unit_ids": [
+        "007_cfpb_consumer-experience-research-pia#unit#0045"
+      ],
+      "section": "9.2 Are there any privacy risks for this system that relate to accountability and auditing? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that accountability and auditing risks are mitigated through limited access, defined roles, permissions, and training.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 6,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 8,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 8,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 13,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 13,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 18,
+      "risk_span_id": 8,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 19,
+      "risk_span_id": 8,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 21,
+      "risk_span_id": 20,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 20,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 23,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 23,
+      "risk_span_id": 4,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 25,
+      "risk_span_id": 24,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 27,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 28,
+      "risk_span_id": 27,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 30,
+      "risk_span_id": 29,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 32,
+      "risk_span_id": 31,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

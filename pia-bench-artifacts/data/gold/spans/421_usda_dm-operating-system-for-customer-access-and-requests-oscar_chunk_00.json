@@ -1,0 +1,234 @@
+{
+  "chunk_id": "421_usda_dm-operating-system-for-customer-access-and-requests-oscar#chunk#00",
+  "doc_id": "421_usda_dm-operating-system-for-customer-access-and-requests-oscar",
+  "agency": "usda",
+  "n_sentences": 110,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        38
+      ],
+      "text": "The retention period is in line with standard retention schedules for similar data and is long enough that any likelihood of having issues associated with the archiving or disposal of data is minimal.",
+      "unit_ids": [
+        "421_usda_dm-operating-system-for-customer-access-and-requests-oscar#unit#0021"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "The agency states that adherence to standard retention schedules keeps archiving or disposal issues to a minimal likelihood.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        45
+      ],
+      "text": "Risk when sharing within USDA is considered low-moderate.",
+      "unit_ids": [
+        "421_usda_dm-operating-system-for-customer-access-and-requests-oscar#unit#0024"
+      ],
+      "section": "4.2 How is the information transmitted or disclosed?",
+      "explanation": "The agency explicitly assesses privacy risk from internal USDA sharing as low to moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        46,
+        47
+      ],
+      "text": "Should data sharing include sources of the network, encryption protocols ensure PII is not inadvertently shared in an unencrypted format. Data is encrypted in motion and at rest.",
+      "unit_ids": [
+        "421_usda_dm-operating-system-for-customer-access-and-requests-oscar#unit#0024"
+      ],
+      "section": "4.2 How is the information transmitted or disclosed?",
+      "explanation": "Encryption protocols and encryption in transit and at rest are presented as preventing PII from being shared without protection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        48
+      ],
+      "text": "In addition, access to data is limited to only those persons with a need-to-know using internal, granular governance process.",
+      "unit_ids": [
+        "421_usda_dm-operating-system-for-customer-access-and-requests-oscar#unit#0024"
+      ],
+      "section": "4.2 How is the information transmitted or disclosed?",
+      "explanation": "Need-to-know restrictions and granular governance are presented as limiting exposure during internal sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        49
+      ],
+      "text": "Dissemination of information is governed by internal policy.",
+      "unit_ids": [
+        "421_usda_dm-operating-system-for-customer-access-and-requests-oscar#unit#0024"
+      ],
+      "section": "4.2 How is the information transmitted or disclosed?",
+      "explanation": "Internal policy is identified as governing dissemination in response to the sharing risk.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        50
+      ],
+      "text": "Access to information is monitored, tracked, logged and audited using tools such as Cloudera Navigator and Cloudera Manager.",
+      "unit_ids": [
+        "421_usda_dm-operating-system-for-customer-access-and-requests-oscar#unit#0024"
+      ],
+      "section": "4.2 How is the information transmitted or disclosed?",
+      "explanation": "Monitoring, logging, tracking, and auditing are presented as controls over access to shared information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "null_finding",
+      "sentence_ids": [
+        52
+      ],
+      "text": "Given that information is not shared with any other organizations, external, there is no privacy risks associated.",
+      "unit_ids": [
+        "421_usda_dm-operating-system-for-customer-access-and-requests-oscar#unit#0026"
+      ],
+      "section": "5.1 With which external organization(s) is the information shared, what information is shared, and for what purpose?",
+      "explanation": "The agency explicitly finds no external-sharing privacy risk because information is not shared externally.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        65
+      ],
+      "text": "There is no policy that specifies how their information is used.",
+      "unit_ids": [
+        "421_usda_dm-operating-system-for-customer-access-and-requests-oscar#unit#0030"
+      ],
+      "section": "6.4 Do individuals have the right to consent to particular uses of the information? If so, how does the individual exercise the right?",
+      "explanation": "The absence of a policy specifying how individuals' information is used is a privacy governance concern.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        66
+      ],
+      "text": "PII is not required to use the OSCAR system, and PII is provided solely at the user's discretion.",
+      "unit_ids": [
+        "421_usda_dm-operating-system-for-customer-access-and-requests-oscar#unit#0031"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Optional provision of PII is offered as reducing the risk associated with inadequate notice.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        67
+      ],
+      "text": "Each individual has access to their profile page within Salesforce to edit or remove any PII that is listed.",
+      "unit_ids": [
+        "421_usda_dm-operating-system-for-customer-access-and-requests-oscar#unit#0031"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Allowing individuals to edit or remove their PII is offered as a control for notice and individual choice concerns.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        73
+      ],
+      "text": "User profiles are not monitored for PII input by the agency and is not required for the proper use of the OSCAR system.",
+      "unit_ids": [
+        "421_usda_dm-operating-system-for-customer-access-and-requests-oscar#unit#0037"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "The agency identifies that user profiles are not monitored for the entry of PII.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        74
+      ],
+      "text": "Individuals have redress by virtue of access to their profile to correct or delete any information that they have input.",
+      "unit_ids": [
+        "421_usda_dm-operating-system-for-customer-access-and-requests-oscar#unit#0037"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Direct profile access allowing correction or deletion provides redress for user-entered information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        85,
+        86
+      ],
+      "text": "The information is protected through various levels of security and policy. The system itself is protected by role-based access layers and positive identification techniques to ensure that only personnel authorized to view and act on information about others can do so.",
+      "unit_ids": [
+        "421_usda_dm-operating-system-for-customer-access-and-requests-oscar#unit#0044"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Layered security, role-based access, and positive identification are presented in the privacy risk analysis as preventing unauthorized access or action.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 14,
+      "type": "null_finding",
+      "sentence_ids": [
+        91
+      ],
+      "text": "The system does not use any technologies that would raise a privacy risk.",
+      "unit_ids": [
+        "421_usda_dm-operating-system-for-customer-access-and-requests-oscar#unit#0046"
+      ],
+      "section": "9.1 What type of project is the program or system?",
+      "explanation": "The agency explicitly states that the system uses no technology that raises a privacy risk.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 2,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

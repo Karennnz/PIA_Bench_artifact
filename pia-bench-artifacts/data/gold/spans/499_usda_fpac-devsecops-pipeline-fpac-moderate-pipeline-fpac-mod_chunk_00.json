@@ -1,0 +1,278 @@
+{
+  "chunk_id": "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod#chunk#00",
+  "doc_id": "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod",
+  "agency": "usda",
+  "n_sentences": 229,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        96
+      ],
+      "text": "Privacy risk are moderate as privacy information is inputted only by partners and NRCS government employees that have access to the application.",
+      "unit_ids": [
+        "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod#unit#0014"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly assesses the system's privacy risk level as moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "text": "Under our current plan, users must be authenticated via USDA ICAMs e-AUTH system and authorized via USDA's role-based authorization The minimum amount of personally identifiable information is collected to satisfy the purpose of this system. The risks are mitigated using various control mechanisms, these include: All users must be uniquely identified and authenticated prior to accessing the application. Access to data is restricted. Information is encrypted at rest and in transit. Masking of PII. System audit logs are retained and reviewed weekly.",
+      "unit_ids": [
+        "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod#unit#0014"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Presents authentication, authorization, data minimization, restricted access, encryption, masking, and audit review as mechanisms mitigating the identified risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        130
+      ],
+      "text": "When records have reached their retention period, they are immediately retired or destroyed in accordance with the USDA Record Retention policies and procedures.",
+      "unit_ids": [
+        "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod#unit#0025"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Immediate retirement or destruction under retention policies reduces risks from retaining records beyond their authorized period.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        131
+      ],
+      "text": "During this period, the stored information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod#unit#0025"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Identifies unauthorized viewing, data loss or destruction, and loss of availability during retention as potential harms.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        132,
+        133,
+        134
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal. (See Appendix B - Records Disposition Procedures.) The risks associated with retaining application-specific information are mitigated by the controls discussed above.",
+      "unit_ids": [
+        "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod#unit#0025"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Access protections and authorized disposition procedures are expressly identified as controls mitigating retention risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        157
+      ],
+      "text": "Notification is automatically provided in the system of records notices (Federal Register publications): o NRCS: USDA/NRCS-1 o FSA: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 Applicant/Borrower. o RMA: https://www.ocio.usda.gov/sites/default/files/docs/2012/FCIC-1.txt https://www.ocio.usda.gov/sites/default/files/docs/2012/FCIC-2.txt ; https://www.ocio.usda.gov/sites/default/files/docs/2012/FCIC-3.txt ; https://www.ocio.usda.gov/sites/default/files/docs/2012/FCIC-4.txt https://www.ocio.usda.gov/sites/default/files/docs/2012/FCIC-5.txt https://www.ocio.usda.gov/sites/default/files/docs/2012/FCIC-6.txt https://www.ocio.usda.gov/sites/default/files/docs/2012/FCIC-7.txt https://www.ocio.usda.gov/sites/default/files/docs/2012/FCIC-8.txt https://www.ocio.usda.gov/sites/default/files/docs/2012/FCIC-9.txt https://www.ocio.usda.gov/sites/default/files/docs/2012/FCIC-10.txt https://www.ocio.usda.gov/sites/default/files/docs/2012/FCIC-11.txt",
+      "unit_ids": [
+        "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod#unit#0041"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "System-of-records notices are presented in the privacy analysis as the means of addressing the risk that individuals may be unaware of collection.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        172
+      ],
+      "text": "Residual privacy risks associated with the redress process for individuals are mitigated since individuals can use the relevant procedures discussed above to update their original public records.",
+      "unit_ids": [
+        "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod#unit#0047"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly states that redress risks are mitigated by procedures allowing individuals to update their records.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        173
+      ],
+      "text": "For DRMS and TeamMate+, the risk associated with redress is considered low, as the public does not have access to the system or the data.",
+      "unit_ids": [
+        "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod#unit#0047"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly assesses the privacy risk associated with redress as low.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180
+      ],
+      "text": "While the public cannot access the system to update or change their personal information, they may update their information and submit the information to the appropriate FSA official. The FSA official will in turn update the system based on the information provided. As published in SORN USDA/NRCS-1: 'Any individual may request information regarding this system of records, or information as to whether the system contains records pertaining to him/her by contacting the respective district conservationist or other designee. If the specific location of the record is not known, the individual should address his/her request to the Director, Management Services Division, USDA-Natural Resources Conservation Service, P. O. Box 2890, Washington, DC 20013, who will refer it to the appropriate field office. A request for information pertaining to an individual should contain: Name, address, and other relevant information (e.g., name or nature of program, name of cooperating body, etc.).'",
+      "unit_ids": [
+        "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod#unit#0047"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Describes alternative procedures through which individuals can submit corrections or request records despite lacking direct system access.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        201,
+        202
+      ],
+      "text": "Privacy concern involving collection information is mitigated by the use of encryption, controlled access, and system audits. Privacy risks are mitigated as PII information is minimal and is only accessed and handled by FPAC-authorized roles and e-authenticated personnel.",
+      "unit_ids": [
+        "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod#unit#0054"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly identifies encryption, controlled access, auditing, data minimization, authorized roles, and authentication as privacy-risk mitigations.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        203
+      ],
+      "text": "Data extracts containing PII are not regularly obtained from the system, therefore, privacy risk from this area is limited and addressed through IT Data Extract processes controls.",
+      "unit_ids": [
+        "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod#unit#0054"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that risks involving PII data extracts are limited and addressed through data-extract process controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "risk",
+      "sentence_ids": [
+        204,
+        205
+      ],
+      "text": "For DRMS and TeamMate+, the main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod#unit#0054"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Identifies unauthorized exposure of privacy information as the principal risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        206,
+        207,
+        208
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM. Quarterly access reviews are done to ensure controls are mitigated.",
+      "unit_ids": [
+        "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod#unit#0054"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that mapped controls and quarterly access reviews are used to minimize the identified privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "null_finding",
+      "sentence_ids": [
+        212
+      ],
+      "text": "No applications on this system employ technology which raise privacy concerns.",
+      "unit_ids": [
+        "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod#unit#0057"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so please discuss their implementation.",
+      "explanation": "Explicitly states that the applications do not employ technology that raises privacy concerns.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "risk",
+      "sentence_ids": [
+        225
+      ],
+      "text": "N/A - privacy risks of data becoming available via 3rd party websites are minimal in that these applications (DRMS, TeamMate+), nor does Pipeline FPAC Mod use web measurement or customization technology.",
+      "unit_ids": [
+        "499_usda_fpac-devsecops-pipeline-fpac-moderate-pipeline-fpac-mod#unit#0070"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Assesses the privacy risk of data becoming available through third-party or web-measurement technologies as minimal because those technologies are not used.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 12,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 12,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 12,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

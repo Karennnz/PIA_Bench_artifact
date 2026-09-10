@@ -1,0 +1,962 @@
+{
+  "chunk_id": "485_usda_farm-program-disaster-system-fpds#chunk#01",
+  "doc_id": "485_usda_farm-program-disaster-system-fpds",
+  "agency": "usda",
+  "n_sentences": 235,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        41
+      ],
+      "text": "While stored, information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0078"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that stored information may be viewed without authorization, lost, destroyed, or unavailable.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        42
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0078"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access controls and password protection in response to storage risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "text": "SORN USDA/FSA-2 States: Program documents are destroyed within 6 years after end of participation. However, FSA is under a records freeze. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through | | | 1228.244, or (c) if authorized, by disposal.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0078",
+        "485_usda_farm-program-disaster-system-fpds#unit#0079"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes retention, transfer, and disposal procedures used to manage records over time.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        49
+      ],
+      "text": "While stored, information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0079"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that stored information may be viewed without authorization, lost, destroyed, or unavailable.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        50
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0079"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access controls and password protection in response to storage risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        51,
+        52,
+        53
+      ],
+      "text": "SORN USDA/FSA-2 States: Program documents are destroyed within 6 years after end of participation. However, FSA is under a records freeze. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0079"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes retention, transfer, and disposal procedures used to manage records over time.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        56
+      ],
+      "text": "While stored, information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0079"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that stored information may be viewed without authorization, lost, destroyed, or unavailable.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        57
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0079"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access controls and password protection in response to storage risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        58,
+        59,
+        60
+      ],
+      "text": "SORN USDA/FSA-2 States: Program documents are destroyed within 6 years after end of participation. However, FSA is under a records freeze. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0079"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes retention, transfer, and disposal procedures used to manage records over time.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 10,
+      "type": "risk",
+      "sentence_ids": [
+        63
+      ],
+      "text": "While stored, information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0079"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that stored information may be viewed without authorization, lost, destroyed, or unavailable.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        64
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0079"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access controls and password protection in response to storage risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "text": "SORN USDA/FSA-2 States: Program documents are destroyed within 6 years | | | after end of participation. However, FSA is under a records freeze. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal. (See Appendix B - Records Disposition Procedures.) | |----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | TAP | The retention period is based on a combination business need (i.e., how long do we need this information for our business process) and long-term usefulness.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0079",
+        "485_usda_farm-program-disaster-system-fpds#unit#0080"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes retention, transfer, and disposal procedures used to manage records over time.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 13,
+      "type": "risk",
+      "sentence_ids": [
+        71
+      ],
+      "text": "While stored, information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0080"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that stored information may be viewed without authorization, lost, destroyed, or unavailable.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        72
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0080"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access controls and password protection in response to storage risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        73,
+        74,
+        75
+      ],
+      "text": "SORN USDA/FSA-2 States: Program documents are destroyed within 6 years after end of participation. However, FSA is under a records freeze. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0080"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes retention, transfer, and disposal procedures used to manage records over time.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 16,
+      "type": "risk",
+      "sentence_ids": [
+        78
+      ],
+      "text": "While stored, information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0080"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that stored information may be viewed without authorization, lost, destroyed, or unavailable.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "mitigation",
+      "sentence_ids": [
+        79
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0080"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access controls and password protection in response to storage risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "mitigation",
+      "sentence_ids": [
+        80,
+        81,
+        82
+      ],
+      "text": "SORN USDA/FSA-2 States: Program documents are destroyed within 6 years after end of participation. However, FSA is under a records freeze. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0080"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes retention, transfer, and disposal procedures used to manage records over time.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 19,
+      "type": "risk",
+      "sentence_ids": [
+        86
+      ],
+      "text": "While stored, information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0081"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that stored information may be viewed without authorization, lost, destroyed, or unavailable.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 20,
+      "type": "mitigation",
+      "sentence_ids": [
+        87
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0081"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access controls and password protection in response to storage risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 21,
+      "type": "mitigation",
+      "sentence_ids": [
+        88,
+        89,
+        90
+      ],
+      "text": "SORN USDA/FSA-2 States: Program documents are destroyed within 6 years after end of participation. However, FSA is under a records freeze. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0081"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes retention, transfer, and disposal procedures used to manage records over time.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 22,
+      "type": "risk",
+      "sentence_ids": [
+        93
+      ],
+      "text": "While stored, information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0081"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that stored information may be viewed without authorization, lost, destroyed, or unavailable.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 23,
+      "type": "mitigation",
+      "sentence_ids": [
+        94
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0081"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access controls and password protection in response to storage risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 24,
+      "type": "mitigation",
+      "sentence_ids": [
+        95,
+        96,
+        97
+      ],
+      "text": "SORN USDA/FSA-2 States: Program documents are destroyed within 6 years after end of participation. However, FSA is under a records freeze. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0081"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes retention, transfer, and disposal procedures used to manage records over time.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 25,
+      "type": "risk",
+      "sentence_ids": [
+        100
+      ],
+      "text": "While stored, information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0081"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that stored information may be viewed without authorization, lost, destroyed, or unavailable.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 26,
+      "type": "mitigation",
+      "sentence_ids": [
+        101
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0081"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access controls and password protection in response to storage risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 27,
+      "type": "mitigation",
+      "sentence_ids": [
+        102,
+        103,
+        104,
+        105
+      ],
+      "text": "SORN USDA/FSA-2 States: Program documents are destroyed within 6 years after end of participation. However, FSA is under a records freeze. According to Records Management DR3080-001 Disposition of Inactive | | | Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0081",
+        "485_usda_farm-program-disaster-system-fpds#unit#0082"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes retention, transfer, and disposal procedures used to manage records over time.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 28,
+      "type": "risk",
+      "sentence_ids": [
+        108
+      ],
+      "text": "While stored, information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0082"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that stored information may be viewed without authorization, lost, destroyed, or unavailable.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 29,
+      "type": "mitigation",
+      "sentence_ids": [
+        109
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0082"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access controls and password protection in response to storage risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 30,
+      "type": "mitigation",
+      "sentence_ids": [
+        110,
+        111,
+        112
+      ],
+      "text": "SORN USDA/FSA-2 States: Program documents are destroyed within 6 years after end of participation. However, FSA is under a records freeze. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0082"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes retention, transfer, and disposal procedures used to manage records over time.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 31,
+      "type": "risk",
+      "sentence_ids": [
+        115
+      ],
+      "text": "While stored, information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0082"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that stored information may be viewed without authorization, lost, destroyed, or unavailable.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 32,
+      "type": "mitigation",
+      "sentence_ids": [
+        116
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0082"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access controls and password protection in response to storage risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 33,
+      "type": "mitigation",
+      "sentence_ids": [
+        117,
+        118,
+        119
+      ],
+      "text": "SORN USDA/FSA-2 States: Program documents are destroyed within 6 years after end of participation. However, FSA is under a records freeze. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0082"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes retention, transfer, and disposal procedures used to manage records over time.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 34,
+      "type": "risk",
+      "sentence_ids": [
+        122,
+        123
+      ],
+      "text": "While stored, information may be at risk for viewing by unauthorized | | | parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0082",
+        "485_usda_farm-program-disaster-system-fpds#unit#0083"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that stored information may be viewed without authorization, lost, destroyed, or unavailable.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 35,
+      "type": "mitigation",
+      "sentence_ids": [
+        124
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0083"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access controls and password protection in response to storage risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 36,
+      "type": "mitigation",
+      "sentence_ids": [
+        125,
+        126,
+        127
+      ],
+      "text": "SORN USDA/FSA-2 States: Program documents are destroyed within 6 years after end of participation. However, FSA is under a records freeze. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0083"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes retention, transfer, and disposal procedures used to manage records over time.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 37,
+      "type": "risk",
+      "sentence_ids": [
+        130
+      ],
+      "text": "While stored, information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0083"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that stored information may be viewed without authorization, lost, destroyed, or unavailable.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 38,
+      "type": "mitigation",
+      "sentence_ids": [
+        131
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0083"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access controls and password protection in response to storage risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 39,
+      "type": "mitigation",
+      "sentence_ids": [
+        132,
+        133,
+        134
+      ],
+      "text": "SORN USDA/FSA-2 States: Program documents are destroyed within 6 years after end of participation. However, FSA is under a records freeze. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0083"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes retention, transfer, and disposal procedures used to manage records over time.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 40,
+      "type": "risk",
+      "sentence_ids": [
+        137
+      ],
+      "text": "While stored, information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0083"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that stored information may be viewed without authorization, lost, destroyed, or unavailable.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 41,
+      "type": "mitigation",
+      "sentence_ids": [
+        138
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0083"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access controls and password protection in response to storage risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 42,
+      "type": "mitigation",
+      "sentence_ids": [
+        139,
+        140,
+        141,
+        142
+      ],
+      "text": "SORN USDA/FSA-2 States: Program documents are destroyed within 6 years after end of participation. However, FSA is under a records freeze. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention | | facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0083",
+        "485_usda_farm-program-disaster-system-fpds#unit#0084"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes retention, transfer, and disposal procedures used to manage records over time.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 43,
+      "type": "risk",
+      "sentence_ids": [
+        224
+      ],
+      "text": "| Application | Notice to individuals and unawareness risk mitigation. | |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | ELAP | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Characterizes the notice-related privacy risk as moderate.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 44,
+      "type": "mitigation",
+      "sentence_ids": [
+        225
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies published system-of-records notices as notice mitigating individual unawareness.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 45,
+      "type": "risk",
+      "sentence_ids": [
+        226
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. | | LFP | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Characterizes the notice-related privacy risk for the next application as moderate.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 46,
+      "type": "mitigation",
+      "sentence_ids": [
+        227
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies published system-of-records notices as notice mitigating individual unawareness.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 47,
+      "type": "risk",
+      "sentence_ids": [
+        228
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. | | LIP | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Characterizes the notice-related privacy risk for the next application as moderate.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 48,
+      "type": "mitigation",
+      "sentence_ids": [
+        229
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies published system-of-records notices as notice mitigating individual unawareness.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 49,
+      "type": "risk",
+      "sentence_ids": [
+        230
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. | | NAP | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Characterizes the notice-related privacy risk for the next application as moderate.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 50,
+      "type": "mitigation",
+      "sentence_ids": [
+        231
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies published system-of-records notices as notice mitigating individual unawareness.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 51,
+      "type": "risk",
+      "sentence_ids": [
+        232
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. | | TAP | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Characterizes the notice-related privacy risk for the next application as moderate.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 52,
+      "type": "mitigation",
+      "sentence_ids": [
+        233
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies published system-of-records notices as notice mitigating individual unawareness.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 53,
+      "type": "mitigation",
+      "sentence_ids": [
+        234
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. |",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Provides users notice before login to reduce the risk that they are unaware of collection.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 4,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 7,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 10,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 13,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 13,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 16,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 18,
+      "risk_span_id": 16,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 20,
+      "risk_span_id": 19,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 21,
+      "risk_span_id": 19,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 23,
+      "risk_span_id": 22,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 24,
+      "risk_span_id": 22,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 25,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 27,
+      "risk_span_id": 25,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 29,
+      "risk_span_id": 28,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 30,
+      "risk_span_id": 28,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 32,
+      "risk_span_id": 31,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 33,
+      "risk_span_id": 31,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 35,
+      "risk_span_id": 34,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 36,
+      "risk_span_id": 34,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 38,
+      "risk_span_id": 37,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 39,
+      "risk_span_id": 37,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 41,
+      "risk_span_id": 40,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 42,
+      "risk_span_id": 40,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 44,
+      "risk_span_id": 43,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 46,
+      "risk_span_id": 45,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 48,
+      "risk_span_id": 47,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 50,
+      "risk_span_id": 49,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 52,
+      "risk_span_id": 51,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 53,
+      "risk_span_id": 51,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

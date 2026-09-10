@@ -1,0 +1,182 @@
+{
+  "chunk_id": "452_usda_voice-of-the-customer-voc-medallia#chunk#00",
+  "doc_id": "452_usda_voice-of-the-customer-voc-medallia",
+  "agency": "usda",
+  "n_sentences": 133,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        31
+      ],
+      "text": "Risks: Minimal risk; VoC will be collect surveys in real-time across a customer's journey and will be placed in the VoC tool.",
+      "unit_ids": [
+        "452_usda_voice-of-the-customer-voc-medallia#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that collection and central placement of real-time survey data presents a minimal privacy risk.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        34,
+        35
+      ],
+      "text": "Mitigation: OCX will provide access for specified USDA users across services, with capability to limit/control access based on role and permissions. The centralized location of customer feedback data can be used to power multiple channels, contacts centers, CXO dashboards, CX PMO offices, etc. These tools will run behind eAuthentication (eAuth) with a Level 2 access authority.",
+      "unit_ids": [
+        "452_usda_voice-of-the-customer-voc-medallia#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly identifies role- and permission-based access and authenticated access as the mitigation.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        54
+      ],
+      "text": "The risk to the length of time the data is retained is very low.",
+      "unit_ids": [
+        "452_usda_voice-of-the-customer-voc-medallia#unit#0019"
+      ],
+      "section": "3.2 Has the retention period been approved by the component records officer and the National Archives and Records Administration (NARA)?",
+      "explanation": "States that data retention poses a privacy risk, although assessed as very low.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "null_finding",
+      "sentence_ids": [
+        56
+      ],
+      "text": "The surveys will not maintain data that is considered PII and there is no perceived risk.",
+      "unit_ids": [
+        "452_usda_voice-of-the-customer-voc-medallia#unit#0019"
+      ],
+      "section": "3.2 Has the retention period been approved by the component records officer and the National Archives and Records Administration (NARA)?",
+      "explanation": "Explicitly states that no retention-related risk is perceived because the surveys will not maintain PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        64
+      ],
+      "text": "There is very little to no risk associated with privacy since this application will be sharing an aggregated representation of data in visual dashboard form.",
+      "unit_ids": [
+        "452_usda_voice-of-the-customer-voc-medallia#unit#0022"
+      ],
+      "section": "4.2 How is the information transmitted or disclosed?",
+      "explanation": "Assesses the privacy risk from internal sharing as very low or absent because shared data is aggregated.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        65
+      ],
+      "text": "Users of the VoC platform won't be able to see any of the limited PII.",
+      "unit_ids": [
+        "452_usda_voice-of-the-customer-voc-medallia#unit#0022"
+      ],
+      "section": "4.2 How is the information transmitted or disclosed?",
+      "explanation": "Explains that platform users cannot view the limited PII, addressing the internal-sharing risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "null_finding",
+      "sentence_ids": [
+        84,
+        85
+      ],
+      "text": "There are no risks associated with individuals providing customer feedback data. This information is completely voluntary.",
+      "unit_ids": [
+        "452_usda_voice-of-the-customer-voc-medallia#unit#0029"
+      ],
+      "section": "6.4 Do individuals have the right to consent to particular uses of the information? If so, how does the individual exercise the right?",
+      "explanation": "Explicitly finds no notice-related privacy risk and explains that providing feedback is voluntary.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        92
+      ],
+      "text": "There are minimal privacy risks, but the system has built in security and access controls to ensure only authorized personnel have access to the data.",
+      "unit_ids": [
+        "452_usda_voice-of-the-customer-voc-medallia#unit#0034"
+      ],
+      "section": "7.4 If no formal redress is provided, what alternatives are available to the individual?",
+      "explanation": "States that minimal privacy risks exist in connection with redress and access to the data.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        93
+      ],
+      "text": "The access controls also multiple roles and access levels .",
+      "unit_ids": [
+        "452_usda_voice-of-the-customer-voc-medallia#unit#0034"
+      ],
+      "section": "7.4 If no formal redress is provided, what alternatives are available to the individual?",
+      "explanation": "Continues the response to the stated risk by describing differentiated access roles and levels.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        108
+      ],
+      "text": "Given the limited collection of PII included in voluntary customer feedback and the high level of training and access controls that personnel will receive prior to receiving access to the system, the risk associated with the Medallia tool are low to non-existent.",
+      "unit_ids": [
+        "452_usda_voice-of-the-customer-voc-medallia#unit#0041"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Presents limited PII collection, training, and access controls as reasons the system's privacy risk is low to nonexistent.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        130
+      ],
+      "text": "Privacy impact is low as 3rd party websites and applications are not used.",
+      "unit_ids": [
+        "452_usda_voice-of-the-customer-voc-medallia#unit#0055"
+      ],
+      "section": "If so, does the agency provide the public with alternatives for acquiring comparable information and services?",
+      "explanation": "Assesses the privacy impact associated with third-party websites and applications as low.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 8,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

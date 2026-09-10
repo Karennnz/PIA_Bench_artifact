@@ -1,0 +1,204 @@
+{
+  "chunk_id": "474_usda_digital-record-management-system-drms#chunk#00",
+  "doc_id": "474_usda_digital-record-management-system-drms",
+  "agency": "usda",
+  "n_sentences": 153,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        29
+      ],
+      "text": "Possible privacy risks include data leakage and insecure data transfer.",
+      "unit_ids": [
+        "474_usda_digital-record-management-system-drms#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Identifies possible privacy harms from data leakage and insecure transfer.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        30,
+        31,
+        32
+      ],
+      "text": "Encryption has been implemented data at rest and in transit. These Privacy risks are mitigated because access to the information is limited to appropriate FPAC personnel and partners through the use of the eAuth application, which provides user authentication for FPAC. Other access requirements include the need for users to be on the USDA network backbone, using a USDA computer, and via FPAC's role-based authorization (RBAC).",
+      "unit_ids": [
+        "474_usda_digital-record-management-system-drms#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Presents encryption, authentication, network restrictions, and role-based authorization as measures mitigating the identified risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        38
+      ],
+      "text": "This application is in compliance with the FISMA and the security and privacy controls provided in the U.S. National Institute of Standards and Technology (NIST) Special Publication (SP) 800-53, Revision 4. If any residual risks are identified, they will be managed and reported via the FISMA mandated risk assessment processes",
+      "unit_ids": [
+        "474_usda_digital-record-management-system-drms#unit#0018"
+      ],
+      "section": "2.4 Privacy Impact Analysis: Describe any types of controls that may be in place to ensure that information is handled in accordance with the above described uses.",
+      "explanation": "States that residual risks will be managed and reported through mandated risk-assessment processes.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        53
+      ],
+      "text": "The risks associated with retaining application-specific information are mitigated by the controls discussed above.",
+      "unit_ids": [
+        "474_usda_digital-record-management-system-drms#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Explicitly states that controls discussed earlier mitigate risks associated with retaining information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        58,
+        59
+      ],
+      "text": "Only USDA employees are allowed access to the data stored in the system. Additionally, privacy risks are mitigated by minimizing the data shared outside DRMS.",
+      "unit_ids": [
+        "474_usda_digital-record-management-system-drms#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Presents restricted employee access and minimization of data shared outside the system as responses to internal-sharing risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        76
+      ],
+      "text": "Notice is provided via the USDA SORNs",
+      "unit_ids": [
+        "474_usda_digital-record-management-system-drms#unit#0037"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Provides notice through published system-of-record notices in response to the risk that individuals may be unaware of collection.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        100
+      ],
+      "text": "A request for information pertaining to an individual should contain: Name, address, and other relevant information (e.g., name or nature of program, name of cooperating body, etc.).' Residual privacy risks associated with the redress process for individuals are mitigated since individuals can use the relevant procedures discussed above to update their original public records.",
+      "unit_ids": [
+        "474_usda_digital-record-management-system-drms#unit#0043"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly states that redress-related residual risks are mitigated through procedures allowing individuals to update records.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        125,
+        126
+      ],
+      "text": "Any privacy risks identified in this system are mitigated by the security and privacy safeguards provided in Section 8.5 and by the security controls discussed in Section 2.4. Remediation of privacy risks associated with internal/external sharing are addressed in Sections 4 and 5 respectively. Remediation of privacy risks associated with notice and redress are addressed in Sections 6 and 7 respectively.",
+      "unit_ids": [
+        "474_usda_digital-record-management-system-drms#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that identified privacy risks are remediated through referenced security, privacy, sharing, notice, and redress controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        127,
+        128
+      ],
+      "text": "Mitigation occurs through policies that address Separation of Duties (SOD) which ensures that system operators and system administrators have limited, if any, access to PII. In addition, NIST 800-53 Audit and Accountability (AU) audit controls are used to prevent data misuses.",
+      "unit_ids": [
+        "474_usda_digital-record-management-system-drms#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Identifies separation-of-duties policies and audit controls as measures limiting PII access and preventing data misuse.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "null_finding",
+      "sentence_ids": [
+        132
+      ],
+      "text": "No. DRMS utilizes USDA-approved technologies and these technology choices do not raise privacy concerns.",
+      "unit_ids": [
+        "474_usda_digital-record-management-system-drms#unit#0053"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so please discuss their implementation.",
+      "explanation": "Explicitly states that the technologies used do not raise privacy concerns.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        148
+      ],
+      "text": "Privacy risks of DRMS data becoming available via 3rd party websites are nominal.",
+      "unit_ids": [
+        "474_usda_digital-record-management-system-drms#unit#0065"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Identifies a nominal risk that DRMS data could become available through third-party websites.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        149
+      ],
+      "text": "In addition, DRMS does not use web measurement or customization technology",
+      "unit_ids": [
+        "474_usda_digital-record-management-system-drms#unit#0065"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Cites the system's non-use of web measurement or customization technology in response to the third-party technology risk analysis.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

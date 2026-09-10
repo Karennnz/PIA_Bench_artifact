@@ -1,0 +1,671 @@
+{
+  "chunk_id": "485_usda_farm-program-disaster-system-fpds#chunk#02",
+  "doc_id": "485_usda_farm-program-disaster-system-fpds",
+  "agency": "usda",
+  "n_sentences": 228,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        0
+      ],
+      "text": "| Application | Notice to individuals and unawareness risk mitigation. | |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | ELAP | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies a moderate risk that ELAP individuals may be unaware of the collection.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        1
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Provides ELAP collection notice through published system-of-records notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        2
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. | | LFP | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies a moderate unawareness risk for LFP; the sentence also contains residual text from the preceding table row.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        3
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Provides LFP collection notice through published system-of-records notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        4
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. | | LIP | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies a moderate unawareness risk for LIP; the sentence also contains residual text from the preceding table row.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        5
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Provides LIP collection notice through published system-of-records notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        6
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. | | NAP | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies a moderate unawareness risk for NAP; the sentence also contains residual text from the preceding table row.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        7
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Provides NAP collection notice through published system-of-records notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        8
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. | | TAP | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies a moderate unawareness risk for TAP; the sentence also contains residual text from the preceding table row.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        9,
+        10
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower. Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. |",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0110"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Provides TAP notice through published records notices and a pre-login notice.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        11
+      ],
+      "text": "| CFAP | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies a moderate risk that CFAP individuals may be unaware of the collection.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        12
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Provides CFAP collection notice through published system-of-records notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "risk",
+      "sentence_ids": [
+        13
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. | |----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | CFAP 2.0 | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies a moderate unawareness risk for CFAP 2.0; the sentence also contains residual text from the preceding table row.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        14
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Provides CFAP 2.0 collection notice through published system-of-records notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "risk",
+      "sentence_ids": [
+        15
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. | | QLA | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies a moderate unawareness risk for QLA; the sentence also contains residual text from the preceding table row.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        16
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Provides QLA collection notice through published system-of-records notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "risk",
+      "sentence_ids": [
+        17
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. | | PARP | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies a moderate unawareness risk for PARP; the sentence also contains residual text from the preceding table row.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 18,
+      "type": "mitigation",
+      "sentence_ids": [
+        18
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Provides PARP collection notice through published system-of-records notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 19,
+      "type": "risk",
+      "sentence_ids": [
+        19
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. | | PLIP | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies a moderate unawareness risk for PLIP; the sentence also contains residual text from the preceding table row.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 20,
+      "type": "mitigation",
+      "sentence_ids": [
+        20
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Provides PLIP collection notice through published system-of-records notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 21,
+      "type": "risk",
+      "sentence_ids": [
+        21
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. | | PATHH | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies a moderate unawareness risk for PATHH; the sentence also contains residual text from the preceding table row.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 22,
+      "type": "mitigation",
+      "sentence_ids": [
+        22
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Provides PATHH collection notice through published system-of-records notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 23,
+      "type": "risk",
+      "sentence_ids": [
+        23
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. | | OTECP | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies a moderate unawareness risk for OTECP; the sentence also contains residual text from the preceding table row.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 24,
+      "type": "mitigation",
+      "sentence_ids": [
+        24
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Provides OTECP collection notice through published system-of-records notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 25,
+      "type": "risk",
+      "sentence_ids": [
+        25
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. | | SMHPP | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies a moderate unawareness risk for SMHPP; the sentence also contains residual text from the preceding table row.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 26,
+      "type": "mitigation",
+      "sentence_ids": [
+        26
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Provides SMHPP collection notice through published system-of-records notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 27,
+      "type": "risk",
+      "sentence_ids": [
+        27
+      ],
+      "text": "Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. | | ELRP | The risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies a moderate unawareness risk for ELRP; the sentence also contains residual text from the preceding table row.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 28,
+      "type": "mitigation",
+      "sentence_ids": [
+        28,
+        29
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower. Also, prior to accessing any system of record, all users are provided a notice prior to logging in via eAuth. |",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0111"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Provides ELRP notice through published records notices and a pre-login notice.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 29,
+      "type": "null_finding",
+      "sentence_ids": [
+        100
+      ],
+      "text": "| Application | Privacy risks associated with redress and risk mitigation. | |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | ELAP | There are no risks associated for this application with redress.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0126"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly finds no redress-related privacy risk for ELAP.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 30,
+      "type": "null_finding",
+      "sentence_ids": [
+        103
+      ],
+      "text": "Any risks associated with redress would occur on the SCIMS database. | | LFP | There are no risks associated for this application with redress.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0126"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly finds no redress-related privacy risk for LFP.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 31,
+      "type": "null_finding",
+      "sentence_ids": [
+        106
+      ],
+      "text": "Any risks associated with redress would occur on the SCIMS database. | | LIP | There are no risks associated for this application with redress.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0126"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly finds no redress-related privacy risk for LIP.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 32,
+      "type": "null_finding",
+      "sentence_ids": [
+        109
+      ],
+      "text": "Any risks associated with redress would occur on the SCIMS database. | | NAP | There are no risks associated for this application with redress.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0126"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly finds no redress-related privacy risk for NAP.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 33,
+      "type": "null_finding",
+      "sentence_ids": [
+        112
+      ],
+      "text": "Any risks associated with redress would occur on the SCIMS database. | | TAP | There are no risks associated for this application with redress.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0126"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly finds no redress-related privacy risk for TAP.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 34,
+      "type": "null_finding",
+      "sentence_ids": [
+        116
+      ],
+      "text": "Any risks associated with redress would occur on the SCIMS database. | |----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | CFAP | There are no risks associated for this application with redress.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0127"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly finds no redress-related privacy risk for CFAP.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 35,
+      "type": "null_finding",
+      "sentence_ids": [
+        119
+      ],
+      "text": "Any risks associated with redress would occur on the SCIMS database. | | CFAP 2.0 | There are no risks associated for this application with redress.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0127"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly finds no redress-related privacy risk for CFAP 2.0.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 36,
+      "type": "null_finding",
+      "sentence_ids": [
+        122
+      ],
+      "text": "Any risks associated with redress would occur on the SCIMS database. | | QLA | There are no risks associated for this application with redress.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0127"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly finds no redress-related privacy risk for QLA.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 37,
+      "type": "null_finding",
+      "sentence_ids": [
+        125
+      ],
+      "text": "Any risks associated with redress would occur on the SCIMS database. | | PARP | There are no risks associated for this application with redress.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0127"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly finds no redress-related privacy risk for PARP.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 38,
+      "type": "null_finding",
+      "sentence_ids": [
+        128
+      ],
+      "text": "Any risks associated with redress would occur on the SCIMS database. | | PLIP | There are no risks associated for this application with redress.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0127"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly finds no redress-related privacy risk for PLIP.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 39,
+      "type": "null_finding",
+      "sentence_ids": [
+        131
+      ],
+      "text": "Any risks associated with redress would occur on the SCIMS database. | | PATHH | There are no risks associated for this application with redress.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0127"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly finds no redress-related privacy risk for PATHH.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 40,
+      "type": "null_finding",
+      "sentence_ids": [
+        134
+      ],
+      "text": "Any risks associated with redress would occur on the SCIMS database. | | OTECP | There are no risks associated for this application with redress.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0127"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly finds no redress-related privacy risk for OTECP.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 41,
+      "type": "null_finding",
+      "sentence_ids": [
+        137
+      ],
+      "text": "Any risks associated with redress would occur on the SCIMS database. | | SMHPP | There are no risks associated for this application with redress.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0127"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly finds no redress-related privacy risk for SMHPP.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 42,
+      "type": "null_finding",
+      "sentence_ids": [
+        140
+      ],
+      "text": "Any risks associated with redress would occur on the SCIMS database. | | ELRP | There are no risks associated for this application with redress.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0127"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly finds no redress-related privacy risk for ELRP.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 13,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 15,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 18,
+      "risk_span_id": 17,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 20,
+      "risk_span_id": 19,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 21,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 24,
+      "risk_span_id": 23,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 25,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 28,
+      "risk_span_id": 27,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

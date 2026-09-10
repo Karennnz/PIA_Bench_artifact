@@ -1,0 +1,368 @@
+{
+  "chunk_id": "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#chunk#00",
+  "doc_id": "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia",
+  "agency": "cfpb",
+  "n_sentences": 145,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        21
+      ],
+      "text": "Administrative Data for Market Research implicates privacy concerns because a breach of confidentiality, or re-identification, could result in an individual being stigmatized or suffering economic harm.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0003"
+      ],
+      "section": "OVERVIEW",
+      "explanation": "Identifies potential confidentiality breaches or re-identification that could stigmatize individuals or cause economic harm.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        22,
+        23
+      ],
+      "text": "Further, privacy protections such as notice and consent have limited applicability to Administrative Data for Market Research. Because the information is collected from third parties, commercial sources, and public databases, individuals do not provide it directly to the CFPB, and informed consent may not be practicable.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0003"
+      ],
+      "section": "OVERVIEW",
+      "explanation": "Identifies limitations on notice and informed consent because information is obtained indirectly.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        44
+      ],
+      "text": "Nevertheless, there is risk that PII could be inappropriately collected in the course of collecting Administrative Data for research.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0010"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly identifies the risk that PII may be collected inappropriately during research data collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        45
+      ],
+      "text": "In order to mitigate the risk of inappropriate collection, the CFPB evaluates the authority and purpose that justify the intake or use of Administrative Data for Market Research, and approves data intake only when such intake is consistent with applicable law and CFPB policies.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0010"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly mitigates inappropriate collection through legal and purpose review and approval of data intake.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        46
+      ],
+      "text": "To the extent that the CFPB receives more PII than necessary, it minimizes retention to reduce the possibility that it may be misused subsequent to collection.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0010"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Reduces retention of unnecessary PII to limit the possibility of subsequent misuse.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "risk",
+      "sentence_ids": [
+        52,
+        53
+      ],
+      "text": "There is a privacy risk that individuals to whom Administrative Data pertain may not understand the scope of Market Research. In particular, individuals may not know whether the CFPB has Administrative Data that pertains to them.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0014"
+      ],
+      "section": "2.3 Are there any privacy risks for this system that relate to openness, and transparency? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies the risk that individuals may not understand the research or know that the CFPB holds data pertaining to them.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        54,
+        55,
+        56
+      ],
+      "text": "The CFPB mitigates this privacy risk by minimizing the extent to which Administrative Data is identifiable. The CFPB also reviews available privacy policies published by the sources of the Administrative Data to verify that disclosures of the data to CFPB are covered as appropriate, and publishes this PIA to promote transparency. Further, the CFPB uses Advanced Notice of Proposed Rulemakings (ANPRM), Notice of Proposed Rulemakings (NPRM), OMB Information Collection Requests, Requests for Information, and other public solicitations, when possible; and, as appropriate, publishes studies and white papers in accordance with the Bureau's Information Quality Guidelines in order to inform the public about the CFPB's Market Research.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0014"
+      ],
+      "section": "2.3 Are there any privacy risks for this system that relate to openness, and transparency? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Responds to the transparency risk through de-identification, source-policy review, publication of the PIA, public notices, and publication of research.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        82
+      ],
+      "text": "There is risk that the Administrative Data gathered to conduct Market Research could contain unnecessary direct identifying PII.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0024"
+      ],
+      "section": "3.9 Are there any privacy risks for this system that relate to data minimization? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly identifies the risk that research data could contain unnecessary directly identifying PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        83,
+        84,
+        85
+      ],
+      "text": "The CFPB reduces the privacy risk of over-collection by conducting an exhaustive review of related and previous empirical studies prior to collection. The CFPB does not conduct Market Research when it can identify duplication with the CFPB's objectives that would render the CFPB's inquiries redundant, and the CFPB designs collections of Administrative Data to use representative samples where appropriate. Moreover, the Bureau evaluates and reduces the privacy sensitivity of the information under consideration for collection, using best practices from the OMB and the National Institute of Standards and Technology.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0024"
+      ],
+      "section": "3.9 Are there any privacy risks for this system that relate to data minimization? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Reduces over-collection through prior research review, avoidance of duplicative inquiries, representative sampling, and privacy-sensitivity review.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "risk",
+      "sentence_ids": [
+        98
+      ],
+      "text": "Although Administrative Data collected by the CFPB does not typically contain direct identifying PII, to the extent that it contains PII, there is risk of unauthorized use such as unauthorized re-identification and monitoring of individuals, unauthorized disclosures, or unauthorized Market Research conducted by CFPB personnel.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0030"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies risks of unauthorized re-identification, monitoring, disclosure, and research uses.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        99,
+        100
+      ],
+      "text": "To mitigate the risk of unauthorized uses, the CFPB typically obtains Administrative Data stripped of direct identifying PII. It also employs qualified personnel with the necessary academic credentials and subject matter expertise to conduct Market Research.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0030"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Mitigates unauthorized uses by obtaining data without direct identifiers and using qualified research personnel.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        101,
+        102
+      ],
+      "text": "To mitigate the risk of re-identification and monitoring of individuals using Administrative Data, the CFPB limits personnel access to direct identifying PII using technical access controls, and provides privacy and security training so that personnel know how to handle and protect data appropriately. CFPB personnel do not attempt to re-identify Administrative Data that is or has been stripped of direct identifying PII.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0030"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly mitigates re-identification and monitoring through access controls, training, and a prohibition on re-identification attempts.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        103,
+        104,
+        105
+      ],
+      "text": "The CFPB reduces the privacy risk of unauthorized disclosures of Administrative Data by reviewing disclosures of Market Research in light of legal requirements, including the Privacy Act and Section 1022(c)(8) of the Dodd-Frank Act, so that Administrative Data is not inappropriately disclosed and made vulnerable to subsequent misuse. To reduce disclosure risk, the CFPB may also use disclosure limitation techniques in generating Market Research products. These techniques may include collapsing response cells, not returning specific variables, and not associating specific outcomes with individuals.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0030"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Reduces unauthorized-disclosure risk through legal review and disclosure-limitation techniques.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "risk",
+      "sentence_ids": [
+        110,
+        111
+      ],
+      "text": "There is risk related to data quality and integrity. Administrative Data are developed by the sources of the Administrative Data for particular purposes, and when data is repurposed for research, issues of quality are particularly relevant.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0033"
+      ],
+      "section": "5.2 Are there any privacy risks for individuals whose information is collected or used by the project that relate to data quality and integrity? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies data-quality and integrity risk arising when administrative data created for other purposes is repurposed for research.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        112,
+        113,
+        114
+      ],
+      "text": "While the CFPB cannot guarantee the accuracy or completeness of Administrative Data, Market Research methodologies are designed to reduce the impact of data errors. Erroneous data would not result in an adverse determination or consequence for individuals. Administrative Data typically does not contain direct identifying PII, and the CFPB uses Administrative Data only for Market Research.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0033"
+      ],
+      "section": "5.2 Are there any privacy risks for individuals whose information is collected or used by the project that relate to data quality and integrity? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Limits the impact of data errors through research methodologies and by restricting the data to research rather than individual determinations.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "risk",
+      "sentence_ids": [
+        123
+      ],
+      "text": "There is risk that privacy incidents could occur, resulting in unauthorized use or disclosure of PII.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0039"
+      ],
+      "section": "6.5 Are there any privacy risks for this system that relate to security? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly identifies the risk of privacy incidents causing unauthorized use or disclosure of PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "mitigation",
+      "sentence_ids": [
+        124
+      ],
+      "text": "The CFPB mitigates the risk of privacy incidents by providing privacy and security training to CFPB personnel on the appropriate use of information and implementing breach notification processes and plans.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0039"
+      ],
+      "section": "6.5 Are there any privacy risks for this system that relate to security? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly mitigates privacy incidents through personnel training and breach-notification processes and plans.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "risk",
+      "sentence_ids": [
+        134
+      ],
+      "text": "There is a risk that individuals may not be able to control how Administrative Data that pertains to them is being used in support of Market Research.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0044"
+      ],
+      "section": "7.4 Are there any privacy risks for this system that relate to individual participation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Identifies the risk that individuals cannot control the use of administrative data pertaining to them.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 19,
+      "type": "mitigation",
+      "sentence_ids": [
+        135
+      ],
+      "text": "The CFPB relies on its statutory authority to conduct research using Administrative Data and promotes transparency regarding Market Research through this PIA.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0044"
+      ],
+      "section": "7.4 Are there any privacy risks for this system that relate to individual participation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Responds to the individual-participation risk by grounding research in statutory authority and promoting transparency through the PIA.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 20,
+      "type": "mitigation",
+      "sentence_ids": [
+        138
+      ],
+      "text": "Since the CFPB requires and provides privacy and security training for all of CFPB personnel, Market Research poses minimal risks regarding privacy awareness and training.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0047"
+      ],
+      "section": "8.2 Are there any privacy risks for this system that relate to awareness and training? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Presents mandatory privacy and security training as the reason awareness and training risks are minimal.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 21,
+      "type": "mitigation",
+      "sentence_ids": [
+        144
+      ],
+      "text": "The CFPB has mitigated risks related to accountability and auditing by limiting who has access to the information, clearly defining and assigning user roles with limited permissions, and providing users with training on use of the system, including privacy, security, and confidentiality.",
+      "unit_ids": [
+        "005_cfpb_market-analysis-of-administrative-data-under-research-authorities-pia#unit#0050"
+      ],
+      "section": "9.2 Are there any privacy risks for this system that relate to accountability and auditing? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that accountability and auditing risks are mitigated through limited access, constrained user roles, and training.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 6,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 14,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 16,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 19,
+      "risk_span_id": 18,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

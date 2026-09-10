@@ -1,0 +1,361 @@
+{
+  "chunk_id": "146_opm_research-and-oversight-repository-rovr#chunk#00",
+  "doc_id": "146_opm_research-and-oversight-repository-rovr",
+  "agency": "opm",
+  "n_sentences": 158,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        65
+      ],
+      "text": "Privacy Risk : There is a risk that ROVR may collect and maintain more information than is necessary for OPM to effectively administer the FEHB Program.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0012"
+      ],
+      "section": "2.5. Privacy Impact Analysis: Related to Characterization of the Information",
+      "explanation": "Identifies possible collection and retention of more information than necessary.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        66,
+        67
+      ],
+      "text": "Mitigation : This risk is mitigated by the OPM/HI office verifying that the data it requests from the Carriers and other sources is the minimum necessary to administer the program. In addition, the OPM/HI office specifies the file formats and specific data elements to ensure that it does not over collect information.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0012"
+      ],
+      "section": "2.5. Privacy Impact Analysis: Related to Characterization of the Information",
+      "explanation": "Describes data-minimization review and specification of permitted formats and elements in direct response to overcollection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        68
+      ],
+      "text": "Privacy Risk : There is a risk that the information received from the Carriers and other sources will contain inaccuracies that impact the OPM/HI office's analysis and an individual's experience in the FEHB Program.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0012"
+      ],
+      "section": "2.5. Privacy Impact Analysis: Related to Characterization of the Information",
+      "explanation": "Identifies the possibility that inaccurate source data could affect analyses and individuals.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        69,
+        70,
+        71
+      ],
+      "text": "Mitigation : This risk is mitigated in part by the quality control checks that the OPM/HI office conducts on the data it receives from the Carriers and other sources. These checks include review of the consistency and completeness of the data and cross-verification of sources to ensure their appropriate integration. Any anomalies are examined and addressed.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0012"
+      ],
+      "section": "2.5. Privacy Impact Analysis: Related to Characterization of the Information",
+      "explanation": "Describes quality-control, completeness, consistency, cross-verification, and anomaly-resolution measures addressing inaccurate data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        72
+      ],
+      "text": "This risk is further mitigated in part by Carriers, who have a business interest in providing accurate information.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0012"
+      ],
+      "section": "2.5. Privacy Impact Analysis: Related to Characterization of the Information",
+      "explanation": "Identifies carriers' business incentive to submit accurate information as an additional response to the accuracy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        73
+      ],
+      "text": "Finally, enrollment and service use and cost data included in ROVR will not be used to affect the enrollment and benefits of any individual except to the extent that information is already used for such a purpose in accordance with OPM statutes, regulations, and guidance.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0012"
+      ],
+      "section": "2.5. Privacy Impact Analysis: Related to Characterization of the Information",
+      "explanation": "Limits use of repository data for decisions affecting enrollment or benefits, reducing potential harm from inaccuracies.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        82
+      ],
+      "text": "3.4. Privacy Impact Analysis: Related to the Uses of Information Privacy Risk : There is a risk that an authorized user may access the information in ROVR for an unauthorized purpose, such as to conduct searches on themselves, friends, family members or others.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0015"
+      ],
+      "section": "3.3. Are there other programs or offices with assigned roles and responsibilities within the system?",
+      "explanation": "Identifies the possibility that authorized users could access information for unauthorized personal purposes.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        83,
+        84
+      ],
+      "text": "Mitigation : This risk is mitigated by ensuring that only a limited number of well-trained HI analysts have access to the PII information in ROVR. PII information will be encrypted and access to ROVR is audited systematically, and atypical activity is monitored.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0015"
+      ],
+      "section": "3.3. Are there other programs or offices with assigned roles and responsibilities within the system?",
+      "explanation": "Directly responds with limited trained access, encryption, systematic auditing, and monitoring of atypical activity.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        85
+      ],
+      "text": "Privacy Risk : Because ROVR compiles identifiable data from multiple sources and information that previously was not accessible in a single system, there is a risk that authorized users will unnecessarily have access to comprehensive, sensitive information about individuals.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0015"
+      ],
+      "section": "3.3. Are there other programs or offices with assigned roles and responsibilities within the system?",
+      "explanation": "Identifies unnecessary exposure of comprehensive sensitive information created by combining identifiable data from multiple sources.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        86,
+        87
+      ],
+      "text": "Mitigation : This risk is mitigated through training HI staff who have access to ROVR regarding the sensitivity and proper handling of the information it contains, and through encrypting the identifiable information and using deidentified information to conduct analyses whenever possible. PII can only be accessed by a very limited number of HI analysts.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0015"
+      ],
+      "section": "3.3. Are there other programs or offices with assigned roles and responsibilities within the system?",
+      "explanation": "Responds through handling training, encryption, deidentification where possible, and highly restricted access to identifiable information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        96
+      ],
+      "text": "Privacy Risk: There is a risk that individuals are not clearly informed that their enrollment data and service use and cost data will be collected and stored in ROVR or notice regarding how it will be used.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0018"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Related to Notice",
+      "explanation": "Identifies inadequate notice about collection, storage, and use of enrollment and service data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        97
+      ],
+      "text": "Mitigation: This risk is mitigated primarily through publication of this PIA and, more indirectly, by providing individuals with the Privacy Act statements found on the SF 2809 or OPM 2809 and the Carriers' brochure and/or the Carrier websites, and through publication of the SORNs referenced in Section 1.2. A secondary mitigation for this risk would be to work with OPM's Retirement Services (RS) to utilize processes they currently have in place to communicate with annuitants.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0018"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Related to Notice",
+      "explanation": "Directly responds with notice through the PIA, Privacy Act statements, carrier materials, SORNs, and potential annuitant communications.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "risk",
+      "sentence_ids": [
+        101
+      ],
+      "text": "Privacy Risk : There is a risk that the information in ROVR will be retained for longer than is necessary.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0020"
+      ],
+      "section": "5.2. Privacy Impact Analysis: Related to Retention",
+      "explanation": "Identifies the possibility that information will be retained longer than necessary.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        102,
+        103
+      ],
+      "text": "Mitigation: This risk is mitigated by properly training HI staff to dispose of records as designated in the relevant records schedule. ROVR oversight and management maintains a comprehensive list of retention periods to ensure compliance and deletion.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0020"
+      ],
+      "section": "5.2. Privacy Impact Analysis: Related to Retention",
+      "explanation": "Responds with staff training and centralized tracking of retention periods to ensure compliant disposal and deletion.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "risk",
+      "sentence_ids": [
+        112
+      ],
+      "text": "Privacy Risk : There is a risk that information will be shared outside of OPM for purposes other than the purpose for which it was collected.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0025"
+      ],
+      "section": "6.5. Privacy Impact Analysis: Related to Information Sharing",
+      "explanation": "Identifies the possibility that information will be externally shared for purposes inconsistent with its collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        113
+      ],
+      "text": "Mitigation : This risk is mitigated in part through training HI staff on the proper handling of the information in the system, including appropriate disclosures as directed by OPM.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0025"
+      ],
+      "section": "6.5. Privacy Impact Analysis: Related to Information Sharing",
+      "explanation": "Directly responds through staff training on proper handling and appropriate disclosures.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "mitigation",
+      "sentence_ids": [
+        114,
+        115,
+        116
+      ],
+      "text": "This risk is further mitigated through specific agreements with agencies that outline the purposes of data sharing. These agreements require both OPM and partner agencies to limit data redissemination and adhere to Privacy Act requirements in any information use or disclosure. This risk cannot be completely mitigated by OPM.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0025"
+      ],
+      "section": "6.5. Privacy Impact Analysis: Related to Information Sharing",
+      "explanation": "Uses data-sharing agreements to restrict purposes and redissemination and require Privacy Act compliance, while acknowledging residual risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "risk",
+      "sentence_ids": [
+        140
+      ],
+      "text": "Privacy Risk : There is a risk that individuals will be unable to correct or amend information about them that is contained in ROVR.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0029"
+      ],
+      "section": "7.4. Privacy Impact Analysis: Related to Redress",
+      "explanation": "Identifies the possibility that individuals cannot correct or amend their repository information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 19,
+      "type": "mitigation",
+      "sentence_ids": [
+        141,
+        142,
+        143
+      ],
+      "text": "Mitigation : This risk is not fully mitigated as the OPM/HI office cannot amend the read-only files that it obtains from the Carriers and other sources and does not have relevant information to determine whether the information requires correction. OPM can only direct individuals to correct information through their employing agency, OPM Retirement Services, the applicable self-service system, the Carrier, or through formal Privacy Act requests. If the correction is communicated to the Carrier, the updated information should be transmitted from the Carrier to ROVR in the usual course of reporting up-to-date enrollment and service use and cost data information.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0029"
+      ],
+      "section": "7.4. Privacy Impact Analysis: Related to Redress",
+      "explanation": "Describes the available indirect correction channels and propagation of corrected carrier data while acknowledging that the response is incomplete.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 20,
+      "type": "mitigation",
+      "sentence_ids": [
+        144
+      ],
+      "text": "The risk to the individual is low, however, as the information in ROVR is not being used to make any decisions that would affect the individual's benefits.",
+      "unit_ids": [
+        "146_opm_research-and-oversight-repository-rovr#unit#0029"
+      ],
+      "section": "7.4. Privacy Impact Analysis: Related to Redress",
+      "explanation": "Reduces the potential impact of uncorrected data by not using repository information for decisions affecting individual benefits.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 13,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 15,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 15,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 19,
+      "risk_span_id": 18,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 20,
+      "risk_span_id": 18,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

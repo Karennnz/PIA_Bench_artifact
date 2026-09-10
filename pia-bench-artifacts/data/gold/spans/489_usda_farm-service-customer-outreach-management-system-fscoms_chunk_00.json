@@ -1,0 +1,173 @@
+{
+  "chunk_id": "489_usda_farm-service-customer-outreach-management-system-fscoms#chunk#00",
+  "doc_id": "489_usda_farm-service-customer-outreach-management-system-fscoms",
+  "agency": "usda",
+  "n_sentences": 98,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        22
+      ],
+      "text": "The privacy risks are minimal.",
+      "unit_ids": [
+        "489_usda_farm-service-customer-outreach-management-system-fscoms#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that privacy risks exist, although assessed as minimal.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        23
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "489_usda_farm-service-customer-outreach-management-system-fscoms#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Presents data minimization as a response to the identified privacy risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        24,
+        25
+      ],
+      "text": "The risks are mitigated using various control mechanisms: All users must be uniquely identified and authenticated prior to accessing the application. Access to data is restricted No PII is stored in the FSCOMS system When the user logs out of FSCOMS, the memory and cache are automatically cleared",
+      "unit_ids": [
+        "489_usda_farm-service-customer-outreach-management-system-fscoms#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly identifies authentication, restricted access, non-storage, and cache clearing as mechanisms used to mitigate the risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "null_finding",
+      "sentence_ids": [
+        57
+      ],
+      "text": "No privacy risks have been identified to redress of incorrect information within FSCOMS.",
+      "unit_ids": [
+        "489_usda_farm-service-customer-outreach-management-system-fscoms#unit#0042"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly states that no privacy risks were identified concerning redress.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        74
+      ],
+      "text": "FSCOMS does not retain any PII FSCOMS does not share any PII When FSCOMS users disconnect from the system, the memory and cache are automatically cleared Minimal risks have been identified for the PII data within FSCOMS.",
+      "unit_ids": [
+        "489_usda_farm-service-customer-outreach-management-system-fscoms#unit#0049"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that privacy risks to PII within the system have been identified, though they are minimal.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        75
+      ],
+      "text": "Mitigation occurs through separation of duties and access control policies which ensure that system operators, system administrators, and associated personnel have limited, if any, access to PII.",
+      "unit_ids": [
+        "489_usda_farm-service-customer-outreach-management-system-fscoms#unit#0049"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly describes separation of duties and access-control policies as mitigation.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "null_finding",
+      "sentence_ids": [
+        78
+      ],
+      "text": "No.",
+      "unit_ids": [
+        "489_usda_farm-service-customer-outreach-management-system-fscoms#unit#0052"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so please discuss their implementation.",
+      "explanation": "Answers that the employed technology does not raise privacy concerns.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        91,
+        92
+      ],
+      "text": "Privacy risks are minimal. There is the unlikely event that data which falls within the PII definition may be erroneously released.",
+      "unit_ids": [
+        "489_usda_farm-service-customer-outreach-management-system-fscoms#unit#0065"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Characterizes the privacy risk as minimal and identifies the unlikely erroneous release of PII as the specific adverse event.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        93
+      ],
+      "text": "The security/privacy training administrator/operator would dispose of such rarely encountered PII immediately.",
+      "unit_ids": [
+        "489_usda_farm-service-customer-outreach-management-system-fscoms#unit#0065"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Provides immediate disposal of erroneously encountered PII as the response to the release risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "null_finding",
+      "sentence_ids": [
+        94
+      ],
+      "text": "Additionally, as PII is not stored in FSCOMS, a Disaster Recovery related error is not possible.",
+      "unit_ids": [
+        "489_usda_farm-service-customer-outreach-management-system-fscoms#unit#0065"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly states that a disaster-recovery-related PII error is not possible because PII is not stored.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 8,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

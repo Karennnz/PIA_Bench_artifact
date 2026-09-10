@@ -1,0 +1,33 @@
+TASK. From the system context below, identify the privacy risks this system poses, and recommend a
+mitigation for each risk, with a short justification grounded in the system.
+
+SYSTEM CONTEXT
+{SERVED_INPUT}
+
+Reason step by step before you answer. Work through these in order:
+1. What personal data does the system collect or hold, and who are the data subjects.
+2. Who can access the data, and how does it flow, internally and to external recipients.
+3. What could go wrong for the data subjects, given that data and those flows.
+4. State each distinct privacy risk that follows.
+5. For each risk, recommend a mitigation, preferring one the system already describes.
+
+Instructions for a fair comparison.
+- List up to {K} distinct privacy risks, and up to {K} distinct mitigations.
+- Order both lists most important first. The order is the rank we score at each cut-off.
+- Be comprehensive. Include every genuine, distinct risk you can support from the context, up to {K}.
+- Do not pad. If the system genuinely has fewer than {K} risks, list only the real ones and stop.
+- Each item must be a single, self-contained risk or mitigation, not a bundle of several.
+
+Then return JSON only, in this shape:
+{
+  "reasoning": "2 to 4 sentence summary of the reasoning chain",
+  "risks": [
+    {"id": "r1", "description": "one distinct privacy risk in plain language",
+     "evidence_quote": "verbatim span from the input that shows this risk", "rationale": "one sentence"}
+  ],
+  "mitigations": [
+    {"id": "m1", "addresses": "r1", "description": "one recommended mitigation",
+     "evidence_quote": "verbatim span, or empty string if you propose a new mitigation",
+     "proposed": false, "rationale": "one sentence"}
+  ]
+}

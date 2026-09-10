@@ -1,0 +1,381 @@
+{
+  "chunk_id": "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#chunk#00",
+  "doc_id": "026_cfpb_salesforce-platform-cloud-environment-pia-v-2",
+  "agency": "cfpb",
+  "n_sentences": 180,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        58
+      ],
+      "text": "The applications created within Salesforce collect information voluntarily, allowing an individual to provide accurate information while providing notice of collecting PII at the time of collection, minimizing the risk of inaccurate data collection.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0006"
+      ],
+      "section": "1.4 Discuss how the accuracy of the information is ensured.",
+      "explanation": "Describes voluntary collection and notice as measures that reduce inaccurate data collection.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        59
+      ],
+      "text": "To mitigate these risks the CFPB implemented controls that restrict access to data and changing permissions to restrict changes to information by unauthorized parties, regularly backs up data that can be restored in the event of an unauthorized modification of data, and maintains audit logs to determine when data is added, modified, or deleted.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0006"
+      ],
+      "section": "1.4 Discuss how the accuracy of the information is ensured.",
+      "explanation": "Explicitly presents access restrictions, backups, and audit logs as controls for data accuracy and unauthorized modification risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        60
+      ],
+      "text": "Privacy Risk : Since Salesforce provides the ability to create several diverse types of applications with the ability to collect large amounts of information, there is a risk that information collected over time may be inaccurate, outdated, or incomplete.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0007"
+      ],
+      "section": "Privacy Impact Analysis: Related to Characterization of the Information.",
+      "explanation": "Explicitly identifies the possibility that collected information may become inaccurate, outdated, or incomplete.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        61,
+        62
+      ],
+      "text": "Mitigation : The applications created within Salesforce collect information voluntarily, allowing an individual to provide accurate information while providing notice of collecting PII at the time of collection, minimizing the risk of inaccurate data collection. Additionally, each application is assessed through ATO processes to ensure that the purpose of each collection is specific to the use within the application.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0007"
+      ],
+      "section": "Privacy Impact Analysis: Related to Characterization of the Information.",
+      "explanation": "Presents voluntary collection, notice, and application assessment as responses to the information-characterization risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        70
+      ],
+      "text": "Privacy Risk : There is a risk that the PII collected may be used in ways that are not necessary for the purpose of collection.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0010"
+      ],
+      "section": "Privacy Impact Analysis: Related to Limits on Information Collection and Retention",
+      "explanation": "Explicitly identifies the risk that PII may be used beyond what is necessary for its collection purpose.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        71,
+        72,
+        73,
+        74
+      ],
+      "text": "Mitigation : To mitigate this risk, the CFPB reviews collections of data within each application to minimize the collection of PII to the greatest extent possible, while allowing CFPB to complete its objectives. This may be achieved by stripping collections of PII, aggregating data, or other means of minimizing such collection. Nevertheless, the CFPB necessarily collects PII under its legal authorities and consequently utilizes appropriate technical, physical, and administrative controls relative to the risk of the data within Salesforce. Salesforce provides development tools and components that allow granular control of data collection options, such as the customization of data fields to limit the amount of PII entered by individuals to the minimum amount necessary.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0010"
+      ],
+      "section": "Privacy Impact Analysis: Related to Limits on Information Collection and Retention",
+      "explanation": "Describes collection review, removal or aggregation of PII, and granular field controls as measures to minimize unnecessary PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        76
+      ],
+      "text": "Privacy Risk : There is a risk that the information collected may be maintained for longer than necessary whereby increasing the risk of exposure and unauthorized access.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0010"
+      ],
+      "section": "Privacy Impact Analysis: Related to Limits on Information Collection and Retention",
+      "explanation": "Explicitly identifies excessive retention as increasing exposure and unauthorized-access risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        77,
+        78,
+        79,
+        80
+      ],
+      "text": "Mitigation : This risk is mitigated through the use of Salesforce Own for data archiving certain data. Own is a cloud data protection platform designed to manage and protect mission-critical data from Salesforce. It allows the CFPB to remove inactive data from the production environment and store it in a secure, immutable archive in encrypted format in accordance with applicable retention schedules. Own can only be accessed by a limited number of authorized CFPB personnel.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0010"
+      ],
+      "section": "Privacy Impact Analysis: Related to Limits on Information Collection and Retention",
+      "explanation": "Presents controlled archiving, encrypted immutable storage, retention-schedule compliance, and limited access as the response to excessive retention.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        93
+      ],
+      "text": "Privacy Risk : There is a risk that the CFPB may use data beyond the intended purpose of collection, and that disparate data sources may be combined and used in new ways that are not consistent with the initial collection.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0013"
+      ],
+      "section": "Privacy Impact Analysis: Related to Uses of Information",
+      "explanation": "Explicitly identifies risks of use beyond the original purpose and incompatible combination of disparate data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        94,
+        95
+      ],
+      "text": "Mitigation : The CFPB mitigates this risk by conducting program and application specific PIAs to assess the collection and uses of PII in accordance with the authority to collect PII. The CFPB addresses privacy implications during the development lifecycle of an application to ensure that this privacy risk is managed throughout the development lifecycle, and continuous monitoring on systems and applications to ensure the purpose of collection remains consistent.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0013"
+      ],
+      "section": "Privacy Impact Analysis: Related to Uses of Information",
+      "explanation": "Describes PIAs, lifecycle privacy review, and continuous monitoring as measures to maintain purpose consistency.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        96
+      ],
+      "text": "Privacy Risk : There is a risk that data stored within another cloud environment may be accessed by an unauthorized individual or that a breach within the cloud environment may impact business operations within Salesforce.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0013"
+      ],
+      "section": "Privacy Impact Analysis: Related to Uses of Information",
+      "explanation": "Explicitly identifies unauthorized cloud access and cloud breaches affecting Salesforce operations.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        97,
+        98,
+        99
+      ],
+      "text": "Mitigation : The CFPB mitigates this risk by sharing Salesforce data only with systems that have achieved an Authority to Operate (ATO) based upon the CFPB assessment & authorization (A&A) processes. Connections between other cloud environments is assessed by the CFPB to apply rolebased environment access controls to ensure the security and privacy of the interconnection. Any proposed data sharing between the cloud environments is also assessed to ensure only authorized individuals can access data within Salesforce.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0013"
+      ],
+      "section": "Privacy Impact Analysis: Related to Uses of Information",
+      "explanation": "Limits sharing to authorized systems and assesses interconnections, access controls, and proposed sharing to prevent unauthorized access.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "risk",
+      "sentence_ids": [
+        109
+      ],
+      "text": "Privacy Risk : There is a risk that individuals do not understand the functionality of Salesforce and how their data is used by applications within the environment.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0017"
+      ],
+      "section": "Privacy Impact Analysis: Related to Individual Notice and Participation",
+      "explanation": "Explicitly identifies the risk that individuals may not understand the platform or how applications use their data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        110,
+        111,
+        112,
+        113
+      ],
+      "text": "Mitigation : Salesforce provides a suite of standardized tools and components that are native to the Salesforce environment. CFPB uses these tools to develop several applications within the environment, each with a specific collection and use of data, to include PII. The CFPB mitigates this risk through Privacy Notices, Privacy Act Statements, PIAs and SORNs to help individuals understand the purpose of Salesforce and describe how their PII is collected, used, shared, and maintained within the environment. Included within these documents are ways in which individuals can contact the CFPB to learn about how PII is used within specific applications in Salesforce.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0017"
+      ],
+      "section": "Privacy Impact Analysis: Related to Individual Notice and Participation",
+      "explanation": "Presents standardized application design and published privacy notices and records as measures to improve individual understanding and participation.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "risk",
+      "sentence_ids": [
+        124
+      ],
+      "text": "Privacy Risk: There is a risk that information residing on the Salesforce Platform may be inappropriately shared externally.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0020"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Explicitly identifies the possibility that platform information may be shared externally inappropriately.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        125,
+        126,
+        127
+      ],
+      "text": "Mitigation : To mitigate this risk, the CFPB has implemented administrative and technical access controls that help to ensure information maintained within the applications is used and shared according to the purposes identified in this PIA and other related notices. Only CFPB Staff have direct access to all the information collected and maintained in the applications. Further, CFPB customizes Salesforce capabilities to limit the use and access to data in accordance with CFPB policies.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0020"
+      ],
+      "section": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information",
+      "explanation": "Presents administrative and technical access controls, staff access limits, and customized restrictions as responses to inappropriate external sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "risk",
+      "sentence_ids": [
+        159
+      ],
+      "text": "Privacy Risk : There is a risk that unauthorized users may access the Salesforce Platform or be granted access to Salesforce applications.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0024"
+      ],
+      "section": "Privacy  Impact  Analysis:  Related  to  Accountability,  Auditing,  and Security",
+      "explanation": "Explicitly identifies unauthorized platform access or improper granting of application access.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "mitigation",
+      "sentence_ids": [
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166
+      ],
+      "text": "Mitigation : CFPB information is hosted on a dedicated Salesforce Government Cloud Plus environment, that has been built on an AWS GovCloud instance. Salesforce Government Cloud Plus is a Compliant Cloud System with FedRAMP High Authorization. Information within Salesforce is therefore subject to the appropriate technical, physical, and administrative controls implemented through the CFPB's National Institute of Standards and Technology (NIST) based risk management process that identifies risk, analyzes the risk, prioritizes the risk, and develops plan to remediate the risk. It is through these processes that controls such as encryption for data maintained within the system are implemented to reduce overall risk to the data within the system. Security and privacy controls are implemented within the Salesforce environment and are also implemented within systems and applications built within the environment to restrict access to the information to authorized individuals. Access controls supported by role-based privacy training for individuals who handles data further helps to mitigate this risk. Application specific PIAs are also completed for all applications within Salesforce that collect, use, share, and maintain data to identify roles for accessing data.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0024"
+      ],
+      "section": "Privacy  Impact  Analysis:  Related  to  Accountability,  Auditing,  and Security",
+      "explanation": "Presents the authorized cloud environment, risk-management controls, encryption, access restrictions, role-based training, and application PIAs as measures against unauthorized access.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 19,
+      "type": "mitigation",
+      "sentence_ids": [
+        167,
+        168
+      ],
+      "text": "Additionally, both internal and independent auditors hold the CFPB accountable for complying with CFPB policies and procedures related to the processing of PII. The CFPB is committed to taking swift and immediate action if there are any violations of law, policies, and procedures.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0024"
+      ],
+      "section": "Privacy  Impact  Analysis:  Related  to  Accountability,  Auditing,  and Security",
+      "explanation": "Describes oversight by auditors and corrective action for violations as accountability measures addressing unauthorized activity.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 20,
+      "type": "mitigation",
+      "sentence_ids": [
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177
+      ],
+      "text": "In addition to the above technical, physical, and administrative controls to safeguard PII and other sensitive information maintained on the Platform, the CFPB has established oversight controls through robust auditing features to identify and support accountability for unauthorized use/misconduct. CFPB's 'Information Governance' Policy outlines the established rules on the intake, management, disclosure, and disposition of information (in its various formats) at CFPB and applies to all CFPB users. CFPB Staff are required to review and sign the CFPB's 'Acceptable Use of CFPB Technology Resources Policy' and complete the privacy and security training, and annually thereafter, before access is granted to a CFPB system. Suspicious and/or unauthorized access is monitored and logged, thereby discouraging users from inappropriate access to CFPB systems. Security administrators review audit logs of the system and applications identified herein to monitor for unusual behavior (e.g., disabling security, login times, number of login attempts, failed login attempts) or misconduct (e.g., unauthorized removal of data) by authorized users. For example, the CFPB employs extract logging and 90-day reviews to identify user behavior and Staff actions around particular events, such as changes in the information or data, warnings, or errors that are unexpected, which are reviewed in relation to their job roles and workflow. If the system administrator notices that anyone has used a system in violation of CFPB policy, system access may be revoked. If there is evidence of potential misconduct, the incident will be referred to the appropriate Bureau office for investigation and further review. CFPB Staff will be disciplined accordingly, which could include adverse actions or removal from the CFPB.",
+      "unit_ids": [
+        "026_cfpb_salesforce-platform-cloud-environment-pia-v-2#unit#0024"
+      ],
+      "section": "Privacy  Impact  Analysis:  Related  to  Accountability,  Auditing,  and Security",
+      "explanation": "Presents policy, training, logging, audit review, access revocation, investigation, and discipline as controls for detecting and managing unauthorized use or misconduct.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 1,
+      "risk_span_id": 3,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 3,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 13,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 15,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 18,
+      "risk_span_id": 17,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 19,
+      "risk_span_id": 17,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 20,
+      "risk_span_id": 17,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

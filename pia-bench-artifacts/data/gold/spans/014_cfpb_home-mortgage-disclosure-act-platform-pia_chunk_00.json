@@ -1,0 +1,148 @@
+{
+  "chunk_id": "014_cfpb_home-mortgage-disclosure-act-platform-pia#chunk#00",
+  "doc_id": "014_cfpb_home-mortgage-disclosure-act-platform-pia",
+  "agency": "cfpb",
+  "n_sentences": 121,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        37,
+        38,
+        39
+      ],
+      "text": "The primary privacy risks associated with data covered by the HMDA Platform PIA are risks related to: \uf0b7 Data Minimization, \uf0b7 Data Quality and Integrity, and \uf0b7 Security Data Minimization : Because the HMDA Platform will serve as the submission method for HMDA information from all covered financial institutions, it will necessarily receive the full HMDA data set. For 2016, there were close to 7000 filers and over 16 million rows of HMDA data submitted by financial institutions. Because the collection of this large dataset is required by the Home Mortgage Disclosure Act of 1975 and Regulation C, the Bureau's ability to minimize the collection of the data elements is restricted.",
+      "unit_ids": [
+        "014_cfpb_home-mortgage-disclosure-act-platform-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Identifies a data-minimization risk arising from the required collection of a very large, complete HMDA dataset and the Bureau's limited ability to reduce it.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        40
+      ],
+      "text": "The Bureau provides the Platform, in part, to ensure that financial institutions are not able to submit additional fields beyond those provided in Regulation C.",
+      "unit_ids": [
+        "014_cfpb_home-mortgage-disclosure-act-platform-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Explains that the Platform prevents institutions from submitting fields beyond those authorized by Regulation C, limiting unnecessary collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        43
+      ],
+      "text": "Data Quality and Integrity : Because the Bureau relies on the financial institution to provide accurate and current data, it does not independently verify that the data is accurate upon submission.",
+      "unit_ids": [
+        "014_cfpb_home-mortgage-disclosure-act-platform-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Identifies the risk that submitted data may be inaccurate or outdated because the Bureau relies on financial institutions and does not independently verify it upon submission.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        44,
+        45,
+        46
+      ],
+      "text": "The Platform is expected to increase the quality and integrity of the data provided by financial institutions by confirming that the information is formatted appropriately and satisfies certain requirements. The Platform will lead the financial institutions through a five -step process, which includes the review of any possible data inaccuracies, certifying the accuracy and completeness of the data, submitting the data, and receiving a confirmation receipt. Filers will know the stage they are in throughout the submission process, and they will know when their submissions for the filing period are complete.",
+      "unit_ids": [
+        "014_cfpb_home-mortgage-disclosure-act-platform-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Describes validation, review, certification, and submission-status measures intended to improve data quality and integrity.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        47
+      ],
+      "text": "The privacy risks associated with data quality and integrity are minimal because the Bureau does not use any information collected through this interaction to deprive an individual of a right or benefit.",
+      "unit_ids": [
+        "014_cfpb_home-mortgage-disclosure-act-platform-pia#unit#0005"
+      ],
+      "section": "Privacy Risk Analysis",
+      "explanation": "Explains that data-quality risks are limited because the information is not used to deprive individuals of rights or benefits.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "risk",
+      "sentence_ids": [
+        48
+      ],
+      "text": "As with any large dataset, there is a risk that HMDA data could be subject to unauthorized access in transit to or while maintained by the CFPB.",
+      "unit_ids": [
+        "014_cfpb_home-mortgage-disclosure-act-platform-pia#unit#0006"
+      ],
+      "section": "Security :",
+      "explanation": "Explicitly identifies the possibility of unauthorized access to HMDA data during transmission or while maintained by the CFPB.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        50
+      ],
+      "text": "The Bureau takes strong measures to mitigate and address any risks to the security of sensitive data it receives, consistent with the guidance and standard s set for Federal information security programs, and the Bureau is committed to protecting the information security of the HMDA data it receives from financial institutions.",
+      "unit_ids": [
+        "014_cfpb_home-mortgage-disclosure-act-platform-pia#unit#0006"
+      ],
+      "section": "Security :",
+      "explanation": "Explicitly states that the Bureau takes measures to mitigate security risks to sensitive HMDA data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        117,
+        118
+      ],
+      "text": "In all of these instances, controls are put in place to protect against inappropriate collection, use, disclosure, and retention depending on the type of sharing or data involved. Depending on the particular sharing typical controls might include: \uf0a7 Compliance with all federally mandated policies and standards \uf0a7 Compliance with CFPB internal policies and standards, including cybersecurity policies and procedures \uf0a7 Data quality and integrity checks \uf0a7 Data encryption \uf0a7 Transmission protections \uf0a7 Extract logging and 90-day reviews \uf0a7 Role-based Access Controls",
+      "unit_ids": [
+        "014_cfpb_home-mortgage-disclosure-act-platform-pia#unit#0021"
+      ],
+      "section": "CFPB Policies, Guidelines and Standards",
+      "explanation": "States that controls are applied to protect against inappropriate collection, use, disclosure, or retention during third-party sharing and lists typical protective measures.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 3,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 6,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

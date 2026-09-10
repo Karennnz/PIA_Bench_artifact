@@ -1,0 +1,425 @@
+{
+  "document_id": "415_usda_agwrite-content-management-system-cms",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0000",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0001",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0002",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0003",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0004",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0005",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0006",
+      "attributes": [
+        "legal_basis",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0007",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0008",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0009",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0010",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0011",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0012",
+      "attributes": [
+        "information_types"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0013",
+      "attributes": [
+        "information_types"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0014",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0015",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0016",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0017",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0018",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0019",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0020",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0021",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0022",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0023",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0024",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0025",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0026",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0027",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0028",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0029",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0030",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0031",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0032",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0033",
+      "attributes": [
+        "operations",
+        "recipients",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0034",
+      "attributes": [
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0035",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "retention"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0036",
+      "attributes": [
+        "operations",
+        "recipients",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0037",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0038",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0039",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0040",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0041",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0042",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0043",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0044",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0045",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0046",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0047",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0048",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0049",
+      "attributes": [
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0050",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "415_usda_agwrite-content-management-system-cms#unit#0051",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

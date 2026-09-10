@@ -1,0 +1,520 @@
+{
+  "document_id": "473_usda_damwatch-damwatch",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0000",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0001",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0002",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0003",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0004",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0005",
+      "attributes": [
+        "context",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0006",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0007",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0008",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0009",
+      "attributes": [
+        "purpose",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0010",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0011",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0012",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0013",
+      "attributes": [
+        "information_types"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0014",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0015",
+      "attributes": [
+        "purpose",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0016",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0017",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0018",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0019",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0020",
+      "attributes": [
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0021",
+      "attributes": [
+        "legal_basis",
+        "operations",
+        "retention"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0022",
+      "attributes": [
+        "purpose",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0023",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0024",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0025",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0026",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0027",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0028",
+      "attributes": [
+        "purpose",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0029",
+      "attributes": [
+        "legal_basis",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0030",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0031",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0032",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0033",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0034",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0035",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0036",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0037",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0038",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0039",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0040",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0041",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0042",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0043",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0044",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0045",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0046",
+      "attributes": [
+        "purpose",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0047",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0048",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0049",
+      "attributes": [
+        "information_types",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0050",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0051",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0052",
+      "attributes": [
+        "context",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0053",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0054",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0055",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0056",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0057",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0058",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0059",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0060",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0061",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0062",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0063",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0064",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0065",
+      "attributes": [
+        "purpose",
+        "operations",
+        "recipients",
+        "retention",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0066",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0067",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "473_usda_damwatch-damwatch#unit#0068",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

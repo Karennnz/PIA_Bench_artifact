@@ -1,0 +1,518 @@
+{
+  "chunk_id": "485_usda_farm-program-disaster-system-fpds#chunk#03",
+  "doc_id": "485_usda_farm-program-disaster-system-fpds",
+  "agency": "usda",
+  "n_sentences": 80,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        0,
+        1
+      ],
+      "text": "| Application | Privacy risks identified and risk mitigation. | |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | ELAP | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0143"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        2,
+        3
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0143"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "States that mitigating controls minimize the identified privacy risk and are mapped to the security plan.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        4,
+        5
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. | | LFP | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0143"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        6,
+        7
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0143"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "States that mitigating controls minimize the identified privacy risk and are mapped to the security plan.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        8,
+        9
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. | | LIP | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0143"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        10,
+        11
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0143"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "States that mitigating controls minimize the identified privacy risk and are mapped to the security plan.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        12,
+        13
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. | | NAP | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0143"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        14,
+        15
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0143"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "States that mitigating controls minimize the identified privacy risk and are mapped to the security plan.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        16,
+        17
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. | | TAP | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0143"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        18,
+        19
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0143"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "States that mitigating controls minimize the identified privacy risk and are mapped to the security plan.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        20,
+        21
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. | | CFAP | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0143"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        22,
+        23
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0143"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "States that mitigating controls minimize the identified privacy risk and are mapped to the security plan.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 13,
+      "type": "risk",
+      "sentence_ids": [
+        24,
+        25
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. | | CFAP 2.0 | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0143"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        26,
+        27
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0143"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "States that mitigating controls minimize the identified privacy risk and are mapped to the security plan.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 15,
+      "type": "risk",
+      "sentence_ids": [
+        28,
+        29
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. | | QLA | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0143"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        30,
+        31,
+        32
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped | | | back to SSP in CSAM.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0143",
+        "485_usda_farm-program-disaster-system-fpds#unit#0144"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "States that mitigating controls minimize the identified privacy risk and are mapped to the security plan.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 17,
+      "type": "risk",
+      "sentence_ids": [
+        33,
+        34
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. | |-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | PARP | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0144"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 18,
+      "type": "mitigation",
+      "sentence_ids": [
+        35,
+        36
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0144"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "States that mitigating controls minimize the identified privacy risk and are mapped to the security plan.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 19,
+      "type": "risk",
+      "sentence_ids": [
+        37,
+        38
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. | | PLIP | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0144"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 20,
+      "type": "mitigation",
+      "sentence_ids": [
+        39,
+        40
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0144"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "States that mitigating controls minimize the identified privacy risk and are mapped to the security plan.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 21,
+      "type": "risk",
+      "sentence_ids": [
+        41,
+        42
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. | | PATHH | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0144"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 22,
+      "type": "mitigation",
+      "sentence_ids": [
+        43,
+        44
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0144"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "States that mitigating controls minimize the identified privacy risk and are mapped to the security plan.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 23,
+      "type": "risk",
+      "sentence_ids": [
+        45,
+        46
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. | | OTECP | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0144"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 24,
+      "type": "mitigation",
+      "sentence_ids": [
+        47,
+        48
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0144"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "States that mitigating controls minimize the identified privacy risk and are mapped to the security plan.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 25,
+      "type": "risk",
+      "sentence_ids": [
+        49,
+        50
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. | | SMHPP | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0144"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 26,
+      "type": "mitigation",
+      "sentence_ids": [
+        51,
+        52
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0144"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "States that mitigating controls minimize the identified privacy risk and are mapped to the security plan.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 27,
+      "type": "risk",
+      "sentence_ids": [
+        53,
+        54
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. | | ELRP | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0144"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 28,
+      "type": "mitigation",
+      "sentence_ids": [
+        55,
+        56,
+        57
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM. Quarterly access reviews are done to ensure controls are mitigated. |",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0144"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "States that mitigating controls minimize the identified privacy risk, are mapped to the security plan, and are subject to quarterly access reviews.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 29,
+      "type": "null_finding",
+      "sentence_ids": [
+        60
+      ],
+      "text": "| Application | Technology privacy risks. | |---------------|-----------------------------| | ELAP | None | | LFP | None | | LIP | None | | NAP | None | | TAP | None | | CFAP | None | | CFAP 2.0 | None | | QLA | None | | PARP | None | | PLIP | None | | PATHH | None | | OTECP | None | | SMHPP | None | | ELRP | None |",
+      "unit_ids": [
+        "485_usda_farm-program-disaster-system-fpds#unit#0147"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns?  If so please discuss their implementation.",
+      "explanation": "Explicitly reports that none of the listed applications has technology-related privacy risks.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 13,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 15,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 18,
+      "risk_span_id": 17,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 20,
+      "risk_span_id": 19,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 22,
+      "risk_span_id": 21,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 24,
+      "risk_span_id": 23,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 26,
+      "risk_span_id": 25,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 28,
+      "risk_span_id": 27,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

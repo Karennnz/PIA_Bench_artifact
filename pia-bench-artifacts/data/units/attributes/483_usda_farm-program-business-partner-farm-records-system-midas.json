@@ -1,0 +1,425 @@
+{
+  "document_id": "483_usda_farm-program-business-partner-farm-records-system-midas",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0000",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0001",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0002",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0003",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0004",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0005",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0006",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0007",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0008",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0009",
+      "attributes": [
+        "legal_basis",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0010",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0011",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0012",
+      "attributes": [
+        "information_types"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0013",
+      "attributes": [
+        "information_types"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0014",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0015",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0016",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0017",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0018",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0019",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0020",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0021",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0022",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0023",
+      "attributes": [
+        "purpose",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0024",
+      "attributes": [
+        "purpose",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0025",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0026",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0027",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0028",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0029",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0030",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0031",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0032",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0033",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0034",
+      "attributes": [
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0035",
+      "attributes": [
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0036",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0037",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0038",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0039",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0040",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0041",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0042",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0043",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0044",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0045",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0046",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0047",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0048",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0049",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0050",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0051",
+      "attributes": [
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0052",
+      "attributes": [
+        "legal_basis",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "483_usda_farm-program-business-partner-farm-records-system-midas#unit#0053",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

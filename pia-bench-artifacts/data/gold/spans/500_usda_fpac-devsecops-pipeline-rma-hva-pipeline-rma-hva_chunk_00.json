@@ -1,0 +1,313 @@
+{
+  "chunk_id": "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#chunk#00",
+  "doc_id": "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva",
+  "agency": "usda",
+  "n_sentences": 135,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        27
+      ],
+      "text": "Privacy risks include the harvesting and misuse of data.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0012"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Identifies harvesting and misuse of personal data as privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        28
+      ],
+      "text": "They also can be used to put together a rough picture of an individual's operations and finances.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0012"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Identifies the possibility of combining data to infer an individual's operations and finances.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        29,
+        30
+      ],
+      "text": "In order to mitigate these risks, access to the information is restricted to a valid business need, and further protected by limiting the raw data available. Where possible, data is redacted, masked, and/or encrypted.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0012"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly presents access restrictions, data minimization, redaction, masking, and encryption as measures mitigating the identified risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        47
+      ],
+      "text": "The primary risk is that data could be exposed due to its long storage length.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0021"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Identifies exposure resulting from long-term data storage as the primary retention risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        48
+      ],
+      "text": "Data is encrypted in the database while \"at rest,\" minimizing the exposure and chance that it can be misused.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0021"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents encryption at rest as reducing exposure and potential misuse from long retention.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "risk",
+      "sentence_ids": [
+        53
+      ],
+      "text": "Privacy risks exist during the transmission and storage of the data.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0025"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Identifies privacy risks during transmission and storage of data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        54
+      ],
+      "text": "The transmission lines are over a dedicated, encrypted VPN to prevent interception and exploitation.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0025"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Describes a dedicated encrypted VPN as preventing interception and exploitation during transmission.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        65
+      ],
+      "text": "The additional risk is minimal as the AIP the data is shared with is the entity that collects the data.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0030"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "States that external sharing creates an additional, though minimal, privacy risk.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        66,
+        67,
+        68
+      ],
+      "text": "The following measures are taken to mitigate the risk of a PII incident: All persons who have access to Protected Information or Personally Identifiable Information within Pipeline RMA HVA, including, but not limited to, personnel, contractors, service providers and affiliates of the Company, shall sign a nondisclosure statement; In accordance with section 502(c) of the Act (7 US. C. \u00a7 1502(c)), neither the Company, nor its personnel, or contractors, or affiliates may disclose to the public any information provided by the policyholder unless such disclosure is otherwise required by Federal law. The Company and all of its affiliates shall develop, implement, and maintain information controls and systems, including those pertaining to all Protected Information and records, in a manner consistent with the Federal Information Security Management Act (FISMA) (44 USC\u00a7 3541); In accordance to the SRA, the Company shall report any loss or unauthorized disclosure of Protected Information or Personally Identifiable Information to FCIC within one hour of discovery of the loss or unauthorized disclosure of such information .",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0030"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Explicitly lists measures to mitigate PII incidents, including nondisclosure obligations, disclosure restrictions, security controls, and incident reporting.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        74
+      ],
+      "text": "Notice is given to the individual when they sign up for crop insurance.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0036"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Providing notice during crop-insurance enrollment addresses the risk that individuals may be unaware of collection.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        75
+      ],
+      "text": "The risk of not knowing is small, given that the individual has to consent to the collection prior to being allowed to purchase crop insurance.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0036"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies the risk that individuals may not know about the collection, while characterizing it as small.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "risk",
+      "sentence_ids": [
+        84
+      ],
+      "text": "Privacy risks are small, but could include disclosure of the information during the appeals process.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0041"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Identifies possible disclosure of information during the appeals process.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        85,
+        86
+      ],
+      "text": "The PII is not to be used outside of initial setup of the policy and direct transmission to RMA. PII is encrypted during transmission and rest to mitigate those risks.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0041"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Limits use and transmission of PII and explicitly uses encryption in transit and at rest to mitigate the disclosure risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "risk",
+      "sentence_ids": [
+        104
+      ],
+      "text": "Privacy risks include the browsing, illicit downloading, and exposure of data.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0048"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Identifies browsing, illicit downloading, and exposure of data as privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        105
+      ],
+      "text": "These risks have been mitigated by placing strict access controls on the data, monitoring of the data and system files for misuse, and the encryption of the data when not in use.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0048"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly states that access controls, monitoring, and encryption mitigate the identified risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "null_finding",
+      "sentence_ids": [
+        108
+      ],
+      "text": "No. The technology used is all COTS.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0050"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so please discuss their implementation.",
+      "explanation": "Answers that the project does not employ technology raising privacy concerns.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 17,
+      "type": "mitigation",
+      "sentence_ids": [
+        128,
+        129
+      ],
+      "text": "While there is no PII processed or stored in the third party application, security rules are written into the contract to ensure that the security of both systems is maintained. These security rules will be included in the RMA continuous monitoring plan where applicable or reviewed annually.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0063"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Contractual security rules and continuing or annual review are presented as measures protecting the systems in the third-party context.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 18,
+      "type": "risk",
+      "sentence_ids": [
+        130
+      ],
+      "text": "Because there is no PII transmitted to the third party, privacy risk is minimal.",
+      "unit_ids": [
+        "500_usda_fpac-devsecops-pipeline-rma-hva-pipeline-rma-hva#unit#0063"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Characterizes third-party privacy risk as minimal because no PII is transmitted.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 6,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 11,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 12,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 14,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 18,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

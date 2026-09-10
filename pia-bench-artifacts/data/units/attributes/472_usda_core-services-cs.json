@@ -1,0 +1,550 @@
+{
+  "document_id": "472_usda_core-services-cs",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0000",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0001",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0002",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0003",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0004",
+      "attributes": [
+        "context",
+        "purpose"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0005",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0006",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0007",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0008",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0009",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0010",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0011",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0012",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0013",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0014",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0015",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0016",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0017",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0018",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0019",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0020",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0021",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0022",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0023",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0024",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0025",
+      "attributes": [
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0026",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0027",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0028",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0029",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0030",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0031",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0032",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0033",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0034",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0035",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0036",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0037",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0038",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0039",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0040",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0041",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0042",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0043",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0044",
+      "attributes": [
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0045",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0046",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0047",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0048",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0049",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0050",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0051",
+      "attributes": [
+        "context",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0052",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0053",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0054",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0055",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0056",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0057",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0058",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0059",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0060",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0061",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0062",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0063",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0064",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0065",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0066",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0067",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "472_usda_core-services-cs#unit#0068",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

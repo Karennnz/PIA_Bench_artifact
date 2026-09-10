@@ -1,0 +1,551 @@
+{
+  "document_id": "470_usda_collaborative-software-development-laboratory-colab",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0000",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0001",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0002",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0003",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0004",
+      "attributes": [
+        "context",
+        "purpose",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0005",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0006",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0007",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0008",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0009",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0010",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0011",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0012",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0013",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0014",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0015",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0016",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0017",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0018",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0019",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0020",
+      "attributes": [
+        "legal_basis",
+        "information_types",
+        "operations",
+        "retention"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0021",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0022",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0023",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0024",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0025",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0026",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0027",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0028",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0029",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0030",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0031",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0032",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0033",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0034",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0035",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0036",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0037",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0038",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0039",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0040",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0041",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0042",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0043",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0044",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0045",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0046",
+      "attributes": [
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0047",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0048",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0049",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0050",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0051",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0052",
+      "attributes": [
+        "context",
+        "purpose",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0053",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0054",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0055",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0056",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0057",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0058",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0059",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0060",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0061",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0062",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0063",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0064",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0065",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0066",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0067",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0068",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "470_usda_collaborative-software-development-laboratory-colab#unit#0069",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

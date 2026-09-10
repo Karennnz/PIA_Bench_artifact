@@ -1,0 +1,543 @@
+{
+  "document_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0000",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0001",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0002",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0003",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0004",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0005",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0006",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0007",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0008",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0009",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0010",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0011",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0012",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0013",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0014",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0015",
+      "attributes": [
+        "purpose",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0016",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0017",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0018",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0019",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0020",
+      "attributes": [
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0021",
+      "attributes": [
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0022",
+      "attributes": [
+        "purpose",
+        "operations",
+        "recipients",
+        "retention",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0023",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0024",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0025",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0026",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0027",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0028",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0029",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0030",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0031",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0032",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0033",
+      "attributes": [
+        "legal_basis",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0034",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0035",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0036",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0037",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0038",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0039",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0040",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0041",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0042",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0043",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0044",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0045",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0046",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0047",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0048",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0049",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0050",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0051",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0052",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0053",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0054",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0055",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0056",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0057",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0058",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0059",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0060",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0061",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0062",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0063",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0064",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0065",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0066",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0067",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0068",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "478_usda_farm-loan-accounting-and-allotments-system-flaas#unit#0069",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

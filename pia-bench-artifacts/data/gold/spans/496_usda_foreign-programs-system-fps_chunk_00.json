@@ -1,0 +1,239 @@
+{
+  "chunk_id": "496_usda_foreign-programs-system-fps#chunk#00",
+  "doc_id": "496_usda_foreign-programs-system-fps",
+  "agency": "usda",
+  "n_sentences": 138,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        45
+      ],
+      "text": "| Applications | Privacy risks and how mitigated. | |----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | GSM | The privacy risks are moderate.",
+      "unit_ids": [
+        "496_usda_foreign-programs-system-fps#unit#0018"
+      ],
+      "section": "1.7 Privacy Impact Analysis:  Given the amount and type of data collected,",
+      "explanation": "States that the system's privacy risks are moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        46
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "496_usda_foreign-programs-system-fps#unit#0018"
+      ],
+      "section": "1.7 Privacy Impact Analysis:  Given the amount and type of data collected,",
+      "explanation": "Presents data minimization as a response to the identified privacy risk.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        47,
+        48
+      ],
+      "text": "The risks are mitigated using various control mechanisms. See below: \u2022 All users must be uniquely identified and authenticated prior to accessing the application. \u2022 Access to data is restricted. |",
+      "unit_ids": [
+        "496_usda_foreign-programs-system-fps#unit#0018"
+      ],
+      "section": "1.7 Privacy Impact Analysis:  Given the amount and type of data collected,",
+      "explanation": "Explicitly states that risks are mitigated through identification, authentication, and restricted access controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        66
+      ],
+      "text": "| Applications | Risks associated with the length of time data is retained and how those risks are mitigated. | |----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | GSM | During this period, the stored information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "496_usda_foreign-programs-system-fps#unit#0028"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Identifies risks of unauthorized viewing, data loss or destruction, and non-availability during retention.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        67
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password protected.",
+      "unit_ids": [
+        "496_usda_foreign-programs-system-fps#unit#0028"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes access-control, physical-control, and password protections in direct response to the retention risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        68,
+        69,
+        70,
+        71
+      ],
+      "text": "SORN USDA/FPAC-2 States: Program documents are destroyed within 6 years after end of participation. However, FPAC is under a records freeze. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records | | Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal.",
+      "unit_ids": [
+        "496_usda_foreign-programs-system-fps#unit#0028",
+        "496_usda_foreign-programs-system-fps#unit#0029"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes retention, transfer, and authorized disposal rules used to manage risks from retaining records.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        91
+      ],
+      "text": "| Applications | Notice to individuals and unawareness risk mitigation. | |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | GSM | The risk is considered moderate.",
+      "unit_ids": [
+        "496_usda_foreign-programs-system-fps#unit#0044"
+      ],
+      "section": "6.4 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Rates the risk associated with individuals being unaware of collection as moderate.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        92
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FPAC-2 - Farm Records File (Automated) and USDA/FPAC-14 - Applicant/Borrower. |",
+      "unit_ids": [
+        "496_usda_foreign-programs-system-fps#unit#0044"
+      ],
+      "section": "6.4 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Identifies published system-of-records notices as the notification mechanism addressing the unawareness risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        100,
+        101
+      ],
+      "text": "| Applications Privacy risks associated with redress and risk mitigation. | Applications Privacy risks associated with redress and risk mitigation. | |---------------------------------------------------------------------------|---------------------------------------------------------------------------------| | GSM | The risk associated with redress is considered low, as the public does not have | access to the system or the data.",
+      "unit_ids": [
+        "496_usda_foreign-programs-system-fps#unit#0050",
+        "496_usda_foreign-programs-system-fps#unit#0051"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Identifies and rates the privacy risk associated with redress, with an explanation for its low level.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        102,
+        103
+      ],
+      "text": "While the public cannot access the system to update or change their personal information, they may update their information using from AD 2530 and submit to the appropriate FPAC official. public facing. SCIMS is no longer the source of entry since Business Partner The FPAC official will in turn update the system based on the information provided.",
+      "unit_ids": [
+        "496_usda_foreign-programs-system-fps#unit#0051"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Provides a process through which individuals can submit updates for an FPAC official to enter into the system.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        115,
+        116
+      ],
+      "text": "| Applications | Privacy risks identified and risk mitigation. | |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | GSM | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "496_usda_foreign-programs-system-fps#unit#0059"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized exposure of privacy information as the principal risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        117,
+        118,
+        119
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM. Annual access reviews are done to ensure controls are mitigated. |",
+      "unit_ids": [
+        "496_usda_foreign-programs-system-fps#unit#0059"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Explicitly identifies mitigating controls, their documentation, and annual access reviews as measures minimizing the risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "null_finding",
+      "sentence_ids": [
+        122
+      ],
+      "text": "| Applications | Technology privacy risks. | |----------------|-----------------------------| | GSM | No |",
+      "unit_ids": [
+        "496_usda_foreign-programs-system-fps#unit#0062"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns?  If so please discuss their implementation.",
+      "explanation": "Explicitly answers that the technology does not raise privacy concerns.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 4,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

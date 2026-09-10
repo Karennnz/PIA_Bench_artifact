@@ -1,0 +1,16 @@
+{
+  "kind": "mitigation",
+  "variant": "main",
+  "prompt_version": "trace-content-v1",
+  "requested_model": "gpt-5.6-terra",
+  "returned_models": [
+    "gpt-5.6-terra"
+  ],
+  "n_expected": 821,
+  "n_assignments": 821,
+  "usage": {
+    "input_tokens": 174040,
+    "output_tokens": 86699,
+    "reasoning_tokens": 13822
+  }
+}

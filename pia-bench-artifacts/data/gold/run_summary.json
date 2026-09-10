@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-08-06T12:34:16.336275+00:00",
+  "requested_model": "gpt-5.4",
+  "returned_models": [
+    "gpt-5.4"
+  ],
+  "reasoning_effort": "medium",
+  "prompt_version": "gold-v1",
+  "store": false,
+  "chunks": 77,
+  "from_cache": 1,
+  "usage": {
+    "input_tokens": 557700,
+    "output_tokens": 188232,
+    "reasoning_tokens": 117759
+  },
+  "span_counts": {
+    "risk": 451,
+    "mitigation": 831,
+    "null_finding": 95,
+    "links": 829
+  },
+  "chunks_with_validation_problems": 0,
+  "validation_problems": {}
+}

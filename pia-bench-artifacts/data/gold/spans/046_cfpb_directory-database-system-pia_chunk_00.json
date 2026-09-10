@@ -1,0 +1,248 @@
+{
+  "chunk_id": "046_cfpb_directory-database-system-pia#chunk#00",
+  "doc_id": "046_cfpb_directory-database-system-pia",
+  "agency": "cfpb",
+  "n_sentences": 126,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "null_finding",
+      "sentence_ids": [
+        29
+      ],
+      "text": "There are no identifiable risks associated with the purpose of this system.",
+      "unit_ids": [
+        "046_cfpb_directory-database-system-pia#unit#0010"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that no identifiable privacy risks are associated with the system's purpose.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "null_finding",
+      "sentence_ids": [
+        42
+      ],
+      "text": "There are no identifiable risks associated with openness and transparency for this system.",
+      "unit_ids": [
+        "046_cfpb_directory-database-system-pia#unit#0012"
+      ],
+      "section": "2.3 Are there any privacy risks for this system that relate to openness, and transparency? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that no identifiable openness and transparency risks exist.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "null_finding",
+      "sentence_ids": [
+        58
+      ],
+      "text": "There are no identifiable risks related to data minimization associated with this system.",
+      "unit_ids": [
+        "046_cfpb_directory-database-system-pia#unit#0022"
+      ],
+      "section": "3.9 Are there any privacy risks for this system that relate to data minimization? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that no identifiable data-minimization risks exist.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        61
+      ],
+      "text": "While the Bureau does not request unnecessary information, PII not directly related the Bureau's supervision, enforcement or other regulatory authority may be received from institutions or individuals when collecting information for the Directory Database.",
+      "unit_ids": [
+        "046_cfpb_directory-database-system-pia#unit#0024"
+      ],
+      "section": "4.1 Is the information in the project limited to only the information that is needed to carry out the purpose of the collection?",
+      "explanation": "States that unnecessary PII may be received during collection; the following sentence expressly identifies this as a risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "null_finding",
+      "sentence_ids": [
+        79
+      ],
+      "text": "There are no risks associated with use limitation for this system.",
+      "unit_ids": [
+        "046_cfpb_directory-database-system-pia#unit#0028"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that there are no use-limitation risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        82,
+        83
+      ],
+      "text": "Moving forward, however, this the CFPB will obtain much of its information directly from supervised financial institutions and individuals through various registration channels that it operates or participates in. The CFPB will attempt, where practicable to verify the accuracy and completeness of such information by contacting supervised institutions and individuals or by using third party data sources.",
+      "unit_ids": [
+        "046_cfpb_directory-database-system-pia#unit#0030"
+      ],
+      "section": "5.1 How will the information collected be verified for accuracy and completeness?",
+      "explanation": "Describes planned direct collection and verification measures offered as the strategy for addressing data accuracy and completeness risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        84
+      ],
+      "text": "The CFPB also offers a means through the Privacy Act for individuals to amend or correct CFPB records that pertain to them.",
+      "unit_ids": [
+        "046_cfpb_directory-database-system-pia#unit#0030"
+      ],
+      "section": "5.1 How will the information collected be verified for accuracy and completeness?",
+      "explanation": "Provides a correction mechanism for individuals, addressing erroneous or incomplete records.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        86
+      ],
+      "text": "There is a risk that information contained in the system may be erroneous, incomplete, or outdated.",
+      "unit_ids": [
+        "046_cfpb_directory-database-system-pia#unit#0031"
+      ],
+      "section": "5.2 Are there any privacy risks for individuals whose information is collected or used by the project that relate to data quality and integrity? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly identifies the possibility that system information may be erroneous, incomplete, or outdated.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        100
+      ],
+      "text": "There is a risk that unauthorized individuals may gain access to the information in the Directory Database.",
+      "unit_ids": [
+        "046_cfpb_directory-database-system-pia#unit#0037"
+      ],
+      "section": "6.5 Are there any privacy risks for this system that relate to security? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly identifies the risk of unauthorized access to Directory Database information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        101,
+        102
+      ],
+      "text": "The CFPB has mitigated this risk by only granting access to the system to authorized users who, based on their need to know, will be restricted to the minimal amount of data required or appropriate to carry out their assigned job responsibilities. Access is terminated or reduced as necessary should the employee or contractor no longer have a need to know the information, change job functions, is terminated or resigns.",
+      "unit_ids": [
+        "046_cfpb_directory-database-system-pia#unit#0037"
+      ],
+      "section": "6.5 Are there any privacy risks for this system that relate to security? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly responds to the unauthorized-access risk through least-privilege access and termination or reduction of access when no longer needed.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        112
+      ],
+      "text": "There is a risk that some individuals may not have the opportunity to decline to provide information to the Directory Database.",
+      "unit_ids": [
+        "046_cfpb_directory-database-system-pia#unit#0041"
+      ],
+      "section": "7.4 Are there any privacy risks for this system that relate to individual participation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly identifies the risk that some individuals cannot decline to provide their information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        113
+      ],
+      "text": "This risk is acceptable because the collection of some information contained in the Directory Database is mandated by the Dodd-Frank Act or is pursuant to other applicable laws and regulations.",
+      "unit_ids": [
+        "046_cfpb_directory-database-system-pia#unit#0041"
+      ],
+      "section": "7.4 Are there any privacy risks for this system that relate to individual participation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly manages the stated risk through risk acceptance based on legal and statutory collection requirements.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        114
+      ],
+      "text": "Individuals are provided an opportunity to access, amend or correct their records through the process described in Section 7.2.",
+      "unit_ids": [
+        "046_cfpb_directory-database-system-pia#unit#0041"
+      ],
+      "section": "7.4 Are there any privacy risks for this system that relate to individual participation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Offers access, amendment, and correction rights as a compensating measure in response to the individual-participation risk.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 14,
+      "type": "null_finding",
+      "sentence_ids": [
+        118
+      ],
+      "text": "There are no identifiable risks associated with awareness and training for this system.",
+      "unit_ids": [
+        "046_cfpb_directory-database-system-pia#unit#0043"
+      ],
+      "section": "8.2 Are there any privacy risks for this system that relate to awareness and training? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that no identifiable awareness and training risks exist.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "null_finding",
+      "sentence_ids": [
+        125
+      ],
+      "text": "There are no identifiable risks associated with accountability and auditing for this system.",
+      "unit_ids": [
+        "046_cfpb_directory-database-system-pia#unit#0046"
+      ],
+      "section": "9.2 Are there any privacy risks for this system that relate to accountability and auditing? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that no identifiable accountability and auditing risks exist.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 11,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

@@ -1,0 +1,133 @@
+{
+  "chunk_id": "468_usda_business-analytic-division-bad#chunk#00",
+  "doc_id": "468_usda_business-analytic-division-bad",
+  "agency": "usda",
+  "n_sentences": 164,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        77
+      ],
+      "text": "Any data collection risk are mitigated by limited access to data through logical access controls.",
+      "unit_ids": [
+        "468_usda_business-analytic-division-bad#unit#0016"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly states that limited access and logical access controls mitigate data-collection risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "null_finding",
+      "sentence_ids": [
+        90
+      ],
+      "text": "Retention period has no effect on the risk associated with PII.",
+      "unit_ids": [
+        "468_usda_business-analytic-division-bad#unit#0025"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Explicitly finds that the retention period does not affect privacy risk associated with PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        97
+      ],
+      "text": "Because all users with access to Hydra are authorized to view the information provided, risks are minimal.",
+      "unit_ids": [
+        "468_usda_business-analytic-division-bad#unit#0029"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "States that restricting access to authorized users makes internal-sharing risks minimal.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        127
+      ],
+      "text": "Privacy risks are small but could include disclosure of the information during the appeals process.",
+      "unit_ids": [
+        "468_usda_business-analytic-division-bad#unit#0046"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Identifies possible disclosure of information during the appeals process.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        128
+      ],
+      "text": "Access to the PII is restricted to authorized personnel.",
+      "unit_ids": [
+        "468_usda_business-analytic-division-bad#unit#0046"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Restricting PII access to authorized personnel addresses the identified disclosure risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "risk",
+      "sentence_ids": [
+        144
+      ],
+      "text": "Privacy risks include improper disclosure of data by employees.",
+      "unit_ids": [
+        "468_usda_business-analytic-division-bad#unit#0053"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly identifies improper disclosure of data by employees as a privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        145
+      ],
+      "text": "Controls to mitigate this risk include logical access controls and auditing.",
+      "unit_ids": [
+        "468_usda_business-analytic-division-bad#unit#0053"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly identifies logical access controls and auditing as controls mitigating employee disclosure risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "null_finding",
+      "sentence_ids": [
+        148
+      ],
+      "text": "No, the website is available to RMA users through the RMA network.",
+      "unit_ids": [
+        "468_usda_business-analytic-division-bad#unit#0056"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so please discuss their implementation.",
+      "explanation": "Explicitly states that the technology does not raise privacy concerns.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 6,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

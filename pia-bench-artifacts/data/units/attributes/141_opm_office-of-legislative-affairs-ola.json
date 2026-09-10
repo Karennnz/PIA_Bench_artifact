@@ -1,0 +1,298 @@
+{
+  "document_id": "141_opm_office-of-legislative-affairs-ola",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0000",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0001",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "retention",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0002",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0003",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0004",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0005",
+      "attributes": [
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0006",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0007",
+      "attributes": [
+        "purpose",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0008",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0009",
+      "attributes": [
+        "information_types",
+        "operations",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0010",
+      "attributes": [
+        "purpose",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0011",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0012",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0013",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0014",
+      "attributes": [
+        "purpose",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0015",
+      "attributes": [
+        "purpose",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0016",
+      "attributes": [
+        "information_types",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0017",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0018",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0019",
+      "attributes": [
+        "purpose",
+        "legal_basis",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0020",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0021",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0022",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0023",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0024",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0025",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0026",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0027",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0028",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0029",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0030",
+      "attributes": [
+        "legal_basis",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0031",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "141_opm_office-of-legislative-affairs-ola#unit#0032",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

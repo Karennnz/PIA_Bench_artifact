@@ -1,0 +1,297 @@
+{
+  "chunk_id": "415_usda_agwrite-content-management-system-cms#chunk#00",
+  "doc_id": "415_usda_agwrite-content-management-system-cms",
+  "agency": "usda",
+  "n_sentences": 160,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        55
+      ],
+      "text": "2.6. PRIVACY IMPACT ANALYSIS: Related to Characterization of the Information Follow the format below: Privacy Risk : There is a risk that we may over collect PII from the public as part of the correspondence.",
+      "unit_ids": [
+        "415_usda_agwrite-content-management-system-cms#unit#0024"
+      ],
+      "section": "2.5.1.1. What PII will be made available to the agency though the use of third-party websites?",
+      "explanation": "Explicitly identifies possible overcollection of PII from public correspondence.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        56,
+        57,
+        58
+      ],
+      "text": "Mitigation : To mitigate this, all system users must be USDA employees or contractors who have taken security and privacy training and granted access to the through role-based access control. Users only have access to information on a need-to-know basis, in order to perform their intended job function. tTo the extent possible to process or archive a record, PII is redacted by the initial recipients of the correspondence. We also mitigate the privacy risk by ensuring that all received correspondence goes through an initial vetting process where sensitive information such as date of birth will be redacted from received items and will only be available to privileged users, if necessary.",
+      "unit_ids": [
+        "415_usda_agwrite-content-management-system-cms#unit#0024"
+      ],
+      "section": "2.5.1.1. What PII will be made available to the agency though the use of third-party websites?",
+      "explanation": "Explicitly presents training, role-based and need-to-know access, vetting, and redaction as measures mitigating the overcollection risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        73
+      ],
+      "text": "Follow the format below: Privacy Risk: There is a risk that personal information provided by a correspondent could be inappropriately accessed by AgWrite system users. to The scope of the information collected in the CMS is limited to the amount of data necessary to act upon the request, correspondence, or other possible action item received by USDA.",
+      "unit_ids": [
+        "415_usda_agwrite-content-management-system-cms#unit#0027"
+      ],
+      "section": "3.3. PRIVACY IMPACT ANALYSIS: Related to uses of the information.",
+      "explanation": "Explicitly identifies the risk that correspondents' personal information could be accessed inappropriately.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        75,
+        76,
+        77,
+        78
+      ],
+      "text": "Mitigation : To mitigate this, all system users must be USDA employees or contractors who have taken security and privacy training and granted access to the through role based access control. Users only have access to information on a need-to-know basis, in order to perform their intended job function. To the extent possible to process or archive a record, PII is redacted by the initial recipients of the correspondence. We also mitigate the privacy risk by ensuring that all received correspondence goes through an initial vetting process where sensitive information such as date of birth will be redacted from received items and will only be available to privileged users, if necessary",
+      "unit_ids": [
+        "415_usda_agwrite-content-management-system-cms#unit#0027"
+      ],
+      "section": "3.3. PRIVACY IMPACT ANALYSIS: Related to uses of the information.",
+      "explanation": "Explicitly responds with training, role-based access, need-to-know restrictions, initial vetting, and redaction.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        80
+      ],
+      "text": "As information is voluntarily provided to the Department from unknown sources, there is no ability to provide notice to individuals prior to receipt of the information.",
+      "unit_ids": [
+        "415_usda_agwrite-content-management-system-cms#unit#0029"
+      ],
+      "section": "4.1. How does the project/program/system provide notice to individuals prior to collection?",
+      "explanation": "States that prior notice cannot be provided because information arrives voluntarily from unknown sources.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        81
+      ],
+      "text": "However, this PIA and the applicable SORN serve serves as notice. and that the applicable SORN also acts as notice. =",
+      "unit_ids": [
+        "415_usda_agwrite-content-management-system-cms#unit#0029"
+      ],
+      "section": "4.1. How does the project/program/system provide notice to individuals prior to collection?",
+      "explanation": "The PIA and applicable SORN are presented as alternative notice in response to the lack of prior notice.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        83
+      ],
+      "text": "Follow the format below: Privacy Risk : There is a risk that individuals corresponding with USDA will not be given proper notice prior to the collection of their information..",
+      "unit_ids": [
+        "415_usda_agwrite-content-management-system-cms#unit#0031"
+      ],
+      "section": "4.3. PRIVACY IMPACT ANALYSIS: Related to Notice",
+      "explanation": "Explicitly identifies the risk that correspondents will not receive proper notice before collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        86,
+        87,
+        88,
+        89
+      ],
+      "text": "The information will be used only for the purpose stated in the AgWrite Content Management System, OES-2 SORN Mitigation : This risk is partially mitigated. Although Nno notice is given for the initial collection as the information is voluntarily submitted without request,. tThe information will be used only for the purpose stated in this PIA and thee AgWrite Content Correspondence and Document Management System, OES-2 SORN. Sufficient notice will be provided through a SORN published in the Federal Register (FR). In the FR, the public will be allowed 30 days to provide comments and for the agency consideration.",
+      "unit_ids": [
+        "415_usda_agwrite-content-management-system-cms#unit#0031"
+      ],
+      "section": "4.3. PRIVACY IMPACT ANALYSIS: Related to Notice",
+      "explanation": "Explicitly describes partial mitigation through purpose limitations, the PIA and SORN, Federal Register publication, and a public-comment period.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        96
+      ],
+      "text": "Follow the format below: Privacy Risk There is a risk that we USDA may retain correspondence data for too long.g.",
+      "unit_ids": [
+        "415_usda_agwrite-content-management-system-cms#unit#0035"
+      ],
+      "section": "5.3. PRIVACY IMPACT ANALYSIS : Related to retention of information.",
+      "explanation": "Explicitly identifies the risk that correspondence data may be retained too long.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        97
+      ],
+      "text": "Mitigation : Risk will be mitigated in the future by exploring publicly available data sets to ensure that important contact information is synchronized with known sources that are maintained and managed.",
+      "unit_ids": [
+        "415_usda_agwrite-content-management-system-cms#unit#0035"
+      ],
+      "section": "5.3. PRIVACY IMPACT ANALYSIS : Related to retention of information.",
+      "explanation": "Explicitly labels synchronization with maintained public data sources as a future mitigation, although its relationship to excessive retention is unclear.",
+      "confidence": "low"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        98,
+        99,
+        100,
+        101
+      ],
+      "text": "This feature is pending review and implementation in future system iterations.This risk is mitigated because the retention of data in the system is in accordance with applicable USDA records disposition schedules as approved by the National Archives and Records Administration (NARA). Records are maintained for varying periods, and temporary records are disposed of by shredding when the retention Commented [DL5]: mitigation. period is complete. Electronic records are sent to NARA, per the disposition document, after a period of five years.",
+      "unit_ids": [
+        "415_usda_agwrite-content-management-system-cms#unit#0035",
+        "415_usda_agwrite-content-management-system-cms#unit#0036"
+      ],
+      "section": "5.3. PRIVACY IMPACT ANALYSIS : Related to retention of information.",
+      "explanation": "Explicitly mitigates excessive retention through NARA-approved disposition schedules, destruction of temporary records, and transfer to NARA.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "risk",
+      "sentence_ids": [
+        107,
+        108
+      ],
+      "text": "Follow the format below: Privacy Risk : There is a risk that approved users will share information received by the system with others that may or may not have a business need. This includes the ability to look up contact information to send correspondence responses and print hard copies of correspondence and contact information to facilitate the sending of said responses.",
+      "unit_ids": [
+        "415_usda_agwrite-content-management-system-cms#unit#0039"
+      ],
+      "section": "6.2. PRIVACY IMPACT ANALYSIS: Related to internal sharing and disclosure.",
+      "explanation": "Explicitly identifies the risk that approved users may share correspondence or contact information with people lacking a business need.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        109
+      ],
+      "text": "Mitigation : Risk is mitigated by managing users through access control policies, auditing users accessing the system, logging actions taken on the system, and requiring all access to the system to be done within the USDA network.",
+      "unit_ids": [
+        "415_usda_agwrite-content-management-system-cms#unit#0039"
+      ],
+      "section": "6.2. PRIVACY IMPACT ANALYSIS: Related to internal sharing and disclosure.",
+      "explanation": "Explicitly mitigates improper internal sharing through access controls, auditing, logging, and network restrictions.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "null_finding",
+      "sentence_ids": [
+        112
+      ],
+      "text": "Follow the format below: 2024 Page 10 of 14 Risk is N/A because there is no external sharing.",
+      "unit_ids": [
+        "415_usda_agwrite-content-management-system-cms#unit#0040"
+      ],
+      "section": "6.3. With which external organizations (outside USDA) is information shared/received/transmitted?   What information is shared/received/transmitted, and for what purpose? How is the information transmitted?",
+      "explanation": "Explicitly states that the external-sharing risk is not applicable because there is no external sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "risk",
+      "sentence_ids": [
+        126
+      ],
+      "text": "Follow the format below: Privacy Risk : There is a risk that USDA may collect incorrect information from submitted correspondence.",
+      "unit_ids": [
+        "415_usda_agwrite-content-management-system-cms#unit#0045"
+      ],
+      "section": "7.4. If no formal redress is provided, what alternatives are available to the individual?",
+      "explanation": "Explicitly identifies the risk that USDA may collect incorrect information from submitted correspondence.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136
+      ],
+      "text": ": Formal redress procedures are available and outlined in the AgWrite ContentCorrespondence and Document Management System, OES-2 SORN. Individuals requesting correction or amendment of their records should follow the Notification Procedures and the Record Access Procedures and also identify the record or information to be changed, giving specific reasons for the change. Individuals who want to know whether this system of records contains information about them, who want to access their records, or who want to contest the contents of a record, should make a written request to the Director, Office of the Executive Secretariat, U.S. Department of Agriculture, 1400 Independence Avenue SW., Washington, DC 20250. Individuals must furnish the following information for their records to be located and identified: A. Full name or other identifying information necessary or helpful in locating the record; B. Why you believe the system may contain your personal information; C. A statement indicating the type of request being made (i.e., access, correction, or amendment) and whether a personal inspection of the records or a copy of them by mail is desired; D. Signature. Individuals wishing to request access to their records should follow the Notification Procedures. Individuals requesting access are also required to provide adequate identification, such as a driver's license, employee identification card, social security card, or other identifying document. Additional identification procedures may be required in some instances.",
+      "unit_ids": [
+        "415_usda_agwrite-content-management-system-cms#unit#0046"
+      ],
+      "section": "Mitigation",
+      "explanation": "Presents formal redress, access, correction, amendment, and identification procedures as the response to inaccurate information.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "low"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 12,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 15,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

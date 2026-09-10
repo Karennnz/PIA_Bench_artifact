@@ -1,0 +1,370 @@
+{
+  "chunk_id": "031_cfpb_supervision-and-examination-system-ses-pia#chunk#00",
+  "doc_id": "031_cfpb_supervision-and-examination-system-ses-pia",
+  "agency": "cfpb",
+  "n_sentences": 175,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        34
+      ],
+      "text": "There is a risk that the examination personnel may misuse the PII, or use the PII in a way that is inconsistent with the purpose of collection.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0006"
+      ],
+      "section": "Limits on Uses and Sharing of Information",
+      "explanation": "Identifies potential misuse of PII or use inconsistent with the collection purpose.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "text": "To mitigate this risk, the CFPB provides training to examination personnel prior to access to PII so they understand their responsibility in collecting, handling, and safeguarding the data. CFPB examination personnel must review the relevant policies and engage in other formal and nonformal training forums to learn how the CFPB business process works and how to appropriately use the information that is collected during examinations. For example, examination personnel are trained to securely store information pertaining to investigations in Microsoft O365 SharePoint, and not on individual IT system equipment assigned to them. Additionally, those with access to the SES receive training that includes a briefing on confidentiality before they are granted access to the system. This briefing includes a reminder to employees that the PII contained within the system may be subject to the Privacy Act.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0006"
+      ],
+      "section": "Limits on Uses and Sharing of Information",
+      "explanation": "Presents training and confidentiality briefings as measures to prevent inappropriate handling or use of PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "text": "Examination personnel are also required to conduct the examinations within a specified scope. Once the scope of the exam is set, the Examiner in Charge (EIC) works to customize the information requests for a particular entity. These requests are approved by senior management before sending to the entity. CFPB examination personnel also rely on role-based permissions in the SES to make sure that all information collected is used for its intended purpose.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0006"
+      ],
+      "section": "Limits on Uses and Sharing of Information",
+      "explanation": "Uses examination scope controls, management approval, and role-based permissions to constrain PII use.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        47
+      ],
+      "text": "This presents a risk that PII stored within another cloud environment may be accessed by an unauthorized individual or that a breach within the cloud environment may impact business operations within the SES.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0006"
+      ],
+      "section": "Limits on Uses and Sharing of Information",
+      "explanation": "Identifies unauthorized cloud access and cloud breaches affecting SES operations as risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        48,
+        49,
+        50
+      ],
+      "text": "The CFPB mitigates this risk by sharing the SES data only with systems that have achieved an Authority to Operate (ATO) based upon the CFPB A&A processes. Connections between other cloud environments are assessed by the CFPB to apply role-based environment access controls to ensure the security and privacy of the interconnection. Any proposed data sharing between the cloud environments is also assessed to ensure only authorized entities can access data within the SES.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0006"
+      ],
+      "section": "Limits on Uses and Sharing of Information",
+      "explanation": "Limits cloud sharing to authorized systems and assesses interconnections and access.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        51,
+        52
+      ],
+      "text": "The CFPB also configures security controls at a granular level within each application to prevent sharing of PII externally. For example, CFPB disables external sharing within Microsoft O365 SharePoint, prohibiting any linked document from being opened outside the CFPB environment.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0006"
+      ],
+      "section": "Limits on Uses and Sharing of Information",
+      "explanation": "Configures application controls to prevent external disclosure of PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        54
+      ],
+      "text": "Consumers therefore do not have opportunities to opt out or decline to share PII in this context, and there isa risk that individuals are not aware that their information is collected by CFPB, and that CFPB cannot provide a way for individuals to access records that are submitted by supervised entities.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0007"
+      ],
+      "section": "Individual Participation",
+      "explanation": "Identifies lack of awareness and limited ability to access submitted records as participation risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        56
+      ],
+      "text": "This risk is acceptable because the supervision of entities is required by the Dodd-Frank Act, the CFPB needs to request information from entities that may contain PII to sufficiently meet this statutory requirement, and PII in the SES system is not collected for the purpose of analyzing specific consumers.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0007"
+      ],
+      "section": "Individual Participation",
+      "explanation": "Explicitly manages the participation risk through a documented risk-acceptance rationale.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        57,
+        58,
+        59
+      ],
+      "text": "6 See https://files.consumerfinance.gov/f/documents/cfpb_salesforce-platform-cloud-environment_pia_2022-05.pdf 7 See https://files.consumerfinance.gov/f/documents/cfpb_microsoft-cloud-gss_pia_2022-07.pdf Furthermore, CFPB offers a means through the Privacy Act for individuals to access, amend, or correct, their records at their request. However, PII in the SES cannot be accessed or changed if doing so would impact the CFPB's ability to supervise an entity or if doing so would harm a pending investigation or enforcement action. Information about Privacy Act requests is available in the SES SORNs, CFPB.002 - Depository Institution Supervision Database and CFPB.003 Non-Depository Institution Supervision Database for the SES and at https://www.consumerfinance.gov/foia-requests/.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0007"
+      ],
+      "section": "Individual Participation",
+      "explanation": "Provides a Privacy Act process for requesting access, amendment, or correction, subject to investigative limitations.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 10,
+      "type": "risk",
+      "sentence_ids": [
+        60
+      ],
+      "text": "There is a risk that documents or other information provided by entities to the CFPB during the examination process may include unnecessary PII about consumers or employees of the entity.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0008"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Identifies the possibility that examination materials contain unnecessary consumer or employee PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        61,
+        62
+      ],
+      "text": "To help mitigate this risk, the CFPB trains examiners to collect only relevant and necessary information, as well as how to properly handle and protect sensitive, confidential, and personal information. Examiners must complete the confidentiality and privacy briefing when they initially onboard and on an annual basis thereafter.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0008"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Uses recurring examiner training to limit collection and ensure proper handling of sensitive information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        63,
+        64
+      ],
+      "text": "Where practicable, the CFPB uses de-identified information or information that does not contain name or other direct identifier of the consumer to conduct the examination. The CFPB works directly with the entities it supervises to limit the amount of sensitive information shared during the examination process.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0008"
+      ],
+      "section": "Data Minimization",
+      "explanation": "Uses de-identified information where practicable and works with entities to minimize sensitive information sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "risk",
+      "sentence_ids": [
+        65
+      ],
+      "text": "There is a risk that the substantial amounts of information on consumers and their financial transactions in the SES may be a target for hackers, identity thieves, and other cyber threats.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0009"
+      ],
+      "section": "Security",
+      "explanation": "Identifies the possibility that consumer and transaction information will be targeted by cyber threats.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "text": "The CFPB mitigates this risk by implementing extensive security controls and safeguards for the SES and the GSS that hosts it to protect the information in the system against unauthorized disclosure and access. All employees at CFPB are required to use a Personal Identity Verification (PIV) card to log into their device. After logging in, examination personnel may log in to the SES utilizing ingle sign on and two factor authentication methods. Once they attempt to sign in the user is prompted via Okta Verify on their CFPB-provided cellphone to confirm they did make that action. This then allows the user into the system.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0009"
+      ],
+      "section": "Security",
+      "explanation": "Explicitly responds with security safeguards, identity credentials, single sign-on, and multifactor authentication.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "risk",
+      "sentence_ids": [
+        71
+      ],
+      "text": "There is also a risk that unauthorized individuals may gain access to the information in the SES.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0009"
+      ],
+      "section": "Security",
+      "explanation": "Identifies unauthorized access to SES information as a privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "text": "The CFPB mitigates this risk by only granting access to the system to authorized users who, based on their need to know, will be restricted to the minimal amount of PII required or appropriate to carry out their assigned job responsibilities. Access is terminated or reduced as necessary should the authorized CFPB staff no longer have a need to know the information, change job functions, is terminated, or resigns. In addition, the CFPB issues authorized personnel non-transferable usernames to SES as required for fulfilling official duties. This access is only issued after employees have completed the system's training seminar, which includes confidentiality and privacy briefings. Since access to all information included in the SES may not be necessary for all CFPB employees with supervision responsibilities, the system has unique user roles. For example, employees who supervise other employees with examination responsibilities may require access to human resources systems associated with scheduling, whereas employees tasked with non-examination duties may not require such access. The user roles assigned to each employee when they are granted access to the system reflect their individual needs for information in the system.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0009"
+      ],
+      "section": "Security",
+      "explanation": "Restricts access by authorization, need to know, account lifecycle controls, training, and tailored user roles.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 17,
+      "type": "mitigation",
+      "sentence_ids": [
+        80,
+        81
+      ],
+      "text": "As mentioned in previous sections above, the CFPB only shares SES data with systems that have achieved an ATO based upon the CFPB A&A process. The SES connections with cloud environments are assessed by rolebased environment access controls.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0009"
+      ],
+      "section": "Security",
+      "explanation": "Reiterates authorization and role-based assessment controls for interconnected cloud systems.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 18,
+      "type": "mitigation",
+      "sentence_ids": [
+        163,
+        164,
+        165
+      ],
+      "text": "The CFPB mitigates this third-party vendor risk by sharing the SES data only with systems that have achieved an ATO based upon the CFPB A&A processes. Connections between other cloud environments are assessed by the CFPB to apply rolebased environment access controls to ensure the security and privacy of the interconnection. Any proposed data sharing between the cloud environments is also assessed to ensure only authorized entities can access data within SES.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0014"
+      ],
+      "section": "Explain the standards and relevant controls that govern the CFPB's-or any third party contractor(s) acting on behalf of the CFPB-collection, use, disclosure, retention, or disposal of information.",
+      "explanation": "Explicitly mitigates third-party vendor risk through authorization and interconnection access assessments.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 19,
+      "type": "mitigation",
+      "sentence_ids": [
+        166,
+        167
+      ],
+      "text": "The CFPB also configures security controls at a granular level within each application to prevent sharing of PII externally. For example, CFPB disables external sharing within Microsoft O365 SharePoint, prohibiting any linked document from being opened outside the CFPB environment.",
+      "unit_ids": [
+        "031_cfpb_supervision-and-examination-system-ses-pia#unit#0014"
+      ],
+      "section": "Explain the standards and relevant controls that govern the CFPB's-or any third party contractor(s) acting on behalf of the CFPB-collection, use, disclosure, retention, or disposal of information.",
+      "explanation": "Prevents external PII sharing through granular configuration and disabled external document access.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 7,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 13,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 15,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 4,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 18,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 19,
+      "risk_span_id": 4,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

@@ -1,0 +1,279 @@
+{
+  "kind": "mitigation",
+  "status": "frozen_for_exploratory_assignment",
+  "frozen_at_utc": "2026-09-03T14:44:27.617661+00:00",
+  "scope": "73 cleaned TRACE PIAs; exploratory content characterization only",
+  "not_benchmark_gold": true,
+  "candidate_source": "content_codebook_candidate.json",
+  "candidate_sha256": "0d39e16ae837c863853c89c5689504eef36d821109c8f0ed9fde0c3878f88398",
+  "discovery_source": "mitigation_generated.json",
+  "discovery_sha256": "a6c58fb62e0db4f1866be8bf6d248a41101d3e1a11c5aa2dc61fa573274f421c",
+  "discovery_requested_model": "gpt-5.6-terra",
+  "discovery_returned_models": [
+    "gpt-5.6-terra"
+  ],
+  "discovery_topic_names": [
+    "Data minimization and retention lifecycle management",
+    "De-identification, masking, and disclosure protection",
+    "Identity authentication and least-privilege access control",
+    "Encryption and physical or secure-transfer safeguards",
+    "Audit, workforce, and incident accountability",
+    "Third-party and purpose-limited sharing governance",
+    "Notice, consent, and individual rights",
+    "Data quality, accuracy, and correction",
+    "Other substantive content",
+    "Unclear or ambiguous",
+    "Noise or non-substantive"
+  ],
+  "refinement_decision": "Retained eight control-mechanism themes and explicit boundary rules, especially minimization-versus-retention, access-versus-use controls, and operational-security-versus-organizational-assurance distinctions.",
+  "assignment_protocol": {
+    "primary_required": true,
+    "max_secondary": 2,
+    "evidence_must_be_exact_substring": true,
+    "compound_primary_order": [
+      "foregrounded_main_proposition",
+      "largest_share_of_substantive_clauses",
+      "earliest_fully_stated_mechanism",
+      "unclear_if_no_defensible_primary"
+    ],
+    "confidence_values": [
+      "high",
+      "medium",
+      "low"
+    ]
+  },
+  "priority_confusion_pairs": [
+    "M01/M05",
+    "M02/M03",
+    "M04/M08",
+    "M06/M07"
+  ],
+  "topics": [
+    {
+      "topic_id": "M01",
+      "name": "Data minimization and identifiability reduction",
+      "definition": "A control reduces the amount, sensitivity, identifiability, visibility, or concentration of information collected, derived, processed, displayed, tested, or released.",
+      "inclusion_rule": [
+        "necessity review",
+        "constrained fields, free text, or populations",
+        "segregation",
+        "synthetic test data",
+        "sampling",
+        "masking and redaction",
+        "identifier removal",
+        "aggregation",
+        "limited camera scope",
+        "release suppression"
+      ],
+      "exclusion_rule": [
+        "access restrictions that preserve the same data",
+        "use and recipient rules",
+        "time-triggered deletion",
+        "accuracy correction"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Less data or less identifiable data means M01; fewer people reaching unchanged data means M02; lifecycle-ended deletion means M05.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "M02",
+      "name": "Identity, authentication, and least-privilege access",
+      "definition": "A control verifies identity or authority and limits access, privileges, records, or functions to approved people with a legitimate role or need.",
+      "inclusion_rule": [
+        "identity proofing",
+        "unique credentials",
+        "MFA",
+        "representative verification",
+        "account approval and termination",
+        "RBAC and ABAC",
+        "need-to-know",
+        "least privilege",
+        "separation of duties",
+        "entitlement recertification"
+      ],
+      "exclusion_rule": [
+        "encryption, firewalls, and physical protection",
+        "post-access activity monitoring",
+        "permitted-use and recipient terms",
+        "training"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Who may access what means M02; what an authorized user or recipient may do means M03; observing what a user did means M04.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "M03",
+      "name": "Purpose, use, sharing, and recipient controls",
+      "definition": "Legal, policy, contractual, or procedural rules constrain permissible purposes, recipients, disclosures, onward use, and external-party handling.",
+      "inclusion_rule": [
+        "purpose limitation",
+        "approved-recipient and release rules",
+        "disclosure review",
+        "authority and compatibility checks",
+        "data-use and sharing agreements",
+        "confidentiality and non-redisclosure",
+        "vendor handling obligations",
+        "minimum-necessary disclosure"
+      ],
+      "exclusion_rule": [
+        "authentication and role permissions alone",
+        "encrypted transfer without a handling rule",
+        "general governance and training",
+        "release de-identification"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Who may enter means M02; why, how, or to whom data may be used or sent means M03; transformation of released data means M01.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "M04",
+      "name": "Operational security, physical protection, monitoring, and incident handling",
+      "definition": "Concrete technical, architectural, physical, detective, or response mechanisms protect data and systems in operation and detect, contain, or recover from security events.",
+      "inclusion_rule": [
+        "encryption",
+        "secure channels, VPN, and TLS",
+        "firewalls and segmentation",
+        "hardened hosting",
+        "physical locks, guards, and facilities",
+        "protected backups and recovery",
+        "malware and intrusion defenses",
+        "vulnerability scanning",
+        "event logs and anomaly monitoring",
+        "incident response"
+      ],
+      "exclusion_rule": [
+        "account and role authorization",
+        "formal policy, training, and control assessment",
+        "retention-triggered archives and deletion"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Runtime protection, detection, or response means M04; organizational policy, workforce preparation, or formal assurance means M08.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "M05",
+      "name": "Bounded retention and verified disposition",
+      "definition": "A control establishes, implements, or verifies time- or event-bounded retention, transfer to archives, return, deletion, overwriting, or destruction.",
+      "inclusion_rule": [
+        "approved or interim schedules",
+        "explicit retention periods",
+        "automatic expiry, overwrite, or cache clearing",
+        "periodic need review",
+        "end-of-purpose deletion",
+        "archival transfer",
+        "return or destruction of external copies",
+        "disposition verification"
+      ],
+      "exclusion_rule": [
+        "removal because data was unnecessary at intake",
+        "backup and recovery without lifecycle rules",
+        "duration without a limiting or disposition action"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Unnecessary content removal means M01; elapsed-time, end-of-purpose, or schedule removal means M05.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "M06",
+      "name": "Transparency, contextual notice, and meaningful choice",
+      "definition": "A control informs individuals or the public about collection, use, sharing, and available choices, or enables consent, refusal, opt-out, withdrawal, or valid authorization at the relevant decision point.",
+      "inclusion_rule": [
+        "Privacy Act statements",
+        "PIA and SORN publication used as notice",
+        "sponsorship and third-party boundary notices",
+        "privacy banners",
+        "voluntariness and consequences",
+        "informed consent",
+        "opt-in, opt-out, and withdrawal",
+        "representative release forms"
+      ],
+      "exclusion_rule": [
+        "legal citations or internal policies not communicated to people",
+        "post-collection access and correction",
+        "purpose restriction without notice"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Information and choice before or at collection or use means M06; post-collection inspection, correction, challenge, or remedy means M07.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "M07",
+      "name": "Data quality, individual access, correction, and redress",
+      "definition": "A control prevents or detects substantive record errors or enables a person to inspect, correct, amend, challenge, appeal, or obtain remedy for maintained information or its consequences.",
+      "inclusion_rule": [
+        "authoritative-source checks",
+        "validation rules",
+        "completeness and consistency checks",
+        "provenance and controlled correction",
+        "human anomaly review",
+        "Privacy Act and FOIA access and amendment",
+        "complaint, appeal, and redress",
+        "correction assistance"
+      ],
+      "exclusion_rule": [
+        "authentication unrelated to quality",
+        "operational security monitoring",
+        "general notice of practices"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Access to one's own record and correction means M07; employee access to perform work means M02; pre-use choice means M06.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "M08",
+      "name": "Governance, workforce accountability, and formal assurance",
+      "definition": "Organizational measures establish responsibility, competent handling, enforceable conduct, documented policy, risk and control assurance, and consequences for noncompliance.",
+      "inclusion_rule": [
+        "privacy and security training",
+        "confidentiality briefings",
+        "workforce suitability",
+        "rules of behavior and sanctions",
+        "named owners and approvers",
+        "privacy policy and procedure",
+        "FISMA, NIST, and RMF assessment or authorization",
+        "privacy review",
+        "independent audit",
+        "remediation tracking"
+      ],
+      "exclusion_rule": [
+        "direct runtime security and incident mechanisms",
+        "account and entitlement decisions",
+        "concrete permitted-use and recipient terms",
+        "bare legal citations or bare adequacy claims"
+      ],
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Organizational duty, preparation, oversight, or assurance means M08; direct system protection, logging, alerting, or incident response means M04.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "M_OTHER",
+      "name": "Other substantive mitigation",
+      "definition": "Clear substantive control mechanism outside M01-M08; record a proposed theme.",
+      "inclusion_rule": "Clear substantive control mechanism outside M01-M08; record a proposed theme.",
+      "exclusion_rule": "Use a named substantive topic whenever supported.",
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Clear substantive control mechanism outside M01-M08; record a proposed theme.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "M_UNCLEAR",
+      "name": "Unclear or ambiguous mitigation",
+      "definition": "Genuine mitigation claim but too generic, referential, or evenly multi-mechanism to choose a primary.",
+      "inclusion_rule": "Genuine mitigation claim but too generic, referential, or evenly multi-mechanism to choose a primary.",
+      "exclusion_rule": "Use a named substantive topic whenever supported.",
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "Genuine mitigation claim but too generic, referential, or evenly multi-mechanism to choose a primary.",
+      "example_record_ids": []
+    },
+    {
+      "topic_id": "M_NOISE",
+      "name": "Non-substantive mitigation text",
+      "definition": "No substantive control, including prompt, heading, reference-only passage, bare see-Section-X, bare mitigated or cannot-be-mitigated claim, or extraction artefact.",
+      "inclusion_rule": "No substantive control, including prompt, heading, reference-only passage, bare see-Section-X, bare mitigated or cannot-be-mitigated claim, or extraction artefact.",
+      "exclusion_rule": "Use a named substantive topic whenever supported.",
+      "nearest_competitor": "See tie-break and priority confusion pairs.",
+      "distinction_rule": "No substantive control, including prompt, heading, reference-only passage, bare see-Section-X, bare mitigated or cannot-be-mitigated claim, or extraction artefact.",
+      "example_record_ids": []
+    }
+  ]
+}

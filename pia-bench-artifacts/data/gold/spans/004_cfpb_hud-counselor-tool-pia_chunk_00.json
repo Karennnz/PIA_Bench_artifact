@@ -1,0 +1,164 @@
+{
+  "chunk_id": "004_cfpb_hud-counselor-tool-pia#chunk#00",
+  "doc_id": "004_cfpb_hud-counselor-tool-pia",
+  "agency": "cfpb",
+  "n_sentences": 147,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "null_finding",
+      "sentence_ids": [
+        46
+      ],
+      "text": "The CFPB's use of HUD data and the related tool presents no privacy risks that relate to the purpose of the collection.",
+      "unit_ids": [
+        "004_cfpb_hud-counselor-tool-pia#unit#0009"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that no privacy risks relate to the purpose of collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "null_finding",
+      "sentence_ids": [
+        59
+      ],
+      "text": "The CFPB's use of HUD data and the related tool presents no privacy risks that relate to openness and transparency.",
+      "unit_ids": [
+        "004_cfpb_hud-counselor-tool-pia#unit#0011"
+      ],
+      "section": "2.3 Are there any privacy risks for this system that relate to openness and transparency? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that no privacy risks relate to openness and transparency.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        60
+      ],
+      "text": "The CFPB is publishing this PIA concerning the increased access of the HUD counselor dataset (through the HUD API), and its new CFPB housing counselor locator tool to minimize risk related to openness and transparency .",
+      "unit_ids": [
+        "004_cfpb_hud-counselor-tool-pia#unit#0011"
+      ],
+      "section": "2.3 Are there any privacy risks for this system that relate to openness and transparency? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Publishing the PIA is expressly presented as minimizing openness and transparency risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "null_finding",
+      "sentence_ids": [
+        88
+      ],
+      "text": "The CFPB's use of HUD data and the related tool presents no privacy risks that relate to data minimization.",
+      "unit_ids": [
+        "004_cfpb_hud-counselor-tool-pia#unit#0021"
+      ],
+      "section": "3.9 Are there any privacy risks for this system that relate to data minimization? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that no privacy risks relate to data minimization.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "null_finding",
+      "sentence_ids": [
+        103
+      ],
+      "text": "As this dataset has been and continues to be available to the public without limitation, there is no privacy risk relating to use limitation raised by the CFPB's use of HUD data and the related tool.",
+      "unit_ids": [
+        "004_cfpb_hud-counselor-tool-pia#unit#0026"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly finds no use-limitation privacy risk from the CFPB's use of the publicly available HUD data and tool.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "null_finding",
+      "sentence_ids": [
+        104
+      ],
+      "text": "Likewise, the use of input ZIP codes to evaluate use of the tool raises no privacy risks related to use limitation.",
+      "unit_ids": [
+        "004_cfpb_hud-counselor-tool-pia#unit#0026"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly finds no use-limitation privacy risk from using input ZIP codes to evaluate the tool.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "null_finding",
+      "sentence_ids": [
+        111
+      ],
+      "text": "The CFPB's use of HUD data and the related locator tool presents no privacy risks for this system that relate to data quality and integrity.",
+      "unit_ids": [
+        "004_cfpb_hud-counselor-tool-pia#unit#0029"
+      ],
+      "section": "5.2 Are there any privacy risks for individuals whose i nformation is collected or used by the project that relate to data quality and integrity? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that no privacy risks relate to data quality and integrity.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "null_finding",
+      "sentence_ids": [
+        127
+      ],
+      "text": "The CFPB's use of HUD data and the related locator tool presents no privacy risks for that relate to security.",
+      "unit_ids": [
+        "004_cfpb_hud-counselor-tool-pia#unit#0035"
+      ],
+      "section": "6.5 Are there any privacy risks for this system that relate to security? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that no privacy risks relate to security.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "null_finding",
+      "sentence_ids": [
+        136
+      ],
+      "text": "The CFPB's use of HUD data and the related locator tool presents no privacy risks that relate to individual participation.",
+      "unit_ids": [
+        "004_cfpb_hud-counselor-tool-pia#unit#0039"
+      ],
+      "section": "7.4 Are there any privacy risks for this system that relate to i ndividual participation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that no privacy risks relate to individual participation.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "null_finding",
+      "sentence_ids": [
+        140
+      ],
+      "text": "The CFPB's use of HUD data and the related locator tool presents no privacy risks that relate to awareness and training.",
+      "unit_ids": [
+        "004_cfpb_hud-counselor-tool-pia#unit#0041"
+      ],
+      "section": "8.2 Are there any privacy risks for this system that relate to awareness and training? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that no privacy risks relate to awareness and training.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "null_finding",
+      "sentence_ids": [
+        146
+      ],
+      "text": "The CFPB's use of HUD data and the related locator tool presents no privacy risks that relate to accountability and auditing.",
+      "unit_ids": [
+        "004_cfpb_hud-counselor-tool-pia#unit#0044"
+      ],
+      "section": "9.2 Are there any privacy risks for this system that relate to accountability and auditing? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that no privacy risks relate to accountability and auditing.",
+      "confidence": "high"
+    }
+  ],
+  "links": [],
+  "validation_problems": []
+}

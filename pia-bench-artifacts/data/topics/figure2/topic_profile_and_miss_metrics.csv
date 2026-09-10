@@ -1,0 +1,19 @@
+kind,topic_order,topic_id,topic_label,released_gt_spans,released_gt_denominator,released_gt_share_pct,eligible_single_topic_units,eligible_unit_share_pct,runs_per_unit,eligible_reference_run_pairs,recovered_pairs,missed_pairs,miss_rate_pct,share_of_kind_misses_pct
+risk,1,R01,"Excessive collection, monitoring, or inference",31,451,6.9,15,8.3,30,450,197,253,56.2,8.7
+risk,2,R02,"Unauthorised access and security compromise",112,451,24.8,63,34.8,30,1890,1313,577,30.5,19.9
+risk,3,R03,"Purpose-incompatible use, disclosure, or third-party handling",73,451,16.2,34,18.8,30,1020,420,600,58.8,20.7
+risk,4,R04,"Inaccurate or unreliable data and outputs",23,451,5.1,14,7.7,30,420,117,303,72.1,10.5
+risk,5,R05,"Excessive retention or improper disposal",23,451,5.1,12,6.6,30,360,285,75,20.8,2.6
+risk,6,R06,"Inadequate transparency, consent, or choice",48,451,10.6,21,11.6,30,630,142,488,77.5,16.8
+risk,7,R07,"Barriers to individual access, correction, challenge, or redress",41,451,9.1,22,12.2,30,660,58,602,91.2,20.8
+risk,8,R08,"Weak privacy governance and accountability",4,451,0.9,,,,,,,,
+risk,9,R_OTHER,"Other or non-specific risk text",96,451,21.3,,,,,,,,
+mitigation,1,M01,"Data minimisation, masking, and de-identification",118,831,14.2,22,10.7,30,660,186,474,71.8,11.2
+mitigation,2,M02,"Identity verification and access control",181,831,21.8,55,26.7,30,1650,723,927,56.2,22.0
+mitigation,3,M03,"Purpose limitation and controlled sharing",67,831,8.1,16,7.8,30,480,139,341,71.0,8.1
+mitigation,4,M04,"Technical and physical security, monitoring, and incident response",75,831,9.0,17,8.3,30,510,222,288,56.5,6.8
+mitigation,5,M05,"Retention limits and secure disposal",59,831,7.1,11,5.3,30,330,253,77,23.3,1.8
+mitigation,6,M06,"Privacy notice, consent, and meaningful choice",102,831,12.3,35,17.0,30,1050,152,898,85.5,21.3
+mitigation,7,M07,"Data quality, individual access, and redress",66,831,7.9,24,11.7,30,720,94,626,86.9,14.8
+mitigation,8,M08,"Governance, training, accountability, and assurance",98,831,11.8,26,12.6,30,780,195,585,75.0,13.9
+mitigation,9,M_OTHER,"Other or non-specific control text",65,831,7.8,,,,,,,,

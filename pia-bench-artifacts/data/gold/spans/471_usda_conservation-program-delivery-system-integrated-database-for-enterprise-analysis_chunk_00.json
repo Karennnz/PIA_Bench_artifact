@@ -1,0 +1,284 @@
+{
+  "chunk_id": "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#chunk#00",
+  "doc_id": "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis",
+  "agency": "usda",
+  "n_sentences": 124,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        40
+      ],
+      "text": "The only PII data in the application that poses privacy risks is the minimal amount of PII that is obtained via SCIMS ID (e.g., vendor information) to produce reports for the costing and budgeting of conservation practices.",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0014"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Identifies privacy risks arising from the PII obtained from the source system and used for reporting.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        41
+      ],
+      "text": "This is discussed in the PIA Overview and Section 1.1. Privacy risks are mitigated because access to the information will be limited to appropriate NRCS personnel by the use of the USDA-OCIO-e-Authentication application, which provides access enforcement.",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0014"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly states that privacy risks are mitigated by restricting access through authentication and access enforcement.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        42
+      ],
+      "text": "Please see Section 2.4 and Section 8.6 for further discussion 8.6 for a further discussion of security controls that are in place to mitigate privacy risks.",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0014"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Points to additional security controls that are expressly described as mitigating privacy risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        49
+      ],
+      "text": "This application is in compliance with the Federal Information Security Management Act of 2014 (FISMA), USDA Office of the Chief Information Officer (OCIO) Directives, and U.S. National Institute of Standards and Technology (NIST) Special Publication 800-53, Revision 4 guidance: \u00b7 Access Control (AC) o Awareness and Training (AT) o Audit and Accountability (AU) o Security Assessment and Authorization (CA) o Configuration Management (CM) o Contingency Planning (CP) o Identification and Authentication (IA) o Incident Response (IR) o Maintenance (MA) o Media Protection (MP) o Physical and Environmental Protection (PE) o Planning (PL) o Personnel Security (PS) o Risk Assessment (RA) o System and Services Acquisition (SA) o System and Communication Protection (SC) o System and Information Integrity (SI) NIST 800-53, Appendix J, Revision 4 controls include: \u00b7 Authority and Purpose (AP) o Accountability, Audit, and Risk management (AR) o Data Quality and Integrity (DI) o Data Minimization and Retention (DM) o Individual Participation and Redress (IP) o Security (SE) o Transparency (TR) o Use Limitation (UL) If any residual risks are identified, they will be managed and reported via the FISMA mandated risk assessment processes.",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0019"
+      ],
+      "section": "2.4 Privacy Impact Analysis: Describe any types of controls that may be in place to ensure that information is handled in accordance with the above described uses.",
+      "explanation": "States that identified residual risks will be managed and reported through mandated risk-assessment processes.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        57
+      ],
+      "text": "The risks associated with retaining application-specific information are mitigated by the controls discussed in Sections 1.7 and 2.4 above.",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0023"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Explicitly states that risks associated with retaining application information are mitigated by previously described controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        62
+      ],
+      "text": "IDEA does not 'share' PII with any other internal USDA organization Privacy risks are mitigated by virtue of not sharing information with other internal USDA organizations.",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0027"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Presents the absence of internal sharing as the means by which related privacy risks are mitigated.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        63
+      ],
+      "text": "Any residual risks are mitigated by the controls discussed in Section 2.4 above.",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0027"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "States that residual internal-sharing risks are mitigated by previously described controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        69
+      ],
+      "text": "Any residual risks are mitigated by the virtue of not sharing PII with organizations external to USDA.",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0032"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Presents the absence of external sharing as mitigation for residual privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        70
+      ],
+      "text": "Any residual risks are mitigated by the controls discussed in Section 2.4 above.",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0032"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "States that residual external-sharing risks are mitigated by previously described controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "null_finding",
+      "sentence_ids": [
+        78
+      ],
+      "text": "There is no collection of PII from individual, therefore there are no risks.",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0038"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Explicitly finds no notice-related risk because the application does not collect PII from individuals.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        100
+      ],
+      "text": "Data extracts containing PII are not regularly obtained from the system, therefore privacy risk from this area is limited and addressed through IT Data Extract processes controls.",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0051"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that the limited privacy risk associated with data extracts is addressed through data-extract process controls.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        101
+      ],
+      "text": "Any privacy risks identified in this system are mitigated by the security and privacy safeguards provided in Section 8.5, and by the security controls discussed in Section 2.4 above.",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0051"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly states that system privacy risks are mitigated by specified security and privacy safeguards.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        102
+      ],
+      "text": "Remediation of privacy risks associated with internal/external sharing are addressed in PIA Sections 4 and 5 respectively",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0051"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that remediation for internal and external sharing risks is provided in the corresponding PIA sections.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 14,
+      "type": "null_finding",
+      "sentence_ids": [
+        105
+      ],
+      "text": "No. The project utilizes Agency approved technologies, and these technology choices do not raise privacy concerns",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0054"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so please discuss their implementation.",
+      "explanation": "Explicitly finds that the project's approved technology choices raise no privacy concerns.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "risk",
+      "sentence_ids": [
+        118
+      ],
+      "text": "Privacy risks are nominal.",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0067"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Finds that privacy risks from third-party website or application use are present but nominal.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        119
+      ],
+      "text": "IDEA does not provide access or link to third party applications.",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0067"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explains the nominal third-party risk by noting that the system provides no access or links to third-party applications.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 17,
+      "type": "mitigation",
+      "sentence_ids": [
+        120
+      ],
+      "text": "In addition, the system does not use web measurement and customization technology.",
+      "unit_ids": [
+        "471_usda_conservation-program-delivery-system-integrated-database-for-enterprise-analysis#unit#0067"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explains the nominal technology risk by noting that web measurement and customization technology is not used.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 15,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 17,
+      "risk_span_id": 15,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

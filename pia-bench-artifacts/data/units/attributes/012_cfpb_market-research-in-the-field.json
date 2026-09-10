@@ -1,0 +1,98 @@
+{
+  "document_id": "012_cfpb_market-research-in-the-field",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "012_cfpb_market-research-in-the-field#unit#0000",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "012_cfpb_market-research-in-the-field#unit#0001",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "012_cfpb_market-research-in-the-field#unit#0002",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "012_cfpb_market-research-in-the-field#unit#0003",
+      "attributes": [
+        "purpose"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "012_cfpb_market-research-in-the-field#unit#0004",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "012_cfpb_market-research-in-the-field#unit#0005",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "012_cfpb_market-research-in-the-field#unit#0006",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "012_cfpb_market-research-in-the-field#unit#0007",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "information_types",
+        "operations",
+        "recipients",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "012_cfpb_market-research-in-the-field#unit#0008",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "012_cfpb_market-research-in-the-field#unit#0009",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

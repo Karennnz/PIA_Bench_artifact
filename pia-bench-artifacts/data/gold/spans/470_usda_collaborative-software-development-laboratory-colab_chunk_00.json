@@ -1,0 +1,261 @@
+{
+  "chunk_id": "470_usda_collaborative-software-development-laboratory-colab#chunk#00",
+  "doc_id": "470_usda_collaborative-software-development-laboratory-colab",
+  "agency": "usda",
+  "n_sentences": 142,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "null_finding",
+      "sentence_ids": [
+        39
+      ],
+      "text": "Data extracts containing PII are not obtained from the system, therefore, there is no privacy risk from this area.",
+      "unit_ids": [
+        "470_usda_collaborative-software-development-laboratory-colab#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly finds no privacy risk arising from PII data extracts.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        40
+      ],
+      "text": "Any privacy risks identified in this system are mitigated by the security and privacy safeguards provided in Section 8.5, and by the security controls discussed in Section 2.4. Remediation of privacy risks associated with internal/external sharing are addressed in PIA Sections 4 and 5 respectively.",
+      "unit_ids": [
+        "470_usda_collaborative-software-development-laboratory-colab#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that identified privacy risks are addressed through specified safeguards, controls, and sharing-related remediation.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        56
+      ],
+      "text": "Primary risk is that a data breach could result in the inappropriate release of PII Information related to CoLab user(s).",
+      "unit_ids": [
+        "470_usda_collaborative-software-development-laboratory-colab#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Identifies the possibility that a data breach could inappropriately release users' PII.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        57
+      ],
+      "text": "This is mitigated by limited access to the data, non-portability of the data and controlled storage of the data on Gov't equipment located only at Gov't facilities.",
+      "unit_ids": [
+        "470_usda_collaborative-software-development-laboratory-colab#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Directly responds to the breach risk with limited access, non-portability, and controlled government storage.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        59
+      ],
+      "text": "The risks associated with retaining application-specific information are mitigated by the controls discussed above.",
+      "unit_ids": [
+        "470_usda_collaborative-software-development-laboratory-colab#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that controls described earlier mitigate risks from retaining application-specific information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        65
+      ],
+      "text": "Privacy risks are mitigated by virtue of NOT sharing information",
+      "unit_ids": [
+        "470_usda_collaborative-software-development-laboratory-colab#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Presents the absence of internal sharing as the means of mitigating sharing risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        72
+      ],
+      "text": "Privacy risks are mitigated by virtue of NOT sharing information.",
+      "unit_ids": [
+        "470_usda_collaborative-software-development-laboratory-colab#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Presents the absence of external sharing as the means of mitigating sharing risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "null_finding",
+      "sentence_ids": [
+        82
+      ],
+      "text": "There is no risk that an individual would be unaware of \"collection,\" because no PII is solicited from any individual user by this application.",
+      "unit_ids": [
+        "470_usda_collaborative-software-development-laboratory-colab#unit#0037"
+      ],
+      "section": "6.5 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Explicitly finds no risk that individuals would be unaware of collection.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "null_finding",
+      "sentence_ids": [
+        90
+      ],
+      "text": "There are no privacy risks specifically associated with the \"redress\" process for this application.",
+      "unit_ids": [
+        "470_usda_collaborative-software-development-laboratory-colab#unit#0043"
+      ],
+      "section": "Laboratory (CoLab) System",
+      "explanation": "Explicitly finds no privacy risks associated with the redress process.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "null_finding",
+      "sentence_ids": [
+        91
+      ],
+      "text": "There is no risk that an individual would be unaware of \"redress\" that is available.",
+      "unit_ids": [
+        "470_usda_collaborative-software-development-laboratory-colab#unit#0043"
+      ],
+      "section": "Laboratory (CoLab) System",
+      "explanation": "Explicitly finds no risk that individuals would be unaware of available redress.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "null_finding",
+      "sentence_ids": [
+        117
+      ],
+      "text": "Data extracts containing PII are not obtained from the system, therefore, there is no privacy risk from this area.",
+      "unit_ids": [
+        "470_usda_collaborative-software-development-laboratory-colab#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly finds no privacy risk arising from PII data extracts.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        118
+      ],
+      "text": "Any privacy risks identified in this system are mitigated by the security and privacy safeguards provided in Section 8.5, and by the security controls discussed in Section 2.4 above.",
+      "unit_ids": [
+        "470_usda_collaborative-software-development-laboratory-colab#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that identified privacy risks are mitigated through specified security and privacy safeguards and controls.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        119
+      ],
+      "text": "Remediation of privacy risks associated with internal/external sharing are addressed in PIA Sections 4 and 5 respectively.",
+      "unit_ids": [
+        "470_usda_collaborative-software-development-laboratory-colab#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that remediation for internal and external sharing risks is provided in designated PIA sections.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 14,
+      "type": "null_finding",
+      "sentence_ids": [
+        123
+      ],
+      "text": "No, the project utilizes Agency approved technologies, and these technology choices do not raise privacy concerns.",
+      "unit_ids": [
+        "470_usda_collaborative-software-development-laboratory-colab#unit#0053"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so please discuss their implementation.",
+      "explanation": "Explicitly finds that the selected technologies do not raise privacy concerns.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "risk",
+      "sentence_ids": [
+        136
+      ],
+      "text": "Privacy risks are nominal.",
+      "unit_ids": [
+        "470_usda_collaborative-software-development-laboratory-colab#unit#0066"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Acknowledges that privacy risks exist, while assessing them as nominal.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        137,
+        138
+      ],
+      "text": "CoLab does not provide access or link to Third Party Applications. In addition, the system does not use web measurement or customization technology.",
+      "unit_ids": [
+        "470_usda_collaborative-software-development-laboratory-colab#unit#0066"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explains that third-party access and privacy-impacting web technologies are not used, addressing the nominal risks identified for this area.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 3,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 3,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 15,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

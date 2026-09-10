@@ -1,0 +1,194 @@
+{
+  "chunk_id": "480_usda_farm-loan-delivery-and-credit-analysis-system-fld-cas#chunk#00",
+  "doc_id": "480_usda_farm-loan-delivery-and-credit-analysis-system-fld-cas",
+  "agency": "usda",
+  "n_sentences": 118,
+  "spans": [
+    {
+      "span_id": 0,
+      "type": "mitigation",
+      "sentence_ids": [
+        30
+      ],
+      "text": "| Applications | Privacy risks and how mitigated. | |-----------------|----------------------------------------------------------------------------------------------------------------| | DLS, eDALR$ FBP | The controls that have been implemented, inherited, compensated, tested, satisfied and continuously monitored. |",
+      "unit_ids": [
+        "480_usda_farm-loan-delivery-and-credit-analysis-system-fld-cas#unit#0016"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Controls are expressly presented in the privacy-impact analysis as managing identified privacy risks, although the associated risk is not stated.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        44
+      ],
+      "text": "When records have reached their retention period, they are immediately retired or destroyed in accordance with the USDA Record Retention policies and procedures.",
+      "unit_ids": [
+        "480_usda_farm-loan-delivery-and-credit-analysis-system-fld-cas#unit#0026"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Timely retirement or destruction under records-management procedures limits retention-related exposure.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "risk",
+      "sentence_ids": [
+        45
+      ],
+      "text": "During this period, the stored information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability. |",
+      "unit_ids": [
+        "480_usda_farm-loan-delivery-and-credit-analysis-system-fld-cas#unit#0026"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Identifies unauthorized viewing, data loss or destruction, and unavailability during the retention period.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        46
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "480_usda_farm-loan-delivery-and-credit-analysis-system-fld-cas#unit#0027"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Access-control software, physical controls, and password protection address unauthorized viewing of retained files.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        70
+      ],
+      "text": "| Applications | Notice to individuals and unawareness risk mitigation. | |----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | DLS eDALR$ FBP | The risk is considered moderate.",
+      "unit_ids": [
+        "480_usda_farm-loan-delivery-and-credit-analysis-system-fld-cas#unit#0043"
+      ],
+      "section": "6.4 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "Rates the risk that individuals may be unaware of the collection as moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        71
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower. |",
+      "unit_ids": [
+        "480_usda_farm-loan-delivery-and-credit-analysis-system-fld-cas#unit#0043"
+      ],
+      "section": "6.4 Privacy Impact Analysis: Describe how notice is provided to individuals, and how the risks associated with individuals being unaware of the collection are mitigated.",
+      "explanation": "System-of-records notices provide notification to address the unawareness risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "risk",
+      "sentence_ids": [
+        79
+      ],
+      "text": "| Applications | Privacy risks associated with redress and risk mitigation. | |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | DLS eDALR$ FBP | The risk associated with redress is considered low, as the public does not have access to the system or the data.",
+      "unit_ids": [
+        "480_usda_farm-loan-delivery-and-credit-analysis-system-fld-cas#unit#0049"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Identifies and rates the privacy risk associated with available redress.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        80,
+        81
+      ],
+      "text": "While the public cannot access the system to update or change their personal information, they may update their information using from AD 2530 and submit to the appropriate FSA official. The FSA official will in turn update the system based on the information provided.",
+      "unit_ids": [
+        "480_usda_farm-loan-delivery-and-credit-analysis-system-fld-cas#unit#0049"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Provides an alternative process for individuals to submit corrections that officials then enter into the system.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        95,
+        96
+      ],
+      "text": "| Applications | Privacy risks identified and risk mitigation. | |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | DLS eDALR$ FBP | The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "480_usda_farm-loan-delivery-and-credit-analysis-system-fld-cas#unit#0059"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies unauthorized access to privacy information as the main privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        97,
+        98,
+        99
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM. Quarterly access reviews are done to ensure controls are mitigated. |",
+      "unit_ids": [
+        "480_usda_farm-loan-delivery-and-credit-analysis-system-fld-cas#unit#0059"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Mitigating controls, control documentation, and quarterly access reviews are expressly presented as minimizing the unauthorized-access risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "null_finding",
+      "sentence_ids": [
+        102
+      ],
+      "text": "| Applications | Technology privacy risks. | |----------------|-----------------------------| | DLS eDALR$ FBP | No |",
+      "unit_ids": [
+        "480_usda_farm-loan-delivery-and-credit-analysis-system-fld-cas#unit#0062"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns?  If so please discuss their implementation.",
+      "explanation": "Explicitly states that the employed technology does not raise privacy concerns.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 1,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 2,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 6,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 8,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

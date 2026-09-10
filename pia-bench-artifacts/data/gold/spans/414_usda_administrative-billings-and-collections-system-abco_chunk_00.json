@@ -1,0 +1,110 @@
+{
+  "chunk_id": "414_usda_administrative-billings-and-collections-system-abco#chunk#00",
+  "doc_id": "414_usda_administrative-billings-and-collections-system-abco",
+  "agency": "usda",
+  "n_sentences": 135,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        26
+      ],
+      "text": "NFC complies with the National Institute of Standards and Technology (NIST) and the Federal Information Security Management Act (FISMA), to ensure that data is protected from unauthorized access, malicious or inadvertent modification, disclosure, and disruption.",
+      "unit_ids": [
+        "414_usda_administrative-billings-and-collections-system-abco#unit#0012"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Compliance measures are expressly used to protect data against unauthorized access, alteration, disclosure, and disruption.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        27
+      ],
+      "text": "NFC also works diligently to secure Personally Identifiable Information (PII) by requiring adequate training of employees and contractors that have access to the data.",
+      "unit_ids": [
+        "414_usda_administrative-billings-and-collections-system-abco#unit#0012"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Required workforce training is presented as a means of securing personally identifiable information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        49
+      ],
+      "text": "Risks are mitigated via controls identified in para 2.4 above.",
+      "unit_ids": [
+        "414_usda_administrative-billings-and-collections-system-abco#unit#0021"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "The agency explicitly states that retention-related risks are mitigated by previously identified controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "null_finding",
+      "sentence_ids": [
+        64
+      ],
+      "text": "There is no risk of other agency data being accessed by an unauthorized user.",
+      "unit_ids": [
+        "414_usda_administrative-billings-and-collections-system-abco#unit#0025"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "The agency explicitly finds no risk of unauthorized access to another agency's data.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        80,
+        81
+      ],
+      "text": "Only authorized agency users can access information under the \"need-to-know\" policies. The proper controls are in place to protect the data and prevent unauthorized access.",
+      "unit_ids": [
+        "414_usda_administrative-billings-and-collections-system-abco#unit#0030"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Need-to-know restrictions and protective controls are presented as preventing unauthorized access in the external-sharing context.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        97,
+        98
+      ],
+      "text": "It is the responsibility of the agency to ensure that personnel with access to correct data on individuals have the proper clearances, position sensitivity designations, and appropriate system access to file data. NFC access control procedures, role based security of the application, and agency reporting of authorized user access and utilization aid agency officials to mitigate the risks of improper access.",
+      "unit_ids": [
+        "414_usda_administrative-billings-and-collections-system-abco#unit#0040"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Personnel authorization requirements and role-based access procedures are expressly presented as mitigating improper-access risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "null_finding",
+      "sentence_ids": [
+        112
+      ],
+      "text": "No. ABCO is an established mainframe application with no web component.",
+      "unit_ids": [
+        "414_usda_administrative-billings-and-collections-system-abco#unit#0050"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so please discuss their implementation.",
+      "explanation": "The agency explicitly states that the system does not use technology raising privacy concerns.",
+      "confidence": "high"
+    }
+  ],
+  "links": [],
+  "validation_problems": []
+}

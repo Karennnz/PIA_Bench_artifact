@@ -1,0 +1,56 @@
+agency,denominator,topic_id,topic_name,n,percent
+cfpb,47,S01,"Public information, outreach, and service intake",8,17.02
+cfpb,47,S02,"Research, analytics, reporting, and data publication",8,17.02
+cfpb,47,S03,"Regulatory, oversight, investigation, and case administration",21,44.68
+cfpb,47,S04,"Benefits, loans, grants, and public-program delivery",1,2.13
+cfpb,47,S05,"Internal finance, workforce, and administrative operations",1,2.13
+cfpb,47,S06,"Identity, access, protective security, and safety monitoring",2,4.26
+cfpb,47,S07,"Records, content, correspondence, and collaboration management",0,0.00
+cfpb,47,S08,"Shared IT platforms, application hosting, and software delivery",6,12.77
+cfpb,47,S_OTHER,Other system function,0,0.00
+cfpb,47,S_UNCLEAR,Unclear system function,0,0.00
+cfpb,47,S_NOISE,No usable system description,0,0.00
+gsa,66,S01,"Public information, outreach, and service intake",9,13.64
+gsa,66,S02,"Research, analytics, reporting, and data publication",4,6.06
+gsa,66,S03,"Regulatory, oversight, investigation, and case administration",8,12.12
+gsa,66,S04,"Benefits, loans, grants, and public-program delivery",0,0.00
+gsa,66,S05,"Internal finance, workforce, and administrative operations",28,42.42
+gsa,66,S06,"Identity, access, protective security, and safety monitoring",7,10.61
+gsa,66,S07,"Records, content, correspondence, and collaboration management",3,4.55
+gsa,66,S08,"Shared IT platforms, application hosting, and software delivery",2,3.03
+gsa,66,S_OTHER,Other system function,5,7.58
+gsa,66,S_UNCLEAR,Unclear system function,0,0.00
+gsa,66,S_NOISE,No usable system description,0,0.00
+hhs,200,S01,"Public information, outreach, and service intake",21,10.50
+hhs,200,S02,"Research, analytics, reporting, and data publication",56,28.00
+hhs,200,S03,"Regulatory, oversight, investigation, and case administration",37,18.50
+hhs,200,S04,"Benefits, loans, grants, and public-program delivery",39,19.50
+hhs,200,S05,"Internal finance, workforce, and administrative operations",10,5.00
+hhs,200,S06,"Identity, access, protective security, and safety monitoring",5,2.50
+hhs,200,S07,"Records, content, correspondence, and collaboration management",10,5.00
+hhs,200,S08,"Shared IT platforms, application hosting, and software delivery",19,9.50
+hhs,200,S_OTHER,Other system function,3,1.50
+hhs,200,S_UNCLEAR,Unclear system function,0,0.00
+hhs,200,S_NOISE,No usable system description,0,0.00
+opm,99,S01,"Public information, outreach, and service intake",1,1.01
+opm,99,S02,"Research, analytics, reporting, and data publication",11,11.11
+opm,99,S03,"Regulatory, oversight, investigation, and case administration",22,22.22
+opm,99,S04,"Benefits, loans, grants, and public-program delivery",16,16.16
+opm,99,S05,"Internal finance, workforce, and administrative operations",32,32.32
+opm,99,S06,"Identity, access, protective security, and safety monitoring",5,5.05
+opm,99,S07,"Records, content, correspondence, and collaboration management",3,3.03
+opm,99,S08,"Shared IT platforms, application hosting, and software delivery",2,2.02
+opm,99,S_OTHER,Other system function,0,0.00
+opm,99,S_UNCLEAR,Unclear system function,6,6.06
+opm,99,S_NOISE,No usable system description,1,1.01
+usda,87,S01,"Public information, outreach, and service intake",3,3.45
+usda,87,S02,"Research, analytics, reporting, and data publication",5,5.75
+usda,87,S03,"Regulatory, oversight, investigation, and case administration",9,10.34
+usda,87,S04,"Benefits, loans, grants, and public-program delivery",22,25.29
+usda,87,S05,"Internal finance, workforce, and administrative operations",22,25.29
+usda,87,S06,"Identity, access, protective security, and safety monitoring",8,9.20
+usda,87,S07,"Records, content, correspondence, and collaboration management",8,9.20
+usda,87,S08,"Shared IT platforms, application hosting, and software delivery",8,9.20
+usda,87,S_OTHER,Other system function,1,1.15
+usda,87,S_UNCLEAR,Unclear system function,1,1.15
+usda,87,S_NOISE,No usable system description,0,0.00

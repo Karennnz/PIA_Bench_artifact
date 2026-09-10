@@ -1,0 +1,184 @@
+{
+  "chunk_id": "006_cfpb_republication-of-the-home-mortgage-disclosure-act-public-use-dataset-pia#chunk#00",
+  "doc_id": "006_cfpb_republication-of-the-home-mortgage-disclosure-act-public-use-dataset-pia",
+  "agency": "cfpb",
+  "n_sentences": 129,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        12
+      ],
+      "text": "The Dataset includes information that, when combined with or linked to other publicly available information, may become identifiable.",
+      "unit_ids": [
+        "006_cfpb_republication-of-the-home-mortgage-disclosure-act-public-use-dataset-pia#unit#0002"
+      ],
+      "section": "DOCUMENT PURPOSE",
+      "explanation": "States that dataset information may become identifiable when linked with other public information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        13
+      ],
+      "text": "However, the CFPB does not use the Dataset to identify individuals.",
+      "unit_ids": [
+        "006_cfpb_republication-of-the-home-mortgage-disclosure-act-public-use-dataset-pia#unit#0002"
+      ],
+      "section": "DOCUMENT PURPOSE",
+      "explanation": "States, in direct response to the identifiability concern, that the CFPB does not use the dataset to identify individuals.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 3,
+      "type": "null_finding",
+      "sentence_ids": [
+        42
+      ],
+      "text": "The CFPB does not believe that this republication of the Dataset presents any new privacy risks.",
+      "unit_ids": [
+        "006_cfpb_republication-of-the-home-mortgage-disclosure-act-public-use-dataset-pia#unit#0009"
+      ],
+      "section": "1.6 Are there any privacy risks for this system that relate to the purpose of the collection? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly finds that republication creates no new privacy risks concerning collection purpose.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "null_finding",
+      "sentence_ids": [
+        50
+      ],
+      "text": "Republication of the HMDA Public Use Dataset presents no new privacy risks for this system that relate to openness and transparency.",
+      "unit_ids": [
+        "006_cfpb_republication-of-the-home-mortgage-disclosure-act-public-use-dataset-pia#unit#0013"
+      ],
+      "section": "2.3 Are there any privacy risks for this system that relate to openness, and transparency? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly finds no new privacy risks related to openness and transparency.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        51
+      ],
+      "text": "The CFPB is publishing this PIA concerning the republication of the Dataset on consumerfinance.gov to minimize risk related to openness and transparency.",
+      "unit_ids": [
+        "006_cfpb_republication-of-the-home-mortgage-disclosure-act-public-use-dataset-pia#unit#0013"
+      ],
+      "section": "2.3 Are there any privacy risks for this system that relate to openness, and transparency? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly states that publishing the PIA is intended to minimize openness and transparency risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "null_finding",
+      "sentence_ids": [
+        73
+      ],
+      "text": "There is no privacy risk relating to data minimization raised by the republication of a publicly available dataset on consumerfinance.gov.",
+      "unit_ids": [
+        "006_cfpb_republication-of-the-home-mortgage-disclosure-act-public-use-dataset-pia#unit#0023"
+      ],
+      "section": "3.9 Are there any privacy risks for this system that relate to data minimization? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly finds no privacy risk related to data minimization.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "null_finding",
+      "sentence_ids": [
+        87
+      ],
+      "text": "As the HMDA Public Use Dataset has been and continues to be available to the public without limitation on the FFIEC website, there is no new privacy risk relating to use limitation raised by the republication of the Dataset on consumerfinance.gov.",
+      "unit_ids": [
+        "006_cfpb_republication-of-the-home-mortgage-disclosure-act-public-use-dataset-pia#unit#0029"
+      ],
+      "section": "4.5 Are there any privacy risks for this project that relate to use limitation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly finds no new privacy risk related to use limitation.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "null_finding",
+      "sentence_ids": [
+        90
+      ],
+      "text": "Republication of the Dataset presents no new privacy risk related to data quality and integrity.",
+      "unit_ids": [
+        "006_cfpb_republication-of-the-home-mortgage-disclosure-act-public-use-dataset-pia#unit#0032"
+      ],
+      "section": "5.2 Are there any privacy risks for individuals whose information is collected or used by the project that relate to data quality and integrity? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly finds no new privacy risk related to data quality and integrity.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "null_finding",
+      "sentence_ids": [
+        105
+      ],
+      "text": "Republication of the Dataset presents no new privacy risks that relate to security.",
+      "unit_ids": [
+        "006_cfpb_republication-of-the-home-mortgage-disclosure-act-public-use-dataset-pia#unit#0038"
+      ],
+      "section": "6.5 Are there any privacy risks for this system that relate to security? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly finds no new privacy risks related to security.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "null_finding",
+      "sentence_ids": [
+        119
+      ],
+      "text": "Republication of the Dataset presents no new privacy risks that relate to individual participation.",
+      "unit_ids": [
+        "006_cfpb_republication-of-the-home-mortgage-disclosure-act-public-use-dataset-pia#unit#0043"
+      ],
+      "section": "7.4 Are there any privacy risks for this system that relate to individual participation? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly finds no new privacy risks related to individual participation.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "null_finding",
+      "sentence_ids": [
+        122
+      ],
+      "text": "There are no privacy risks that relate to awareness and training.",
+      "unit_ids": [
+        "006_cfpb_republication-of-the-home-mortgage-disclosure-act-public-use-dataset-pia#unit#0046"
+      ],
+      "section": "8.2 Are there any privacy risks for this system that relate to awareness and training? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly finds no privacy risks related to awareness and training.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "null_finding",
+      "sentence_ids": [
+        128
+      ],
+      "text": "There are no privacy risks that relate to accountability and auditing.",
+      "unit_ids": [
+        "006_cfpb_republication-of-the-home-mortgage-disclosure-act-public-use-dataset-pia#unit#0049"
+      ],
+      "section": "9.2 Are there any privacy risks for this system that relate to accountability and auditing? If so, how will the CFPB mitigate these risks?",
+      "explanation": "Explicitly finds no privacy risks related to accountability and auditing.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

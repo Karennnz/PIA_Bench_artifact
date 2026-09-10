@@ -1,0 +1,315 @@
+{
+  "chunk_id": "043_cfpb_geographic-information-system-pia#chunk#00",
+  "doc_id": "043_cfpb_geographic-information-system-pia",
+  "agency": "cfpb",
+  "n_sentences": 212,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        59
+      ],
+      "text": "Privacy Risk : Since the GIS technology is not the initial point of collection for the data required to perform spatial analytics work, there is a risk that the data may be inaccurate, which would affect the integrity of the output.",
+      "unit_ids": [
+        "043_cfpb_geographic-information-system-pia#unit#0007"
+      ],
+      "section": "Privacy Impact Analysis: Related to Characterization of the Information.",
+      "explanation": "Identifies the possibility that source data may be inaccurate and compromise output integrity.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        60,
+        61,
+        62
+      ],
+      "text": "Mitigation : This risk is mitigated by utilizing information from authoritative source systems. These systems have controls such as automated quality assurance/quality control processes and auditing to ensure that data remains current and accurate to the greatest extent possible. Additionally, data that come from financial institutions directly are certified to be accurate by the financial institutions under penalty of law.",
+      "unit_ids": [
+        "043_cfpb_geographic-information-system-pia#unit#0007"
+      ],
+      "section": "Privacy Impact Analysis: Related to Characterization of the Information.",
+      "explanation": "Uses authoritative sources, quality controls, audits, and data-provider certification to manage accuracy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        83
+      ],
+      "text": "Privacy Risk : There is a risk that information maintained in the GIS technology may be retained longer than necessary to accomplish the purpose for which it was originally collected.",
+      "unit_ids": [
+        "043_cfpb_geographic-information-system-pia#unit#0009"
+      ],
+      "section": "Privacy Impact Analysis: Related to Limits on Information Collection and Retention",
+      "explanation": "Identifies the possibility that information may be retained longer than necessary.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        84,
+        85,
+        86
+      ],
+      "text": "Mitigation : Data used within the GIS technology is considered transitory. Program specific record schedules outline the retention period for the data used for input and the resulting output. This risk is further mitigated by documented internal processes that require the deletion of PII and/or sensitive intermediate data within one week after the final output is processed.",
+      "unit_ids": [
+        "043_cfpb_geographic-information-system-pia#unit#0009"
+      ],
+      "section": "Privacy Impact Analysis: Related to Limits on Information Collection and Retention",
+      "explanation": "Applies transitory-data treatment, retention schedules, and prompt deletion requirements to limit retention.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        87
+      ],
+      "text": "Privacy Risk : There is a risk that the GIS technology collect more information than is necessary for the purpose of spatial analysis.",
+      "unit_ids": [
+        "043_cfpb_geographic-information-system-pia#unit#0009"
+      ],
+      "section": "Privacy Impact Analysis: Related to Limits on Information Collection and Retention",
+      "explanation": "Identifies the possibility that more information than necessary may be collected for analysis.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        88,
+        89,
+        90,
+        91
+      ],
+      "text": "Mitigation : To mitigate this risk, the CFPB has established technical controls and privacy safeguards to ensure only a limited amount of information is entered into the GIS technology. For instance, users are provided a guidance document that covers the principle of using the least amount of data required for analysis. Additionally, the GIS technology is not used for direct data collection at the CFPB. It only leverages the data already collected by various CFPB programs which allows program offices to be deliberate about the inputs needed to obtain the desired output.",
+      "unit_ids": [
+        "043_cfpb_geographic-information-system-pia#unit#0009"
+      ],
+      "section": "Privacy Impact Analysis: Related to Limits on Information Collection and Retention",
+      "explanation": "Uses technical controls, privacy safeguards, data-minimization guidance, and deliberate selection of existing data inputs.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "risk",
+      "sentence_ids": [
+        110
+      ],
+      "text": "Privacy Risk : There is a risk that information may be shared with individuals who do not have a need to know and used in a manner that is inconsistent with the purpose for which it was originally collected.",
+      "unit_ids": [
+        "043_cfpb_geographic-information-system-pia#unit#0012"
+      ],
+      "section": "Privacy Impact Analysis: Related to Uses of Information",
+      "explanation": "Identifies unauthorized sharing and use inconsistent with the original collection purpose.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122
+      ],
+      "text": "Mitigation : This risk is mitigated by users having restricted access to certain data sets. Access to information, such as HMDA data, requires authorization and a legitimate need to know prior to being granted access. Each program office has a GIS owner who must sign off on users who require access. The access and use of data must be consistent with the authority that governs the program. User output is placed into a private folder where only the user and administrators have access. If another user attempts to access others' private folder, an error message pops up and access is denied. In the Enterprise instance, user groups and permissions are assigned by administrators to ensure that only individuals with a need to know have access to groups and the data being shared. Additionally, all CFPB Staff with access to CFPB systems, such as the GIS technology, must sign the CFPB 'Acceptable Use of CFPB Information Technology Resources' policy. This policy establishes the user's responsibilities and the requirements to safeguard information technology resources and information. This includes protecting PII and other sensitive or confidential information. Finally, all CFPB Staff are required to complete privacy training when they initially onboard and on an annual basis thereafter. CFPB privacy training stresses the importance of appropriate and authorized use of personal information in government information systems.",
+      "unit_ids": [
+        "043_cfpb_geographic-information-system-pia#unit#0012"
+      ],
+      "section": "Privacy Impact Analysis: Related to Uses of Information",
+      "explanation": "Restricts access based on authorization and need to know, enforces private storage and permissions, and requires acceptable-use commitments and privacy training.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        138
+      ],
+      "text": "7 https://www.consumerfinance.gov/foia-requests/submit-request/ 8 eCFR 12 CFR Part 1070 - Disclosure of Records and Information Privacy Risk : There is a risk that individuals whose information used in GIS technology do not have an opportunity to opt out or participate in the collection of their information used in the GIS technology.",
+      "unit_ids": [
+        "043_cfpb_geographic-information-system-pia#unit#0016"
+      ],
+      "section": "Privacy Impact Analysis: Related to Individual Notice and Participation",
+      "explanation": "Identifies the lack of an opportunity for individuals to opt out of or participate in use of their information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        139,
+        140,
+        141
+      ],
+      "text": "Mitigation : The information used in GIS technology is uploaded from existing CFPB datasets and not collected directly from individuals. Therefore, individuals do not have the opportunity to opt out or opt in to participate in the GIS tool's use of their information. This risk is mitigated by notice being provided, where applicable, at the original point of collection by the respective program offices.",
+      "unit_ids": [
+        "043_cfpb_geographic-information-system-pia#unit#0016"
+      ],
+      "section": "Privacy Impact Analysis: Related to Individual Notice and Participation",
+      "explanation": "Addresses participation limitations by explaining the indirect data source and providing notice at the original point of collection where applicable.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "risk",
+      "sentence_ids": [
+        149
+      ],
+      "text": "Privacy Impact Analysis: Related to External Sharing and Disclosure of Information Privacy Risk : There is a risk that information may be shared in a manner that is inconsistent with the original collection or that may identify individuals.",
+      "unit_ids": [
+        "043_cfpb_geographic-information-system-pia#unit#0018"
+      ],
+      "section": "5.2 Does the CFPB place limitations on information sharing and/or redissemination of the information?",
+      "explanation": "Identifies the possibilities of externally sharing information inconsistently with its original purpose or identifying individuals.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "mitigation",
+      "sentence_ids": [
+        151,
+        152,
+        153,
+        154,
+        155
+      ],
+      "text": "Mitigation : Data is not stored within the GIS vendor environment. It is stored on CFPB servers which sit behind the Bureau's firewall and have a baseline of controls to ensure the security of the data. The CFPB controls the installation, patches, and updates to the technology. Further, the GIS vendor does not have access to the data. These measures ensure that the CFPB is in full control of the data and can prevent the external sharing or exposure of the data.",
+      "unit_ids": [
+        "043_cfpb_geographic-information-system-pia#unit#0018"
+      ],
+      "section": "5.2 Does the CFPB place limitations on information sharing and/or redissemination of the information?",
+      "explanation": "Keeps data under CFPB control and inaccessible to the vendor to prevent external sharing or exposure.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        156,
+        157
+      ],
+      "text": "The risk of re-identification of individuals is mitigated by data only being shared in aggregate. Published datasets, such as HMDA or eventually SBL, are subject to further analyses to understand re-identification risk and implement mitigations such as data redaction.",
+      "unit_ids": [
+        "043_cfpb_geographic-information-system-pia#unit#0018"
+      ],
+      "section": "5.2 Does the CFPB place limitations on information sharing and/or redissemination of the information?",
+      "explanation": "Reduces re-identification risk through aggregate sharing, risk analysis, and measures such as redaction.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "risk",
+      "sentence_ids": [
+        192
+      ],
+      "text": "Privacy Risk : There is a risk that unauthorized CFPB Staff may access the GIS technology or associated output.",
+      "unit_ids": [
+        "043_cfpb_geographic-information-system-pia#unit#0022"
+      ],
+      "section": "Privacy  Impact  Analysis:  Related  to  Accountability,  Auditing,  and Security",
+      "explanation": "Identifies the possibility that unauthorized personnel may access the technology or its outputs.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        193,
+        194,
+        195,
+        196
+      ],
+      "text": "Mitigation : To mitigate this risk, the CFPB has implemented the above technical, physical, and administrative controls to safeguard PII and other sensitive information used in and derived from the GIS technology. For example, access to the GIS technology is limited to CFPB Staff who have a need to know the information in the performance of their duties. CFPB Staff that require elevated privileges to complete their job functions must sign and electronically submit the Privileged User Access (PUA) Form to the CFPB ServiceDesk to obtain elevated access to the GIS technology and review and acknowledge the Rules of Behavior for Privileged Users . Additionally, PIV+PIN authentication and authorization is enforced on the Enterprise GIS technology deployment.",
+      "unit_ids": [
+        "043_cfpb_geographic-information-system-pia#unit#0022"
+      ],
+      "section": "Privacy  Impact  Analysis:  Related  to  Accountability,  Auditing,  and Security",
+      "explanation": "Uses need-to-know restrictions, privileged-access procedures, and strong authentication to prevent unauthorized access.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206
+      ],
+      "text": "In addition, the CFPB has established oversight controls through robust auditing features to identify and support accountability for unauthorized use/misconduct. CFPB's 'Information Governance' Policy 17 outlines the established rules on the intake, management, disclosure, and disposition of information (in its various formats) at CFPB and applies to all CFPB users. CFPB Staff are required to review and sign the CFPB's 'Acceptable Use of CFPB Technology Resources Policy' 18 and complete the privacy and security training, and annually thereafter, before access is granted to a CFPB system. Suspicious and/or unauthorized access is monitored and logged, thereby discouraging users from inappropriate access to CFPB systems. Security administrators are notified of unusual behavior (e.g., disablement of security, login times, number of login attempts, failed login attempts) or misconduct (e.g., unauthorized removal of data) by authorized users. For example, the CFPB employs extract logging and 90-day reviews to identify user behavior and staff actions around particular events, such as changes in the information or data, warnings, or errors that are unexpected, which are reviewed in relation to their job roles and workflow. If the system administrator notices that anyone has used a system or application in violation of CFPB policy, system access may be revoked. If there is evidence of potential misconduct, the incident may be referred to the appropriate CFPB office for investigation and further review and appropriate action.",
+      "unit_ids": [
+        "043_cfpb_geographic-information-system-pia#unit#0022"
+      ],
+      "section": "Privacy  Impact  Analysis:  Related  to  Accountability,  Auditing,  and Security",
+      "explanation": "Uses governance rules, training, monitoring, audit reviews, access revocation, and investigation to detect and respond to unauthorized use.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 8,
+      "risk_span_id": 7,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 12,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 11,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 14,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 16,
+      "risk_span_id": 14,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

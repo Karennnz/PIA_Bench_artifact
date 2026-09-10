@@ -1,0 +1,246 @@
+{
+  "chunk_id": "477_usda_farm-business-plan-fbp-web-equity-manager-fbp#chunk#00",
+  "doc_id": "477_usda_farm-business-plan-fbp-web-equity-manager-fbp",
+  "agency": "usda",
+  "n_sentences": 122,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "mitigation",
+      "sentence_ids": [
+        28
+      ],
+      "text": "The controls that have been implemented, inherited, compensated, tested, satisfied and continuously monitored.",
+      "unit_ids": [
+        "477_usda_farm-business-plan-fbp-web-equity-manager-fbp#unit#0015"
+      ],
+      "section": "1.6 What specific legal authorities, arrangements and/or agreements defined the collection of information?",
+      "explanation": "States that implemented and continuously monitored controls address the privacy impacts of the collected data.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        46
+      ],
+      "text": "When records have reached their retention period, they are immediately retired or destroyed in accordance with the USDA Record Retention policies and procedures.",
+      "unit_ids": [
+        "477_usda_farm-business-plan-fbp-web-equity-manager-fbp#unit#0020"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes prompt retirement or destruction of records once the retention period expires.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "risk",
+      "sentence_ids": [
+        47
+      ],
+      "text": "During this period, the stored information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "477_usda_farm-business-plan-fbp-web-equity-manager-fbp#unit#0020"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Identifies unauthorized viewing, data loss or destruction, and non-availability as risks during retention.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        48
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "477_usda_farm-business-plan-fbp-web-equity-manager-fbp#unit#0020"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Presents access-control software, physical controls, and password protection as safeguards for retained files.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        49
+      ],
+      "text": "SORN USDA/FSA-2 States: Program documents are destroyed within 6 years after end of participation.",
+      "unit_ids": [
+        "477_usda_farm-business-plan-fbp-web-equity-manager-fbp#unit#0020"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Provides a defined destruction period that limits retention of program documents.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        51
+      ],
+      "text": "According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal.",
+      "unit_ids": [
+        "477_usda_farm-business-plan-fbp-web-equity-manager-fbp#unit#0020"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Requires inactive records to be transferred to appropriate facilities or disposed of when authorized, managing prolonged retention.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        65
+      ],
+      "text": "Acceptable use requirements and further disclosure restrictions are identified in the applicable Memorandum of Understandings (MOUs) and Interconnection Security Agreements (ISAs).",
+      "unit_ids": [
+        "477_usda_farm-business-plan-fbp-web-equity-manager-fbp#unit#0025"
+      ],
+      "section": "5.3 How is the information shared outside the Department and what security measures safeguard its transmission?",
+      "explanation": "Uses MOU and ISA requirements and disclosure restrictions to manage privacy concerns from external sharing.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 8,
+      "type": "risk",
+      "sentence_ids": [
+        75
+      ],
+      "text": "The risk is considered moderate.",
+      "unit_ids": [
+        "477_usda_farm-business-plan-fbp-web-equity-manager-fbp#unit#0029"
+      ],
+      "section": "6.3 Do individuals have the right to consent to particular uses of the information? If so, how does the individual exercise the right?",
+      "explanation": "Explicitly assesses the risk associated with individuals being unaware of collection as moderate.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        76
+      ],
+      "text": "Notification is automatically provided in the system of records notice (Federal Register publication): SORN: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14 - Applicant/Borrower.",
+      "unit_ids": [
+        "477_usda_farm-business-plan-fbp-web-equity-manager-fbp#unit#0029"
+      ],
+      "section": "6.3 Do individuals have the right to consent to particular uses of the information? If so, how does the individual exercise the right?",
+      "explanation": "Addresses the notice risk by providing notification through published system of records notices.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "risk",
+      "sentence_ids": [
+        85
+      ],
+      "text": "The risk associated with redress is considered low, as the public does not have access to the system or the data.",
+      "unit_ids": [
+        "477_usda_farm-business-plan-fbp-web-equity-manager-fbp#unit#0033"
+      ],
+      "section": "7.3 How are individuals notified of the procedures for correcting their information?",
+      "explanation": "Explicitly identifies and rates the privacy risk associated with available redress.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        86,
+        87
+      ],
+      "text": "While the public cannot access the system to update or change their personal information, they may update their information using from AD 2530 and submit to the appropriate FSA official. The FSA official will in turn update the system based on the information provided.",
+      "unit_ids": [
+        "477_usda_farm-business-plan-fbp-web-equity-manager-fbp#unit#0033"
+      ],
+      "section": "7.3 How are individuals notified of the procedures for correcting their information?",
+      "explanation": "Provides a process for individuals to submit corrections to an FSA official, who then updates the system.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "risk",
+      "sentence_ids": [
+        99,
+        100
+      ],
+      "text": "The main risk associated with privacy is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "477_usda_farm-business-plan-fbp-web-equity-manager-fbp#unit#0040"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Identifies unauthorized access to privacy information as the principal privacy risk and rates it moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        101,
+        102,
+        103
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM. Quarterly access reviews are done to ensure controls are mitigated.",
+      "unit_ids": [
+        "477_usda_farm-business-plan-fbp-web-equity-manager-fbp#unit#0040"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that mitigating controls are maintained, mapped to security documentation, and reviewed quarterly to minimize privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "null_finding",
+      "sentence_ids": [
+        107
+      ],
+      "text": "No",
+      "unit_ids": [
+        "477_usda_farm-business-plan-fbp-web-equity-manager-fbp#unit#0042"
+      ],
+      "section": "9.1 What type of project is the program or system?",
+      "explanation": "Answers that the project does not employ technology that may raise privacy concerns.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 3,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 4,
+      "risk_span_id": 3,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 3,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 3,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 8,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 10,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 12,
+      "confidence": "high"
+    }
+  ],
+  "validation_problems": []
+}

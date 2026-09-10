@@ -1,0 +1,211 @@
+{
+  "chunk_id": "472_usda_core-services-cs#chunk#00",
+  "doc_id": "472_usda_core-services-cs",
+  "agency": "usda",
+  "n_sentences": 183,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        38
+      ],
+      "text": "There are moderate security concerns due to the amount of PII collected, processed, and traversed by the system.",
+      "unit_ids": [
+        "472_usda_core-services-cs#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Identifies moderate security concerns arising from the volume of PII processed and transmitted.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        39,
+        40
+      ],
+      "text": "These risks are mitigated through Information Security Awareness Training and the implementation of controls discussed in Section 2.4. Privacy risks are mitigated because access to the information is limited to appropriate NRCS personnel and partners through the use of the eAuth application, which provides user authentication for NRCS. Other access requirements include the need for users to be on the USDA network backbone, using a Common Computing Environment (CCE) computer and via NRCS' role-based authorization.",
+      "unit_ids": [
+        "472_usda_core-services-cs#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly states that the identified risks are mitigated through training, security controls, authentication, network restrictions, and role-based authorization.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        46
+      ],
+      "text": "Core Services is in compliance with the FISMA and the security and privacy controls provided in the U.S. National Institute of Standards and Technology (NIST) Special Publication (SP) 800-53, Revision 4. If any residual risks are identified, they will be managed and reported via the FISMA mandated risk assessment processes.",
+      "unit_ids": [
+        "472_usda_core-services-cs#unit#0018"
+      ],
+      "section": "2.4 Privacy Impact Analysis: Describe any types of controls that may be in place to ensure that information is handled in accordance with the above described uses.",
+      "explanation": "Commits to managing and reporting any residual risks through mandated risk-assessment processes.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        52
+      ],
+      "text": "The risks associated with retaining application-specific information are mitigated by the controls discussed in Section 2.4.",
+      "unit_ids": [
+        "472_usda_core-services-cs#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Explicitly states that retention-related risks are mitigated by referenced security and privacy controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        65
+      ],
+      "text": "The eAuth and zRoles systems ensure that the proper authentication and authorization are granted so that only authorized individuals have access to the information.",
+      "unit_ids": [
+        "472_usda_core-services-cs#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "In the internal-sharing risk analysis, presents authentication and authorization as limiting information access to authorized individuals.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        66
+      ],
+      "text": "Any residual risks are mitigated by the controls discussed in Section 2.4.",
+      "unit_ids": [
+        "472_usda_core-services-cs#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Explicitly states that residual internal-sharing risks are mitigated through referenced controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        75,
+        76
+      ],
+      "text": "Any API requests that are received from the public-facing CA API Gateway will undergo an API filtering process before being passed onto the internal network. All API requests must have received user authorization from their client application to retrieve information from Core Services.",
+      "unit_ids": [
+        "472_usda_core-services-cs#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "In the external-sharing risk analysis, describes API filtering and prior user authorization as protections against unauthorized requests.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        114
+      ],
+      "text": "Residual privacy risks associated with the redress process for individuals are mitigated since individuals can use the relevant procedures discussed above to update their original public records.",
+      "unit_ids": [
+        "472_usda_core-services-cs#unit#0042"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly states that redress-related residual risks are mitigated by procedures allowing individuals to update source records.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        141
+      ],
+      "text": "Any privacy risks identified in this system are mitigated by the security and privacy safeguards provided in Section 8.5 and by the security controls discussed in Section 2.4. Remediation of privacy risks associated with internal/external sharing are addressed in Sections 4 and 5 respectively.",
+      "unit_ids": [
+        "472_usda_core-services-cs#unit#0049"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that identified privacy risks are mitigated through specified safeguards, controls, and sharing-risk remediation measures.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        142
+      ],
+      "text": "Remediation of privacy risks associated with notice and redress are addressed in Sections 6 and 7 respectively.",
+      "unit_ids": [
+        "472_usda_core-services-cs#unit#0049"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that remediation for notice- and redress-related privacy risks is provided in the referenced sections.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        143,
+        144
+      ],
+      "text": "Mitigation occurs through policies that address Separation of Duties (SOD) which ensures that system operators and system administrators have limited, if any, access to PII. In addition, NIST 800-53 Audit and Accountability (AU) audit controls are used to prevent data misuses.",
+      "unit_ids": [
+        "472_usda_core-services-cs#unit#0049"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly presents separation-of-duties policies and audit controls as measures limiting PII access and preventing misuse.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "null_finding",
+      "sentence_ids": [
+        153
+      ],
+      "text": "No. Core Services utilizes Agency approved technologies and these technology choices do not raise privacy concerns.",
+      "unit_ids": [
+        "472_usda_core-services-cs#unit#0052"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so please discuss their implementation.",
+      "explanation": "Explicitly states that the technologies used do not raise privacy concerns.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "risk",
+      "sentence_ids": [
+        177
+      ],
+      "text": "Privacy risks are nominal.",
+      "unit_ids": [
+        "472_usda_core-services-cs#unit#0065"
+      ],
+      "section": "10.12   Privacy Impact Analysis: Given the amount and type of PII that becomes available through the agency's use of 3 rd party websites and/or applications, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "States that privacy risks associated with third-party technologies are nominal, acknowledging a low level of risk.",
+      "confidence": "medium"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 9,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

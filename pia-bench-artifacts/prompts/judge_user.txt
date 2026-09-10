@@ -1,0 +1,13 @@
+System task, {risks|mitigations} for one privacy assessment.
+
+REFERENCE {RISKS|MITIGATIONS} (the correct answers for this system):
+{numbered_reference_list}
+
+PREDICTED {RISKS|MITIGATIONS} (to judge):
+{numbered_prediction_list}
+
+Align predicted items to reference items. A predicted item matches a reference item only if it
+names the same specific issue. Use each reference and each predicted item at most once, choose
+the best one-to-one pairing.
+Return ONLY JSON: {"matches": [{"predicted": <int>, "reference": <int>}, ...]}.
+If nothing matches, return an empty list.

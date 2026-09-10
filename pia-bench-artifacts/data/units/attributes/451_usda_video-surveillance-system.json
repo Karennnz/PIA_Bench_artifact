@@ -1,0 +1,564 @@
+{
+  "document_id": "451_usda_video-surveillance-system",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0000",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0001",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0002",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0003",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0004",
+      "attributes": [
+        "context",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0005",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0006",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0007",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0008",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0009",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0010",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0011",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0012",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0013",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0014",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0015",
+      "attributes": [
+        "purpose",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0016",
+      "attributes": [
+        "context",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0017",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0018",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0019",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0020",
+      "attributes": [
+        "information_types",
+        "operations",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0021",
+      "attributes": [
+        "information_types",
+        "operations",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0022",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0023",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0024",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0025",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0026",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0027",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0028",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0029",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0030",
+      "attributes": [
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0031",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0032",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0033",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0034",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0035",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0036",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0037",
+      "attributes": [
+        "context",
+        "purpose",
+        "legal_basis",
+        "operations",
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0038",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0039",
+      "attributes": [
+        "information_types",
+        "operations",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0040",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0041",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0042",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0043",
+      "attributes": [
+        "information_types",
+        "operations",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0044",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0045",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0046",
+      "attributes": [
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0047",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0048",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0049",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0050",
+      "attributes": [
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0051",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0052",
+      "attributes": [
+        "context",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0053",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0054",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0055",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0056",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0057",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0058",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0059",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0060",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0061",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0062",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0063",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0064",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0065",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0066",
+      "attributes": [
+        "assets"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "451_usda_video-surveillance-system#unit#0067",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "units_not_returned": []
+}

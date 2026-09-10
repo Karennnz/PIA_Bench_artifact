@@ -1,0 +1,270 @@
+{
+  "chunk_id": "491_usda_farm-service-information-management-system-fsims#chunk#00",
+  "doc_id": "491_usda_farm-service-information-management-system-fsims",
+  "agency": "usda",
+  "n_sentences": 140,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        47
+      ],
+      "text": "| Applications | Privacy risks and how mitigated. | |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | EDW DV | The privacy risks are moderate.",
+      "unit_ids": [
+        "491_usda_farm-service-information-management-system-fsims#unit#0018"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly rates the system's privacy risk as moderate.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        48
+      ],
+      "text": "The minimum amount of personally identifiable information is collected to satisfy the purpose of this system.",
+      "unit_ids": [
+        "491_usda_farm-service-information-management-system-fsims#unit#0018"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Data minimization is presented in response to the identified privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        49,
+        50,
+        51
+      ],
+      "text": "The risks are mitigated using various control mechanisms. See below: \u2022 All users must be uniquely identified and authenticated using FSA Form 13A process prior to accessing the application. \u2022 Access to data is restricted. \u2022 Access to the system and data are determined by business need and individual roles. \u2022All FSIMS (EDW DV) data resides on Midrange Systems. Encrypting information at rest is performed by and inherited from Midrange Systems. |",
+      "unit_ids": [
+        "491_usda_farm-service-information-management-system-fsims#unit#0018"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly identifies authentication, restricted role-based access, and encryption as risk-reducing controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 4,
+      "type": "risk",
+      "sentence_ids": [
+        65
+      ],
+      "text": "| Applications | Risks associated with the length of time data is retained and how those risks are mitigated. | |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | EDW DV | During this period, the stored information may be at risk for viewing by unauthorized parties, data loss or destruction and non-availability.",
+      "unit_ids": [
+        "491_usda_farm-service-information-management-system-fsims#unit#0027"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Identifies unauthorized viewing, loss, destruction, and unavailability during retention as potential harms.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 5,
+      "type": "mitigation",
+      "sentence_ids": [
+        66
+      ],
+      "text": "Access to computerized files are protected by access control software, physical access controls and if warranted, password-protected.",
+      "unit_ids": [
+        "491_usda_farm-service-information-management-system-fsims#unit#0027"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Access-control software, physical controls, and password protection are presented directly after the retention risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        67,
+        68,
+        69
+      ],
+      "text": "FSA2 SORN States: Program documents are destroyed within 6 years after end of participation. However, FSA is under a records freeze. According to Records Management DR3080-001 Disposition of Inactive Records: Records and other documents that are no longer sufficiently active to warrant retention in office space shall be removed as rapidly as possible by: (a) transfer to a Federal Records Center, or (b) transfer to a records retention facility meeting the requirements of 36 CFR Chapter 12, Subchapter B Records Management, Subpart K, 1228.224 through 1228.244, or (c) if authorized, by disposal.",
+      "unit_ids": [
+        "491_usda_farm-service-information-management-system-fsims#unit#0027"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Describes destruction and disposition requirements used to manage retained and inactive records, including the records-freeze exception.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        75,
+        76
+      ],
+      "text": "| Applications | Privacy risks associated with the sharing and how they were mitigated. | |----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | EDW DV | Farm Service Agency (FSA) performs a Privacy Impact Assessment (PIA) on EDW in accordance with OMB Memorandum 03-22 (http://www.whitehouse.gov/omb/memoranda_m03-22). The PIA is performed and updated as necessary: \u2022 When a significant change creates new or different privacy risks. \u2022 And every three years as part of the information system Certification and Accreditation (C&A) process. |",
+      "unit_ids": [
+        "491_usda_farm-service-information-management-system-fsims#unit#0032"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing,",
+      "explanation": "Periodic and change-triggered privacy impact reviews are presented as a means of identifying and managing new privacy risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        85,
+        86
+      ],
+      "text": "| Applications | External sharing privacy risks and mitigation. | |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | EDW DV | Farm Service Agency (FSA) performs a Privacy Impact Assessment (PIA) on Receivable in accordance with OMB Memorandum 03-22 (http://www.whitehouse.gov/omb/memoranda_m03-22). The PIA is performed and updated as necessary: \u2022 When a significant change creates new or different privacy risks. \u2022 And every three years as part of the information system Assessment and Authorization (A&A) process. |",
+      "unit_ids": [
+        "491_usda_farm-service-information-management-system-fsims#unit#0038"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Describes periodic and change-triggered PIA updates as management of external-sharing privacy risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 9,
+      "type": "risk",
+      "sentence_ids": [
+        102,
+        103
+      ],
+      "text": "| Applications | Privacy risks associated with redress and risk mitigation. | |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | EDW DV | The risk associated with Redress is considered moderate. The redress would have the same risks as the initial input of the data.",
+      "unit_ids": [
+        "491_usda_farm-service-information-management-system-fsims#unit#0049"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly characterizes redress-related privacy risk as moderate and comparable to initial data-entry risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        104
+      ],
+      "text": "The risk is mitigated as part of the system of records notice: USDA/FSA-2 - Farm Records File (Automated) and USDA/FSA-14, Applicant/Borrower.",
+      "unit_ids": [
+        "491_usda_farm-service-information-management-system-fsims#unit#0049"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly states that applicable system-of-records notices mitigate the redress risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        105
+      ],
+      "text": "These risks are also mitigated by the Security Controls which are planned, in place, implemented, tested, and are operational. |",
+      "unit_ids": [
+        "491_usda_farm-service-information-management-system-fsims#unit#0049"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly states that implemented and tested security controls also mitigate the redress risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 12,
+      "type": "risk",
+      "sentence_ids": [
+        116,
+        117
+      ],
+      "text": "| Applications | Privacy risks identified and risk mitigation. | |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | EDW DV | The main risk associated with privacy externally is the exposure to unauthorized access to privacy information. This risk is considered moderate.",
+      "unit_ids": [
+        "491_usda_farm-service-information-management-system-fsims#unit#0057"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Identifies moderate risk of unauthorized external access to privacy information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        118,
+        119
+      ],
+      "text": "Mitigating controls are in place to ensure privacy risks are minimal. Mitigated controls are mapped back to SSP in CSAM.",
+      "unit_ids": [
+        "491_usda_farm-service-information-management-system-fsims#unit#0057"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Explicitly describes controls mapped to the security plan as minimizing the identified privacy risk.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        121
+      ],
+      "text": "Quarterly access reviews are done to ensure controls are mitigated. |",
+      "unit_ids": [
+        "491_usda_farm-service-information-management-system-fsims#unit#0057"
+      ],
+      "section": "8.5 What auditing measures and technical safeguards are in place to prevent misuse of data?",
+      "explanation": "Quarterly access reviews are expressly tied to ensuring the relevant controls remain effective.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 15,
+      "type": "risk",
+      "sentence_ids": [
+        124
+      ],
+      "text": "| Applications | Technology privacy risks. | |----------------|------------------------------------------------------------------------| | EDW DV | Yes, EDW DV allows for data extraction that internal users may misuse. |",
+      "unit_ids": [
+        "491_usda_farm-service-information-management-system-fsims#unit#0060"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns?  If so please discuss their implementation.",
+      "explanation": "Identifies the possibility that internal users may misuse extracted data.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 5,
+      "risk_span_id": 4,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 4,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 10,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 11,
+      "risk_span_id": 9,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 12,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 14,
+      "risk_span_id": 12,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}

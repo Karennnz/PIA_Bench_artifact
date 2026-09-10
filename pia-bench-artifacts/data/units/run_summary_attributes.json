@@ -1,0 +1,35 @@
+{
+  "timestamp": "2026-08-07T16:51:23.166984+00:00",
+  "model": "gpt-5.4",
+  "prompt_version": "attr-v1",
+  "documents": 73,
+  "units_labelled": 3934,
+  "units_not_returned": 0,
+  "from_cache": 2,
+  "usage": {
+    "input_tokens": 598966,
+    "output_tokens": 319719
+  },
+  "attribute_counts": {
+    "operations": 1601,
+    "purpose": 640,
+    "none": 1714,
+    "context": 481,
+    "legal_basis": 338,
+    "information_types": 1028,
+    "assets": 724,
+    "recipients": 838,
+    "retention": 190
+  },
+  "labels_per_unit": {
+    "1": 696,
+    "0": 1714,
+    "6": 90,
+    "4": 274,
+    "7": 53,
+    "3": 431,
+    "2": 520,
+    "5": 148,
+    "8": 8
+  }
+}

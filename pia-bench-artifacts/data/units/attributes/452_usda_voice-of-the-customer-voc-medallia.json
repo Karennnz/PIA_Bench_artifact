@@ -1,0 +1,459 @@
+{
+  "document_id": "452_usda_voice-of-the-customer-voc-medallia",
+  "prompt_version": "attr-v1",
+  "units": [
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0000",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0001",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0002",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0003",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0004",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0005",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0006",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0007",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0008",
+      "attributes": [
+        "information_types"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0009",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0010",
+      "attributes": [
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0011",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0012",
+      "attributes": [
+        "legal_basis"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0013",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0014",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0015",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0016",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients",
+        "assets"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0017",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0018",
+      "attributes": [
+        "operations",
+        "retention"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0019",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0020",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0021",
+      "attributes": [
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0022",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0023",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0024",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0025",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0026",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0027",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0028",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0029",
+      "attributes": [
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0030",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0031",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0032",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0033",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0034",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0035",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0036",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0037",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0038",
+      "attributes": [
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0039",
+      "attributes": [
+        "context"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0040",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0041",
+      "attributes": [
+        "information_types",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0042",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0043",
+      "attributes": [
+        "context",
+        "purpose",
+        "information_types",
+        "operations",
+        "recipients"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0044",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0045",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0046",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0047",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0048",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0049",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0050",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0051",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0052",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0053",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0054",
+      "attributes": [
+        "information_types",
+        "operations"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0055",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0056",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    },
+    {
+      "unit_id": "452_usda_voice-of-the-customer-voc-medallia#unit#0057",
+      "attributes": [
+        "none"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "units_not_returned": []
+}

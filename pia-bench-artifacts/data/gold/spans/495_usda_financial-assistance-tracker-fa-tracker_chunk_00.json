@@ -1,0 +1,284 @@
+{
+  "chunk_id": "495_usda_financial-assistance-tracker-fa-tracker#chunk#00",
+  "doc_id": "495_usda_financial-assistance-tracker-fa-tracker",
+  "agency": "usda",
+  "n_sentences": 167,
+  "spans": [
+    {
+      "span_id": 1,
+      "type": "risk",
+      "sentence_ids": [
+        48
+      ],
+      "text": "The primary privacy risk is that sensitive personal information relative to landowners could be released to unauthorized personnel.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Identifies potential unauthorized disclosure of landowners\u2019 sensitive personal information.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 2,
+      "type": "mitigation",
+      "sentence_ids": [
+        49
+      ],
+      "text": "Privacy risks are mitigated as access to the information will be limited because users are authenticated via the USDA eAuth system and authorized via USDA's role based authorization for end-user access to the application.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Explicitly mitigates unauthorized access through authentication and role-based authorization.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 3,
+      "type": "mitigation",
+      "sentence_ids": [
+        50
+      ],
+      "text": "Please see Section 2.4 and Section 8.6 for a further discussion of security controls that are in place to mitigate privacy risks.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0013"
+      ],
+      "section": "1.7 Privacy Impact Analysis: Given the amount and type of data collected, discuss the privacy risks identified and how they were mitigated.",
+      "explanation": "Points to additional security controls expressly described as mitigating privacy risks.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 4,
+      "type": "mitigation",
+      "sentence_ids": [
+        62
+      ],
+      "text": "This application is in compliance with the FISMA and the security and privacy controls provided in the U.S. National Institute of Standards and Technology (NIST) Special Publication 800-53, Revision 4. If any residual risks are identified, they will be managed and reported via the FISMA mandated risk assessment processes.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0018"
+      ],
+      "section": "2.4 Privacy Impact Analysis: Describe any types of controls that may be in place to ensure that information is handled in accordance with the above described uses.",
+      "explanation": "States that identified residual risks will be managed and reported through formal risk-assessment processes.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 5,
+      "type": "risk",
+      "sentence_ids": [
+        66
+      ],
+      "text": "The primary privacy risk is that a data breach could result in the release of information on members of the public.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Identifies the possibility that a data breach could expose information about members of the public.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 6,
+      "type": "mitigation",
+      "sentence_ids": [
+        67
+      ],
+      "text": "This is mitigated by limited access to the data, nonportability of the data and controlled storage of the data located in controlled facilities.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "Explicitly addresses the breach risk through limited access, nonportability, and controlled storage.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 7,
+      "type": "mitigation",
+      "sentence_ids": [
+        69
+      ],
+      "text": "The risks associated with retaining application-specific information are mitigated by the controls discussed above.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0022"
+      ],
+      "section": "3.3 Privacy Impact Analysis: Please discuss the risks associated with the length of time data is retained and how those risks are mitigated.",
+      "explanation": "States that retention-related risks are mitigated by previously discussed controls.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 8,
+      "type": "mitigation",
+      "sentence_ids": [
+        79
+      ],
+      "text": "Privacy risks are mitigated by ensuring that access to the data is through established security rules via eAuth.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "Explicitly describes established authentication rules as mitigating internal-sharing privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 9,
+      "type": "mitigation",
+      "sentence_ids": [
+        80
+      ],
+      "text": "Any residual risks are mitigated by the controls discussed in Section 2.4 above.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0026"
+      ],
+      "section": "4.3 Privacy Impact Analysis: Considering the extent of internal information sharing, discuss the privacy risks associated with the sharing and how they were mitigated.",
+      "explanation": "States that residual internal-sharing risks are mitigated by previously described controls.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 10,
+      "type": "mitigation",
+      "sentence_ids": [
+        87
+      ],
+      "text": "Privacy risks are mitigated by virtue of NOT sharing information external to the USDA.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "Explicitly identifies the absence of external sharing as the means of mitigating privacy risks.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 11,
+      "type": "mitigation",
+      "sentence_ids": [
+        88
+      ],
+      "text": "Any residual risks are mitigated by the controls discussed in Section 2.4 above.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0031"
+      ],
+      "section": "5.4 Privacy Impact Analysis: Given the external sharing, explain the privacy risks identified and describe how they were mitigated.",
+      "explanation": "States that residual external-sharing risks are mitigated by previously described controls.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 12,
+      "type": "risk",
+      "sentence_ids": [
+        121
+      ],
+      "text": "The risk associated with redress is considered low, as the public does not have access to the system or the data.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0043"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Acknowledges a privacy risk associated with redress, while characterizing it as low.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 13,
+      "type": "mitigation",
+      "sentence_ids": [
+        124
+      ],
+      "text": "Residual privacy risks associated with the redress process for individuals are mitigated since individuals can use the relevant procedures discussed above to update their original public records.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0043"
+      ],
+      "section": "7.5 Privacy Impact Analysis: Please discuss the privacy risks associated with the redress available to individuals and how those risks are mitigated.",
+      "explanation": "Explicitly mitigates redress-related risks through procedures allowing individuals to update source records.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 14,
+      "type": "mitigation",
+      "sentence_ids": [
+        143
+      ],
+      "text": "Data extracts containing PII are not regularly obtained from the system, therefore, privacy risk from this area is limited and addressed through IT Data Extract processes controls.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that risks involving PII data extracts are limited and addressed through data-extract process controls.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 15,
+      "type": "mitigation",
+      "sentence_ids": [
+        145
+      ],
+      "text": "Any privacy risks identified in this system are mitigated by the security and privacy safeguards provided in Section 8.5, and by the security controls discussed in Section 2.4 above.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "Explicitly states that identified privacy risks are mitigated through referenced security and privacy safeguards.",
+      "confidence": "high"
+    },
+    {
+      "span_id": 16,
+      "type": "mitigation",
+      "sentence_ids": [
+        146
+      ],
+      "text": "Remediation of privacy risks associated with internal/external sharing are addressed in PIA Sections 4 and 5, respectively.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0050"
+      ],
+      "section": "8.6 Privacy Impact Analysis: Given the sensitivity and scope of the information collected, as well as any information sharing conducted on the system, what privacy risks were identified and how do the security controls mitigate them?",
+      "explanation": "States that privacy risks from internal and external sharing are addressed in the cited PIA sections.",
+      "confidence": "medium"
+    },
+    {
+      "span_id": 17,
+      "type": "null_finding",
+      "sentence_ids": [
+        150
+      ],
+      "text": "No, FA Tracker utilizes Agency approved technologies, and these technology choices do not raise privacy concerns.",
+      "unit_ids": [
+        "495_usda_financial-assistance-tracker-fa-tracker#unit#0053"
+      ],
+      "section": "9.2 Does the project employ technology which may raise privacy concerns? If so please discuss their implementation.",
+      "explanation": "Explicitly concludes that the selected technologies do not raise privacy concerns.",
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "mitigation_span_id": 2,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 3,
+      "risk_span_id": 1,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 6,
+      "risk_span_id": 5,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 7,
+      "risk_span_id": 5,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 13,
+      "risk_span_id": 12,
+      "confidence": "high"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 1,
+      "confidence": "medium"
+    },
+    {
+      "mitigation_span_id": 15,
+      "risk_span_id": 5,
+      "confidence": "medium"
+    }
+  ],
+  "validation_problems": []
+}
